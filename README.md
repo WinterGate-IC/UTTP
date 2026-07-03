@@ -1,0 +1,2 @@
+# NOTE
+**!** `This repository is reserved for coming operations and documentation on UTTP. This repository will be made as a central hub and we will be covering everything possible regarding UTTP. There will be a special section for National Security Advisory as UTTP directly targets United States officials and its citizens. We will be directly covering various groups that are influenced or spawned from UTTP such as the violent extremist grooming network know nas DPOS.
