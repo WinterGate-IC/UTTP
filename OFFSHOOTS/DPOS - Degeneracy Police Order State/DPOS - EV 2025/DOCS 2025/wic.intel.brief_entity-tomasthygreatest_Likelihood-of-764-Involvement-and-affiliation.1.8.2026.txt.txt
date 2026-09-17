@@ -1,0 +1,70 @@
+NCTC / WINTERGATE INTELLIGENCE COLLECTIVE (WIC)
+THREAT INTELLIGENCE SUMMARY – EMPEROR TOMAS THE GREATEST
+Classification: RESTRICTED – INTERNAL / ALLIANCE DISSEMINATION ONLY
+Date: January 08, 2026
+Prepared by: WIC Threat Analysis Cell
+Subject: Likelihood of 764 Involvement / Affiliation
+
+EXECUTIVE SUMMARY
+DGENPOL (aka TomasThyGreatest, Emperor Tomas The Greatest, primary UID cluster: 1444359348628357272 + known alts) exhibits VERY HIGH likelihood (90%+ confidence) of being either a former 764 member, current affiliate, or heavy adopter of 764-derived tactics in operational leadership of DPOS.
+This assessment is based on tactical, ideological, behavioral, and network overlap matching documented 764 patterns (FBI advisories, Europol reports, Inside764 series, community OSINT).
+
+1. TACTICAL OVERLAP WITH 764 PLAYBOOK (VERY HIGH)
+764 core tactics (decentralized sextortion/grooming network):
+- Grooming minors via Discord/Telegram/Roblox
+- Love-bombing → escalation to extreme requests
+- Blackmail with compromising material (nudes, self-harm, CSAM)
+- Encouragement of self-harm/suicide ("do it" spam)
+- Gore/shock content as psychological terror
+- Doxxing & public humiliation if victim resists
+- Victim inversion ("you're the real degenerate")
+
+DPOS under Tomas matches 7/7 core 764 tactics (WIC bulletin):
+- Suicide/self-harm acceleration: Grooming minors toward cutting/SH/suicide, romanticization.
+- Blackmail/extortion: Collecting extreme content for threats.
+- Mass psychological terror spam: Gore/fetish floods in DMs/servers.
+- Targeted doxxing/humiliation: Face reveals → AI rape edits, public shaming (Silly Pau case).
+- False flag/victim inversion: Accusing victims of being "degenerates".
+- Coordinated mass reporting: False reports to silence victims.
+- Ideological love-bombing: Fake "anti-degen" belonging → escalation to abuse.
+
+Severity: Critical across the board.
+
+2. IDEOLOGICAL & AESTHETIC CAMOUFLAGE (VERY HIGH)
+- 764 uses nihilistic/accelerationist ideology as cover (O9A roots, anti-Christianity, chaos for chaos).
+- DPOS uses far-right nationalist "anti-degeneracy" as cover — same function: recruitment bait + plausible deniability.
+- Tomas' X (@TomasThyGreatest) mixes Nazi lingo with 764-style nihilism ("policing degeneracy" as moral justification for abuse).
+- Pattern match: Both groups pose as moral crusaders while running grooming/blackmail rings.
+
+3. NETWORK & PERSONNEL OVERLAP (HIGH)
+- UTTP → DPOS → 764 pipeline: DPOS is confirmed UTTP splinter (Very High evidence). UTTP raids feed directly into 764 grooming (Zytherox grooming admissions, Europol/FBI probes).
+- Enclave/GRS crossover: Persistent individual bleed despite "split" — GRS members in DPOS raids/grooming after Dec 2025.
+- TNM/148 hybrids: Shared accelerationist/shock culture.
+- Telegram gore shares: DPOS Telegram channels linked to 764-style gore/CSAM trades (Chezble FBI bounties).
+
+4. SPECIFIC BEHAVIORAL RED FLAGS (VERY HIGH)
+- Grooming minors for "cyber soldiers": Recruiting kids (14 and under) into raids, self-harm, extortion — direct 764 tactic.
+- CSAM-adjacent content against minors: AI edits, gore spam, face-reveal humiliation (Silly Pau campaign) — matches 764 escalation.
+- Adult predator confirmed: Born 2008 → 18+ in 2026. Rules out "teen drama" defense.
+- Psych profile: Obsession with doxxing superiority, Adderall abuse — aligns with 764 leader traits.
+
+5. CONFIDENCE ASSESSMENT
+- Likelihood Tomas is former/current 764 member/affiliate: VERY HIGH (90%+)
+- Likelihood DPOS is 764-derived network: CONFIRMED (100%)
+- Likelihood Tomas is personally directing grooming/extortion: CONFIRMED (100%)
+
+SOURCES & EVIDENCE BASIS
+- NCTC CyberCrimeDB logs (cross-referenced UIDs, chat patterns)
+- DTAD Discord Threat Actor Database (cross-referenced UIDs, chat patterns)
+- WIC Threat Bulletin (Jan 08, 2026)
+- UNIPOL Level 3 designation
+- Public 764 documentation (Inside764 series, FBI advisories, Europol reports, r/anti_uttp)
+- Silly Pau abuse campaign (community screenshots, leaks)
+- Victim reporting's
+- GoogleDoc documentation posted by others
+- Group overlap cross reference data
+
+RECOMMENDATION
+Treat Tomas/DPOS as active 764-adjacent predator network.
+Prioritize exposure (video/doc), reporting to FBI IC3/NCMEC/Discord T&S, and continued blacklisting.
+Further infiltration recommended to map remaining alts/servers.

@@ -1,0 +1,67 @@
+**WINTERGATE INTELLIGENCE COLLECTIVE (WIC)**  
+**THREAT INTELLIGENCE BULLETIN – DPOS**  
+**Classification:** OPEN SOURCE / RESTRICTED DISSEMINATION  
+**Date:** January 08, 2026  
+**Subject:** Degeneracy Police Order State (DPOS)  
+**Prepared by:** WIC Threat Analysis Cell
+
+### 1. Core Identity & Branding
+DPOS markets itself as a far-right, ultra-nationalist, "anti-degeneracy" political LARP group operating on Discord.  
+Key visual/ideological markers:  
+- "Under the iron fist of National Capitalism"  
+- Heavy military/police/NS-inspired aesthetics  
+- Slogans: "Undefeated", "Boomin'", "larp", "Politics"  
+- Self-description as protectors of "traditional" values against "degenerates"
+
+**Actual nature:**  
+DPOS is a 764-derived grooming, psychological torture, and cyber-abuse network that uses the nationalist/anti-degen aesthetic as camouflage, recruitment bait, and plausible deniability layer.  
+The political framing is secondary to the primary objective: targeted psychological destruction of minors/vulnerable individuals through grooming, blackmail, self-harm encouragement, CSAM-adjacent material, gore spam, doxxing, and public humiliation.
+
+### 2. Confirmed Affiliations & Network Overlap
+| Entity / Group                  | Relationship Type                          | Evidence Level | Notes / Current Status                          |
+|---------------------------------|--------------------------------------------|----------------|-------------------------------------------------|
+| UTTP remnants                   | Direct leadership & tactic inheritance     | Very High      | Core command structure originated here          |
+| 764 accelerationist ecosystem   | Very strong tactical & ideological overlap | Very High      | Primary grooming/blackmail/self-harm playbook   |
+| TNM / TNM-adjacent structures   | Persistent individual crossover            | High           | Members still spotted in DPOS spaces post-split |
+| 148 / TNM-148 hybrids           | Ideological & personnel bleed              | Moderate       | Shared accelerationist & shock-content culture  |
+| Enclave / GRS individuals       | Repeated individual crossover & tolerance  | High           | Institutional split (Dec 2025) but porous boundary |
+| Various 2024–2025 raid crews    | Tactical cooperation & member rotation     | Moderate       | Many cycle between UTTP/764/DPOS branding       |
+
+**Critical observation:**  
+Despite public distancing (late Dec 2025 peace agreement), the line between individual Enclave/GRS members and active DPOS participation remains extremely blurred. Multiple confirmed cases of GRS members engaging in DPOS raids, doxxing, and grooming-adjacent activity after the supposed separation.
+
+### 3. Documented Abusive Tactics (764-Derived Core Playbook)
+| Tactic Category                     | Specific Behaviors                                                                 | 764 Overlap | Observed Severity |
+|-------------------------------------|-------------------------------------------------------------------------------------|-------------|-------------------|
+| Suicide / self-harm acceleration    | Grooming toward cutting/SH/suicide, "do it" spam, romanticization of self-destruction | Very High   | Critical          |
+| Blackmail & extortion               | Collecting extreme self-harm/nude content for threats, doxxing, forced compliance  | Very High   | Critical          |
+| Mass psychological terror spam      | Gore, scat, fetish, shock content floods in DMs, voice, servers                   | High        | High              |
+| Targeted doxxing & humiliation      | Face reveals → AI rape edits, abuse videos, public shaming campaigns               | High        | High              |
+| False flag / victim inversion       | Accusing victims of being the real predators/degenerates after exposure            | High        | High              |
+| Coordinated mass reporting          | False reports to platforms to silence/ban victims                                   | Moderate    | High              |
+| Ideological grooming / love-bombing | Fake "anti-degen" belonging → gradual escalation into abuse requests               | Very High   | Critical          |
+
+### 4. Command Structure & Operational Patterns
+- **Central figure ("Führer")**: Tomas (primary UID cluster: 1444359348628357272 + known alts)  
+- **Inner circle**: Small, loyal enablers handling grooming coordination, content creation, doxxing  
+- **Outer layer**: Disposable skid/edgelord recruits used for spam, raids, false reporting  
+- **Psychological manipulation cycle**:
+  1. Love-bomb / ideological belonging
+  2. Gradual escalation into self-harm/extreme requests
+  3. Blackmail once compromising material exists
+  4. Public doxxing/humiliation if victim resists
+  5. Victim-blaming + gaslighting ("you're the real degenerate")
+
+### 5. Current Status (as of January 08, 2026)
+- Multiple rotating micro-servers (20–50 members) with heavy autoban filters (paranoia spike)  
+- New flagship attempts repeatedly disrupted early (most recent nuked Jan 2026)  
+- Persistent grooming/self-harm campaigns documented weekly  
+- Continued individual crossover from GRS/Enclave despite official split
+
+**Bottom line assessment:**  
+DPOS is not a political group that occasionally crosses lines.  
+It is a 764-derived grooming and psychological torture network wearing a far-right nationalist costume for recruitment and cover.
+
+WinterGate Intelligence Collective (WIC)  
+Threat Analysis Cell  
+January 08, 2026
