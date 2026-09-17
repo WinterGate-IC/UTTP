@@ -84,6 +84,7 @@ If you have evidence of criminal activity — including exploitation of minors, 
 
 - **NCMEC CyberTipline** — https://www.cybertip.org
 - **FBI IC3** — https://www.ic3.gov
+- **Haven Watch Foundation** — https://www.havenwatchfoundation.org ``Havenwatch Foundation converts scattered reports of online child exploitation into clear, evidence-based reporting pathways that support lawful intervention.``
 - **Platform Trust & Safety teams** — YouTube, Discord, X, and others maintain abuse reporting systems
 - **Local law enforcement** — where the activity is jurisdictionally relevant
 
