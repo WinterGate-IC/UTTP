@@ -2,7 +2,7 @@
 ## UTTP (UTubeTrollPolice) — Current State, Traces, and Evidence
 
 **Document ID:** WIC-DOSSIER-2026-0919-UTTP-04
-**Classification:** Internal — Analytical
+**Classification:** Public — Analytical
 **Date:** 2026-09-19
 **Analyst:** WIC Threat Research
 **Method:** Open-source intelligence, cross-platform trace correlation
