@@ -1,6 +1,8 @@
 # WINTERGATE-IC — STYXNET EXTRACTION ANALYSIS
 ### UTTP Identity Reconnaissance — Validated Findings Report
 
+> WIC-ANALYSIS-2026-0919-UTTP-01_Validated_Handle_Extraction.md
+
 [![Document](https://img.shields.io/badge/Document-WIC--ANALYSIS--2026--0919--UTTP--01-blue)]()
 [![Classification](https://img.shields.io/badge/Classification-Internal%20%E2%80%94%20Analytical-orange)]()
 [![Status](https://img.shields.io/badge/Status-Validated-green)]()
