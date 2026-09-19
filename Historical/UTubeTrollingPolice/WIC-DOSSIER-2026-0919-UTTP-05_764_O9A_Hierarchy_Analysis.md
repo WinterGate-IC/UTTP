@@ -2,7 +2,7 @@
 ## UTTP → 764 → O9A: Hierarchical Analysis, Tactical Adoption, and Public Traces
 
 **Document ID:** WIC-DOSSIER-2026-0919-UTTP-05
-**Classification:** Internal — Analytical
+**Classification:** Public — Analytical
 **Date:** 2026-09-19
 **Analyst:** WIC Threat Research
 **Method:** Open-source intelligence, cross-platform trace correlation, law enforcement document analysis
