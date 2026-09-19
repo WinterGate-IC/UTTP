@@ -8,7 +8,7 @@
 
 ## NOTICE
 
-``A 10 GB UTTP ARCHIVE MAY BE PROVIDED AS A DOWNLOAD LINK``
+``6GB of out of 10GB will now be released. The remaining 4GB contains more recent data its delivery is delayed until further notice due to a technical difficulty, how ever the data was salvaged.``
 
 This repository documents an active investigation into UTTP (Utube Troll Police) and its affiliated networks, offshoots, and parent entities.
 
