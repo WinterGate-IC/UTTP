@@ -8,6 +8,8 @@
 
 ## NOTICE
 
+``A 10 GB UTTP ARCHIVE MAY BE PROVIDED AS A DOWNLOAD LINK``
+
 This repository documents an active investigation into UTTP (Utube Troll Police) and its affiliated networks, offshoots, and parent entities.
 
 This is not a call to action. This is not a target list. This is a public, ethically-sourced intelligence archive built from Open Source Intelligence (OSINT) and donated documentation.
