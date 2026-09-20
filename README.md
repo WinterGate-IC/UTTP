@@ -5,9 +5,20 @@
 
 ---
 
-## NOTICE
+📢 UTTP ARCHIVE — 6 GB RELEASED
 
-``6GB of out of 10GB will now be released. The remaining 4GB contains more recent data its delivery is delayed until further notice due to a technical difficulty, how ever the data was salvaged.``
+The first public release of the UTTP evidence archive is live.
+
+6 GB of the 10 GB total. Remaining 4 GB held back for a technical fix (data salvaged).
+
+Download:
+https://mega.nz/file/L84gDCZZ#WLPuLSFsPJenbGwJHoxk-yOgtIoCKm0__XtT-RJYZXw
+
+Compiled from OSINT and donated documentation. Public record only. No unauthorized access. No doxxing.
+
+---
+
+## NOTICE
 
 This repository documents an active investigation into UTTP (Utube Troll Police) and its affiliated networks, offshoots, and parent entities.
 
