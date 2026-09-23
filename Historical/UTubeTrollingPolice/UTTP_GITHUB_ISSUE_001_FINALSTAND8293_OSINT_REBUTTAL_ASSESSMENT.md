@@ -12,7 +12,7 @@
 
 ## EXECUTIVE SUMMARY
 
-On 2026-09-21, a GitHub account created approximately 18 hours prior opened Issue #1 on the UTTP repository. The account self-identified as an "anonymous reviewer" with no affiliation to UTTP, O9A, or 764.
+On 2026-09-21, a GitHub account created approximately same day opened Issue #1 on the UTTP repository. The account self-identified as an "anonymous reviewer" with no affiliation to UTTP, O9A, or 764.
 
 The account then disclosed detailed internal information about UTTP's factions, leadership, recruitment history, and named individuals. It attempted to reframe the group as a victim of infiltration, denied any 764/O9A association, and dismissed existing documentation as inaccurate.
 
