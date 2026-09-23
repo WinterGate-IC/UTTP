@@ -5,7 +5,7 @@
 **Subject:** GitHub user `@FinalStand8293`
 **Platform:** GitHub — Issue #1 on the UTTP investigation repository
 **Assessment Date:** 2026-09-21
-**Classification:** Internal — UTTP Investigation
+**Classification:** Public — UTTP Investigation
 **Status:** UNRESOLVED — indicators consistent with UTTP-aligned actor
 
 ---
