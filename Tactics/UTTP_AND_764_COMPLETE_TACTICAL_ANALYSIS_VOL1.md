@@ -221,6 +221,7 @@ UTTP has engaged in **defamation campaigns** against creators, including:
 - Accusing Gooseworx (TADC creator) of pedophilia and incest based on edited screenshots 
 - Accusing Ren (Roblox developer conference victim) of being a "fake victim" after she reported sexual assault 
 - Spreading false identity information about creators
+- As well as foolishly targeting our founder AnonCatalyst
 
 ---
 
