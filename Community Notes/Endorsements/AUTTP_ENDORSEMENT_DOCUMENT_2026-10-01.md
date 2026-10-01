@@ -18,6 +18,18 @@ We endorse AUTTP not because we share every tactic or every member, but because 
 
 ## WHY WE ENDORSE AUTTP
 
+
+Their objectives:
+• BAN UTTP
+• PROTECT CREATORS
+• RAISE AWARENESS
+
+🔗 Website: https://keane3029-lab.github.io/auttp-site/
+
+Top AUTTP presence on X:
+• @inkdemonshits — UTTP news network (monitoring/opposition)
+• @didyoalgo — White Sanguinius (active anti-UTTP)
+
 ### 1. They Have Shifted to Structured, Evidence-Based Objectives
 
 AUTTP is no longer just "fighting trolls." They have published a clear mission with concrete, actionable goals:
