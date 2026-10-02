@@ -2,7 +2,7 @@
 
 **Compiled:** 2026-10-01
 **Source:** WinterGate Intelligence Collective
-**Classification:** Internal — UTTP Defenders Folder
+**Classification:** Public — UTTP Defenders Folder
 **Subject:** Twitter/X account `@didyoalgo`, display name "White Sanguinius"
 
 ---
