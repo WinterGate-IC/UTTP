@@ -73,16 +73,7 @@ WIC does not condone harassment, doxing, or vigilantism. If you have evidence of
 
 ---
 
-## 6. RECOMMENDATIONS
-
-- **Verification:** Independent verification of the reported affiliations is recommended.
-- **Monitoring:** Continue passive monitoring of the listed public profiles for pattern-of-life and network mapping.
-- **Correlation:** Cross-reference with existing WIC archives (UTTP Investigation, Abuse Entities) for additional links.
-- **Reporting:** If illegal activity is observed, escalate to law enforcement.
-
----
-
-## 7. SOURCES
+## 6. SOURCES
 
 - Provided context and OSINT lead (user-supplied).
 - Public X profiles listed above.
