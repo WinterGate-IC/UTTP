@@ -142,15 +142,6 @@ Every tweet from this subject is a public statement. Every public statement can 
 
 **The subject is farming evidence for WIC without realizing it.**
 
----
-
-## 6. RECOMMENDED ACTIONS
-
-1. **Archive the account** — Screenshot the pinned tweet, the ban evasion admission, and the replies to WIC.
-2. **Cross-reference handles** — Check `@didyoalgo` and "White Sanguinius" against known UTTP aliases and splinter group rosters.
-3. **Monitor for alt accounts** — The subject has admitted to making alts. Watch for new accounts using "Sanguinius" or "didyoalgo" patterns.
-4. **Document in UTTP Defenders folder** — File this profile alongside other identified defenders.
-5. **Report ban evasion** — The public admission of alt creation and ban evasion is reportable to platform Trust & Safety.
 
 ---
 
