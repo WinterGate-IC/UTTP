@@ -145,7 +145,7 @@ Every tweet from this subject is a public statement. Every public statement can 
 
 ---
 
-## 7. CONCLUSION
+## 6. CONCLUSION
 
 `@didyoalgo` is a **UTTP-aligned defender** operating under a thin veil of claimed non-affiliation. Their behavior—pinned disclaimer, active engagement with WIC, attempts to provoke, and public admission of ban evasion—contradicts their stated position.
 
