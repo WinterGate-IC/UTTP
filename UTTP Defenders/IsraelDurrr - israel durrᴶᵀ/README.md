@@ -24,15 +24,6 @@
 - Single interaction is not enough for high confidence.
 - Multiple independent indicators are required before labeling as member.
 
-- EVIDENCE LOG
-- Timestamp:
-- Platform:
-- URL / Archive:
-- Screenshot hash:
-- Observed behavior:
-- Source:
-- Notes:
-
 - ANALYSIS
 - Defending a group is not the same as being a member.
 - Membership indicators include: self-identification, group admin/mod role, internal communications, shared planning, official roster, repeated coordinated actions, unique UTTP identifiers, or direct UTTP endorsement.
