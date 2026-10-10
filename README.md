@@ -5,6 +5,10 @@
 
 ---
 
+> THIS ARCHIVE IS NOT FOR EVER, THIS ARCHIVE EXPIRES WHEN UTTP EXPIRES FOR EVER
+
+---
+
 # 📢 UTTP ARCHIVE — 6 GB RELEASED
 
 The first public release of the UTTP evidence archive is live.
