@@ -180,6 +180,3 @@ The FPE engagement was not a mistake, nor was it a simple act of trolling. It wa
 By accepting the crown, WIC gained access. By returning it, WIC exposed the ecosystem's toxicity. By clowing the fandom, WIC amplified its signal and harvested intelligence on UTTP.
 
 The operation stands as a testament to WIC's strategic patience, its understanding of human psychology, and its unwavering commitment to its primary mission: the documentation, exposure, and neutralization of hostile networks.
-
-**J1L — Justice, Intelligence, Love.**
-**The First Truth serves no master.**
