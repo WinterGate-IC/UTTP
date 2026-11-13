@@ -91,7 +91,6 @@
       "severity": "Low",
       "sophistication": "Script Kiddie / Low",
       "impact": "Negligible technical impact. High nuisance value. Useful as a data point for mapping the broader UTTP/764 ecosystem.",
-      "recommended_action": "Continue passive monitoring. Feed handle and linked infrastructure into StyxNet and BLACKSHIELD. Do not engage directly; allow them to continue exposing network links."
     },
     "wic_notes": "This profile is a textbook example of a low-effort UTTP operative. They are currently being baited into revealing more of their network by WIC's public engagement. The handle, linked Discord, and Telegram channels have been successfully ingested into the UTTP archive. The group's evolution into a nihilistic violent extremist (NVE) network, with overlap into 764 and use of irony as plausible deniability, makes this a critical data point for tracking the broader ecosystem."
   }
