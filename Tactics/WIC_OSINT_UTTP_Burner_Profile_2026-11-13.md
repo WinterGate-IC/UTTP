@@ -21,7 +21,7 @@ This report formalizes the intelligence gathered from this interaction and situa
 
 ---
 
-## 1. TARGET PROFILE: `@UTTPOFFICERCG`
+## 1. PROFILE: `@UTTPOFFICERCG`
 
 | **Attribute** | **Detail** |
 | :--- | :--- |
