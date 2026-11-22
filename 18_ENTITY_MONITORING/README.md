@@ -53,6 +53,22 @@ entity is tracked through the links and registers below:
 
 This is the backend of record; the GitHub repository is an archive mirror. Run everything with `bash run_pipeline.sh`.
 
+## Ominis-OSINT verification
+
+The engine integrates [Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT), built by WIC founder AnonCatalyst, to validate domain findings at the page level. HTTP 200 alone is never accepted as proof.
+
+A domain is published only when Ominis confirms the entity handle through at least one strong signal:
+
+- **Metadata** — title, Open Graph title, or description names the handle at a word boundary.
+- **Canonical URL** — canonical link or `og:url` points to the handle.
+- **Redirect** — the URL redirects to a profile path containing the handle.
+- **Structured data** — JSON-LD or structured profile fields contain the exact handle.
+- **Embedded JSON** — inline JSON fields such as `username`, `handle`, `login`, `screen_name`, `uniqueId`, or `canonicalBaseUrl` match the handle.
+
+Visible-body mentions are medium-strength and never sufficient alone. Exact-token URL matches are only a pre-filter. Entity-specific phrases add context. Every result records its validation basis, for example `ominis-verified (canonical+metadata+json)`.
+
+Unverified, body-only, no-match, and error rows are not published. They stay in `domain_validation_queue.csv` for automated rechecks. The pipeline validates 40 URLs per pass, caches results for 7 days, and prioritizes entities with fewer confirmed domains.
+
 ## Evidence and safety boundary
 
 Evidence is SHA-256 hashed in the manifest and preserved in cold storage.

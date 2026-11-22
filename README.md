@@ -92,6 +92,55 @@ The goal is accountability through documentation. Nothing more.
 
 ---
 
+## VERIFICATION ENGINE — OMINIS-OSINT INTEGRATION
+
+The WIC intelligence system now fully integrates **Ominis-OSINT**, the MIT-licensed OSINT tool built by **AnonCatalyst, founder of the WinterGate Intelligence Collective**:
+
+- Ominis-OSINT: <https://github.com/AnonCatalyst/Ominis-OSINT>
+- WIC integration: [`18_ENTITY_MONITORING/ominis_validate.py`](18_ENTITY_MONITORING/ominis_validate.py)
+
+The purpose is accuracy. A URL returning HTTP 200 is **not** treated as a valid entity link. It is only a signal to read the page. Ominis page-inspection methods are used to confirm that a finding is actually linked to the entity and to confirm it in more than one way.
+
+### How findings are confirmed
+
+Each candidate is checked against multiple, independent page signals. A published domain must pass at least one **strong** signal, not merely an HTTP response or a name match:
+
+| Signal | What it checks | Strength |
+| --- | --- | --- |
+| **Page metadata** | The page title, Open Graph title, or description names the entity handle at a word boundary. | Strong |
+| **Canonical URL** | The page’s canonical URL or `og:url` points to the entity handle. | Strong |
+| **Redirect** | The requested URL redirects to a profile path containing the entity handle instead of a not-found page. | Strong |
+| **Structured data** | JSON-LD or structured profile fields contain the exact entity handle. | Strong |
+| **Embedded JSON** | Inline JSON fields such as `username`, `handle`, `login`, `screen_name`, `uniqueId`, `vanityChannelUrl`, `canonicalBaseUrl`, or `alternateName` contain the exact handle. | Strong |
+| **Visible body text** | The handle appears in visible profile content, not a footer mention. | Medium — never sufficient alone |
+| **Entity relationship terms** | Page text contains entity-specific phrases (for example, “degeneracy police order state,” “order of nine angles,” or “utube troll police”). | Context signal |
+| **Exact-token URL/path** | The entity handle appears as a whole token in the URL path or query. | Pre-filter only |
+| **HTTP 2xx** | The page is reachable. | Reachability only |
+
+### Publication rule
+
+A domain is published only when:
+
+1. the page is reachable;
+2. Ominis confirms the entity handle through a **strong** page signal; and
+3. the result is stored with its validation basis, for example `ominis-verified (canonical+metadata+json)`.
+
+Body-only matches, no-match pages, errors, and token-only URL matches remain **unverified**. They are moved to the internal `domain_validation_queue.csv` and are **not** published in the domain register, per-entity domain folders, `domains.json`, or the Explore tab. User-provided links are published only after explicit user verification.
+
+### Continuous automated validation
+
+Validation is part of the normal intelligence pipeline, not a manual step:
+
+- Runs automatically on each pipeline pass in small batches (default **40 URLs per pass**).
+- Uses concurrency and timeouts to stay polite to public pages.
+- Caches results for **7 days** and rechecks stale entries.
+- Normalizes every result to a validation basis, signal, HTTP status, and confirmation state.
+- Gives equal validation attention to entities with fewer confirmed domains first.
+
+This means a confirmed finding is not just “found once.” It is a page-level trace confirmed by metadata, canonical links, redirects, structured data, embedded JSON, or visible page evidence — and the archive records which method confirmed it.
+
+---
+
 ## ARCHIVE NAVIGATION
 
 | Folder | What it contains |
@@ -116,8 +165,7 @@ The goal is accountability through documentation. Nothing more.
 | [`17_CURRENT_STATE_PACKAGE/`](17_CURRENT_STATE_PACKAGE/) | Short current-state assessment and platform/authority handoff package. |
 | [`18_ENTITY_MONITORING/`](18_ENTITY_MONITORING/) | All monitored entities, tracking links, validation, passive OSINT, and automated pipeline. |
 | [`19_ENTITY_INTEL_PUBLISH/`](19_ENTITY_INTEL_PUBLISH/) | GitHub mirror: one organized folder per entity, updated periodically. |
-| [`22_UTTP_DOMAINS/`](22_UTTP_DOMAINS/) | Domain leads by entity, extracted from StyxNet and OSINT. |
-| [`22_UTTP_DOMAINS/`](22_UTTP_DOMAINS/) | Domain leads by entity, extracted from StyxNet and OSINT. |
+| [`22_UTTP_DOMAINS/`](22_UTTP_DOMAINS/) | Verified domains by entity, confirmed through Ominis page-level validation. Unverified leads remain internal and are not published. |
 
 No original file was deleted in the 2026-11-19 pass. See
 [`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and
