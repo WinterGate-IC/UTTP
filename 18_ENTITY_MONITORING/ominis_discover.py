@@ -49,6 +49,21 @@ ENTITY_HANDLES = {
     'FPE-POLICE': 'fpepolice',
     'TNM': 'tnm',
     'ENCLAVE': 'enclave',
+    'AUTTP': 'auttp',
+    '148': '148',
+    'SPWN': 'spwn',
+    'E11': '11thstreet',
+    'KKTK': 'kktk',
+    'YFGA': 'yfga',
+    'VGCP': 'vgcp',
+    'AFF': 'aff',
+    'TND': 'tnd',
+    'ZETA': 'zeta',
+    'YTDESTROYERS': 'ytdestroyers',
+    'C09A': '09a',
+    'TYRANNYRUTTP': 'tyrannyruttp',
+    'RDFPARTY': 'rdfparty',
+    'THEFARTKNOCKERSTFK': 'thefartknockers',
 }
 STRONG = {'metadata', 'structured', 'redirect', 'canonical'}
 REFRESH_AFTER = timedelta(days=7)

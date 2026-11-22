@@ -1,0 +1,6 @@
+entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
+YTDESTROYERS,x.com,https://x.com/ytdestroyers,X (Twitter),200,90,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (metadata); HTTP 200; handle verified, ownership unverified",ominis-verified
+YTDESTROYERS,paypal.com,https://www.paypal.com/paypalme/ytdestroyers,PayPal.me,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (redirect); HTTP 200; handle verified, ownership unverified",ominis-verified
+YTDESTROYERS,app.trakt.tv,https://app.trakt.tv/profile/ytdestroyers,Trakt,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (redirect); HTTP 200; handle verified, ownership unverified",ominis-verified
+YTDESTROYERS,twitch.tv,https://www.twitch.tv/ytdestroyers,Twitch,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (metadata); HTTP 200; handle verified, ownership unverified",ominis-verified
+YTDESTROYERS,t.me,https://t.me/ytdestroyers,Telegram,200,80,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (metadata); HTTP 200; handle verified, ownership unverified",ominis-verified

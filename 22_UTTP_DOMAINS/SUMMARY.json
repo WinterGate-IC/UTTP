@@ -1,7 +1,7 @@
 {
-  "total_rows": 362,
-  "unique_domains": 141,
-  "confirmed_links": 362,
+  "total_rows": 596,
+  "unique_domains": 145,
+  "confirmed_links": 596,
   "unverified_leads": 485,
   "entities": {
     "FPE": 52,
@@ -19,7 +19,22 @@
     "OFFICERSLAPPY": 5,
     "RDF": 26,
     "TNM": 27,
-    "UTTP-EMPIRE": 6
+    "UTTP-EMPIRE": 6,
+    "148": 14,
+    "AFF": 29,
+    "AUTTP": 13,
+    "C09A": 17,
+    "E11": 12,
+    "KKTK": 20,
+    "RDFPARTY": 4,
+    "SPWN": 21,
+    "THEFARTKNOCKERSTFK": 7,
+    "TND": 28,
+    "TYRANNYRUTTP": 4,
+    "VGCP": 13,
+    "YFGA": 13,
+    "YTDESTROYERS": 5,
+    "ZETA": 34
   },
   "unverified_by_entity": {
     "764": 51,

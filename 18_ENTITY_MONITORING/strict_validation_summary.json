@@ -26,9 +26,9 @@
       "error": "Expecting property name enclosed in double quotes: line 94 column 5 (char 3694)"
     }
   ],
-  "csv_files_checked": 35,
+  "csv_files_checked": 50,
   "bad_csv_files": [],
-  "manifest_rows_checked": 750,
+  "manifest_rows_checked": 765,
   "bad_manifest_rows": [],
   "manifest_hash_ok": true,
   "candidate_handles": 15,
