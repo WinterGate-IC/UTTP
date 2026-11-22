@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T17:50:30Z",
+  "updated": "2026-11-22T17:51:52Z",
   "mode": "lightweight source watch",
   "urls_checked": 10,
   "results": [
@@ -7,7 +7,7 @@
       "status": 0,
       "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
       "content_type": "",
-      "elapsed_ms": 5169,
+      "elapsed_ms": 5142,
       "ok": false,
       "error": "The read operation timed out",
       "source_id": "S001",
@@ -17,7 +17,7 @@
       "status": 200,
       "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
       "content_type": "text/html",
-      "elapsed_ms": 104,
+      "elapsed_ms": 713,
       "ok": true,
       "source_id": "S003",
       "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -26,7 +26,7 @@
       "status": 200,
       "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
       "content_type": "application/pdf",
-      "elapsed_ms": 842,
+      "elapsed_ms": 840,
       "ok": true,
       "source_id": "S005",
       "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -35,7 +35,7 @@
       "status": 200,
       "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
       "content_type": "text/html; charset=utf-8",
-      "elapsed_ms": 669,
+      "elapsed_ms": 220,
       "ok": true,
       "source_id": "S013",
       "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -44,7 +44,7 @@
       "status": 200,
       "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
       "content_type": "text/html; charset=UTF-8",
-      "elapsed_ms": 441,
+      "elapsed_ms": 498,
       "ok": true,
       "source_id": "S014",
       "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -53,7 +53,7 @@
       "status": 200,
       "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
       "content_type": "text/html; charset=utf-8",
-      "elapsed_ms": 224,
+      "elapsed_ms": 599,
       "ok": true,
       "source_id": "S021",
       "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -62,7 +62,7 @@
       "status": 403,
       "final_url": "https://soyjakwiki.org/UTTP",
       "content_type": "text/html; charset=UTF-8",
-      "elapsed_ms": 105,
+      "elapsed_ms": 79,
       "ok": false,
       "source_id": "S023",
       "url": "https://soyjakwiki.org/UTTP"
@@ -71,7 +71,7 @@
       "status": 200,
       "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
       "content_type": "application/pdf",
-      "elapsed_ms": 162,
+      "elapsed_ms": 100,
       "ok": true,
       "source_id": "S031",
       "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -80,7 +80,7 @@
       "status": 200,
       "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
       "content_type": "text/html; charset=utf-8",
-      "elapsed_ms": 559,
+      "elapsed_ms": 517,
       "ok": true,
       "source_id": "S034",
       "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -89,7 +89,7 @@
       "status": 200,
       "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
       "content_type": "text/html; charset=utf-8",
-      "elapsed_ms": 383,
+      "elapsed_ms": 518,
       "ok": true,
       "source_id": "S040",
       "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
