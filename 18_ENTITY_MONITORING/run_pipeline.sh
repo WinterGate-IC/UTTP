@@ -12,6 +12,7 @@ DIR=18_ENTITY_MONITORING
 /usr/bin/python3 "$DIR/fill_tel.py" >/var/tmp/opencode/fill-tel.log 2>&1
 /usr/bin/python3 "$DIR/sync_tel_intake.py" >/var/tmp/opencode/sync-tel-intake.log 2>&1
 /usr/bin/python3 "$DIR/build_entity_intelligence.py" >/var/tmp/opencode/build-json.log 2>&1
+/usr/bin/python3 "$DIR/build_domains.py" >/var/tmp/opencode/build-domains.log 2>&1
 /usr/bin/python3 /var/tmp/opencode/entity-work/build_page.py >/var/tmp/opencode/build-page.log 2>&1
 /usr/bin/python3 "$DIR/cold_storage.py" >/var/tmp/opencode/cold-storage.log 2>&1
 /usr/bin/python3 "$DIR/update_manifest.py" >/var/tmp/opencode/update-manifest.log 2>&1

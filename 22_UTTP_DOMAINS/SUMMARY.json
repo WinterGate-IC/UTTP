@@ -1,20 +1,15 @@
 {
-  "total_rows": 1428,
-  "unique_domains": 925,
+  "total_rows": 696,
+  "unique_domains": 359,
+  "confirmed_links": 644,
   "entities": {
-    "764": 148,
-    "AFR": 14,
-    "BN0R": 1,
-    "CIRCUSFALL": 1,
-    "DPOS": 117,
-    "FPE": 94,
-    "GATEKEEPER": 1,
-    "O9A": 210,
-    "OFFICERSLAPPY": 10,
-    "RDF": 1,
+    "764": 96,
+    "AFR": 5,
+    "DPOS": 109,
+    "FPE": 92,
+    "O9A": 110,
+    "OFFICERSLAPPY": 8,
     "SPAWNISM": 59,
-    "UTTP": 748,
-    "UTTP-EMPIRE": 15,
-    "WIC": 9
+    "UTTP": 217
   }
 }

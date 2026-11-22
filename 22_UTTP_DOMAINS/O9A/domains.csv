@@ -1,211 +1,111 @@
-entity_id,domain,url,platform,status,confidence,source,occurrences,notes
-O9A,1001tracklists.com,https://www.1001tracklists.com/user/o9a/index.html,1001tracklists,206,45,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,3ddd.ru,https://3ddd.ru/users/UTTP,3ddd,200,45,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,500px.com,"https://500px.com/p/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,adultfriendfinder.com,"https://adultfriendfinder.com/profile/UTTP,45,AdultFriendFinder",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,aggie.io,https://aggie.io/UTTP,Aggie.io,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,airbit.com,https://www.airbit.com/UTTP,Airbit,200,70,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,amazon.com,https://www.amazon.com/hz/wishlist/ls/UTTP,Amazon Wish List,200,80,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,anilist.co,https://anilist.co/user/UTTP,AniList,200,80,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,anobii.com,"https://www.anobii.com/UTTP/profile/activity,45,Condividi",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,anonup.com,"https://anonup.com/@UTTP,45,AnonUp,,Login",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,app.hackthebox.com,"https://app.hackthebox.com/users/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,app.vagrantup.com,"https://app.vagrantup.com/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,apteka.ee,"https://apteka.ee/user/id/UTTP/,45,Apteka.ee,,,,,200",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,arhrock.info,https://arhrock.info/forum/members/?username=o9a,Arhrock,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,artbreeder.com,https://www.artbreeder.com/UTTP,Artbreeder,200,70,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,artpersona.org,http://artpersona.org/cb/userprofile/UTTP,Artpersona,200,80,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,audiojungle.net,https://audiojungle.net/user/fpe,Audiojungle,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,audiomack.com,https://audiomack.com/fpe,Audiomack,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,audius.co,https://audius.co/o9a,Audius,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,bandcamp.com,https://bandcamp.com/o9a,Bandcamp,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,bbs.nga.cn,"https://bbs.nga.cn/nuke.php?func=ucp&username=UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,bentbox.co,https://bentbox.co/UTTP,Bentbox,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,beta.cent.co,"https://beta.cent.co/UTTP,100,/UTTP,,,,,200",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,bigolive.tv,https://www.bigolive.tv/o9a,Bigo Live,200,45,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,blogs.klerk.ru,"https://blogs.klerk.ru/users/UTTP/,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,bodyspace.bodybuilding.com,https://bodyspace.bodybuilding.com/UTTP,BodyBuilding,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,bsky.app,https://bsky.app/profile/o9a.bsky.social,Bluesky,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,call.element.io,"https://call.element.io/UTTP,45,Element",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,castbox.fm,https://castbox.fm/UTTP,Castbox,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,championat.com,https://www.championat.com/user/UTTP,Championat,200,45,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,change.org`,https://www.change.org`,Archive text,unknown,D/S,02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/WIC-DOSSIER-2026-0919-UTTP-04_Current_State_Traces_Evidence.md,1,Auto-extracted from archive text; verify before citation.
-O9A,chaturbate.com,https://chaturbate.com/o9a/,ChaturBate,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,chess.com,https://www.chess.com/member/o9a,Chess.com,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,chiphell.com,"https://www.chiphell.com/home.php?mod=space&username=UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,clarity.fm,"https://clarity.fm/UTTP,45,Clarity",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,clearvoice.com,https://www.clearvoice.com/UTTP,ClearVoice,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,climatempo.com.br,"https://www.climatempo.com.br/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,cssbattle.dev,https://cssbattle.dev/player/o9a,CSSBattle,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,cybertip.org,https://www.cybertip.org,Archive text,unknown,D/S,00_READ_FIRST/START_HERE.md,2,Auto-extracted from archive text; verify before citation.
-O9A,darkowl.com,"https://darkowl.com/UTTP,45,AI-Assisted",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,darksky.net,https://darksky.net/UTTP,Dark Sky,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,dateamillionaire.com,https://www.dateamillionaire.com/members/UTTP,www.dateamillionaire.com,200,45,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,db-fiddle.com,"https://www.db-fiddle.com/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,detectify.com,"https://detectify.com/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,deviantart.com,https://www.deviantart.com/o9a,DeviantArt,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,dex.guru,https://dex.guru/UTTP,DEX Gurus,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,dice.com,https://www.dice.com/profile/o9a,Dice,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,diigo.com,"https://www.diigo.com/interact_api/load_profile_info?name=UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,discadia.com,https://discadia.com/server/vrata-bastion/,Archive text,unknown,D/S,11_RESEARCH_EXPANSION/SOURCE_LEDGER_2026.md,1,Auto-extracted from archive text; verify before citation.
-O9A,disqus.com,https://disqus.com/o9a,Disqus,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,disradar.com,https://disradar.com/s/vrata-bastion/,Archive text,unknown,D/S,11_RESEARCH_EXPANSION/SOURCE_LEDGER_2026.md,1,Auto-extracted from archive text; verify before citation.
-O9A,diveforum.spb.ru,"https://diveforum.spb.ru/profile.php?mode=viewprofile&u=UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,donatepay.ru,https://donatepay.ru/don/UTTP,DonatePay,200,45,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,dota2.ru,https://dota2.ru/forum/search?type=user&keywords=o9a&sort_by=username,Dota2,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,dumpor.com,https://dumpor.com/v/o9a,Dumpor,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,erome.com,https://www.erome.com/o9a,Erome,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,facebook.com,https://www.facebook.com/o9a,Facebook,200,45,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,feedly.com,https://feedly.com/UTTP,Feedly,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,flashflashrevolution.com,"http://www.flashflashrevolution.com/profile/UTTP/,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,floatplane.com,"https://www.floatplane.com/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,forum-dollplanet.ru,"http://forum-dollplanet.ru/memberlist.php?mode=viewprofile&u=UTTP,80,Форум",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,forum.1796web.com,"https://forum.1796web.com/memberlist.php?mode=viewprofile&u=UTTP,80",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,forum.alconar.ru,https://forum.alconar.ru/memberlist.php?mode=viewprofile&u=UTTP,forum.alconar.ru,200,80,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,forum.danetka.ru,"http://forum.danetka.ru/memberlist.php?mode=viewprofile&u=UTTP,80,danetka.ru",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,forumprawne.org,https://forumprawne.org/members/UTTP.html,Forumprawne.org,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,forumreligions.ru,"https://forumreligions.ru/search.php?action=search&keywords=&author=UTTP,45",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,forums.somethingawful.com,"https://forums.somethingawful.com/member.php?u=UTTP,80,Something",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,fpe.carrd.co,https://fpe.carrd.co,Carrd.co,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,furaffinity.net,https://www.furaffinity.net/gallery/o9a,Fur Affinity,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,gab.com,https://gab.com/o9a,Gab,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,gazette.gc.ca,https://gazette.gc.ca/rp-pr/p2/2025/2025-12-17/html/sor-dors263-eng.html,Archive text,unknown,D/S,00_READ_FIRST/CLAIM_LEDGER.md,1,Auto-extracted from archive text; verify before citation.
-O9A,gazette.govt.nz,https://gazette.govt.nz/notice/id/2025-au7135,Archive text,unknown,D/S,00_READ_FIRST/CLAIM_LEDGER.md,6,Auto-extracted from archive text; verify before citation.
-O9A,giphy.com,https://giphy.com/o9a,Giphy,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,gist.github.com,https://gist.github.com/o9a,GitHub Gist,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,github.com,https://github.com/o9a,GitHub,200,100,StyxNet OSINT,4,Passive username-search lead; not ownership-confirmed.
-O9A,gog.com,https://www.gog.com/u/o9a,GOG,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,grailed.com,https://www.grailed.com/shop/UTTP,Grailed,200,45,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,gribnikikybani.mybb.ru,"http://gribnikikybani.mybb.ru/search.php?action=search&keywords=&author=UTTP,45,search_or_query_page",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,hpc.ru,"https://hpc.ru/board/search.php?keywords=&terms=all&author=UTTP,45,search_or_query_page",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,hsx.com,"https://www.hsx.com/profile/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,hypixel.net,https://hypixel.net/player/o9a,Hypixel,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,ic3.gov,https://www.ic3.gov,Archive text,unknown,D/S,00_READ_FIRST/START_HERE.md,2,Auto-extracted from archive text; verify before citation.
-O9A,img.shields.io,https://img.shields.io/badge/Document-WIC--ANALYSIS--2026--0919--UTTP--01-blue,Archive text,unknown,D/S,09_STYXNET_REPORTS/README.md,1,Auto-extracted from archive text; verify before citation.
-O9A,imgur.com,"https://imgur.com/user/UTTP,45,Imgur",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,instapaper.com,"https://www.instapaper.com/UTTP,45,Instapaper",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,invisionapp.com,https://www.invisionapp.com/UTTP,InVision,200,45,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,itemfix.com,https://www.itemfix.com/c/o9a,ItemFix,200,45,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,joinclubhouse.com,https://www.joinclubhouse.com/@o9a,Clubhouse,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,keane3029-lab.github.io`,https://keane3029-lab.github.io`,Archive text,unknown,D/S,02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/WIC-DOSSIER-2026-0919-UTTP-04_Current_State_Traces_Evidence.md,1,Auto-extracted from archive text; verify before citation.
-O9A,keybase.io,https://keybase.io/o9a,Keybase,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,kitsu.io,"https://kitsu.io/users/UTTP,45,,,Hey",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,kuaishou.com,"https://www.kuaishou.com/profile/UTTP,80,Welcome",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,kusama.subscan.io,https://kusama.subscan.io/account/UTTP,Kusama Subscan,200,100,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,libraries.io,https://libraries.io/github/o9a/,Libraries,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,line.me,https://line.me/R/ti/p/@o9a?from=page,line.me,200,45,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,linkedin.com,"https://www.linkedin.com/in/UTTP,80,,,,,,200",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,linktr.ee,https://linktr.ee/o9a,linktr.ee,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,locus.sh,https://locus.sh/UTTP,Locus,200,45,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,lubuntu.ru,"https://lubuntu.ru/memberlist.php?mode=viewprofile&u=UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,mactalk.com.au,http://www.mactalk.com.au/member.php?username=o9a,Mactalk,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,makezine.com,https://makezine.com/UTTP,Make:,200,80,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,mapillary.com,https://www.mapillary.com/UTTP,Mapillary,200,80,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,mastodon.social,https://mastodon.social/@o9a,Mastodon,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,mega.nz,https://mega.nz/file/L84gDCZZ#WLPuLSFsPJenbGwJHoxk-yOgtIoCKm0__XtT-RJYZXw,Archive text,unknown,D/S,README.md,1,Auto-extracted from archive text; verify before citation.
-O9A,members.fotki.com,"https://members.fotki.com/UTTP/about/,45,error_or_gated_page",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,mixcloud.com,https://www.mixcloud.com/o9a/,Mixcloud,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,mixupload.com,https://mixupload.com/UTTP,Mixupload,200,45,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,moto-arena.ru,"https://moto-arena.ru/memberlist.php?mode=viewprofile&u=UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,music.youtube.com,https://music.youtube.com/o9a,YouTube Music,200,80,StyxNet OSINT,2,Passive username-search lead; not ownership-confirmed.
-O9A,neopets.com,https://www.neopets.com/userlookup.phtml?user=o9a,Neopets,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,news.ycombinator.com,"https://news.ycombinator.com/submitted?id=UTTP,80,,,,,,200",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,nextdoor.com,https://nextdoor.com/profile/o9a,Nextdoor,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,niftygateway.com,https://niftygateway.com/profile/o9a,Niftygateway,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,nvd.nist.gov,"https://nvd.nist.gov/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,o9a.carrd.co,https://o9a.carrd.co,Carrd.co,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,o9a.deviantart.com,https://o9a.deviantart.com,DeviantART,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,o9a.itch.io,https://o9a.itch.io,itch.io,200,100,StyxNet OSINT,2,Passive username-search lead; not ownership-confirmed.
-O9A,odysee.com,https://odysee.com/@UTTP,Odysee,200,80,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,old-games.ru,https://www.old-games.ru/forum/members/?username=o9a,Old-games,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,old.reddit.com,"https://old.reddit.com/user/UTTP,45,Welcome",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,op.gg,https://op.gg/lol/summoners/search?q=o9a&region=sg,OP.GG LoL Singapore,200,80,StyxNet OSINT,18,Passive username-search lead; not ownership-confirmed.
-O9A,osu.ppy.sh,https://osu.ppy.sh/users/o9a,osu!,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,paltalk.com,https://www.paltalk.com/people/users/o9a,Paltalk,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,peertube.tv,https://peertube.tv/o9a,PeerTube,200,45,StyxNet OSINT,3,Passive username-search lead; not ownership-confirmed.
-O9A,photobucket.com,"https://photobucket.com/user/UTTP,45,Private",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,pixelfed.org,https://pixelfed.org/o9a,Pixelfed,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,pixiv.net,"https://www.pixiv.net/users/UTTP,80,Welcome",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,planetaexcel.ru,"https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=profile_view&UID=UTTP,45,error_or_gated_page",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,plann.com,"https://www.plann.com/UTTP,45,,,,,,200",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,playerdb.co,https://playerdb.co/api/player/minecraft/o9a,Mcuuid,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,plug.dj,https://plug.dj/@/o9a,Plug.DJ,200,70,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,pluto.tv,"https://pluto.tv/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,polarsteps.com,https://polarsteps.com/UTTP,Polarsteps,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,police.govt.nz,https://www.police.govt.nz/about-us/publication/statements-cases-designate-terrorist-entities-december-2025,Archive text,unknown,D/S,14_O9A_764_TRACE/SOURCES.md,1,Auto-extracted from archive text; verify before citation.
-O9A,polkadot.subscan.io,https://polkadot.subscan.io/account/UTTP,Subscan,200,100,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
-O9A,pornhub.com,https://pornhub.com/users/o9a,Pornhub,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,portfolio.adobe.com,https://portfolio.adobe.com/UTTP,Adobe,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,postman.com,"https://www.postman.com/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,primal.net,"https://primal.net/UTTP,45,Primal,Live",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,profile.codersrank.io,https://profile.codersrank.io/user/UTTP/,Coders Rank,200,100,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,projects.raspberrypi.org,"https://projects.raspberrypi.org/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,proza.ru,"https://www.proza.ru/avtor/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,queer.pl,https://queer.pl/user/o9a,Queer,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,reddit.com,https://www.reddit.com/user/UTTP/,Elektronaut,200,45,StyxNet raw export,5,Auto-extracted from StyxNet; verify before citation.
-O9A,repl.it,https://repl.it/@o9a,Repl.it,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,replit.com,https://replit.com/@o9a,Replit,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,revolut.me,"https://revolut.me/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,roamresearch.com,"https://roamresearch.com/#/app/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,royalcams.com,https://royalcams.com/profile/UTTP,RoyalCams,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,ru.123rf.com,"https://ru.123rf.com/profile_UTTP,45,not_a_profile_path",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,safesurvival.net,"https://www.safesurvival.net/members/UTTP/,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,salon24.pl,"https://www.salon24.pl/u/UTTP/,45",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,salsa.debian.org,"https://salsa.debian.org/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,schemecolor.com,https://www.schemecolor.com/author/o9a,SchemeColor,200,45,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,secure.runescape.com,https://secure.runescape.com/m=hiscore_oldschool/overall?user1=o9a,RuneScape,200,55,StyxNet OSINT,3,Passive username-search lead; not ownership-confirmed.
-O9A,sendgrid.com,"https://sendgrid.com/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,shelf.im,https://www.shelf.im/o9a,Shelf,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,signal.me,"https://signal.me/#p/UTTP,45,Contact",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,snusbase.com,"https://snusbase.com/UTTP,45,Snusbase",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,socialclub.rockstargames.com,https://socialclub.rockstargames.com/member/o9a,Rockstar Social Club,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,soundcloud.com,https://soundcloud.com/o9a,SoundCloud,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,soup.io,"https://www.soup.io/author/UTTP,45,Soup.io",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,soyjakwiki.org,"https://soyjakwiki.org/UTTP,Oldest",Archive text,unknown,D/S,12_TRACKING/TRACKING_REGISTER.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,splcenter.org,https://www.splcenter.org/hatewatch/2018/02/22/atomwaffen-and-siege-parallax-how-one-neo-nazi%E2%80%99s-life%E2%80%99s-work-fueling-younger-generation,Archive text,unknown,D/S,14_O9A_764_TRACE/SOURCES.md,1,Auto-extracted from archive text; verify before citation.
-O9A,stackoverflow.com,https://stackoverflow.com/users/filter?search=o9a,StackOverflow,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,steamcommunity.com,https://steamcommunity.com/id/o9a,Steam,200,55,StyxNet OSINT,5,Passive username-search lead; not ownership-confirmed.
-O9A,stihi.ru,"https://www.stihi.ru/avtor/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,stitcher.com,"https://www.stitcher.com/UTTP,45,Roadblock,,,,,200",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,strava.com,"https://www.strava.com/clubs/UTTP,100,UTTP",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,tenor.com,"https://tenor.com/users/UTTP,100,uttp&#039;s",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,thegatewaypundit.com,"https://www.thegatewaypundit.com/author/UTTP/,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,tikbuddy.com,https://tikbuddy.com/en/tiktok/o9a,tikbuddy.com,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,tommyparky.com,https://tommyparky.com/index.php/UTubeTrollPolice,Archive text,unknown,D/S,11_RESEARCH_EXPANSION/SOURCE_LEDGER_2026.md,1,Auto-extracted from archive text; verify before citation.
-O9A,trakt.tv,"https://trakt.tv/users/UTTP,80,Welcome",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,truthsocial.com,https://truthsocial.com/@o9a,Truth Social,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,tumblr.com,https://www.tumblr.com/blog/o9a,Tumblr,200,100,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,turpravda.com,"https://www.turpravda.com/profile/UTTP,45,error_or_gated_page",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,tweakers.net,https://tweakers.net/gallery/o9a,Tweakers,200,70,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,"uttp.autotob.ru,100,uttp.autotob.ru,,uttp.autotob.ru,,,200","https://UTTP.autotob.ru,100,Uttp.autotob.ru,,Uttp.autotob.ru,,,200",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,"uttp.carrd.co,100,uttp","https://UTTP.carrd.co,100,UTTP",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,"uttp.mkr-rodniki.ru,45,confidence_below_70","https://UTTP.mkr-rodniki.ru,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,uttp.personagra-ta.ru,https://UTTP.personagra-ta.ru,personagra-ta.ru,200,45,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,"uttp.personagra-ta.ru,45,confidence_below_70","https://UTTP.personagra-ta.ru,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,"uttp.personagra-ta.ru,45,monro","https://UTTP.personagra-ta.ru,45,Monro",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,"uttp.rodobozhie.ru,45,confidence_below_70","https://UTTP.rodobozhie.ru,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,"uttp.rodobozhie.ru,45,vodka","https://UTTP.rodobozhie.ru,45,Vodka",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,uttp.stalker-zone.info,https://UTTP.stalker-zone.info,Stalker-zone,200,45,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,"uttp.stalker-zone.info,45,stalker-zone.info","https://UTTP.stalker-zone.info,45,stalker-zone.info",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,ventusky.com,"https://www.ventusky.com/UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,viber.com,"https://viber.com/UTTP,80,Viber",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,vimeo.com,https://vimeo.com/showcase/o9a,Vimeo Showcase,200,45,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,virtualireland.ru,"https://www.virtualireland.ru/members/UTTP.html,45,VirtualIreland.ru",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,voice123.com,"https://voice123.com/api/providers/search/UTTP,45,search_or_query_page",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,wallet.coinbase.com,"https://wallet.coinbase.com/UTTP,45,Coinbase",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,webcams.travel,https://www.webcams.travel/UTTP,Webcams.travel,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,wickr.com,https://wickr.com/UTTP,Wickr,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
-O9A,wikimapia.org,"http://wikimapia.org/user/tools/users_rating/?username=UTTP,45,confidence_below_70",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_rejected.csv,2,Auto-extracted from archive text; verify before citation.
-O9A,windy.com,https://www.windy.com/UTTP,Windy,200,45,StyxNet raw export,6,Auto-extracted from StyxNet; verify before citation.
-O9A,wintergate.org,https://wintergate.org/entities.html,Archive text,unknown,D/S,18_ENTITY_MONITORING/README.md,2,Auto-extracted from archive text; verify before citation.
-O9A,wish.com,"https://www.wish.com/profile/UTTP,45,|",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,wishlistr.com,https://www.wishlistr.com/o9a/,Wishlistr,200,45,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,wynk.in,https://wynk.in/music/UTTP,Wynk Music,200,45,StyxNet raw export,1,Auto-extracted from StyxNet; verify before citation.
-O9A,x.com,https://x.com/BRAHMINJUDAH,Archive text,unknown,D/S,04_OFFSHOOTS/11th STREET/README.md,2,Auto-extracted from archive text; verify before citation.
-O9A,xbox.com,https://www.xbox.com/en-US/play/user/o9a,Xbox,200,80,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,xss.is,"https://xss.is/members/UTTP/,45,Вход",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
-O9A,yelp.com,https://www.yelp.com/user_details?userid=o9a,Yelp (by id),200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,younow.com,https://www.younow.com/o9a/,YouNow,200,55,StyxNet OSINT,1,Passive username-search lead; not ownership-confirmed.
-O9A,youtu.be,https://youtu.be/TUb3v8Z-mkg?si=5O5zo-xUyJ-fhKHx,Archive text,unknown,D/S,07_DONATED_DOCUMENTS/SUPPLEMENTARY-INTELLIGENCE-UPDATE.txt,1,Auto-extracted from archive text; verify before citation.
-O9A,youtube.com,https://www.youtube.com/@o9a,YouTube,200,80,StyxNet OSINT,3,Passive username-search lead; not ownership-confirmed.
-O9A,zwiftpower.com,https://zwiftpower.com/profile.php?,Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
+entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes
+O9A,1001tracklists.com,https://www.1001tracklists.com/user/o9a/index.html,1001tracklists,206,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,3ddd.ru,https://3ddd.ru/users/UTTP,3ddd,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,aggie.io,https://aggie.io/UTTP,Aggie.io,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,airbit.com,https://www.airbit.com/UTTP,Airbit,200,70,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,amazon.com,https://www.amazon.com/hz/wishlist/ls/UTTP,Amazon Wish List,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,anilist.co,https://anilist.co/user/UTTP,AniList,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,arhrock.info,https://arhrock.info/forum/members/?username=o9a,Arhrock,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,artbreeder.com,https://www.artbreeder.com/UTTP,Artbreeder,200,70,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,artpersona.org,http://artpersona.org/cb/userprofile/UTTP,Artpersona,200,80,StyxNet raw export,1,True,Auto-extracted from StyxNet; verify before citation.
+O9A,audiojungle.net,https://audiojungle.net/user/fpe,Audiojungle,200,100,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
+O9A,audiomack.com,https://audiomack.com/fpe,Audiomack,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
+O9A,audius.co,https://audius.co/o9a,Audius,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,bandcamp.com,https://bandcamp.com/o9a,Bandcamp,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,bentbox.co,https://bentbox.co/UTTP,Bentbox,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,bigolive.tv,https://www.bigolive.tv/o9a,Bigo Live,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,bodyspace.bodybuilding.com,https://bodyspace.bodybuilding.com/UTTP,BodyBuilding,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,bsky.app,https://bsky.app/profile/o9a.bsky.social,Bluesky,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,castbox.fm,https://castbox.fm/UTTP,Castbox,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,championat.com,https://www.championat.com/user/UTTP,Championat,200,45,StyxNet raw export,1,True,Auto-extracted from StyxNet; verify before citation.
+O9A,chaturbate.com,https://chaturbate.com/o9a/,ChaturBate,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,chess.com,https://www.chess.com/member/o9a,Chess.com,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,clearvoice.com,https://www.clearvoice.com/UTTP,ClearVoice,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,cssbattle.dev,https://cssbattle.dev/player/o9a,CSSBattle,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,darksky.net,https://darksky.net/UTTP,Dark Sky,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,dateamillionaire.com,https://www.dateamillionaire.com/members/UTTP,www.dateamillionaire.com,200,45,StyxNet raw export,1,True,Auto-extracted from StyxNet; verify before citation.
+O9A,deviantart.com,https://www.deviantart.com/o9a,DeviantArt,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,dex.guru,https://dex.guru/UTTP,DEX Gurus,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,dice.com,https://www.dice.com/profile/o9a,Dice,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,disqus.com,https://disqus.com/o9a,Disqus,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,donatepay.ru,https://donatepay.ru/don/UTTP,DonatePay,200,45,StyxNet raw export,1,True,Auto-extracted from StyxNet; verify before citation.
+O9A,dota2.ru,https://dota2.ru/forum/search?type=user&keywords=o9a&sort_by=username,Dota2,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,dumpor.com,https://dumpor.com/v/o9a,Dumpor,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,erome.com,https://www.erome.com/o9a,Erome,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,facebook.com,https://www.facebook.com/o9a,Facebook,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,feedly.com,https://feedly.com/UTTP,Feedly,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,forum.alconar.ru,https://forum.alconar.ru/memberlist.php?mode=viewprofile&u=UTTP,forum.alconar.ru,200,80,StyxNet raw export,1,True,Auto-extracted from StyxNet; verify before citation.
+O9A,forumprawne.org,https://forumprawne.org/members/UTTP.html,Forumprawne.org,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,fpe.carrd.co,https://fpe.carrd.co,Carrd.co,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
+O9A,furaffinity.net,https://www.furaffinity.net/gallery/o9a,Fur Affinity,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,gab.com,https://gab.com/o9a,Gab,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,giphy.com,https://giphy.com/o9a,Giphy,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,gist.github.com,https://gist.github.com/o9a,GitHub Gist,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,github.com,https://github.com/o9a,GitHub,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,gog.com,https://www.gog.com/u/o9a,GOG,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,grailed.com,https://www.grailed.com/shop/UTTP,Grailed,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,hypixel.net,https://hypixel.net/player/o9a,Hypixel,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,invisionapp.com,https://www.invisionapp.com/UTTP,InVision,200,45,StyxNet raw export,1,True,Auto-extracted from StyxNet; verify before citation.
+O9A,itemfix.com,https://www.itemfix.com/c/o9a,ItemFix,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,joinclubhouse.com,https://www.joinclubhouse.com/@o9a,Clubhouse,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,keybase.io,https://keybase.io/o9a,Keybase,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,kusama.subscan.io,https://kusama.subscan.io/account/UTTP,Kusama Subscan,200,100,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,libraries.io,https://libraries.io/github/o9a/,Libraries,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,line.me,https://line.me/R/ti/p/@o9a?from=page,line.me,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,linktr.ee,https://linktr.ee/o9a,linktr.ee,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,locus.sh,https://locus.sh/UTTP,Locus,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,mactalk.com.au,http://www.mactalk.com.au/member.php?username=o9a,Mactalk,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,makezine.com,https://makezine.com/UTTP,Make:,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,mapillary.com,https://www.mapillary.com/UTTP,Mapillary,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,mastodon.social,https://mastodon.social/@o9a,Mastodon,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,mixcloud.com,https://www.mixcloud.com/o9a/,Mixcloud,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,mixupload.com,https://mixupload.com/UTTP,Mixupload,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,music.youtube.com,https://music.youtube.com/o9a,YouTube Music,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,neopets.com,https://www.neopets.com/userlookup.phtml?user=o9a,Neopets,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,nextdoor.com,https://nextdoor.com/profile/o9a,Nextdoor,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,niftygateway.com,https://niftygateway.com/profile/o9a,Niftygateway,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,o9a.carrd.co,https://o9a.carrd.co,Carrd.co,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,o9a.deviantart.com,https://o9a.deviantart.com,DeviantART,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,o9a.itch.io,https://o9a.itch.io,itch.io,200,100,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.
+O9A,odysee.com,https://odysee.com/@UTTP,Odysee,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,old-games.ru,https://www.old-games.ru/forum/members/?username=o9a,Old-games,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,op.gg,https://op.gg/lol/summoners/search?q=o9a&region=sg,OP.GG LoL Singapore,200,80,StyxNet OSINT,17,True,Passive username-search lead; not ownership-confirmed.
+O9A,osu.ppy.sh,https://osu.ppy.sh/users/o9a,osu!,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,paltalk.com,https://www.paltalk.com/people/users/o9a,Paltalk,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,peertube.tv,https://peertube.tv/o9a,PeerTube,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,pixelfed.org,https://pixelfed.org/o9a,Pixelfed,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,playerdb.co,https://playerdb.co/api/player/minecraft/o9a,Mcuuid,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,plug.dj,https://plug.dj/@/o9a,Plug.DJ,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,polarsteps.com,https://polarsteps.com/UTTP,Polarsteps,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,polkadot.subscan.io,https://polkadot.subscan.io/account/UTTP,Subscan,200,100,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,pornhub.com,https://pornhub.com/users/o9a,Pornhub,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,portfolio.adobe.com,https://portfolio.adobe.com/UTTP,Adobe,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,profile.codersrank.io,https://profile.codersrank.io/user/UTTP/,Coders Rank,200,100,StyxNet raw export,2,False,Auto-extracted from StyxNet; verify before citation.
+O9A,queer.pl,https://queer.pl/user/o9a,Queer,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,reddit.com,https://www.reddit.com/user/UTTP/,Elektronaut,200,45,StyxNet raw export,3,False,Auto-extracted from StyxNet; verify before citation.
+O9A,repl.it,https://repl.it/@o9a,Repl.it,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,replit.com,https://replit.com/@o9a,Replit,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,royalcams.com,https://royalcams.com/profile/UTTP,RoyalCams,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,schemecolor.com,https://www.schemecolor.com/author/o9a,SchemeColor,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,secure.runescape.com,https://secure.runescape.com/m=hiscore_oldschool/overall?user1=o9a,RuneScape,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,shelf.im,https://www.shelf.im/o9a,Shelf,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,socialclub.rockstargames.com,https://socialclub.rockstargames.com/member/o9a,Rockstar Social Club,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,soundcloud.com,https://soundcloud.com/o9a,SoundCloud,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,stackoverflow.com,https://stackoverflow.com/users/filter?search=o9a,StackOverflow,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,steamcommunity.com,https://steamcommunity.com/id/o9a,Steam,200,55,StyxNet OSINT,3,True,Passive username-search lead; not ownership-confirmed.
+O9A,tikbuddy.com,https://tikbuddy.com/en/tiktok/o9a,tikbuddy.com,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,truthsocial.com,https://truthsocial.com/@o9a,Truth Social,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,tumblr.com,https://www.tumblr.com/blog/o9a,Tumblr,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,tweakers.net,https://tweakers.net/gallery/o9a,Tweakers,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,uttp.personagra-ta.ru,https://UTTP.personagra-ta.ru,personagra-ta.ru,200,45,StyxNet raw export,1,True,Auto-extracted from StyxNet; verify before citation.
+O9A,uttp.stalker-zone.info,https://UTTP.stalker-zone.info,Stalker-zone,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,vimeo.com,https://vimeo.com/showcase/o9a,Vimeo Showcase,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,webcams.travel,https://www.webcams.travel/UTTP,Webcams.travel,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,wickr.com,https://wickr.com/UTTP,Wickr,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,windy.com,https://www.windy.com/UTTP,Windy,200,45,StyxNet raw export,3,False,Auto-extracted from StyxNet; verify before citation.
+O9A,wishlistr.com,https://www.wishlistr.com/o9a/,Wishlistr,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,wynk.in,https://wynk.in/music/UTTP,Wynk Music,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+O9A,xbox.com,https://www.xbox.com/en-US/play/user/o9a,Xbox,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,yelp.com,https://www.yelp.com/user_details?userid=o9a,Yelp (by id),200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,younow.com,https://www.younow.com/o9a/,YouNow,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
+O9A,youtube.com,https://www.youtube.com/@o9a,YouTube,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.

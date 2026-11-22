@@ -2,4 +2,5 @@
 
 Group-level domain leads only. No ownership is inferred.
 
-Unique domains: 117
+Rows: 109
+Confirmed links: 105
