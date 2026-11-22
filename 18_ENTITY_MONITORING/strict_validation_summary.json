@@ -28,8 +28,12 @@
   ],
   "csv_files_checked": 17,
   "bad_csv_files": [],
-  "manifest_rows_checked": 709,
+  "manifest_rows_checked": 710,
   "bad_manifest_rows": [
+    {
+      "path": "18_ENTITY_MONITORING/archive_integrity.json",
+      "reason": "hash_mismatch"
+    },
     {
       "path": "18_ENTITY_MONITORING/discovered_sources.json",
       "reason": "hash_mismatch"
@@ -39,7 +43,15 @@
       "reason": "hash_mismatch"
     },
     {
+      "path": "18_ENTITY_MONITORING/entity-intelligence.json",
+      "reason": "hash_mismatch"
+    },
+    {
       "path": "18_ENTITY_MONITORING/rebrands.json",
+      "reason": "hash_mismatch"
+    },
+    {
+      "path": "18_ENTITY_MONITORING/strict_validation_summary.json",
       "reason": "hash_mismatch"
     }
   ],
