@@ -220,29 +220,17 @@ The mirror updates at most once every 6 hours through a locked, rate-limited
 cron job. It uses git push rather than per-file API writes, checks the GitHub
 rate limit before pushing, and never logs the token.
 
-## 22_UTTP_DOMAINS
+## 22_ENTITY_DOMAINS
 
-Domain leads organized by entity:
+Verified domains organized by entity. This folder covers the full monitored
+ecosystem and is not UTTP-specific.
 
-- `README.md` / `DOMAINS_REGISTER.csv` / `SUMMARY.json` — full register.
-- `<ENTITY_ID>/domains.csv` — domains attributed to that entity.
-- `README.md` in each folder — scope and limits.
+- `README.md` / `DOMAINS_REGISTER.csv` / `SUMMARY.json` — full verified register.
+- `<ENTITY_ID>/domains.csv` — verified domains linked to that entity.
+- `README.md` in each folder — entity-specific scope and validation note.
 
-Domains are leads, not ownership proof. Sources include StyxNet, OSINT, archive
-text, and user-provided leads.
-
-## 22_UTTP_DOMAINS
-
-Domain leads organized by entity:
-
-- `README.md` / `DOMAINS_REGISTER.csv` / `SUMMARY.json` — full register.
-- `<ENTITY_ID>/domains.csv` — domains attributed to that entity.
-- `README.md` in each folder — scope and limits.
-
-Domains are leads, not ownership proof. Sources include StyxNet, OSINT, and
-user-provided leads.
-
-## Root files
-
-- `README.md` — public front page and warnings.
-- `LICENSE` — repository license.
+Only domains confirmed through Ominis-OSINT page-level validation (or explicit
+user verification) are listed. A verified domain is treated as either owned by
+the entity or a domain/platform the entity operates in. Validation confirms
+entity handle linkage, not legal ownership. Unverified leads stay in
+`18_ENTITY_MONITORING/domain_validation_queue.csv` and are not published.

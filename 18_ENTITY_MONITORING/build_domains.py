@@ -5,7 +5,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent
 ROOT = BASE.parent
-REGISTER = ROOT / '22_UTTP_DOMAINS' / 'DOMAINS_REGISTER.csv'
+REGISTER = ROOT / '22_ENTITY_DOMAINS' / 'DOMAINS_REGISTER.csv'
 OUT = Path('/var/www/html/data/domains.json')
 
 

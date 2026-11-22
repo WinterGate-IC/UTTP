@@ -44,7 +44,7 @@ entity is tracked through the links and registers below:
    unverified. Disable with `OMINIS_VALIDATE=0`; tune with `OMINIS_BUDGET` and
    `OMINIS_CONCURRENCY`.
 8. `reclassify_domains.py` keeps only Ominis-verified or user-verified rows in
-   `22_UTTP_DOMAINS/DOMAINS_REGISTER.csv`. Unverified leads move to the internal
+   `22_ENTITY_DOMAINS/DOMAINS_REGISTER.csv`. Unverified leads move to the internal
    `domain_validation_queue.csv` and are not published in the domain archive or
    Explore tab. Per-entity domain CSVs and the summary contain verified rows
    only.

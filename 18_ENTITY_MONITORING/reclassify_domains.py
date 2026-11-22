@@ -12,9 +12,9 @@ from entity_registry import DOMAIN_TOKENS
 
 BASE = Path(__file__).resolve().parent
 ROOT = BASE.parent
-REGISTER = ROOT / '22_UTTP_DOMAINS' / 'DOMAINS_REGISTER.csv'
+REGISTER = ROOT / '22_ENTITY_DOMAINS' / 'DOMAINS_REGISTER.csv'
 LEADS = BASE / 'domain_validation_queue.csv'
-PER_ENTITY_DIR = ROOT / '22_UTTP_DOMAINS'
+PER_ENTITY_DIR = ROOT / '22_ENTITY_DOMAINS'
 SUMMARY_JSON = PER_ENTITY_DIR / 'SUMMARY.json'
 DEFAULT_FIELDS = [
     'entity_id', 'domain', 'url', 'platform', 'status', 'confidence',
@@ -104,7 +104,31 @@ def main():
     for entity_id, ent_rows in grouped.items():
         if not entity_id:
             continue
-        write_rows(PER_ENTITY_DIR / entity_id / 'domains.csv', ent_rows, fieldnames)
+        folder = PER_ENTITY_DIR / entity_id
+        write_rows(folder / 'domains.csv', ent_rows, fieldnames)
+        (folder / 'README.md').write_text(
+            f"""# {entity_id} domains
+
+Verified domain links confirmed through Ominis-OSINT page inspection.
+
+- Verified domains: {len(ent_rows)}
+- Validation: strong page-level handle linkage
+- Publication: verified-only
+
+A verified domain is treated as either owned by the entity or a domain/platform
+the entity operates in. Validation confirms entity handle linkage, not legal
+ownership. Unverified leads remain in the internal validation queue and are not
+listed here.
+""", encoding='utf-8')
+    keep = set(grouped)
+    for folder in PER_ENTITY_DIR.iterdir():
+        if folder.is_dir() and folder.name not in keep:
+            for child in sorted(folder.rglob('*'), reverse=True):
+                if child.is_file() or child.is_symlink():
+                    child.unlink()
+                elif child.is_dir():
+                    child.rmdir()
+            folder.rmdir()
 
     unique_domains = len({r.get('domain') for r in verified if r.get('domain')})
     entity_counts = {}
@@ -126,6 +150,23 @@ def main():
     }
     with SUMMARY_JSON.open('w', encoding='utf-8') as f:
         json.dump(summary, f, indent=2)
+    (PER_ENTITY_DIR / 'README.md').write_text(
+        f"""# Entity Domains
+
+Verified domain links for every tracked entity. This folder is no longer
+UTTP-specific because it covers the full monitored ecosystem.
+
+- Verified domains: {len(verified)}
+- Unique domains: {unique_domains}
+- Entities with verified domains: {len(entity_counts)}
+- Internal unverified leads: {len(leads)}
+
+Only domains confirmed through Ominis-OSINT page-level validation are listed.
+A verified domain is treated as either owned by the entity or a domain/platform
+the entity operates in. Validation confirms entity handle linkage, not legal
+ownership. Unverified leads remain in `18_ENTITY_MONITORING/domain_validation_queue.csv`
+and are not published in this folder or on the Explore tab.
+""", encoding='utf-8')
 
     print(json.dumps({'verified_rows': len(verified),
                       'unverified_leads': len(leads),

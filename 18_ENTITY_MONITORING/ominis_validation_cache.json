@@ -8489,12 +8489,12 @@
   },
   "OFFICERSLAPPY|https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp": {
     "error": "Server disconnected without sending a response.",
-    "checked_at": "2026-11-22T20:00:49Z",
+    "checked_at": "2026-11-22T20:30:43Z",
     "url": "https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp"
   },
   "OFFICERSLAPPY|https://forum.gong.bg/memberlist.php?username=uttp": {
-    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)",
-    "checked_at": "2026-11-22T20:00:50Z",
+    "error": "",
+    "checked_at": "2026-11-22T20:15:44Z",
     "url": "https://forum.gong.bg/memberlist.php?username=uttp"
   },
   "OFFICERSLAPPY|https://www.twitch.tv/officerslappy": {
@@ -8819,5 +8819,883 @@
     ],
     "checked_at": "2026-11-22T20:01:00Z",
     "url": "https://plug.dj/@/spawnism"
+  },
+  "UTTP|https://animebase.me/members/uttp/": {
+    "status": 200,
+    "signals": [],
+    "title": "Log in | Anime Forum",
+    "final_url": "https://animebase.me/login/?_xfRedirect=/members/uttp/",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:35Z",
+    "url": "https://animebase.me/members/uttp/"
+  },
+  "UTTP|https://www.1001tracklists.com/user/uttp/index.html": {
+    "status": 206,
+    "signals": [
+      "user_activity"
+    ],
+    "title": "1001Tracklists \u22c5 The World's Leading DJ Tracklist/Playlist Database",
+    "final_url": "https://www.1001tracklists.com/user/uttp/index.html",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:35Z",
+    "url": "https://www.1001tracklists.com/user/uttp/index.html"
+  },
+  "UTTP|https://650f.bike/members/uttp/": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://650f.bike/members/uttp/",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:35Z",
+    "url": "https://650f.bike/members/uttp/"
+  },
+  "UTTP|https://app.ens.domains/UTTP.eth": {
+    "status": 200,
+    "signals": [],
+    "title": "uttp.eth - ENS Profile",
+    "final_url": "https://app.ens.domains/UTTP.eth",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:35Z",
+    "url": "https://app.ens.domains/UTTP.eth"
+  },
+  "UTTP|https://are.kamrbb.ru/?x=find&f=uttp#top": {
+    "status": 200,
+    "signals": [],
+    "title": "SMILE PROJECT",
+    "final_url": "https://are.kamrbb.ru/?x=find&f=uttp#top",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:35Z",
+    "url": "https://are.kamrbb.ru/?x=find&f=uttp#top"
+  },
+  "UTTP|https://arhrock.info/forum/members/?username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | ArhRock Forum",
+    "final_url": "https://arhrock.info/forum/members/?username=uttp",
+    "missing": true,
+    "checked_at": "2026-11-22T20:15:36Z",
+    "url": "https://arhrock.info/forum/members/?username=uttp"
+  },
+  "UTTP|https://www.anycubic.com/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Anycubic 3D Printer | For Freedom to Make",
+    "final_url": "https://www.anycubic.com/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:36Z",
+    "url": "https://www.anycubic.com/uttp"
+  },
+  "UTTP|https://avtomarket.ru/u/uttp/": {
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)",
+    "checked_at": "2026-11-22T20:30:45Z",
+    "url": "https://avtomarket.ru/u/uttp/"
+  },
+  "UTTP|https://basescan.org/address/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Base Account (Invalid Address)",
+    "final_url": "https://basescan.org/address/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:36Z",
+    "url": "https://basescan.org/address/uttp"
+  },
+  "UTTP|https://www.audible.com/member/uttp": {
+    "status": 200,
+    "signals": [
+      "user_activity"
+    ],
+    "title": "Audible | Luister audioboeken, hoorspelen & podcasts",
+    "final_url": "https://www.audible.de/?ref=Adbl_ip_rdr_from_US&source_code=ADEFAHP082615903W&ipRedirectFrom=US&ipRedirectOriginalURL=member%2Futtp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:36Z",
+    "url": "https://www.audible.com/member/uttp"
+  },
+  "UTTP|https://www.chamsko.pl/profil/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://chamsko.pl/profil/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:36Z",
+    "url": "https://www.chamsko.pl/profil/uttp"
+  },
+  "UTTP|https://cults3d.com/en/users/UTTP": {
+    "status": 403,
+    "signals": [],
+    "title": "Just a moment...",
+    "final_url": "https://cults3d.com/en/users/UTTP",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:36Z",
+    "url": "https://cults3d.com/en/users/UTTP"
+  },
+  "UTTP|https://civitai.com/user/UTTP": {
+    "status": 403,
+    "signals": [],
+    "title": "Just a moment...",
+    "final_url": "https://civitai.com/user/UTTP",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:36Z",
+    "url": "https://civitai.com/user/UTTP"
+  },
+  "UTTP|https://www.caduser.ru/forum/userlist.php?username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u2014 \u0424\u043e\u0440\u0443\u043c\u044b CADUser",
+    "final_url": "https://www.caduser.ru/forum/userlist.php?username=uttp",
+    "missing": true,
+    "checked_at": "2026-11-22T20:15:36Z",
+    "url": "https://www.caduser.ru/forum/userlist.php?username=uttp"
+  },
+  "UTTP|http://www.cydak.ru/forum/profile.php?mode=viewprofile&u=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "- \u041f\u043e\u0440\u0442\u0430\u043b \u043e\u0431 \u043e\u0442\u0434\u044b\u0445\u0435 \u0432 \u0421\u0443\u0434\u0430\u043a\u0435, \u043e\u0442\u0434\u044b\u0445 \u0432 \u041a\u0440\u044b\u043c\u0443.",
+    "final_url": "http://www.cydak.ru/forum/profile.php?mode=viewprofile&u=uttp",
+    "missing": true,
+    "checked_at": "2026-11-22T20:15:37Z",
+    "url": "http://www.cydak.ru/forum/profile.php?mode=viewprofile&u=uttp"
+  },
+  "UTTP|https://diorama.ru/forum/memberlist.php?mode=viewprofile&u=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "\u0412\u0445\u043e\u0434 | \u0420\u0430\u0437\u0434\u0435\u043b \u0444\u043e\u0440\u0443\u043c\u0430 | Diorama.ru",
+    "final_url": "https://diorama.ru/forum/memberlist.php?mode=viewprofile&u=uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:37Z",
+    "url": "https://diorama.ru/forum/memberlist.php?mode=viewprofile&u=uttp"
+  },
+  "UTTP|http://www.dobroeslovo.ru/memberlist.php?username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u044b\u0439 \u0444\u043e\u0440\u0443\u043c \u0414\u043e\u0431\u0440\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u2022 \u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438",
+    "final_url": "http://www.dobroeslovo.ru/memberlist.php?username=uttp",
+    "missing": true,
+    "checked_at": "2026-11-22T20:15:37Z",
+    "url": "http://www.dobroeslovo.ru/memberlist.php?username=uttp"
+  },
+  "UTTP|https://etherscan.io/address/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Ethereum Account (Invalid Address)",
+    "final_url": "https://etherscan.io/address/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:37Z",
+    "url": "https://etherscan.io/address/uttp"
+  },
+  "UTTP|https://www.fatsecret.com/member/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Sign In",
+    "final_url": "https://foods.fatsecret.com/Auth.aspx?pa=s&ReturnUrl=https%3a%2f%2ffoods.fatsecret.com%3a443%2fmember%2futtp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:38Z",
+    "url": "https://www.fatsecret.com/member/uttp"
+  },
+  "UTTP|https://ficwriter.info/polzovateli/userprofile/uttp.html": {
+    "status": 200,
+    "signals": [],
+    "title": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438",
+    "final_url": "https://ficwriter.info/polzovateli/userprofile/uttp.html",
+    "missing": true,
+    "checked_at": "2026-11-22T20:15:38Z",
+    "url": "https://ficwriter.info/polzovateli/userprofile/uttp.html"
+  },
+  "UTTP|https://www.dice.com/profile/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+    "final_url": "https://www.dice.com/dashboard/login?redirectUrl=%2Fprofile%2Futtp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:38Z",
+    "url": "https://www.dice.com/profile/uttp"
+  },
+  "UTTP|https://feddit.de/u/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://feddit.de/u/uttp",
+    "platform_confidence": 55,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:38Z",
+    "url": "https://feddit.de/u/uttp"
+  },
+  "UTTP|https://www.flaticon.com/uttp": {
+    "status": 403,
+    "signals": [],
+    "title": "That request didn't go through. Our security filter flagged something. You don't have permission to access this page.",
+    "final_url": "https://www.flaticon.com/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:38Z",
+    "url": "https://www.flaticon.com/uttp"
+  },
+  "UTTP|https://foropuros.com/members/uttp/": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://foropuros.com/members/uttp/",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:39Z",
+    "url": "https://foropuros.com/members/uttp/"
+  },
+  "UTTP|https://forum.playtime-forum.info/members/?username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Namhafte Mitglieder | Playtime Forum",
+    "final_url": "https://www.playtime-forum.info/forum/members/?username=uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:39Z",
+    "url": "https://forum.playtime-forum.info/members/?username=uttp"
+  },
+  "UTTP|https://forums.somethingawful.com/member.php?u=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Something happened - The Something Awful Forums",
+    "final_url": "https://forums.somethingawful.com/member.php?u=uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:39Z",
+    "url": "https://forums.somethingawful.com/member.php?u=uttp"
+  },
+  "UTTP|https://free-lance.ua/users/uttp/": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://free-lance.ua/users/uttp/",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:39Z",
+    "url": "https://free-lance.ua/users/uttp/"
+  },
+  "UTTP|https://fragment.com/username/UTTP": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "metadata",
+      "redirect",
+      "structured",
+      "user_activity"
+    ],
+    "title": "uttp \u2013 Fragment",
+    "final_url": "https://fragment.com/username/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:39Z",
+    "url": "https://fragment.com/username/UTTP"
+  },
+  "UTTP|https://gamebanana.com/uttp": {
+    "status": 404,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Tango Down! | GameBanana",
+    "final_url": "https://gamebanana.com/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:39Z",
+    "url": "https://gamebanana.com/uttp"
+  },
+  "UTTP|http://forums.railfan.net/forums.cgi?action=viewprofile;username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Human Verification - Forums.Railfan.net",
+    "final_url": "http://forums.railfan.net/human-check.cgi?dest=/forums.cgi%3faction=viewprofile%3busername=uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:39Z",
+    "url": "http://forums.railfan.net/forums.cgi?action=viewprofile;username=uttp"
+  },
+  "UTTP|https://www.google.com/travel/flights/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Before you continue",
+    "final_url": "https://consent.google.com/m?continue=https://www.google.com/travel/flights/uttp&gl=DE&m=0&pc=flt&cm=2&hl=en-US&src=1",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:40Z",
+    "url": "https://www.google.com/travel/flights/uttp"
+  },
+  "UTTP|https://giphy.com/UTTP": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "jsonld",
+      "metadata",
+      "redirect"
+    ],
+    "title": "Uttp GIFs - Find & Share on GIPHY",
+    "final_url": "https://giphy.com/explore/UTTP",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:40Z",
+    "url": "https://giphy.com/UTTP"
+  },
+  "UTTP|https://hypixel.net/player/uttp": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "metadata"
+    ],
+    "title": "uttp | Hypixel Forums",
+    "final_url": "https://hypixel.net/player/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:40Z",
+    "url": "https://hypixel.net/player/uttp"
+  },
+  "UTTP|https://hyundaitruckclub.kamrbb.ru/?x=find&f=uttp&type=topics&nick=on#top": {
+    "status": 200,
+    "signals": [],
+    "title": "HyundaiTruckClub",
+    "final_url": "https://hyundaitruckclub.kamrbb.ru/?x=find&f=uttp&type=topics&nick=on#top",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:41Z",
+    "url": "https://hyundaitruckclub.kamrbb.ru/?x=find&f=uttp&type=topics&nick=on#top"
+  },
+  "UTTP|https://www.instagram.com/uttp/": {
+    "status": 200,
+    "signals": [],
+    "title": "Instagram",
+    "final_url": "https://www.instagram.com/uttp/",
+    "missing": true,
+    "checked_at": "2026-11-22T20:15:41Z",
+    "url": "https://www.instagram.com/uttp/"
+  },
+  "UTTP|https://www.itemfix.com/c/uttp": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "ItemFix - Channel:",
+    "final_url": "https://www.itemfix.com/c/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:42Z",
+    "url": "https://www.itemfix.com/c/uttp"
+  },
+  "UTTP|https://gist.github.com/uttp": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata",
+      "microdata"
+    ],
+    "title": "uttp\u2019s gists \u00b7 GitHub",
+    "final_url": "https://gist.github.com/uttp",
+    "platform_confidence": 90,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:15:45Z",
+    "url": "https://gist.github.com/uttp"
+  },
+  "UTTP|https://instaprofi.ru/profile/UTTP": {
+    "error": "All connection attempts failed",
+    "checked_at": "2026-11-22T20:30:52Z",
+    "url": "https://instaprofi.ru/profile/UTTP"
+  },
+  "SPAWNISM|https://app.trakt.tv/profile/spawnism": {
+    "status": 200,
+    "signals": [
+      "canonical",
+      "user_activity"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/spawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:43Z",
+    "url": "https://app.trakt.tv/profile/spawnism"
+  },
+  "SPAWNISM|https://www.duolingo.com/profile/spawnism": {
+    "status": 200,
+    "signals": [
+      "canonical",
+      "metadata",
+      "user_activity"
+    ],
+    "title": "Duolingo",
+    "final_url": "https://www.duolingo.com/profile/spawnism",
+    "platform_confidence": 85,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:43Z",
+    "url": "https://www.duolingo.com/profile/spawnism"
+  },
+  "SPAWNISM|https://www.snapchat.com/@spawnism": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "jsonld",
+      "metadata",
+      "structured",
+      "user_activity"
+    ],
+    "title": "Spawnism (@spawnism) | Snapchat Storys, Spotlight und Linsen",
+    "final_url": "https://www.snapchat.com/@spawnism",
+    "platform_confidence": 45,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:43Z",
+    "url": "https://www.snapchat.com/@spawnism"
+  },
+  "SPAWNISM|https://www.paypal.com/paypalme/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/spawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:43Z",
+    "url": "https://www.paypal.com/paypalme/spawnism"
+  },
+  "SPAWNISM|https://t.me/spawnism": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata",
+      "user_activity"
+    ],
+    "title": "Telegram: View @spawnism",
+    "final_url": "https://t.me/spawnism",
+    "platform_confidence": 80,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:43Z",
+    "url": "https://t.me/spawnism"
+  },
+  "SPAWNISM|https://www.pinterest.com/spawnism/": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "jsonld",
+      "metadata",
+      "structured",
+      "user_activity"
+    ],
+    "title": "Micah S (SpawnISM) - Profile | Pinterest",
+    "final_url": "https://www.pinterest.com/spawnism/",
+    "platform_confidence": 75,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:44Z",
+    "url": "https://www.pinterest.com/spawnism/"
+  },
+  "SPAWNISM|https://www.wattpad.com/user/Spawnism": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "metadata",
+      "structured",
+      "user_activity"
+    ],
+    "title": "Spawnism - Wattpad",
+    "final_url": "https://www.wattpad.com/user/Spawnism",
+    "platform_confidence": 80,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:44Z",
+    "url": "https://www.wattpad.com/user/Spawnism"
+  },
+  "SPAWNISM|https://www.tiktok.com/@spawnism": {
+    "status": 200,
+    "signals": [
+      "json",
+      "structured",
+      "user_activity"
+    ],
+    "title": "TikTok - Make Your Day",
+    "final_url": "https://www.tiktok.com/@spawnism",
+    "platform_confidence": 95,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:44Z",
+    "url": "https://www.tiktok.com/@spawnism"
+  },
+  "SPAWNISM|https://vimeo.com/showcase/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Showcase on Vimeo",
+    "final_url": "https://vimeo.com/showcase/spawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:44Z",
+    "url": "https://vimeo.com/showcase/spawnism"
+  },
+  "SPAWNISM|https://steamcommunity.com/id/spawnism": {
+    "status": 429,
+    "signals": [],
+    "title": "Steam Community :: Error",
+    "final_url": "https://steamcommunity.com/id/spawnism",
+    "platform_confidence": 85,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:44Z",
+    "url": "https://steamcommunity.com/id/spawnism"
+  },
+  "SPAWNISM|https://www.wishlistr.com/spawnism/": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://www.wishlistr.com/spawnism/",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:44Z",
+    "url": "https://www.wishlistr.com/spawnism/"
+  },
+  "SPAWNISM|https://www.youtube.com/@spawnism": {
+    "status": 200,
+    "signals": [
+      "user_activity"
+    ],
+    "title": "Bevor Sie zu YouTube weitergehen",
+    "final_url": "https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2F%40spawnism%3Fcbrd%3D1&gl=DE&m=0&pc=yt&cm=2&hl=de&src=1",
+    "platform_confidence": 90,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:45Z",
+    "url": "https://www.youtube.com/@spawnism"
+  },
+  "SPAWNISM|https://spawnism.bandcamp.com": {
+    "status": 200,
+    "signals": [],
+    "title": "Signup | Bandcamp",
+    "final_url": "https://bandcamp.com/signup?new_domain=spawnism",
+    "missing": true,
+    "checked_at": "2026-11-22T20:30:45Z",
+    "url": "https://spawnism.bandcamp.com"
+  },
+  "UTTP|https://www.kaskus.co.id/@uttp": {
+    "status": 200,
+    "signals": [
+      "json",
+      "structured",
+      "user_activity"
+    ],
+    "title": "KASKUS - Berbagi Hobi, Berkomunitas",
+    "final_url": "https://www.kaskus.co.id/@uttp",
+    "platform_confidence": 45,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:45Z",
+    "url": "https://www.kaskus.co.id/@uttp"
+  },
+  "UTTP|https://kick.com/uttp": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "jsonld",
+      "metadata"
+    ],
+    "title": "uttp Live Stream - Watch Live on KICK",
+    "final_url": "https://kick.com/uttp",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:46Z",
+    "url": "https://kick.com/uttp"
+  },
+  "UTTP|https://libraries.io/github/uttp/": {
+    "status": 200,
+    "signals": [
+      "author_meta",
+      "body",
+      "canonical",
+      "metadata",
+      "microdata",
+      "redirect",
+      "user_activity"
+    ],
+    "title": "uttp (uttp) \u00b7 GitHub",
+    "final_url": "https://github.com/uttp",
+    "platform_confidence": 90,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:46Z",
+    "url": "https://libraries.io/github/uttp/"
+  },
+  "UTTP|https://www.lightstalking.com/author/uttp/": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://www.lightstalking.com/author/uttp/",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:47Z",
+    "url": "https://www.lightstalking.com/author/uttp/"
+  },
+  "UTTP|https://www.lifeofpix.com/uttp": {
+    "status": 200,
+    "signals": [
+      "canonical",
+      "jsonld"
+    ],
+    "title": "Life of Pix",
+    "final_url": "https://www.lifeofpix.com/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:47Z",
+    "url": "https://www.lifeofpix.com/uttp"
+  },
+  "UTTP|https://linkpop.com/uttp": {
+    "status": 200,
+    "signals": [
+      "redirect"
+    ],
+    "title": "",
+    "final_url": "https://linkpop.com/uttp/index.html",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:47Z",
+    "url": "https://linkpop.com/uttp"
+  },
+  "UTTP|https://www.livetrack24.com/user/UTTP": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata",
+      "user_activity"
+    ],
+    "title": "LiveTrack24 | User - UTTP",
+    "final_url": "https://www.livetrack24.com/user/UTTP",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:47Z",
+    "url": "https://www.livetrack24.com/user/UTTP"
+  },
+  "UTTP|https://www.liveinternet.ru/users/uttp/profile": {
+    "status": 200,
+    "signals": [
+      "author_meta",
+      "body",
+      "metadata",
+      "rel_author",
+      "user_activity"
+    ],
+    "title": "\u041f\u0440\u043e\u0444\u0438\u043b\u044c uttp - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f LiveInternet.ru",
+    "final_url": "https://www.liveinternet.ru/users/uttp/profile",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:47Z",
+    "url": "https://www.liveinternet.ru/users/uttp/profile"
+  },
+  "UTTP|https://macosx.com/members/uttp/": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://macosx.com/members/uttp/",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:48Z",
+    "url": "https://macosx.com/members/uttp/"
+  },
+  "UTTP|http://www.mactalk.com.au/member.php?username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "",
+    "final_url": "http://www.mactalk.com.au/member.php?username=uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:48Z",
+    "url": "http://www.mactalk.com.au/member.php?username=uttp"
+  },
+  "SPAWNISM|https://tweakers.net/gallery/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "DPG Media Privacy Gate",
+    "final_url": "https://myprivacy.dpgmedia.nl/consent?siteKey=kzz6o4y8ybwvpkea&callbackUrl=https%3A%2F%2Ftweakers.net%2Fprivacygate-confirm%3FredirectUri%3D%252Fgallery%252Fspawnism&isLoggedIn=false",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:30:48Z",
+    "url": "https://tweakers.net/gallery/spawnism"
+  },
+  "UTTP|https://lolchess.gg/profile/na/uttp": {
+    "status": 200,
+    "signals": [
+      "body"
+    ],
+    "title": "\ub864\uccb4\uc9c0\uc9c0 \uc804\ub7b5\uc801 \ud300 \uc804\ud22c TFT (\ub864\ud1a0\uccb4\uc2a4) \uc804\uc801\uac80\uc0c9",
+    "final_url": "https://lolchess.gg/search?region=na&name=uttp&hl=ko",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:49Z",
+    "url": "https://lolchess.gg/profile/na/uttp"
+  },
+  "UTTP|https://manifold.markets/uttp": {
+    "status": 200,
+    "signals": [
+      "json",
+      "structured",
+      "user_activity"
+    ],
+    "title": "Manifold",
+    "final_url": "https://manifold.markets/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:49Z",
+    "url": "https://manifold.markets/uttp"
+  },
+  "UTTP|https://makezine.com/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "This is not the page you're looking for... | Make: DIY Projects and Ideas for Makers",
+    "final_url": "https://makezine.com/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:49Z",
+    "url": "https://makezine.com/uttp"
+  },
+  "UTTP|https://www.mapmyrun.com/athlete/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "MapMyRun",
+    "final_url": "https://www.mapmyrun.com/auth/login/?next=%2Fathlete%2Futtp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:50Z",
+    "url": "https://www.mapmyrun.com/athlete/uttp"
+  },
+  "UTTP|https://www.mapmyride.com/athlete/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "MapMyRide",
+    "final_url": "https://www.mapmyride.com/auth/login/?next=%2Fathlete%2Futtp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:50Z",
+    "url": "https://www.mapmyride.com/athlete/uttp"
+  },
+  "UTTP|https://max.ru/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "MAX \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u0438 \u043b\u0435\u0433\u043a\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0438 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0445 \u0437\u0430\u0434\u0430\u0447",
+    "final_url": "https://max.ru/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:50Z",
+    "url": "https://max.ru/uttp"
+  },
+  "UTTP|https://www.mapmywalk.com/athlete/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "MapMyWalk",
+    "final_url": "https://www.mapmywalk.com/auth/login/?next=%2Fathlete%2Futtp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:51Z",
+    "url": "https://www.mapmywalk.com/athlete/uttp"
+  },
+  "UTTP|http://megane2.ru/forum/members/?username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | \u0424\u043e\u0440\u0443\u043c \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u0432 Renault Megane",
+    "final_url": "https://megane2.ru/forum/members/?username=uttp",
+    "missing": true,
+    "checked_at": "2026-11-22T20:30:51Z",
+    "url": "http://megane2.ru/forum/members/?username=uttp"
+  },
+  "UTTP|https://minecraft-statistic.net/ru/player/uttp.html": {
+    "status": 200,
+    "signals": [
+      "body",
+      "jsonld",
+      "metadata",
+      "user_activity"
+    ],
+    "title": "uttp \u2014 \u043f\u0440\u043e\u0444\u0438\u043b\u044c \u0438\u0433\u0440\u043e\u043a\u0430 Minecraft, \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0438 \u0441\u043a\u0438\u043d",
+    "final_url": "https://minecraft-statistic.net/ru/player/uttp.html",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:51Z",
+    "url": "https://minecraft-statistic.net/ru/player/uttp.html"
+  },
+  "UTTP|https://www.mercadolivre.com.br/perfil/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Parece que esta p\u00e1gina n\u00e3o existe",
+    "final_url": "https://www.mercadolivre.com.br/perfil/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:51Z",
+    "url": "https://www.mercadolivre.com.br/perfil/uttp"
+  },
+  "UTTP|https://minfin.com.ua/users/uttp/": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "\u041f\u0440\u043e\u0444\u0438\u043b\u044c \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d - Minfin.com.ua",
+    "final_url": "https://minfin.com.ua/users/uttp/",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:52Z",
+    "url": "https://minfin.com.ua/users/uttp/"
+  },
+  "UTTP|https://minecraftlist.com/players/UTTP": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "jsonld",
+      "metadata"
+    ],
+    "title": "UTTP's Minecraft Profile \u2014 Servers Played, Skin & Activity | Minecraft List",
+    "final_url": "https://minecraftlist.com/players/UTTP",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:54Z",
+    "url": "https://minecraftlist.com/players/UTTP"
+  },
+  "UTTP|https://maga-chat.com/uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "",
+    "final_url": "https://maga-chat.com/uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:30:58Z",
+    "url": "https://maga-chat.com/uttp"
   }
 }

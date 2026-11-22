@@ -28,7 +28,7 @@ from ominis_src import username  # noqa: E402
 
 BASE = Path(__file__).resolve().parent
 ROOT = BASE.parent
-REGISTER = ROOT / '22_UTTP_DOMAINS' / 'DOMAINS_REGISTER.csv'
+REGISTER = ROOT / '22_ENTITY_DOMAINS' / 'DOMAINS_REGISTER.csv'
 QUEUE = BASE / 'domain_validation_queue.csv'
 CACHE = BASE / 'ominis_discovery_cache.json'
 
