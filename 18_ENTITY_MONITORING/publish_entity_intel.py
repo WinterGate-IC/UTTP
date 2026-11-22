@@ -139,18 +139,12 @@ def write_index(data):
 
 
 def git_has_changes():
-    manifest = ROOT / '00_READ_FIRST' / 'MANIFEST.csv'
-    manifest_sha = ROOT / '00_READ_FIRST' / 'MANIFEST.sha256'
-    paths = [str(OUT.relative_to(ROOT)), str(manifest.relative_to(ROOT)), str(manifest_sha.relative_to(ROOT))]
-    r = run(['git', 'status', '--porcelain', '--'] + paths)
+    r = run(['git', 'status', '--porcelain'])
     return bool(r.stdout.strip())
 
 
 def git_commit_push():
-    manifest = ROOT / '00_READ_FIRST' / 'MANIFEST.csv'
-    manifest_sha = ROOT / '00_READ_FIRST' / 'MANIFEST.sha256'
-    paths = [str(OUT.relative_to(ROOT)), str(manifest.relative_to(ROOT)), str(manifest_sha.relative_to(ROOT))]
-    r = run(['git', 'add', '--'] + paths)
+    r = run(['git', 'add', '-A'])
     if r.returncode != 0:
         return {'pushed': False, 'reason': 'git add failed: ' + redact(r.stderr)}
     r = run(['git', 'diff', '--cached', '--quiet'])
