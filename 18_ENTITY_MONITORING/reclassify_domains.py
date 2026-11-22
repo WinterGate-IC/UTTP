@@ -33,8 +33,8 @@ def main():
     for r in rows:
         entity = r['entity_id']
         url = r.get('url', '')
-        # Preserve user-provided and Ominis-verified rows as-is
-        if r.get('source') == 'User-provided' or 'ominis-verified' in (r.get('validation_status') or ''):
+        # Preserve user-provided and Ominis-validated rows as-is
+        if r.get('source') == 'User-provided' or 'ominis-' in (r.get('validation_status') or ''):
             continue
         exact = has_exact_token(url, entity)
         status_ok = r.get('status', '') in {'200', '206', '204'}

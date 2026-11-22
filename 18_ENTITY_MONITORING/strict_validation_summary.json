@@ -14,7 +14,7 @@
   },
   "internal_links_checked": 149,
   "broken_internal_links": [],
-  "json_files_checked": 167,
+  "json_files_checked": 168,
   "bad_json_files": [],
   "non_strict_json_exports": [
     {
@@ -28,7 +28,7 @@
   ],
   "csv_files_checked": 32,
   "bad_csv_files": [],
-  "manifest_rows_checked": 744,
+  "manifest_rows_checked": 745,
   "bad_manifest_rows": [],
   "manifest_hash_ok": true,
   "candidate_handles": 15,

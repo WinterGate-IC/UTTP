@@ -30,9 +30,12 @@ entity is tracked through the links and registers below:
 4. `fill_tel.py` pushes the group-level register to TEL.
 5. `sync_tel_intake.py` pulls newly listed TEL names into `tel_intake.json` as
    review leads.
-6. `ominis_validate.py` (opt-in with `OMINIS_VALIDATE=1`) re-checks domain
-   leads using Ominis-OSINT's page metadata, canonical, redirect, structured
-   data, and visible-body validation signals.
+6. `ominis_validate.py` automatically re-checks domain leads in small batches
+   (default 40 per run) using Ominis-OSINT page reads. It requires a strong
+   signal (metadata, canonical, redirect, embedded JSON, or structured data);
+   HTTP 200 alone is not accepted, and visible-body-only matches stay
+   unverified. Disable with `OMINIS_VALIDATE=0`; tune with `OMINIS_BUDGET` and
+   `OMINIS_CONCURRENCY`.
 7. `reclassify_domains.py` enforces exact-token domain attribution and rewrites
    the per-entity domain CSVs and summary.
 8. `build_entity_intelligence.py` rebuilds `entity-intelligence.json` from the

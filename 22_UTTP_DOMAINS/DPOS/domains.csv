@@ -1,9 +1,9 @@
 entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
-DPOS,1001tracklists.com,https://www.1001tracklists.com/user/dpos/index.html,1001tracklists,206,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
-DPOS,1x.com,https://1x.com/member/dpos,1x,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
-DPOS,arhrock.info,https://arhrock.info/forum/members/?username=dpos,Arhrock,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
-DPOS,audiojungle.net,https://audiojungle.net/user/dpos,Audiojungle,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,ominis-verified (metadata); HTTP 200; ownership confirmed,ominis-verified
-DPOS,audiomack.com,https://audiomack.com/dpos,Audiomack,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,ominis-verified (metadata); HTTP 200; ownership confirmed,ominis-verified
+DPOS,1001tracklists.com,https://www.1001tracklists.com/user/dpos/index.html,1001tracklists,206,45,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.,ominis-no-match; HTTP 206; unverified,
+DPOS,1x.com,https://1x.com/member/dpos,1x,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,ominis-verified (canonical); HTTP 200; ownership unverified,ominis-verified
+DPOS,arhrock.info,https://arhrock.info/forum/members/?username=dpos,Arhrock,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.,ominis-no-match; HTTP 200; unverified,
+DPOS,audiojungle.net,https://audiojungle.net/user/dpos,Audiojungle,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,"ominis-verified (metadata); HTTP 200; handle verified, ownership unverified",ominis-verified
+DPOS,audiomack.com,https://audiomack.com/dpos,Audiomack,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,"ominis-verified (metadata); HTTP 200; handle verified, ownership unverified",ominis-verified
 DPOS,audius.co,https://audius.co/dpos,Audius,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
 DPOS,bandlab.com,https://www.bandlab.com/api/v1.3/users/dpos,Bandlab,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
 DPOS,blog.naver.com,https://blog.naver.com/dpos,Naver Blog,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
