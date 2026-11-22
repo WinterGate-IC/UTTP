@@ -456,10 +456,12 @@ def mark_row(row, result):
     return True
 
 
-async def validate(all_rows, target_rows, budget, concurrency, timeout):
+async def validate(all_rows, target_rows, budget, concurrency, timeout, verified_only=False):
     cache = load_json(CACHE, {})
     candidates = []
     for row in target_rows:
+        if verified_only and row.get('link_confirmed') != 'True':
+            continue
         if not is_candidate(row):
             continue
         key = f"{row['entity_id']}|{row['url']}"
@@ -526,6 +528,8 @@ def main():
     parser.add_argument('--timeout', type=float, default=DEFAULT_TIMEOUT)
     parser.add_argument('--force', action='store_true',
                         help='Ignore cache freshness')
+    parser.add_argument('--verified-only', action='store_true',
+                        help='Revalidate only already verified domains')
     args = parser.parse_args()
 
     all_rows = load_register()
@@ -541,7 +545,8 @@ def main():
         CACHE.write_text(json.dumps(cache, indent=2) + '\n', encoding='utf-8')
 
     checked, updated = asyncio.run(
-        validate(all_rows, target_rows, args.budget, args.concurrency, args.timeout))
+        validate(all_rows, target_rows, args.budget, args.concurrency,
+                 args.timeout, args.verified_only))
 
     if updated:
         try:
