@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
-"""Re-classify domains register using exact-token (word-boundary) matching."""
-import csv, json, re
-from pathlib import Path
+"""Re-classify domains and split verified links from unverified leads."""
+import csv
+import json
+import re
 import sys
+from collections import defaultdict
+from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from discover import TOKENS
@@ -10,87 +13,105 @@ from discover import TOKENS
 BASE = Path(__file__).resolve().parent
 ROOT = BASE.parent
 REGISTER = ROOT / '22_UTTP_DOMAINS' / 'DOMAINS_REGISTER.csv'
+LEADS = BASE / 'domain_validation_queue.csv'
 PER_ENTITY_DIR = ROOT / '22_UTTP_DOMAINS'
 SUMMARY_JSON = PER_ENTITY_DIR / 'SUMMARY.json'
+DEFAULT_FIELDS = [
+    'entity_id', 'domain', 'url', 'platform', 'status', 'confidence',
+    'source', 'occurrences', 'link_confirmed', 'notes', 'validation_status',
+    'entity_match',
+]
+
 
 def has_exact_token(url, entity_id):
-    """Return True if any token for entity_id appears as whole word in lowercased URL."""
     text = (url or '').lower()
-    tokens = TOKENS.get(entity_id, set())
-    for tok in tokens:
-        # Use regex word boundary; token may contain non-word chars like digits.
+    for tok in TOKENS.get(entity_id, set()):
         if re.search(r'\b' + re.escape(tok) + r'\b', text):
             return True
     return False
 
-def main():
-    with REGISTER.open(newline='', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames
-        rows = list(reader)
 
-    # Re-evaluate each row
-    for r in rows:
-        entity = r['entity_id']
-        url = r.get('url', '')
-        # Preserve user-provided and Ominis-validated rows as-is
-        if r.get('source') == 'User-provided' or 'ominis-' in (r.get('validation_status') or ''):
-            continue
-        exact = has_exact_token(url, entity)
-        status_ok = r.get('status', '') in {'200', '206', '204'}
-        confirmed = exact and status_ok
-        r['link_confirmed'] = 'True' if confirmed else 'False'
-        r['entity_match'] = 'exact-handle-token' if exact else ''
-        if confirmed:
-            r['validation_status'] = 'handle-token present; HTTP 2xx; ownership unverified'
-        else:
-            r['validation_status'] = 'unverified: no exact handle token or non-2xx response'
-        # Update notes for unverified StyxNet rows
-        if not confirmed and r.get('notes', '').startswith('Passive username-search lead'):
-            r['notes'] = 'Auto-extracted from StyxNet; verify before citation.'
+def read_rows(path):
+    if not path.exists():
+        return []
+    with path.open(newline='', encoding='utf-8') as f:
+        return list(csv.DictReader(f))
 
-    # Write updated register
-    with REGISTER.open('w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+
+def write_rows(path, rows, fieldnames):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open('w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
         writer.writeheader()
         writer.writerows(rows)
 
-    # Group by entity and write per-entity CSVs
-    from collections import defaultdict
+
+def main():
+    register_rows = read_rows(REGISTER)
+    lead_rows = read_rows(LEADS)
+    fieldnames = list(register_rows[0].keys()) if register_rows else (
+        list(lead_rows[0].keys()) if lead_rows else list(DEFAULT_FIELDS))
+
+    combined = {}
+    for row in lead_rows + register_rows:
+        key = (row.get('entity_id'), row.get('url'), row.get('domain'))
+        combined[key] = row
+    rows = list(combined.values())
+
+    for row in rows:
+        entity = row.get('entity_id', '')
+        url = row.get('url', '')
+        if row.get('source') == 'User-provided':
+            continue
+        if 'ominis-' in (row.get('validation_status') or ''):
+            continue
+        exact = has_exact_token(url, entity)
+        row['link_confirmed'] = 'False'
+        row['entity_match'] = 'exact-handle-token' if exact else ''
+        if exact:
+            row['validation_status'] = 'unverified: awaiting Ominis page validation'
+        else:
+            row['validation_status'] = 'unverified: no exact handle token'
+        if row.get('notes', '').startswith('Passive username-search lead'):
+            row['notes'] = 'Auto-extracted from StyxNet; verify before citation.'
+
+    verified = [r for r in rows if r.get('link_confirmed') == 'True']
+    leads = [r for r in rows if r.get('link_confirmed') != 'True']
+
+    write_rows(REGISTER, verified, fieldnames)
+    write_rows(LEADS, leads, fieldnames)
+
     grouped = defaultdict(list)
-    for r in rows:
-        grouped[r['entity_id']].append(r)
-
+    for row in verified:
+        grouped[row.get('entity_id', '')].append(row)
+    for stale in PER_ENTITY_DIR.glob('*/domains.csv'):
+        stale.unlink()
     for entity_id, ent_rows in grouped.items():
-        out_path = PER_ENTITY_DIR / entity_id / 'domains.csv'
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        with out_path.open('w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(ent_rows)
+        if not entity_id:
+            continue
+        write_rows(PER_ENTITY_DIR / entity_id / 'domains.csv', ent_rows, fieldnames)
 
-    # Update SUMMARY.json
-    unique_domains = len({r['domain'] for r in rows})
-    confirmed = sum(1 for r in rows if r['link_confirmed'] == 'True')
+    unique_domains = len({r.get('domain') for r in verified if r.get('domain')})
     entity_counts = {}
-    for r in rows:
-        entity_counts[r['entity_id']] = entity_counts.get(r['entity_id'], 0) + 1
+    for row in verified:
+        entity = row.get('entity_id', '')
+        entity_counts[entity] = entity_counts.get(entity, 0) + 1
 
     summary = {
-        'total_rows': len(rows),
+        'total_rows': len(verified),
         'unique_domains': unique_domains,
-        'confirmed_links': confirmed,
+        'confirmed_links': len(verified),
+        'unverified_leads': len(leads),
         'entities': entity_counts,
     }
     with SUMMARY_JSON.open('w', encoding='utf-8') as f:
         json.dump(summary, f, indent=2)
 
-    print(json.dumps({
-        'updated_rows': len(rows),
-        'unique_domains': unique_domains,
-        'confirmed_links': confirmed,
-        'entities': entity_counts,
-    }, indent=2))
+    print(json.dumps({'verified_rows': len(verified),
+                      'unverified_leads': len(leads),
+                      'unique_domains': unique_domains,
+                      'entities': entity_counts}, indent=2))
+
 
 if __name__ == '__main__':
     main()

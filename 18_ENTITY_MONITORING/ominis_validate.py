@@ -32,6 +32,7 @@ from ominis_src import platforms, username  # noqa: E402
 BASE = Path(__file__).resolve().parent
 ROOT = BASE.parent
 REGISTER = ROOT / '22_UTTP_DOMAINS' / 'DOMAINS_REGISTER.csv'
+LEADS = BASE / 'domain_validation_queue.csv'
 CACHE = BASE / 'ominis_validation_cache.json'
 
 ENTITY_HANDLES = {
@@ -98,8 +99,19 @@ def load_json(path, default):
     return default
 
 
+def load_rows(path):
+    if not path.exists():
+        return []
+    with path.open(newline='', encoding='utf-8') as f:
+        return list(csv.DictReader(f))
+
+
 def load_register():
-    return list(csv.DictReader(REGISTER.open(newline='', encoding='utf-8')))
+    combined = {}
+    for row in load_rows(LEADS) + load_rows(REGISTER):
+        key = (row.get('entity_id'), row.get('url'), row.get('domain'))
+        combined[key] = row
+    return list(combined.values())
 
 
 def save_register(rows):
@@ -252,7 +264,13 @@ async def validate(all_rows, target_rows, budget, concurrency, timeout):
             continue
         candidates.append((row, key))
 
+    verified_counts = {}
+    for row in all_rows:
+        if row.get('link_confirmed') == 'True':
+            entity = row.get('entity_id', '')
+            verified_counts[entity] = verified_counts.get(entity, 0) + 1
     candidates.sort(key=lambda item: (
+        verified_counts.get(item[0].get('entity_id', ''), 0),
         0 if item[0].get('link_confirmed') == 'True' else 1,
         item[0].get('entity_id', ''),
         item[0].get('domain', ''),

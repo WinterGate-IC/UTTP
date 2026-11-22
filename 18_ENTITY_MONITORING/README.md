@@ -16,6 +16,7 @@ entity is tracked through the links and registers below:
 | Tracking board | [TRACKING_BOARD.md](https://github.com/WinterGate-IC/UTTP/blob/main/12_TRACKING/TRACKING_BOARD.md) |
 | StyxNet validation | [StyxNet site](https://wintergate.org/styxnet/) · [`strict_validation_summary.json`](strict_validation_summary.json) · [`styxnet_profiles.json`](styxnet_profiles.json) |
 | Ominis-OSINT validation | [`ominis_validate.py`](ominis_validate.py) · [Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) |
+| Internal domain validation queue | [`domain_validation_queue.csv`](domain_validation_queue.csv) — unverified leads only; not published as domain intelligence |
 | Backend status feeds | [monitor-feed.json](https://wintergate.org/data/monitor-feed.json) · [tel-intake.json](https://wintergate.org/data/tel-intake.json) · [cold-storage-status.json](https://wintergate.org/data/cold-storage-status.json) |
 | TEL threat register | Local TEL API, synced by `fill_tel.py` and `sync_tel_intake.py` |
 
@@ -36,8 +37,11 @@ entity is tracked through the links and registers below:
    HTTP 200 alone is not accepted, and visible-body-only matches stay
    unverified. Disable with `OMINIS_VALIDATE=0`; tune with `OMINIS_BUDGET` and
    `OMINIS_CONCURRENCY`.
-7. `reclassify_domains.py` enforces exact-token domain attribution and rewrites
-   the per-entity domain CSVs and summary.
+7. `reclassify_domains.py` keeps only Ominis-verified or user-verified rows in
+   `22_UTTP_DOMAINS/DOMAINS_REGISTER.csv`. Unverified leads move to the internal
+   `domain_validation_queue.csv` and are not published in the domain archive or
+   Explore tab. Per-entity domain CSVs and the summary contain verified rows
+   only.
 8. `build_entity_intelligence.py` rebuilds `entity-intelligence.json` from the
    registers, sources, claims, areas, discovery outputs, and validation state.
 9. `cold_storage.py` writes hashed compressed snapshots under
