@@ -12,9 +12,9 @@
     "search_or_query_page": 48,
     "strict_valid": 233
   },
-  "internal_links_checked": 114,
+  "internal_links_checked": 146,
   "broken_internal_links": [],
-  "json_files_checked": 129,
+  "json_files_checked": 166,
   "bad_json_files": [],
   "non_strict_json_exports": [
     {
@@ -28,15 +28,11 @@
   ],
   "csv_files_checked": 17,
   "bad_csv_files": [],
-  "manifest_rows_checked": 639,
+  "manifest_rows_checked": 709,
   "bad_manifest_rows": [
     {
-      "path": "00_READ_FIRST/ARCHIVE_MAP.md",
-      "reason": "size_mismatch"
-    },
-    {
-      "path": "00_READ_FIRST/CHANGELOG.md",
-      "reason": "size_mismatch"
+      "path": "18_ENTITY_MONITORING/discovered_sources.json",
+      "reason": "hash_mismatch"
     },
     {
       "path": "18_ENTITY_MONITORING/discovery_state.json",

@@ -114,7 +114,8 @@ The goal is accountability through documentation. Nothing more.
 | [`15_VALIDATED_CLAIMS/`](15_VALIDATED_CLAIMS/) | Claims that survived source review, with confidence labels. |
 | [`16_VALIDATED_FALSE_CLAIMS/`](16_VALIDATED_FALSE_CLAIMS/) | Quarantined false/superseded claims and approved replacements. |
 | [`17_CURRENT_STATE_PACKAGE/`](17_CURRENT_STATE_PACKAGE/) | Short current-state assessment and platform/authority handoff package. |
-| [`18_ENTITY_MONITORING/`](18_ENTITY_MONITORING/) | All monitored entities, tracking links, validation, and automated pipeline. |
+| [`18_ENTITY_MONITORING/`](18_ENTITY_MONITORING/) | All monitored entities, tracking links, validation, passive OSINT, and automated pipeline. |
+| [`19_ENTITY_INTEL_PUBLISH/`](19_ENTITY_INTEL_PUBLISH/) | GitHub mirror: one organized folder per entity, updated periodically. |
 
 No original file was deleted in the 2026-11-19 pass. See
 [`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and

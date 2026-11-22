@@ -33,7 +33,10 @@ entity is tracked through the links and registers below:
    registers, sources, claims, areas, discovery outputs, and validation state.
 7. `cold_storage.py` writes hashed compressed snapshots under
    `/var/lib/wintergate/cold_storage/`.
-8. `update_manifest.py` regenerates `00_READ_FIRST/MANIFEST.csv` and its SHA-256.
+8. `publish_entity_intel.py` writes one folder per entity under
+   `19_ENTITY_INTEL_PUBLISH/`, refreshes the manifest, and pushes at most once
+   every 6 hours after checking the GitHub rate limit.
+9. `update_manifest.py` regenerates `00_READ_FIRST/MANIFEST.csv` and its SHA-256.
 
 This is the backend of record; the GitHub repository is an archive mirror. Run everything with `bash run_pipeline.sh`.
 

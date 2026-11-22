@@ -1,1 +1,4832 @@
-[]
+[
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "1001tracklists",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "123rf",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "162nord.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "1inch",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "1x",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "2gis",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "33bru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "3ddd",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "3dmir.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "4x4.tomsk.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "500px",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "650f.bike",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "aback",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "about.me",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "adobe",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "adultfriendfinder",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "aggie.io",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "airbit",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "akforum.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "alienvault otx",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "allthesoft",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "alushta24",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "amax-sb.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "amazon music",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "amazon music artist",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "amazon wish list",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ameba",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "amino",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "amp.flipboard.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "amur",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "anchor",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "anibox",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "anilist",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "animal-hope.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "anime.web.tr",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "animebase",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ankiweb",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "anobii",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "anonup",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ansible galaxy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "antiwomen",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "anycubic",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "anyplace",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "aqa",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "archive.org profile",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "archive.orgparlerposts",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "archive.orgtwitterprofiles",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "archive.orgtwittertweets",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "arduino project hub",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "are.na",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "arekamrbb",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "arhrock",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "artbreeder",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "artbreeder profile",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "artpersona",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "athlinks",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "athlinks events",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "audible",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "audiojungle",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "audiomack",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "audius",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "aufeminin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "authorstream",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "autolenta",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "autotob.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "avtomarket",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "aws skills profile",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "badoo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bahamut",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bandcamp",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bandcamp labels",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bandlab",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bangumi",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "banki.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "barista",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "barrel aged",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "basescan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bashohota.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "battle.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bbs.boingboing.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "beatstars",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "beehaw",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bentbox",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bento",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bethepro",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bibsonomy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bigo live",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bio.site",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bitly",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "blogi.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "blogs.klerk.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bluesky",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "blur",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "boardx",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bodybuilding",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "bookwyrm",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "brainscale.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "brusheezy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "builtwith",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "buymeacoffee",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cachedview",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "caduser",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "calendly",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "canstockphoto",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "capitalcitycombats",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "car72.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "caravansites",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "caravelgames",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cardingforum",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "carrd.co",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cash app bitcoin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cashapp",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cashme",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "castbox",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "castingcallclub",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "castnetwork",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ccm",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cda.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cedia-club.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cent",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "century 21",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "championat",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "chamsko.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "chaturbate",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "chef supermarket",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "chess.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "chessclub",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "chevrolet-daewoo.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "chiphell",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cifra club",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cigarpass.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "civitai",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "clarity.fm",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "clearvoice",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "climatempo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "clip studio paint",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cloob",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cloudflare",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "club.cnews.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "club.passion.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "clubhouse",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "coddy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "codecademy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "codecanyon",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "codechef",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "coders rank",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "codewars",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "codédex",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "coinbase wallet",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "comet ml",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "community.sweatco.in",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "contactinbio (url)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "coursera learner",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "crates.io",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "crello",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "crown6.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "crypto hack",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cs:go",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cssbattle",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cults3d",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cydak",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "cytoid.io",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dapf.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dark sky",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "darkowl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "db fiddle",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "debian salsa",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "deezer",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "deezer (artist)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "demonscity",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "derevnyaonline",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "detectify",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "deviantart",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "devrant",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dex gurus",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dice",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "diigo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "diorama.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "discord",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "discord server",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "displate",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "disqus",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "diveforum",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dobroeslovo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "donatepay",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "douban",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "doublecmd.h1n.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "douyin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dpaste.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dreamstudio",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dribbble",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "dumpor",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "edelweiss",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "elektronaut",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "element call",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ello",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "envato",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "eporner",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "erome",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "espero-club.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ethereum name service",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "etherscan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "eurofootball",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "eurogamer",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "every noise at once",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "excalidraw",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "eyeem",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "f3.cool",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "facebook",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fancy.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fanscout.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fansly",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fatsecret",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "favera",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "feature.fm",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fedi.lewactwo.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "feedly",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fegatch",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fforum.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ficwriter",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "figma",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "filmwatch",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "filmweb",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fitbit community",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fkclub.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "flashflashrevolution",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "flaticon",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "flbord",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "flickr",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "flickr groups",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "floatplane",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fly.io",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "flyertalk",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "foropuros.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum-dollplanet.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.1796web.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.alconar.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.balletfriends.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.beobuild.rs",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.c-o-k.com.ua",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.danetka.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.gong.bg",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.hebat-malek.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.heroesworld.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.injectorservice.com.ua",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.lancerx.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.league17.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.neformat.com.ua",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.newlcn.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.nvworld.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.openoffice.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.pavlovskyposad.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.prihoz.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.pskovchess.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.rmnt.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.rosalinux.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.rzn.info",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.scssoft.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.spyderco.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.sureai.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.tudiabetes.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.vinograd.info",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.virtualsoccer.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forum.wladimir.su",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forumevaveda",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forumprawne.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forums.linuxmint.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forums.mozfr.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forums.penny-arcade.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "forumyuristov",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fotka",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fotki",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fotolog",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fotothing",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fragment",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "frauflora.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "free-lance.ua",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "freelance.codeby.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "freelanced",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "freelancer.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fundrise",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "funkwhale",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "fur affinity",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "furaffinity",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gab",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gaiaonline",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "game jolt",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gamebanana",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gamedev",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "garminych",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gays",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gaz-24.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gcp",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gdprofiles",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gem.xyz",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "getaround",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gettr",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ghisler.ch",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "giphy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gitee",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "github",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "github gist",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "glitch",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gods unchained",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gog",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "google flights",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "google plus (archived)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "google scholar",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gps-data-team",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "grailed",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "grand-magic.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gravatar",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gribnyemesta",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "guitar.by",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "guns.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "gurushots",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "habbo.com.br",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "habbo.com.tr",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hackaday",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hacker news (posted)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hackerearth",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hackthebox",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hackthissite",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hairforum.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "happy cow",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hcv.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hired profile",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hiveway",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hostelworld",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hsx",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hunting.karelia.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hype machine",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hypixel",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "hyundaitruckclub",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "illustrators",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "imginn",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "imgur",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "induste.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "inkstinct",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "instagram",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "instapaper",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "instaprofi.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "interfaith",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "intervals.icu",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "invision",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "italki",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "itch.io",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "itemfix",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ixbt",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "jeepspb.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "jiosaavn",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "joyreactor.cc",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "juejin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kadroviku.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kandaulismus.cz",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kashanya.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kaskus",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "keybase",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kiabongo.info",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kick",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kidshockey.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kindle vella",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kitsu",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "knownorigin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ko-fi",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kompoz",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kontrolkalemi",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "krskforum.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kuaishou",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "kusama subscan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lampoviedushi.hammarlund.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "league of legends",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lemmy.ee",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lemmy.ml",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lemmy.world",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "letras.mus.br",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "letsbeef",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "libraries",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "life of pix",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lightstalking",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lightstalking.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "likee",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "line",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "line.me",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "linkedin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "linknbio",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "linkpop",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "linktr.ee",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "linktree",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "linuxmint",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "liveinternet",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "livejasmin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "livetrack24",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "livios",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "locus",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lolchess",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "loop",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "looperman",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lubuntu.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lushstories",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "lviv4x4.club",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "maccentre",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "macosx",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mactalk",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "maga-chat",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "magix",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "make:",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mama",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mangaplus",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "manifoldmarkets",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mapillary",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mapmyhike",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mapmyride",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mapmyrun",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mapmywalk",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mastodon",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mau",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "max",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "maxpark",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mcbans",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mcuuid",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "megane2",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "memory.lol",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mercadolivre",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mewe",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "microsoftlearn",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "microsofttechnet",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "milliarderr.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "minds",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "minecraft",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "minecraft forum",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "minecraft-statistic",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "minecraftlist",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "minfin.com.ua",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mint forum",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mintscan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mirtesen",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mitsubishi-asx.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mix",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mixcloud",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mixer",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mixupload",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mkr-rodniki.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mobrep",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "modelhub.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "moto-arena.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "motoforum.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "musicbrainz",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "mym.fans",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "myspace",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nasser-alyamani.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "naturalnews",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "naver band",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "naver blog",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "neko.bin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "neopets",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "neovel",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "newgrounds",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nextcloud talk",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nextdoor",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nga",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ngl.link",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "niconico",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "niftygateway",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ninjakiwi",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nintendo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nitro type",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "notebookreview",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "npm",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nuget",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nvd",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "nygunforum",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "objkt",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "odnoklassniki",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "odysee",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "offroad-forum.de",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "old-games",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "onlyfans",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "open startup",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "opennet",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "openriskmanual.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "opensea",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "opensea (collections)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "optimistic etherscan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "orcid",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "osrs hiscores",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "osu!",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "otechie",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ourdjtalk",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "overwatch",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "oyunlabi.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pages",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pajero4x4.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "paltalk",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "panzoid",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "paragraph",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pastebin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "patreon",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "paypal",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "paypal.me",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "peertube",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "peertube instance",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "peertube.social",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "perfuforum.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "personagra-ta.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "photobucket",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "phpbbguru.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "physicsforums",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "picography",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "picturepush.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "picuki",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pinme",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pinterest",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pixelfed",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pixiv",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "planetaexcel",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "plann",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "play.md",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "playtime",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "plentyoffish",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "plug.dj",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "plurk",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pluto tv",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "podcast index",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "podchaser",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "podchaser creator",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pokemon showdown",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "polarsteps",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "polczat.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "polygonscan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "polywork",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pornhub",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pornhubpornstars",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "postman public workspace",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "prcy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "primal",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "privatebin",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pro-cats",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "producer hive",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "prokoni",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "promodj",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "prosvetlenie",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "proza.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "prv.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "pure",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "qna.center",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "qq",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "queer",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "quotev",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "qzone",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "radiomed",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "radioscanner",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "railfan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rainbow wallet",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "raspberry pi projects",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "reactos.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "realtor",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rec.poker",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "reddit",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "reddit user",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "reincarnationforum",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "remote ok",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "renderosity.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "renren",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rentry",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "repl.it",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "replit",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "reshot",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rest.feo.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "reverbnation",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "revolut.me",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "revue",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "riffle",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rngf",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "roam research",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "roblox",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rockstar social club",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rodobozhie.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "root-me",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "royalcams",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rstudio cloud",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rt20.getbb.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rt21.getbb.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rubygems",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "runescape",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "runkeeper",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "runnersworld",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rusarmy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "rusfishing",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "russianfi",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "s-forum",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "safesurvival.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "salon24.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sanatatur.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sapio",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sasgis.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "savaan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "schemecolor",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "scorcher",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sec edgar",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "second life",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sendgrid",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "seoclerks",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sh.itjust.works",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "shazam artist",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "shelf",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "siava.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sibmama",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sideprojectors",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "signal",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "signal group",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sina weibo (mobile)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "skeb.jp",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "skype",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "skypli",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "smashcast",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "smihub",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "smogon",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sms.portalsms.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "snake forum",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "snap store",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "snapchat",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "snippet.host",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "snort social",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "snusbase",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "social.msdn.microsoft.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "socioforum.su",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sofurry",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "solikick",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "soloby",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "something awful",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sorare",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sorento.kia-club.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "soslujivzi.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "soundcloud",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "soundgym",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "soup",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "southbayriders.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "spaces",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "spaghettimodels",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "spb-projects.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "splice",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "splinterlands",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sportstracker",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "spotify",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "stack overflow",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "stackblitz",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "stacker news",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "stalker-zone",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "stan store",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "star citizen",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "steam",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "steam (by id)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "steam (group)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "steem engine",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "stihi.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "stitcher",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "strava",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "strava clubs",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "streamlabs design",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "strikingly",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "stripchat.global",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "subeta",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "subscan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "sugoidesu",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "suzuri.jp",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "svidbook",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "t-mobilesupport",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tantan",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tapas",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "taplink",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "td ameritrade",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "temu",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tenor.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "terminatorium",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "terraform registry",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "the noun project",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "thegatewaypundit",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "theguardian",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "thelion",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "themeforest",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "thepibay",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "thesimsresource",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "threads",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "threema",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tidal",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tikbuddy.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tinder",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tldrlegal.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "toneden",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "topcoder",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "totseans",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tottenhamhotspur.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "touristlink",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "toutiao",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tproger",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tradingview",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "trakt",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "travis ci",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "treehouse",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "trello",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "trepup.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "trovo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "truth social",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "trworkshop.net",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ttsport.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tubi",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tumblr",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tumblr blog",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "turing",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "turpravda",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "tweakers",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "twitcasting",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "twitch",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "twitch (vod)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "twitch clips",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "twitch vods",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "twitter",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "twitter/x",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "uaksu",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ubisoft club",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ultrasdiary.pl",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "un pac me",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "united masters",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "unitedmasters",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "unity asset store",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "unixforum.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "usaspending",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "v2ex.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vagrant cloud",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vampr",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vcfm.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vegascreativesoftware",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "ventusky",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vercel",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vero",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vevo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vgtimes",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "viber",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "viberate",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "viddler",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "videohive",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vimeo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vimeo showcase",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "virtualireland",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vjudge",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vk music",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vkfaces",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "vw-bus.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wanelo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wappalyzer",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "warzone",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wayback machine",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "weatherunderground station",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "webcams.travel",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "webtoon",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wechat",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "weebly",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wego.social",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "weibo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "what hi-fi?",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "whatsapp",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wickr",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wikimapiaprofile",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wikimapiasearch",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wikizilla.org",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "windy",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "windy alerts",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "windy webcams",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wish",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wishlistr",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "worldcosplay",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wuz",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "www.dateamillionaire.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "www.gta-multiplayer.cz",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "wynk music",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "x",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "xbox",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "xhamster",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "xiaohongshu",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "xn--90aybfeg.xn--p1ai",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "xss.is",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "xvideos",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "xvideosmodels",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "yamaya.ru",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "yandexcollections api",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "yandexmarket",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "yandexreviews",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "yandexzenchannel",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "yandexznatoki",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "yelp (by id)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "younow",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "youtube",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "youtube (channel)",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "youtube music",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "yumpu",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zalo",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zbiornik.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zhihu",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zillow",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zmarsa.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zoig.com",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zoom earth",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zwift",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "platform": "zwiftpower",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  }
+]

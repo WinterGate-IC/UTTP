@@ -338,6 +338,19 @@ sources += [
 ]
 sources += [{'id': 'SL001', 'name': 'Canada Gazette, SOR/2025-263', 'date': '2025-12-17', 'type': 'Regulation', 'url': 'https://gazette.gc.ca/rp-pr/p2/2025/2025-12-17/html/sor-dors263-eng.html', 'use': 'Legal instrument adding 764 to the Canadian list', 'confidence': 'E'}, {'id': 'SL002', 'name': 'NZ Gazette 2025-au7135', 'date': '2025-12-10', 'type': 'Government notice', 'url': 'https://gazette.govt.nz/notice/id/2025-au7135', 'use': 'New Zealand designation of O9A/ONA and Terrorgram Collective on 2025-12-07', 'confidence': 'E'}, {'id': 'SL003', 'name': 'NZ Police — O9A statement of case', 'date': '2025-12', 'type': 'Primary statement of case', 'url': 'https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf', 'use': 'O9A structure, nexions, and 764/NLM/MKY listing', 'confidence': 'E'}, {'id': 'SL004', 'name': 'NZ DPMC decision — Terrorgram/O9A', 'date': '2025', 'type': 'Government decision', 'url': 'https://www.dpmc.govt.nz/publication/decision-designate-terrorgram-collective-and-order-nine-angles-terrorist-entities', 'use': 'Reasoning for O9A designation', 'confidence': 'E'}, {'id': 'SL005', 'name': 'FBI — Maine juvenile 764 case', 'date': '2025-2026', 'type': 'Law enforcement', 'url': 'https://www.fbi.gov/news/press-releases/maine-teenager-is-first-juvenile-in-the-nation-to-be-federally-charged-adjudicated-and-detained-for-acts-related-to-nihilistic-violent-extremist-groups-in-the-764-network', 'use': 'Federal 764-linked case involving a minor', 'confidence': 'E'}, {'id': 'SL006', 'name': 'DOJ — Cherkaoui complaint', 'date': '2025-11', 'type': 'Court complaint', 'url': 'https://www.justice.gov/usao-nj/media/1417486/dl?inline', 'use': 'Individual statements referencing UTTP and 764; not an organizational link', 'confidence': 'E'}]
 
+# ---------- discovered area surfaces ----------
+discovered_areas = json.loads((BASE / 'discovered_areas.json').read_text(encoding='utf-8')) if (BASE / 'discovered_areas.json').exists() else []
+discovered_watchlist = json.loads((BASE / 'discovered_watchlist.json').read_text(encoding='utf-8')) if (BASE / 'discovered_watchlist.json').exists() else []
+for i, row in enumerate(discovered_areas, 1):
+    area_rows.append({
+        'area_id': f'DA{i:04d}',
+        'platform': row.get('platform', 'Unknown'),
+        'surface': row.get('surface_url', ''),
+        'presence_status': row.get('status', 'discovered'),
+        'confidence': row.get('confidence', 'D/S'),
+        'why_relevant': row.get('why', 'Auto-discovered platform surface.'),
+    })
+
 # ---------- areas aggregate ----------
 area_by_platform = {}
 for r in area_rows:
@@ -349,8 +362,19 @@ areas = list(area_by_platform.values())
 # ---------- offshoot watchlist ----------
 watch_rows = read_csv(ROOT / '17_CURRENT_STATE_PACKAGE' / 'OFFSHOOT_WATCHLIST.csv')
 watchlist = []
+seen_watch = set()
 for r in watch_rows:
+    key = nkey(r['name'])
+    if key in seen_watch:
+        continue
+    seen_watch.add(key)
     watchlist.append({"name": r['name'], "type": r['type'], "status": r['status'], "confidence": r['confidence'], "indicators": r['watch_indicators'], "limits": r['limits']})
+for row in discovered_watchlist:
+    key = nkey(row.get('name', ''))
+    if not key or key in seen_watch:
+        continue
+    seen_watch.add(key)
+    watchlist.append({"name": row.get('name'), "type": row.get('type'), "status": row.get('status', 'intake'), "confidence": row.get('confidence', 'D/S'), "indicators": row.get('watch_indicators', ''), "limits": row.get('limits', '')})
 
 strict_summary = json.loads((BASE / 'strict_validation_summary.json').read_text(encoding='utf-8'))
 strict_validation = {
@@ -430,6 +454,11 @@ rebrands = json.loads((discovery_dir / 'rebrands.json').read_text(encoding='utf-
 migration_events = json.loads((discovery_dir / 'migration_events.json').read_text(encoding='utf-8')) if (discovery_dir / 'migration_events.json').exists() else []
 styxnet_profiles = json.loads((discovery_dir / 'styxnet_profiles.json').read_text(encoding='utf-8')) if (discovery_dir / 'styxnet_profiles.json').exists() else []
 osint_findings = json.loads((BASE / 'styxnet_osint.json').read_text(encoding='utf-8')) if (BASE / 'styxnet_osint.json').exists() else []
+# discovered_areas already loaded above
+potential_claims = json.loads((discovery_dir / 'potential_claims.json').read_text(encoding='utf-8')) if (discovery_dir / 'potential_claims.json').exists() else []
+# discovered_watchlist already loaded above
+discovered_tactics = json.loads((discovery_dir / 'discovered_tactics.json').read_text(encoding='utf-8')) if (discovery_dir / 'discovered_tactics.json').exists() else []
+discovery_events = json.loads((discovery_dir / 'discovery_events.json').read_text(encoding='utf-8')) if (discovery_dir / 'discovery_events.json').exists() else []
 osint_state = json.loads((BASE / 'styxnet_osint_state.json').read_text(encoding='utf-8')) if (BASE / 'styxnet_osint_state.json').exists() else {}
 discovery_state = json.loads((discovery_dir / 'discovery_state.json').read_text(encoding='utf-8')) if (discovery_dir / 'discovery_state.json').exists() else {}
 
@@ -478,6 +507,11 @@ monitor = {
   "discovered_source_count": len(discovered_sources),
   "rebrand_count": len(rebrands),
   "migration_event_count": len(migration_events),
+  "discovered_area_count": len(discovered_areas),
+  "potential_claim_count": len(potential_claims),
+  "discovered_watchlist_count": len(discovered_watchlist),
+  "discovered_tactic_count": len(discovered_tactics),
+  "discovery_event_count": len(discovery_events),
   "styxnet_profile_count": len(styxnet_profiles),
   "osint_finding_count": len(osint_findings),
   "osint_exact_count": sum(1 for x in osint_findings if x.get('search_type') == 'exact' or x.get('similar_username') == x.get('username')),
@@ -493,9 +527,14 @@ monitor = {
   "area_rows": len(area_rows),
   "area_platforms": len(areas),
   "claim_count": len(claims),
+  "potential_claim_count": len(potential_claims),
   "watchlist_count": len(watchlist),
-  "evolution_events": sum(len(e.get("evolution",[])) for e in entities),
-  "unique_tactics": len(set(t for e in entities for t in e.get("tactics",[]))),
+  "discovered_area_count": len(discovered_areas),
+  "discovered_watchlist_count": len(discovered_watchlist),
+  "discovered_tactic_count": len(discovered_tactics),
+  "discovery_event_count": len(discovery_events),
+  "evolution_events": sum(len(e.get("evolution",[])) for e in entities) + len(discovery_events),
+  "unique_tactics": len(set(t for e in entities for t in e.get("tactics",[])) | set(discovered_tactics)),
  },
  "monitor_feed": monitor_feed,
  "tel_records": monitor_feed.get("tel_records"),
@@ -520,7 +559,12 @@ data = {
   "area_platforms": len(areas),
   "source_count": len(sources),
   "claim_count": len(claims),
+  "potential_claim_count": len(potential_claims),
   "watchlist_count": len(watchlist),
+  "discovered_area_count": len(discovered_areas),
+  "discovered_watchlist_count": len(discovered_watchlist),
+  "discovered_tactic_count": len(discovered_tactics),
+  "discovery_event_count": len(discovery_events),
   "privacy": "No target list. Areas are platforms/surfaces, not people. Handles are leads, not identities.",
   "learning_model": "Rule-based adaptive scoring from confidence, source density, tactical indicators, area footprint, and evolution timeline. Not a predictive AI model and not a claim of future certainty.",
  },
@@ -530,6 +574,9 @@ data = {
  "sources": sources,
  "claims": claims,
  "watchlist": watchlist,
+ "potential_claims": potential_claims,
+ "discovery_events": discovery_events,
+ "discovered_tactics": discovered_tactics,
  "rebrands": rebrands,
  "migration_events": migration_events,
  "styxnet_profiles": styxnet_profiles,

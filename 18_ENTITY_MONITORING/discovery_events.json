@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-11-22T17:21:25Z",
+    "type": "source discovery",
+    "detail": "New source URLs discovered.",
+    "count": 657,
+    "delta": 657
+  },
+  {
+    "date": "2026-11-22T17:21:25Z",
+    "type": "OSINT collection",
+    "detail": "New StyxNet OSINT findings collected.",
+    "count": 767,
+    "delta": 767
+  },
+  {
+    "date": "2026-11-22T17:21:25Z",
+    "type": "area discovery",
+    "detail": "New platform surfaces mapped.",
+    "count": 643,
+    "delta": 643
+  },
+  {
+    "date": "2026-11-22T17:21:25Z",
+    "type": "claim discovery",
+    "detail": "New potential claims identified.",
+    "count": 983,
+    "delta": 983
+  },
+  {
+    "date": "2026-11-22T17:21:25Z",
+    "type": "watchlist discovery",
+    "detail": "New watch leads identified.",
+    "count": 968,
+    "delta": 968
+  },
+  {
+    "date": "2026-11-22T17:21:25Z",
+    "type": "tactic discovery",
+    "detail": "New tactical indicators identified.",
+    "count": 290,
+    "delta": 290
+  },
+  {
+    "date": "2026-11-22T17:21:25Z",
+    "type": "migration detection",
+    "detail": "New platform surface changes detected.",
+    "count": 280,
+    "delta": 280
+  },
+  {
+    "date": "2026-11-22T17:28:59Z",
+    "type": "source discovery",
+    "detail": "New source URLs discovered.",
+    "count": 2034,
+    "delta": 1377
+  },
+  {
+    "date": "2026-11-22T17:28:59Z",
+    "type": "StyxNet profile discovery",
+    "detail": "New StyxNet profile surfaces discovered.",
+    "count": 767,
+    "delta": 767
+  },
+  {
+    "date": "2026-11-22T17:28:59Z",
+    "type": "area discovery",
+    "detail": "New platform surfaces mapped.",
+    "count": 1216,
+    "delta": 573
+  },
+  {
+    "date": "2026-11-22T17:28:59Z",
+    "type": "claim discovery",
+    "detail": "New potential claims identified.",
+    "count": 1564,
+    "delta": 581
+  },
+  {
+    "date": "2026-11-22T17:28:59Z",
+    "type": "watchlist discovery",
+    "detail": "New watch leads identified.",
+    "count": 1540,
+    "delta": 572
+  },
+  {
+    "date": "2026-11-22T17:28:59Z",
+    "type": "tactic discovery",
+    "detail": "New tactical indicators identified.",
+    "count": 294,
+    "delta": 4
+  },
+  {
+    "date": "2026-11-22T17:28:59Z",
+    "type": "migration detection",
+    "detail": "New platform surface changes detected.",
+    "count": 823,
+    "delta": 543
+  },
+  {
+    "date": "2026-11-22T17:28:59Z",
+    "type": "rebrand discovery",
+    "detail": "New rebrand or alias leads identified.",
+    "count": 24,
+    "delta": 24
+  },
+  {
+    "date": "2026-11-22T17:38:44Z",
+    "type": "source discovery",
+    "detail": "New source URLs discovered.",
+    "count": 2105,
+    "delta": 71
+  },
+  {
+    "date": "2026-11-22T17:38:44Z",
+    "type": "OSINT collection",
+    "detail": "New StyxNet OSINT findings collected.",
+    "count": 858,
+    "delta": 91
+  },
+  {
+    "date": "2026-11-22T17:38:44Z",
+    "type": "area discovery",
+    "detail": "New platform surfaces mapped.",
+    "count": 1287,
+    "delta": 71
+  },
+  {
+    "date": "2026-11-22T17:38:44Z",
+    "type": "claim discovery",
+    "detail": "New potential claims identified.",
+    "count": 1610,
+    "delta": 46
+  },
+  {
+    "date": "2026-11-22T17:38:44Z",
+    "type": "watchlist discovery",
+    "detail": "New watch leads identified.",
+    "count": 1583,
+    "delta": 43
+  },
+  {
+    "date": "2026-11-22T17:38:44Z",
+    "type": "migration detection",
+    "detail": "New platform surface changes detected.",
+    "count": 2,
+    "delta": 2
+  },
+  {
+    "date": "2026-11-22T17:41:20Z",
+    "type": "migration detection",
+    "detail": "New platform surface changes detected.",
+    "count": 805,
+    "delta": 805
+  }
+]

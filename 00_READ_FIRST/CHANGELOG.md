@@ -10,6 +10,8 @@
 - Added incremental discovery for sources, rebrands, migration timing, and StyxNet profiles.
 - Added passive StyxNet OSINT polling with cached-hunt ingestion and one shallow hunt per 6 hours.
 - Removed the redundant top-bar Entities tab; the page title now returns to the entity dashboard.
+- Added `19_ENTITY_INTEL_PUBLISH/` with one organized folder per entity and a
+  locked, rate-limited GitHub mirror job every 6 hours.
 - Manifest now contains 636 files with 0 hash/size errors.
 
 ## 2026-11-19 — Live monitoring and TEL auto-fill
