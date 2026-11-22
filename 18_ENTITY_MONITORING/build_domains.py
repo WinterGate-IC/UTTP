@@ -30,6 +30,7 @@ try:
 except Exception:
     summary = {}
 signals = {}
+accuracy_types = {}
 for r in rows:
     status = r.get('validation_status', '')
     if 'ominis-verified (' in status:
@@ -40,6 +41,10 @@ for r in rows:
                 signals[signal] = signals.get(signal, 0) + 1
     if r.get('source') == 'User-provided' or r.get('entity_match') == 'user-verified':
         signals['user-verified'] = signals.get('user-verified', 0) + 1
+    for atype in (r.get('accuracy_types') or '').split(';'):
+        atype = atype.strip()
+        if atype:
+            accuracy_types[atype] = accuracy_types.get(atype, 0) + 1
 data = {
     'updated': __import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
     'count': len(rows),
@@ -47,6 +52,9 @@ data = {
     'lead_count': summary.get('unverified_leads', 0),
     'lead_counts': summary.get('unverified_by_entity', {}),
     'signals': signals,
+    'accuracy_types': accuracy_types,
+    'average_accuracy': summary.get('average_accuracy', 0),
+    'accuracy_levels': summary.get('accuracy_levels', {}),
     'entities': sorted({r['entity_id'] for r in rows}),
     'domains': rows,
 }

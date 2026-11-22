@@ -86,6 +86,18 @@ Parked domains, suspended accounts, soft-404 pages, login walls, and search page
 
 Unverified, body-only, no-match, and error rows are not published. They stay in `domain_validation_queue.csv` for automated rechecks. The pipeline validates 40 URLs per pass, caches results for 7 days, and prioritizes entities with fewer confirmed domains.
 
+
+### Accuracy types and scoring
+
+Every verified domain carries `accuracy_score`, `accuracy_level`, and `accuracy_types`:
+
+- **Linkage (55%)** — strength and overlap of page signals.
+- **Corroboration (20%)** — repeat observations, independent sources, and alternate handle URLs.
+- **Stability (15%)** — reachable page, canonical URL, redirect behavior, repeat observation.
+- **Specificity (10%)** — unique/entity-named domain versus a generic platform profile.
+
+Levels: `Corroborated` (85–100), `Confirmed` (72–84), `Linkage-confirmed` (55–71), `Provisional` (45–54), `User-verified` (explicit). `occurrences` counts exact URL appearances across OSINT, StyxNet profiles, discovered sources, and raw exports. `alternate_urls` preserves additional profile URLs on the same domain instead of stopping after the first handle.
+
 ## Evidence and safety boundary
 
 Evidence is SHA-256 hashed in the manifest and preserved in cold storage.

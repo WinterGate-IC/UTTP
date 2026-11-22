@@ -63,5 +63,12 @@
     "C09A": 1,
     "SPWN": 1,
     "TND": 2
+  },
+  "average_accuracy": 75.9,
+  "accuracy_levels": {
+    "Confirmed": 504,
+    "Corroborated": 17,
+    "Linkage-confirmed": 119,
+    "User-verified": 1
   }
 }

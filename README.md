@@ -151,6 +151,20 @@ Validation is part of the normal intelligence pipeline, not a manual step:
 
 This means a confirmed finding is not just “found once.” It is a page-level trace confirmed by metadata, canonical links, redirects, structured data, embedded JSON, or visible page evidence — and the archive records which method confirmed it.
 
+
+### Accuracy types and levels
+
+Each verified domain now carries an accuracy score and accuracy type, not just a binary confirmed flag. The score combines:
+
+| Type | What it measures | Contribution |
+| --- | --- | --- |
+| **Linkage** | Strength and overlap of page signals connecting the entity handle to the domain. | 55% |
+| **Corroboration** | Repeat observations, independent sources, and additional handle URLs on the same domain. | 20% |
+| **Stability** | Reachable page, canonical URL, redirect behavior, and repeat observation. | 15% |
+| **Specificity** | Whether the domain is unique/entity-named or a generic platform profile. | 10% |
+
+Levels are `Corroborated` (85–100), `Confirmed` (72–84), `Linkage-confirmed` (55–71), `Provisional` (45–54), and `User-verified` (explicit user confirmation). Accuracy measures entity handle linkage, not legal ownership. Occurrence counts now reflect exact URL appearances across OSINT, StyxNet profiles, discovered sources, and raw StyxNet exports, and `alternate_urls` preserves additional profile URLs on the same domain.
+
 ---
 
 ## ARCHIVE NAVIGATION

@@ -9,6 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from entity_registry import DOMAIN_TOKENS
+from domain_scoring import score_domain
 
 BASE = Path(__file__).resolve().parent
 ROOT = BASE.parent
@@ -19,7 +20,9 @@ SUMMARY_JSON = PER_ENTITY_DIR / 'SUMMARY.json'
 DEFAULT_FIELDS = [
     'entity_id', 'domain', 'url', 'platform', 'status', 'confidence',
     'source', 'occurrences', 'link_confirmed', 'notes', 'validation_status',
-    'entity_match', 'alternate_urls',
+    'entity_match', 'alternate_urls', 'accuracy_score', 'accuracy_level',
+    'accuracy_types', 'linkage_score', 'corroboration_score', 'stability_score',
+    'specificity_score',
 ]
 
 
@@ -159,6 +162,13 @@ def main():
         fieldnames.append('alternate_urls')
     for row in rows:
         row.setdefault('alternate_urls', '')
+    for extra in ('accuracy_score', 'accuracy_level', 'accuracy_types',
+                  'linkage_score', 'corroboration_score', 'stability_score',
+                  'specificity_score'):
+        if extra not in fieldnames:
+            fieldnames.append(extra)
+        for row in rows:
+            row.setdefault(extra, '')
 
     occurrences = source_occurrences()
     for row in rows:
@@ -186,6 +196,11 @@ def main():
             row['validation_status'] = 'unverified: no exact handle token'
         if row.get('notes', '').startswith('Passive username-search lead'):
             row['notes'] = 'Auto-extracted from StyxNet; verify before citation.'
+
+    for row in rows:
+        score = score_domain(row)
+        for key, value in score.items():
+            row[key] = str(value)
 
     for row in rows:
         if row.get('link_confirmed') == 'True':
@@ -252,6 +267,14 @@ listed here.
         entity = row.get('entity_id', '')
         lead_counts[entity] = lead_counts.get(entity, 0) + 1
 
+    level_counts = {}
+    for row in verified:
+        level = row.get('accuracy_level') or 'Unscored'
+        level_counts[level] = level_counts.get(level, 0) + 1
+    try:
+        average_accuracy = round(sum(int(r.get('accuracy_score') or 0) for r in verified) / len(verified), 1) if verified else 0
+    except ValueError:
+        average_accuracy = 0
     summary = {
         'total_rows': len(verified),
         'unique_domains': unique_domains,
@@ -259,6 +282,8 @@ listed here.
         'unverified_leads': len(leads),
         'entities': entity_counts,
         'unverified_by_entity': lead_counts,
+        'average_accuracy': average_accuracy,
+        'accuracy_levels': dict(sorted(level_counts.items())),
     }
     with SUMMARY_JSON.open('w', encoding='utf-8') as f:
         json.dump(summary, f, indent=2)
