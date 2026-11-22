@@ -11,6 +11,9 @@ DIR=18_ENTITY_MONITORING
 /usr/bin/python3 "$DIR/styxnet_osint.py" >/var/tmp/opencode/styxnet-osint.log 2>&1
 /usr/bin/python3 "$DIR/fill_tel.py" >/var/tmp/opencode/fill-tel.log 2>&1
 /usr/bin/python3 "$DIR/sync_tel_intake.py" >/var/tmp/opencode/sync-tel-intake.log 2>&1
+if [ "${OMINIS_DISCOVER:-1}" = "1" ]; then
+  /usr/bin/python3 "$DIR/ominis_discover.py" --budget "${OMINIS_DISCOVER_BUDGET:-1}" --concurrency "${OMINIS_DISCOVER_CONCURRENCY:-8}" >/var/tmp/opencode/ominis-discover.log 2>&1 || true
+fi
 if [ "${OMINIS_VALIDATE:-1}" = "1" ]; then
   /usr/bin/python3 "$DIR/ominis_validate.py" --budget "${OMINIS_BUDGET:-40}" --concurrency "${OMINIS_CONCURRENCY:-4}" >/var/tmp/opencode/ominis-validate.log 2>&1 || true
 fi

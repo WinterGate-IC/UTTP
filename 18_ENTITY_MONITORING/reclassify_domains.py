@@ -75,6 +75,13 @@ def main():
         if row.get('notes', '').startswith('Passive username-search lead'):
             row['notes'] = 'Auto-extracted from StyxNet; verify before citation.'
 
+    for row in rows:
+        if row.get('link_confirmed') == 'True':
+            if row.get('source') != 'User-provided':
+                row['notes'] = 'Ominis page-level verification; ownership not inferred.'
+        else:
+            row['notes'] = 'Unverified lead; internal validation queue only.'
+
     verified = [r for r in rows if r.get('link_confirmed') == 'True']
     leads = [r for r in rows if r.get('link_confirmed') != 'True']
 

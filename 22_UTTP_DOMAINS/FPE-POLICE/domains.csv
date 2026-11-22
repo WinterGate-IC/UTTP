@@ -1,0 +1,6 @@
+entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
+FPE-POLICE,tiktok.com,https://www.tiktok.com/@fpepolice,TikTok,200,95,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (structured); HTTP 200; handle verified, ownership unverified",ominis-verified
+FPE-POLICE,paypal.com,https://www.paypal.com/paypalme/fpepolice,PayPal.me,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (redirect); HTTP 200; handle verified, ownership unverified",ominis-verified
+FPE-POLICE,app.trakt.tv,https://app.trakt.tv/profile/fpepolice,Trakt,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (redirect); HTTP 200; handle verified, ownership unverified",ominis-verified
+FPE-POLICE,twitch.tv,https://www.twitch.tv/fpepolice,Twitch,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (canonical); HTTP 200; handle verified, ownership unverified",ominis-verified
+FPE-POLICE,t.me,https://t.me/fpepolice,Telegram,200,80,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (metadata); HTTP 200; handle verified, ownership unverified",ominis-verified

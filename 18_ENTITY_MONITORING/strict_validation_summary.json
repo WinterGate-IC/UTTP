@@ -12,9 +12,9 @@
     "search_or_query_page": 48,
     "strict_valid": 233
   },
-  "internal_links_checked": 150,
+  "internal_links_checked": 151,
   "broken_internal_links": [],
-  "json_files_checked": 168,
+  "json_files_checked": 169,
   "bad_json_files": [],
   "non_strict_json_exports": [
     {
@@ -26,9 +26,9 @@
       "error": "Expecting property name enclosed in double quotes: line 94 column 5 (char 3694)"
     }
   ],
-  "csv_files_checked": 25,
+  "csv_files_checked": 35,
   "bad_csv_files": [],
-  "manifest_rows_checked": 738,
+  "manifest_rows_checked": 750,
   "bad_manifest_rows": [],
   "manifest_hash_ok": true,
   "candidate_handles": 15,

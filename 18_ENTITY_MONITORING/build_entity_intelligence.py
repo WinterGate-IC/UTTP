@@ -341,15 +341,8 @@ sources += [{'id': 'SL001', 'name': 'Canada Gazette, SOR/2025-263', 'date': '202
 # ---------- discovered area surfaces ----------
 discovered_areas = json.loads((BASE / 'discovered_areas.json').read_text(encoding='utf-8')) if (BASE / 'discovered_areas.json').exists() else []
 discovered_watchlist = json.loads((BASE / 'discovered_watchlist.json').read_text(encoding='utf-8')) if (BASE / 'discovered_watchlist.json').exists() else []
-for i, row in enumerate(discovered_areas, 1):
-    area_rows.append({
-        'area_id': f'DA{i:04d}',
-        'platform': row.get('platform', 'Unknown'),
-        'surface': row.get('surface_url', ''),
-        'presence_status': row.get('status', 'discovered'),
-        'confidence': row.get('confidence', 'D/S'),
-        'why_relevant': row.get('why', 'Auto-discovered platform surface.'),
-    })
+# Discovered area surfaces remain internal leads until validated. They are
+# counted in monitor.archive but are not published as area intelligence.
 
 # ---------- areas aggregate ----------
 area_by_platform = {}
@@ -369,12 +362,8 @@ for r in watch_rows:
         continue
     seen_watch.add(key)
     watchlist.append({"name": r['name'], "type": r['type'], "status": r['status'], "confidence": r['confidence'], "indicators": r['watch_indicators'], "limits": r['limits']})
-for row in discovered_watchlist:
-    key = nkey(row.get('name', ''))
-    if not key or key in seen_watch:
-        continue
-    seen_watch.add(key)
-    watchlist.append({"name": row.get('name'), "type": row.get('type'), "status": row.get('status', 'intake'), "confidence": row.get('confidence', 'D/S'), "indicators": row.get('watch_indicators', ''), "limits": row.get('limits', '')})
+# Discovered watch leads remain internal until validated. The public watchlist
+# is built from the curated offshoot register only.
 
 strict_summary = json.loads((BASE / 'strict_validation_summary.json').read_text(encoding='utf-8'))
 strict_validation = {
@@ -468,22 +457,8 @@ def norm_url(value):
     value = re.sub(r'^www\.', '', value)
     return value
 
-existing_urls = {norm_url(s.get('url', '')) for s in sources if s.get('url')}
-for src in discovered_sources:
-    url = src.get('url', '')
-    key = norm_url(url)
-    if not key or key in existing_urls:
-        continue
-    existing_urls.add(key)
-    sources.append({
-        "id": src.get('id'),
-        "name": (src.get('domain') or 'discovered source') + ' — auto-discovered',
-        "date": (src.get('first_seen') or '')[:10],
-        "type": "discovered",
-        "url": url,
-        "use": "Auto-discovered from archive scan; verify before citation.",
-        "confidence": "D/S",
-    })
+# Auto-discovered source URLs remain internal leads until validated. They are
+# counted in monitor.archive but are not published in the source library.
 
 monitor = {
  "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
