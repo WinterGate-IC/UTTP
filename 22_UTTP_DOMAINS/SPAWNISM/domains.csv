@@ -1,60 +1,60 @@
-entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes
-SPAWNISM,1001tracklists.com,https://www.1001tracklists.com/user/spawnism/index.html,1001tracklists,206,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,arhrock.info,https://arhrock.info/forum/members/?username=spawnism,Arhrock,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,bsky.app,https://bsky.app/profile/spawnism.bsky.social,Bluesky,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,chess.com,https://www.chess.com/member/spawnism,Chess.com,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,cssbattle.dev,https://cssbattle.dev/player/spawnism,CSSBattle,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,deviantart.com,https://www.deviantart.com/spawnism,DeviantArt,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,dice.com,https://www.dice.com/profile/spawnism,Dice,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,dota2.ru,https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username,Dota2,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,dumpor.com,https://dumpor.com/v/spawnism,Dumpor,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,flaticon.com,https://www.flaticon.com/spawnism,Flaticon,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,furaffinity.net,https://www.furaffinity.net/gallery/spawnism,Fur Affinity,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,giphy.com,https://giphy.com/spawnism,Giphy,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,gist.github.com,https://gist.github.com/spawnism,GitHub Gist,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,github.com,https://github.com/spawnism,GitHub,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,itemfix.com,https://www.itemfix.com/c/spawnism,ItemFix,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,kick.com,https://kick.com/spawnism,Kick,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,libraries.io,https://libraries.io/github/spawnism/,Libraries,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,linktr.ee,https://linktr.ee/spawnism,Linktree,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,lolchess.gg,https://lolchess.gg/profile/na/spawnism,Lolchess,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,m.weibo.cn,https://m.weibo.cn/u/spawnism,Sina Weibo (Mobile),200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,mactalk.com.au,http://www.mactalk.com.au/member.php?username=spawnism,Mactalk,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,mixer.com,https://mixer.com/spawnism,Mixer,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,music.youtube.com,https://music.youtube.com/spawnism,YouTube Music,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,nextdoor.com,https://nextdoor.com/profile/spawnism,Nextdoor,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,ngl.link,https://ngl.link/spawnism,ngl.link,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,niftygateway.com,https://niftygateway.com/profile/spawnism,Niftygateway,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,old-games.ru,https://www.old-games.ru/forum/members/?username=spawnism,Old-games,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,op.gg,https://op.gg/lol/summoners/search?q=spawnism&region=br,OP.GG LoL Brazil,200,45,StyxNet OSINT,17,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,paltalk.com,https://www.paltalk.com/people/users/spawnism,Paltalk,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,pandora.com,https://www.pandora.com/profile/spawnism,Pandora,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,peertube.tv,https://peertube.tv/spawnism,PeerTube,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,pixelfed.org,https://pixelfed.org/spawnism,Pixelfed,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,plug.dj,https://plug.dj/@/spawnism,Plug.DJ,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,profile.codersrank.io,https://profile.codersrank.io/user/spawnism/,Coders Rank,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,radiokot.ru,https://www.radiokot.ru/forum/search.php?keywords=&terms=all&author=spawnism,Radiokot,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,reddit.com,https://www.reddit.com/user/spawnism,Reddit,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,schemecolor.com,https://www.schemecolor.com/author/spawnism,SchemeColor,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,secure.runescape.com,https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism,RuneScape,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,snapchat.com,https://www.snapchat.com/add/spawnism,Snapchat,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,socialclub.rockstargames.com,https://socialclub.rockstargames.com/member/spawnism,Rockstar Social Club,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,soundcloud.com,https://soundcloud.com/spawnism,SoundCloud,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,spawnism.bandcamp.com,https://spawnism.bandcamp.com,Bandcamp,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,spawnism.carrd.co,https://spawnism.carrd.co,Carrd.co,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,spawnism.itch.io,https://spawnism.itch.io,itch.io,200,100,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,steamcommunity.com,https://steamcommunity.com/id/spawnism,Steam,200,55,StyxNet OSINT,3,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,tenor.com,https://tenor.com/users/spawnism,Tenor.com,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,truthsocial.com,https://truthsocial.com/@spawnism,Truth Social,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,tumblr.com,https://www.tumblr.com/blog/spawnism,Tumblr,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,tweakers.net,https://tweakers.net/gallery/spawnism,Tweakers,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,twitch.tv,https://www.twitch.tv/spawnism,Twitch,200,100,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,twitter.com,https://twitter.com/spawnism,Twitter/X,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,vimeo.com,https://vimeo.com/showcase/spawnism,Vimeo Showcase,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,vk.com,https://vk.com/spawnism,VK,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,wattpad.com,https://www.wattpad.com/user/spawnism,Wattpad,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,wishlistr.com,https://www.wishlistr.com/spawnism/,Wishlistr,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,x.com,https://x.com/spawnism,X,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,xbox.com,https://www.xbox.com/en-US/play/user/spawnism,Xbox,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,younow.com,https://www.younow.com/spawnism/,YouNow,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-SPAWNISM,youtube.com,https://www.youtube.com/@spawnism,YouTube,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.
+entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
+SPAWNISM,1001tracklists.com,https://www.1001tracklists.com/user/spawnism/index.html,1001tracklists,206,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,arhrock.info,https://arhrock.info/forum/members/?username=spawnism,Arhrock,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,bsky.app,https://bsky.app/profile/spawnism.bsky.social,Bluesky,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,chess.com,https://www.chess.com/member/spawnism,Chess.com,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,cssbattle.dev,https://cssbattle.dev/player/spawnism,CSSBattle,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,deviantart.com,https://www.deviantart.com/spawnism,DeviantArt,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,dice.com,https://www.dice.com/profile/spawnism,Dice,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,dota2.ru,https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username,Dota2,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,dumpor.com,https://dumpor.com/v/spawnism,Dumpor,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,flaticon.com,https://www.flaticon.com/spawnism,Flaticon,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,furaffinity.net,https://www.furaffinity.net/gallery/spawnism,Fur Affinity,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,giphy.com,https://giphy.com/spawnism,Giphy,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,gist.github.com,https://gist.github.com/spawnism,GitHub Gist,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,github.com,https://github.com/spawnism,GitHub,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,itemfix.com,https://www.itemfix.com/c/spawnism,ItemFix,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,kick.com,https://kick.com/spawnism,Kick,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,libraries.io,https://libraries.io/github/spawnism/,Libraries,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,linktr.ee,https://linktr.ee/spawnism,Linktree,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,lolchess.gg,https://lolchess.gg/profile/na/spawnism,Lolchess,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,m.weibo.cn,https://m.weibo.cn/u/spawnism,Sina Weibo (Mobile),200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,mactalk.com.au,http://www.mactalk.com.au/member.php?username=spawnism,Mactalk,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,mixer.com,https://mixer.com/spawnism,Mixer,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,music.youtube.com,https://music.youtube.com/spawnism,YouTube Music,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,nextdoor.com,https://nextdoor.com/profile/spawnism,Nextdoor,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,ngl.link,https://ngl.link/spawnism,ngl.link,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,niftygateway.com,https://niftygateway.com/profile/spawnism,Niftygateway,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,old-games.ru,https://www.old-games.ru/forum/members/?username=spawnism,Old-games,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,op.gg,https://op.gg/lol/summoners/search?q=spawnism&region=br,OP.GG LoL Brazil,200,45,StyxNet OSINT,17,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,paltalk.com,https://www.paltalk.com/people/users/spawnism,Paltalk,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,pandora.com,https://www.pandora.com/profile/spawnism,Pandora,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,peertube.tv,https://peertube.tv/spawnism,PeerTube,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,pixelfed.org,https://pixelfed.org/spawnism,Pixelfed,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,plug.dj,https://plug.dj/@/spawnism,Plug.DJ,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,profile.codersrank.io,https://profile.codersrank.io/user/spawnism/,Coders Rank,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,radiokot.ru,https://www.radiokot.ru/forum/search.php?keywords=&terms=all&author=spawnism,Radiokot,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,reddit.com,https://www.reddit.com/user/spawnism,Reddit,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,schemecolor.com,https://www.schemecolor.com/author/spawnism,SchemeColor,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,secure.runescape.com,https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism,RuneScape,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,snapchat.com,https://www.snapchat.com/add/spawnism,Snapchat,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,socialclub.rockstargames.com,https://socialclub.rockstargames.com/member/spawnism,Rockstar Social Club,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,soundcloud.com,https://soundcloud.com/spawnism,SoundCloud,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,spawnism.bandcamp.com,https://spawnism.bandcamp.com,Bandcamp,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,spawnism.carrd.co,https://spawnism.carrd.co,Carrd.co,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,spawnism.itch.io,https://spawnism.itch.io,itch.io,200,100,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,steamcommunity.com,https://steamcommunity.com/id/spawnism,Steam,200,55,StyxNet OSINT,3,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,tenor.com,https://tenor.com/users/spawnism,Tenor.com,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,truthsocial.com,https://truthsocial.com/@spawnism,Truth Social,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,tumblr.com,https://www.tumblr.com/blog/spawnism,Tumblr,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,tweakers.net,https://tweakers.net/gallery/spawnism,Tweakers,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,twitch.tv,https://www.twitch.tv/spawnism,Twitch,200,100,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,twitter.com,https://twitter.com/spawnism,Twitter/X,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,vimeo.com,https://vimeo.com/showcase/spawnism,Vimeo Showcase,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,vk.com,https://vk.com/spawnism,VK,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,wattpad.com,https://www.wattpad.com/user/spawnism,Wattpad,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,wishlistr.com,https://www.wishlistr.com/spawnism/,Wishlistr,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,x.com,https://x.com/spawnism,X,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,xbox.com,https://www.xbox.com/en-US/play/user/spawnism,Xbox,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,younow.com,https://www.younow.com/spawnism/,YouNow,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+SPAWNISM,youtube.com,https://www.youtube.com/@spawnism,YouTube,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token

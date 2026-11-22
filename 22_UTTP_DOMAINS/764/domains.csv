@@ -1,97 +1,97 @@
-entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes
-764,1001tracklists.com,https://www.1001tracklists.com/user/764/index.html,1001tracklists,206,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,764.carrd.co,https://764.carrd.co,Carrd.co,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,764.deviantart.com,https://764.deviantart.com,DeviantART,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,764.itch.io,https://764.itch.io,itch.io,200,100,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.
-764,about.me,https://about.me/764,About.me,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,app.unitedmasters.com,https://app.unitedmasters.com/764,United Masters,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,app.vagrantup.com,https://app.vagrantup.com/764,Vagrant Cloud,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,are.na,https://www.are.na/764,are.na,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,arhrock.info,https://arhrock.info/forum/members/?username=764,Arhrock,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,audiomack.com,https://audiomack.com/764,Audiomack,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,bandcamp.com,https://bandcamp.com/764,Bandcamp,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,bio.site,https://bio.site/764,Bio.site,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,bodyspace.bodybuilding.com,https://bodyspace.bodybuilding.com/764,BodyBuilding,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,bsky.app,https://bsky.app/profile/764.bsky.social,Bluesky,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,cda.pl,https://www.cda.pl/764,Cda.pl,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,chaturbate.com,https://chaturbate.com/764/,ChaturBate,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,codewars.com,https://www.codewars.com/users/764,Codewars,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,cssbattle.dev,https://cssbattle.dev/player/764,CSSBattle,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,cytoid.io,https://cytoid.io/profile/764,Cytoid.io,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,deezer.com,https://www.deezer.com/artist/764,Deezer (Artist),200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,deviantart.com,https://www.deviantart.com/764,DeviantArt,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,dice.com,https://www.dice.com/profile/764,Dice,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,discord.com,https://discord.com/users/764,Discord,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,disqus.com,https://disqus.com/764,Disqus,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,dota2.ru,https://dota2.ru/forum/search?type=user&keywords=764&sort_by=username,Dota2,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,douyin.com,https://www.douyin.com/user/764,Douyin,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,dumpor.com,https://dumpor.com/v/764,Dumpor,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,erome.com,https://www.erome.com/764,Erome,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,figma.com,https://www.figma.com/@764,Figma,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,flaticon.com,https://www.flaticon.com/764,Flaticon,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,flickr.com,https://www.flickr.com/people/764/,Flickr,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,forum.beobuild.rs,https://forum.beobuild.rs/members/764/,forum.beobuild.rs,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,fotothing.com,http://www.fotothing.com/764/,Fotothing,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,furaffinity.net,https://www.furaffinity.net/user/764,FurAffinity,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.
-764,gab.com,https://gab.com/764,Gab,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,hypixel.net,https://hypixel.net/player/764,Hypixel,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,illustrators.ru,https://illustrators.ru/users/764,Illustrators,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,itemfix.com,https://www.itemfix.com/c/764,ItemFix,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,keybase.io,https://keybase.io/764,Keybase,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,letras.mus.br,https://letras.mus.br/@764,Letras.mus.br,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,line.me,https://line.me/R/ti/p/@764?from=page,line.me,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,lolchess.gg,https://lolchess.gg/profile/na/764,Lolchess,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,mactalk.com.au,http://www.mactalk.com.au/member.php?username=764,Mactalk,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,maga-chat.com,https://maga-chat.com/764,Maga-Chat,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,mastodon.social,https://mastodon.social/@764,Mastodon,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,minecraft-statistic.net,https://minecraft-statistic.net/ru/player/764.html,Minecraft-statistic,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,mix.com,https://mix.com/764,Mix,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,mixcloud.com,https://www.mixcloud.com/764/,Mixcloud,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,mixer.com,https://mixer.com/764,Mixer,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,music.youtube.com,https://music.youtube.com/764,YouTube Music,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,my.secondlife.com,https://my.secondlife.com/764,Second Life,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,mym.fans,https://mym.fans/764,Mym.fans,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,neopets.com,https://www.neopets.com/userlookup.phtml?user=764,Neopets,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,nextdoor.com,https://nextdoor.com/profile/764,Nextdoor,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,ngl.link,https://ngl.link/764,ngl.link,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,nicovideo.jp,https://www.nicovideo.jp/user/764,Niconico,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,niftygateway.com,https://niftygateway.com/profile/764,Niftygateway,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,old-games.ru,https://www.old-games.ru/forum/members/?username=764,Old-games,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,op.gg,https://op.gg/lol/summoners/search?q=764&region=na,OP.GG LoL North America,200,55,StyxNet OSINT,17,True,Passive username-search lead; not ownership-confirmed.
-764,paltalk.com,https://www.paltalk.com/people/users/764,Paltalk,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,peertube.tv,https://peertube.tv/764,PeerTube,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,pixelfed.org,https://pixelfed.org/764,Pixelfed,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,playerdb.co,https://playerdb.co/api/player/minecraft/764,Mcuuid,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,plug.dj,https://plug.dj/@/764,Plug.DJ,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,pornhub.com,https://pornhub.com/users/764,Pornhub,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,profile.ameba.jp,https://profile.ameba.jp/ameba/764/,Ameba,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,profile.codersrank.io,https://profile.codersrank.io/user/764/,Coders Rank,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,promodj.com,http://promodj.com/764,PromoDJ,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,radiokot.ru,https://www.radiokot.ru/forum/search.php?keywords=&terms=all&author=764,Radiokot,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,reddit.com,https://www.reddit.com/user/764,Reddit,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,registry.terraform.io,https://registry.terraform.io/764,Terraform Registry,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,remoteok.com,https://remoteok.com/764,Remote OK,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,repl.it,https://repl.it/@764,Repl.it,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,replit.com,https://replit.com/@764,Replit,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,rubygems.org,https://rubygems.org/profiles/764,Rubygems,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,schemecolor.com,https://www.schemecolor.com/author/764,SchemeColor,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,secure.runescape.com,https://secure.runescape.com/m=hiscore_oldschool/overall?user1=764,RuneScape,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,socialclub.rockstargames.com,https://socialclub.rockstargames.com/member/764,Rockstar Social Club,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,stackoverflow.com,https://stackoverflow.com/users/filter?search=764,StackOverflow,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,steamcommunity.com,https://steamcommunity.com/profiles/764,Steam (by id),200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,suzuri.jp,https://suzuri.jp/764,Suzuri.jp,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,tenor.com,https://tenor.com/users/764,Tenor.com,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,thenounproject.com,https://thenounproject.com/764,The Noun Project,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,tproger.ru,https://tproger.ru/author/764/,Tproger,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,truthsocial.com,https://truthsocial.com/@764,Truth Social,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,tumblr.com,https://www.tumblr.com/blog/764,Tumblr,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,tweakers.net,https://tweakers.net/gallery/764,Tweakers,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,twitch.tv,https://twitch.tv/764,Loop,200,80,StyxNet OSINT,5,True,Passive username-search lead; not ownership-confirmed.
-764,unitedmasters.com,https://unitedmasters.com/764,UnitedMasters,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,vgtimes.ru,https://vgtimes.ru/user/764,Vgtimes,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,vimeo.com,https://vimeo.com/showcase/764,Vimeo Showcase,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,wishlistr.com,https://www.wishlistr.com/764/,Wishlistr,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,xbox.com,https://www.xbox.com/en-US/play/user/764,Xbox,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,yelp.com,https://www.yelp.com/user_details?userid=764,Yelp (by id),200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,younow.com,https://www.younow.com/764/,YouNow,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.
-764,youtube.com,https://www.youtube.com/@764,YouTube,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.
+entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
+764,1001tracklists.com,https://www.1001tracklists.com/user/764/index.html,1001tracklists,206,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,764.carrd.co,https://764.carrd.co,Carrd.co,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,764.deviantart.com,https://764.deviantart.com,DeviantART,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,764.itch.io,https://764.itch.io,itch.io,200,100,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,about.me,https://about.me/764,About.me,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,app.unitedmasters.com,https://app.unitedmasters.com/764,United Masters,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,app.vagrantup.com,https://app.vagrantup.com/764,Vagrant Cloud,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,are.na,https://www.are.na/764,are.na,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,arhrock.info,https://arhrock.info/forum/members/?username=764,Arhrock,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,audiomack.com,https://audiomack.com/764,Audiomack,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,bandcamp.com,https://bandcamp.com/764,Bandcamp,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,bio.site,https://bio.site/764,Bio.site,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,bodyspace.bodybuilding.com,https://bodyspace.bodybuilding.com/764,BodyBuilding,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,bsky.app,https://bsky.app/profile/764.bsky.social,Bluesky,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,cda.pl,https://www.cda.pl/764,Cda.pl,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,chaturbate.com,https://chaturbate.com/764/,ChaturBate,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,codewars.com,https://www.codewars.com/users/764,Codewars,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,cssbattle.dev,https://cssbattle.dev/player/764,CSSBattle,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,cytoid.io,https://cytoid.io/profile/764,Cytoid.io,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,deezer.com,https://www.deezer.com/artist/764,Deezer (Artist),200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,deviantart.com,https://www.deviantart.com/764,DeviantArt,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,dice.com,https://www.dice.com/profile/764,Dice,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,discord.com,https://discord.com/users/764,Discord,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,disqus.com,https://disqus.com/764,Disqus,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,dota2.ru,https://dota2.ru/forum/search?type=user&keywords=764&sort_by=username,Dota2,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,douyin.com,https://www.douyin.com/user/764,Douyin,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,dumpor.com,https://dumpor.com/v/764,Dumpor,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,erome.com,https://www.erome.com/764,Erome,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,figma.com,https://www.figma.com/@764,Figma,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,flaticon.com,https://www.flaticon.com/764,Flaticon,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,flickr.com,https://www.flickr.com/people/764/,Flickr,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,forum.beobuild.rs,https://forum.beobuild.rs/members/764/,forum.beobuild.rs,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,fotothing.com,http://www.fotothing.com/764/,Fotothing,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,furaffinity.net,https://www.furaffinity.net/user/764,FurAffinity,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,gab.com,https://gab.com/764,Gab,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,hypixel.net,https://hypixel.net/player/764,Hypixel,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,illustrators.ru,https://illustrators.ru/users/764,Illustrators,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,itemfix.com,https://www.itemfix.com/c/764,ItemFix,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,keybase.io,https://keybase.io/764,Keybase,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,letras.mus.br,https://letras.mus.br/@764,Letras.mus.br,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,line.me,https://line.me/R/ti/p/@764?from=page,line.me,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,lolchess.gg,https://lolchess.gg/profile/na/764,Lolchess,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,mactalk.com.au,http://www.mactalk.com.au/member.php?username=764,Mactalk,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,maga-chat.com,https://maga-chat.com/764,Maga-Chat,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,mastodon.social,https://mastodon.social/@764,Mastodon,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,minecraft-statistic.net,https://minecraft-statistic.net/ru/player/764.html,Minecraft-statistic,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,mix.com,https://mix.com/764,Mix,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,mixcloud.com,https://www.mixcloud.com/764/,Mixcloud,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,mixer.com,https://mixer.com/764,Mixer,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,music.youtube.com,https://music.youtube.com/764,YouTube Music,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,my.secondlife.com,https://my.secondlife.com/764,Second Life,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,mym.fans,https://mym.fans/764,Mym.fans,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,neopets.com,https://www.neopets.com/userlookup.phtml?user=764,Neopets,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,nextdoor.com,https://nextdoor.com/profile/764,Nextdoor,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,ngl.link,https://ngl.link/764,ngl.link,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,nicovideo.jp,https://www.nicovideo.jp/user/764,Niconico,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,niftygateway.com,https://niftygateway.com/profile/764,Niftygateway,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,old-games.ru,https://www.old-games.ru/forum/members/?username=764,Old-games,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,op.gg,https://op.gg/lol/summoners/search?q=764&region=na,OP.GG LoL North America,200,55,StyxNet OSINT,17,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,paltalk.com,https://www.paltalk.com/people/users/764,Paltalk,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,peertube.tv,https://peertube.tv/764,PeerTube,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,pixelfed.org,https://pixelfed.org/764,Pixelfed,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,playerdb.co,https://playerdb.co/api/player/minecraft/764,Mcuuid,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,plug.dj,https://plug.dj/@/764,Plug.DJ,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,pornhub.com,https://pornhub.com/users/764,Pornhub,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,profile.ameba.jp,https://profile.ameba.jp/ameba/764/,Ameba,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,profile.codersrank.io,https://profile.codersrank.io/user/764/,Coders Rank,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,promodj.com,http://promodj.com/764,PromoDJ,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,radiokot.ru,https://www.radiokot.ru/forum/search.php?keywords=&terms=all&author=764,Radiokot,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,reddit.com,https://www.reddit.com/user/764,Reddit,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,registry.terraform.io,https://registry.terraform.io/764,Terraform Registry,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,remoteok.com,https://remoteok.com/764,Remote OK,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,repl.it,https://repl.it/@764,Repl.it,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,replit.com,https://replit.com/@764,Replit,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,rubygems.org,https://rubygems.org/profiles/764,Rubygems,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,schemecolor.com,https://www.schemecolor.com/author/764,SchemeColor,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,secure.runescape.com,https://secure.runescape.com/m=hiscore_oldschool/overall?user1=764,RuneScape,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,socialclub.rockstargames.com,https://socialclub.rockstargames.com/member/764,Rockstar Social Club,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,stackoverflow.com,https://stackoverflow.com/users/filter?search=764,StackOverflow,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,steamcommunity.com,https://steamcommunity.com/profiles/764,Steam (by id),200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,suzuri.jp,https://suzuri.jp/764,Suzuri.jp,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,tenor.com,https://tenor.com/users/764,Tenor.com,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,thenounproject.com,https://thenounproject.com/764,The Noun Project,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,tproger.ru,https://tproger.ru/author/764/,Tproger,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,truthsocial.com,https://truthsocial.com/@764,Truth Social,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,tumblr.com,https://www.tumblr.com/blog/764,Tumblr,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,tweakers.net,https://tweakers.net/gallery/764,Tweakers,200,70,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,twitch.tv,https://twitch.tv/764,Loop,200,80,StyxNet OSINT,5,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,unitedmasters.com,https://unitedmasters.com/764,UnitedMasters,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,vgtimes.ru,https://vgtimes.ru/user/764,Vgtimes,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,vimeo.com,https://vimeo.com/showcase/764,Vimeo Showcase,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,wishlistr.com,https://www.wishlistr.com/764/,Wishlistr,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,xbox.com,https://www.xbox.com/en-US/play/user/764,Xbox,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,yelp.com,https://www.yelp.com/user_details?userid=764,Yelp (by id),200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,younow.com,https://www.younow.com/764/,YouNow,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+764,youtube.com,https://www.youtube.com/@764,YouTube,200,80,StyxNet OSINT,2,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token

@@ -28,7 +28,7 @@
   ],
   "csv_files_checked": 32,
   "bad_csv_files": [],
-  "manifest_rows_checked": 742,
+  "manifest_rows_checked": 743,
   "bad_manifest_rows": [
     {
       "path": "18_ENTITY_MONITORING/discovered_sources.json",

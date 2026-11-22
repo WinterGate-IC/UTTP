@@ -1,9 +1,9 @@
-entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes
-OFFICERSLAPPY,forum.1796web.com,https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp,forum.1796web.com,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
-OFFICERSLAPPY,forum.evaveda.com,http://forum.evaveda.com/memberlist.php?username=uttp,ForumEvaveda,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
-OFFICERSLAPPY,forum.gong.bg,https://forum.gong.bg/memberlist.php?username=uttp,forum.gong.bg,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
-OFFICERSLAPPY,forum.hebat-malek.com,https://forum.hebat-malek.com/member.php?username=uttp,forum.hebat-malek.com,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
-OFFICERSLAPPY,forum.neformat.com.ua,https://forum.neformat.com.ua/members/uttp/,forum.neformat.com.ua,200,45,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
-OFFICERSLAPPY,forum.prihoz.ru,https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp,forum.prihoz.ru,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
-OFFICERSLAPPY,forums.mozfr.org,https://forums.mozfr.org/memberlist.php?username=uttp,forums.mozfr.org,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
-OFFICERSLAPPY,forumyuristov.ru,https://forumyuristov.ru/members/?username=uttp,ForumYuristov,200,55,StyxNet OSINT,1,False,Passive username-search lead; not ownership-confirmed.
+entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
+OFFICERSLAPPY,forum.1796web.com,https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp,forum.1796web.com,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+OFFICERSLAPPY,forum.evaveda.com,http://forum.evaveda.com/memberlist.php?username=uttp,ForumEvaveda,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+OFFICERSLAPPY,forum.gong.bg,https://forum.gong.bg/memberlist.php?username=uttp,forum.gong.bg,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+OFFICERSLAPPY,forum.hebat-malek.com,https://forum.hebat-malek.com/member.php?username=uttp,forum.hebat-malek.com,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+OFFICERSLAPPY,forum.neformat.com.ua,https://forum.neformat.com.ua/members/uttp/,forum.neformat.com.ua,200,45,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+OFFICERSLAPPY,forum.prihoz.ru,https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp,forum.prihoz.ru,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
+OFFICERSLAPPY,forums.mozfr.org,https://forums.mozfr.org/memberlist.php?username=uttp,forums.mozfr.org,200,55,StyxNet OSINT,1,False,Auto-extracted from StyxNet; verify before citation.,unverified: no exact handle token or non-2xx response,
+OFFICERSLAPPY,forumyuristov.ru,https://forumyuristov.ru/members/?username=uttp,ForumYuristov,200,55,StyxNet OSINT,1,False,Auto-extracted from StyxNet; verify before citation.,unverified: no exact handle token or non-2xx response,

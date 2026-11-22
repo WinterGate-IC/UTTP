@@ -1,6 +1,6 @@
-entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes
-AFR,create.vista.com,https://create.vista.com/UTTP,Crello,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
-AFR,fansly.com,https://fansly.com/UTTP,Fansly,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
-AFR,hackthissite.org,https://www.hackthissite.org/user/view/UTTP,Hackthissite,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
-AFR,sideprojectors.com,https://www.sideprojectors.com/UTTP,SideProjectors,200,70,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
-AFR,younow.com,https://www.younow.com/UTTP/,YouNow,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.
+entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
+AFR,create.vista.com,https://create.vista.com/UTTP,Crello,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.,unverified: no exact handle token or non-2xx response,
+AFR,fansly.com,https://fansly.com/UTTP,Fansly,200,45,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.,unverified: no exact handle token or non-2xx response,
+AFR,hackthissite.org,https://www.hackthissite.org/user/view/UTTP,Hackthissite,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.,unverified: no exact handle token or non-2xx response,
+AFR,sideprojectors.com,https://www.sideprojectors.com/UTTP,SideProjectors,200,70,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.,unverified: no exact handle token or non-2xx response,
+AFR,younow.com,https://www.younow.com/UTTP/,YouNow,200,80,StyxNet raw export,1,False,Auto-extracted from StyxNet; verify before citation.,unverified: no exact handle token or non-2xx response,
