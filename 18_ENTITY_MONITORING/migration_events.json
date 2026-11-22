@@ -4828,5 +4828,23 @@
     "platform": "zwiftpower",
     "change": "discovered_surface",
     "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T18:29:02Z",
+    "platform": "wattpad",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T18:29:02Z",
+    "platform": "vk",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-22T18:29:02Z",
+    "platform": "pandora",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
   }
 ]

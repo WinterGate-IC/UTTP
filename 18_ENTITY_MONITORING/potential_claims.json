@@ -2070,6 +2070,87 @@
     "first_seen": "2026-11-22T17:38:44Z"
   },
   {
+    "id": "P1611",
+    "claim": "Potential UTTP-linked handle observed: spawnism on X (https://x.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://x.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1612",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Twitter/X (https://twitter.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://twitter.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1613",
+    "claim": "Potential UTTP-linked handle observed: spawnism on GitHub (https://github.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://github.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1614",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Bluesky (https://bsky.app/profile/spawnism.bsky.social)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://bsky.app/profile/spawnism.bsky.social",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1615",
+    "claim": "Potential UTTP-linked handle observed: spawnism on YouTube (https://www.youtube.com/@spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/@spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1616",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Twitch (https://www.twitch.tv/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.twitch.tv/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1617",
+    "claim": "Potential UTTP-linked handle observed: spawnism on DeviantArt (https://www.deviantart.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.deviantart.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1618",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Wattpad (https://www.wattpad.com/user/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.wattpad.com/user/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1619",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Tumblr (https://www.tumblr.com/blog/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.tumblr.com/blog/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
     "id": "P162",
     "claim": "Potential UTTP-linked handle observed: uttp on Kaskus (https://www.kaskus.co.id/@uttp)",
     "type": "potential",
@@ -2077,6 +2158,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://www.kaskus.co.id/@uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1620",
+    "claim": "Potential UTTP-linked handle observed: spawnism on GETTR (https://gettr.com/user/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gettr.com/user/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1621",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Nextdoor (https://nextdoor.com/profile/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://nextdoor.com/profile/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1622",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Sina Weibo (Mobile) (https://m.weibo.cn/u/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://m.weibo.cn/u/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1623",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Dice (https://www.dice.com/profile/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.dice.com/profile/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1624",
+    "claim": "Potential UTTP-linked handle observed: spawnism on GitHub Gist (https://gist.github.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gist.github.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1625",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Xbox (https://www.xbox.com/en-US/play/user/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.xbox.com/en-US/play/user/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1626",
+    "claim": "Potential UTTP-linked handle observed: spawnism on itch.io (https://spawnism.itch.io)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://spawnism.itch.io",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1627",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Chess.com (https://www.chess.com/member/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.chess.com/member/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1628",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Bandcamp (https://spawnism.bandcamp.com)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://spawnism.bandcamp.com",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1629",
+    "claim": "Potential UTTP-linked handle observed: spawnism on YouTube Music (https://music.youtube.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://music.youtube.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
   },
   {
     "id": "P163",
@@ -2088,6 +2259,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1630",
+    "claim": "Potential UTTP-linked handle observed: spawnism on YouTube (https://www.youtube.com/user/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/user/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1631",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Kick (https://kick.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://kick.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1632",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Giphy (https://giphy.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://giphy.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1633",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Snapchat (https://www.snapchat.com/add/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.snapchat.com/add/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1634",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Mixer (https://mixer.com/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://mixer.com/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1635",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Twitch VODs (https://www.twitch.tv/spawnism/videos?all=true)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.twitch.tv/spawnism/videos?all=true",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1636",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Bandcamp Labels (https://spawnism.bandcamp.com/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://spawnism.bandcamp.com/",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1637",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Tweakers (https://tweakers.net/gallery/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tweakers.net/gallery/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1638",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Niftygateway (https://niftygateway.com/profile/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://niftygateway.com/profile/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1639",
+    "claim": "Potential UTTP-linked handle observed: spawnism on ngl.link (https://ngl.link/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://ngl.link/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
     "id": "P164",
     "claim": "Potential UTTP-linked handle observed: uttp on openriskmanual.org (https://openriskmanual.org/wiki/User:uttp)",
     "type": "potential",
@@ -2097,6 +2358,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1640",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Coders Rank (https://profile.codersrank.io/user/spawnism/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profile.codersrank.io/user/spawnism/",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1641",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Dumpor (https://dumpor.com/v/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dumpor.com/v/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1642",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Carrd.co (https://spawnism.carrd.co)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://spawnism.carrd.co",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1643",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Tenor.com (https://tenor.com/users/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tenor.com/users/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1644",
+    "claim": "Potential UTTP-linked handle observed: spawnism on OP.GG LoL Singapore (https://op.gg/lol/summoners/search?q=spawnism&region=sg)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=spawnism&region=sg",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1645",
+    "claim": "Potential UTTP-linked handle observed: spawnism on OP.GG LoL Phillippines (https://op.gg/lol/summoners/search?q=spawnism&region=ph)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=spawnism&region=ph",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1646",
+    "claim": "Potential UTTP-linked handle observed: spawnism on OP.GG LoL Thailand (https://op.gg/lol/summoners/search?q=spawnism&region=th)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=spawnism&region=th",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1647",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Dota2 (https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1648",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Libraries (https://libraries.io/github/spawnism/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://libraries.io/github/spawnism/",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1649",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Lolchess (https://lolchess.gg/profile/na/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://lolchess.gg/profile/na/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
     "id": "P165",
     "claim": "Potential UTTP-linked handle observed: uttp on Dobroeslovo (http://www.dobroeslovo.ru/memberlist.php?username=uttp)",
     "type": "potential",
@@ -2104,6 +2455,24 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "http://www.dobroeslovo.ru/memberlist.php?username=uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1650",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Mactalk (http://www.mactalk.com.au/member.php?username=spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "http://www.mactalk.com.au/member.php?username=spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "P1651",
+    "claim": "Potential UTTP-linked handle observed: spawnism on Plug.DJ (https://plug.dj/@/spawnism)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://plug.dj/@/spawnism",
+    "first_seen": "2026-11-22T18:29:02Z"
   },
   {
     "id": "P166",

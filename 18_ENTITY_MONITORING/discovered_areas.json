@@ -11581,5 +11581,563 @@
     "confidence": "D/S",
     "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
     "first_seen": "2026-11-22T17:38:44Z"
+  },
+  {
+    "id": "A_D1288",
+    "platform": "X",
+    "surface_url": "https://x.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1289",
+    "platform": "Twitter/X",
+    "surface_url": "https://twitter.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1290",
+    "platform": "GitHub",
+    "surface_url": "https://github.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1291",
+    "platform": "Bluesky",
+    "surface_url": "https://bsky.app/profile/spawnism.bsky.social",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1292",
+    "platform": "SoundCloud",
+    "surface_url": "https://soundcloud.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1293",
+    "platform": "Steam",
+    "surface_url": "https://steamcommunity.com/id/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1294",
+    "platform": "Steam (Group)",
+    "surface_url": "https://steamcommunity.com/groups/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1295",
+    "platform": "Steam (by id)",
+    "surface_url": "https://steamcommunity.com/profiles/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1296",
+    "platform": "Reddit",
+    "surface_url": "https://www.reddit.com/user/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1297",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/@spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1298",
+    "platform": "Twitch",
+    "surface_url": "https://www.twitch.tv/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1299",
+    "platform": "Linktree",
+    "surface_url": "https://linktr.ee/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1300",
+    "platform": "DeviantArt",
+    "surface_url": "https://www.deviantart.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1301",
+    "platform": "RuneScape",
+    "surface_url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1302",
+    "platform": "Wattpad",
+    "surface_url": "https://www.wattpad.com/user/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1303",
+    "platform": "Truth Social",
+    "surface_url": "https://truthsocial.com/@spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1304",
+    "platform": "Tumblr",
+    "surface_url": "https://www.tumblr.com/blog/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1305",
+    "platform": "GETTR",
+    "surface_url": "https://gettr.com/user/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1306",
+    "platform": "Nextdoor",
+    "surface_url": "https://nextdoor.com/profile/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1307",
+    "platform": "Pixelfed",
+    "surface_url": "https://pixelfed.org/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1308",
+    "platform": "VK",
+    "surface_url": "https://vk.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1309",
+    "platform": "Sina Weibo (Mobile)",
+    "surface_url": "https://m.weibo.cn/u/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1310",
+    "platform": "Dice",
+    "surface_url": "https://www.dice.com/profile/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1311",
+    "platform": "GitHub Gist",
+    "surface_url": "https://gist.github.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1312",
+    "platform": "Xbox",
+    "surface_url": "https://www.xbox.com/en-US/play/user/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1313",
+    "platform": "itch.io",
+    "surface_url": "https://spawnism.itch.io",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1314",
+    "platform": "Chess.com",
+    "surface_url": "https://www.chess.com/member/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1315",
+    "platform": "Rockstar Social Club",
+    "surface_url": "https://socialclub.rockstargames.com/member/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1316",
+    "platform": "Bandcamp",
+    "surface_url": "https://spawnism.bandcamp.com",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1317",
+    "platform": "Pandora",
+    "surface_url": "https://www.pandora.com/profile/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1318",
+    "platform": "YouTube Music",
+    "surface_url": "https://music.youtube.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1319",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/user/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1320",
+    "platform": "Kick",
+    "surface_url": "https://kick.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1321",
+    "platform": "PeerTube",
+    "surface_url": "https://peertube.tv/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1322",
+    "platform": "Giphy",
+    "surface_url": "https://giphy.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1323",
+    "platform": "Snapchat",
+    "surface_url": "https://www.snapchat.com/add/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1324",
+    "platform": "Mixer",
+    "surface_url": "https://mixer.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1325",
+    "platform": "Flaticon",
+    "surface_url": "https://www.flaticon.com/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1326",
+    "platform": "Twitch VODs",
+    "surface_url": "https://www.twitch.tv/spawnism/videos?all=true",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1327",
+    "platform": "Vimeo Showcase",
+    "surface_url": "https://vimeo.com/showcase/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1328",
+    "platform": "Bandcamp Labels",
+    "surface_url": "https://spawnism.bandcamp.com/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1329",
+    "platform": "ItemFix",
+    "surface_url": "https://www.itemfix.com/c/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1330",
+    "platform": "Fur Affinity",
+    "surface_url": "https://www.furaffinity.net/gallery/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1331",
+    "platform": "Tweakers",
+    "surface_url": "https://tweakers.net/gallery/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1332",
+    "platform": "Paltalk",
+    "surface_url": "https://www.paltalk.com/people/users/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1333",
+    "platform": "Niftygateway",
+    "surface_url": "https://niftygateway.com/profile/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1334",
+    "platform": "Wishlistr",
+    "surface_url": "https://www.wishlistr.com/spawnism/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1335",
+    "platform": "YouNow",
+    "surface_url": "https://www.younow.com/spawnism/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1336",
+    "platform": "Old-games",
+    "surface_url": "https://www.old-games.ru/forum/members/?username=spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1337",
+    "platform": "1001tracklists",
+    "surface_url": "https://www.1001tracklists.com/user/spawnism/index.html",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1338",
+    "platform": "CSSBattle",
+    "surface_url": "https://cssbattle.dev/player/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1339",
+    "platform": "ngl.link",
+    "surface_url": "https://ngl.link/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1340",
+    "platform": "Coders Rank",
+    "surface_url": "https://profile.codersrank.io/user/spawnism/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1341",
+    "platform": "Dumpor",
+    "surface_url": "https://dumpor.com/v/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1342",
+    "platform": "Arhrock",
+    "surface_url": "https://arhrock.info/forum/members/?username=spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1343",
+    "platform": "Carrd.co",
+    "surface_url": "https://spawnism.carrd.co",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1344",
+    "platform": "Tenor.com",
+    "surface_url": "https://tenor.com/users/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1345",
+    "platform": "SchemeColor",
+    "surface_url": "https://www.schemecolor.com/author/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1346",
+    "platform": "Libraries",
+    "surface_url": "https://libraries.io/github/spawnism/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1347",
+    "platform": "Lolchess",
+    "surface_url": "https://lolchess.gg/profile/na/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1348",
+    "platform": "Mactalk",
+    "surface_url": "http://www.mactalk.com.au/member.php?username=spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1349",
+    "platform": "Plug.DJ",
+    "surface_url": "https://plug.dj/@/spawnism",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-22T18:29:02Z"
   }
 ]

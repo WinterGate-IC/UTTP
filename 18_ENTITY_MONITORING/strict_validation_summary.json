@@ -12,9 +12,9 @@
     "search_or_query_page": 48,
     "strict_valid": 233
   },
-  "internal_links_checked": 146,
+  "internal_links_checked": 148,
   "broken_internal_links": [],
-  "json_files_checked": 166,
+  "json_files_checked": 167,
   "bad_json_files": [],
   "non_strict_json_exports": [
     {
@@ -26,21 +26,37 @@
       "error": "Expecting property name enclosed in double quotes: line 94 column 5 (char 3694)"
     }
   ],
-  "csv_files_checked": 17,
+  "csv_files_checked": 32,
   "bad_csv_files": [],
-  "manifest_rows_checked": 710,
+  "manifest_rows_checked": 741,
   "bad_manifest_rows": [
     {
+      "path": "18_ENTITY_MONITORING/discovered_areas.json",
+      "reason": "size_mismatch"
+    },
+    {
       "path": "18_ENTITY_MONITORING/discovered_sources.json",
-      "reason": "hash_mismatch"
+      "reason": "size_mismatch"
+    },
+    {
+      "path": "18_ENTITY_MONITORING/discovered_watchlist.json",
+      "reason": "size_mismatch"
+    },
+    {
+      "path": "18_ENTITY_MONITORING/discovery_events.json",
+      "reason": "size_mismatch"
     },
     {
       "path": "18_ENTITY_MONITORING/discovery_state.json",
-      "reason": "hash_mismatch"
+      "reason": "size_mismatch"
     },
     {
-      "path": "18_ENTITY_MONITORING/entity-intelligence.json",
-      "reason": "hash_mismatch"
+      "path": "18_ENTITY_MONITORING/migration_events.json",
+      "reason": "size_mismatch"
+    },
+    {
+      "path": "18_ENTITY_MONITORING/potential_claims.json",
+      "reason": "size_mismatch"
     },
     {
       "path": "18_ENTITY_MONITORING/rebrands.json",

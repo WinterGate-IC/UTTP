@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "WinterGateIC Entity Intelligence",
-    "updated": "2026-11-22 18:18 UTC",
+    "updated": "2026-11-22 18:29 UTC",
     "scope": "Group-level entity monitoring. No usernames, account IDs, invite links, victim data, or private identifiers.",
     "entity_count": 31,
-    "area_rows": 1487,
-    "area_platforms": 822,
-    "source_count": 2196,
+    "area_rows": 1549,
+    "area_platforms": 825,
+    "source_count": 2257,
     "claim_count": 44,
-    "potential_claim_count": 791,
-    "watchlist_count": 775,
-    "discovered_area_count": 1287,
-    "discovered_watchlist_count": 773,
+    "potential_claim_count": 832,
+    "watchlist_count": 815,
+    "discovered_area_count": 1349,
+    "discovered_watchlist_count": 813,
     "discovered_tactic_count": 294,
-    "discovery_event_count": 22,
+    "discovery_event_count": 28,
     "privacy": "No target list. Areas are platforms/surfaces, not people. Handles are leads, not identities.",
     "learning_model": "Rule-based adaptive scoring from confidence, source density, tactical indicators, area footprint, and evolution timeline. Not a predictive AI model and not a claim of future certainty."
   },
@@ -1468,10 +1468,10 @@
   "areas": [
     {
       "platform": "YouTube",
-      "rows": 24,
+      "rows": 26,
       "statuses": {
         "reported": 10,
-        "discovered": 14
+        "discovered": 16
       },
       "confidence": "C"
     },
@@ -1494,10 +1494,10 @@
     },
     {
       "platform": "X",
-      "rows": 12,
+      "rows": 13,
       "statuses": {
         "reported": 10,
-        "discovered": 2
+        "discovered": 3
       },
       "confidence": "C"
     },
@@ -1537,10 +1537,10 @@
     },
     {
       "platform": "Reddit",
-      "rows": 17,
+      "rows": 18,
       "statuses": {
         "assessed": 10,
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "A/D"
     },
@@ -1595,19 +1595,19 @@
     },
     {
       "platform": "Bluesky",
-      "rows": 24,
+      "rows": 25,
       "statuses": {
         "assessed": 10,
-        "discovered": 14
+        "discovered": 15
       },
       "confidence": "A/D"
     },
     {
       "platform": "Tumblr",
-      "rows": 17,
+      "rows": 18,
       "statuses": {
         "assessed": 10,
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "A/D"
     },
@@ -1637,49 +1637,49 @@
     },
     {
       "platform": "SoundCloud",
-      "rows": 4,
+      "rows": 5,
       "statuses": {
-        "discovered": 4
+        "discovered": 5
       },
       "confidence": "D/S"
     },
     {
       "platform": "GETTR",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "GitHub Gist",
-      "rows": 4,
+      "rows": 5,
       "statuses": {
-        "discovered": 4
+        "discovered": 5
       },
       "confidence": "D/S"
     },
     {
       "platform": "Chess.com",
-      "rows": 5,
+      "rows": 6,
       "statuses": {
-        "discovered": 5
+        "discovered": 6
       },
       "confidence": "D/S"
     },
     {
       "platform": "Kick",
-      "rows": 2,
+      "rows": 3,
       "statuses": {
-        "discovered": 2
+        "discovered": 3
       },
       "confidence": "D/S"
     },
     {
       "platform": "Giphy",
-      "rows": 5,
+      "rows": 6,
       "statuses": {
-        "discovered": 5
+        "discovered": 6
       },
       "confidence": "D/S"
     },
@@ -1701,9 +1701,9 @@
     },
     {
       "platform": "Niftygateway",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -1717,9 +1717,9 @@
     },
     {
       "platform": "Dumpor",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -1733,17 +1733,17 @@
     },
     {
       "platform": "Tenor.com",
-      "rows": 3,
+      "rows": 4,
       "statuses": {
-        "discovered": 3
+        "discovered": 4
       },
       "confidence": "D/S"
     },
     {
       "platform": "Libraries",
-      "rows": 3,
+      "rows": 4,
       "statuses": {
-        "discovered": 3
+        "discovered": 4
       },
       "confidence": "D/S"
     },
@@ -1885,9 +1885,9 @@
     },
     {
       "platform": "Nextdoor",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -1909,17 +1909,17 @@
     },
     {
       "platform": "Dice",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Xbox",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -1933,46 +1933,22 @@
     },
     {
       "platform": "Bandcamp",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "YouTube Music",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Twitch VODs",
-      "rows": 6,
-      "statuses": {
-        "discovered": 6
-      },
-      "confidence": "D/S"
-    },
-    {
-      "platform": "Bandcamp Labels",
-      "rows": 4,
-      "statuses": {
-        "discovered": 4
-      },
-      "confidence": "D/S"
-    },
-    {
-      "platform": "ngl.link",
-      "rows": 4,
-      "statuses": {
-        "discovered": 4
-      },
-      "confidence": "D/S"
-    },
-    {
-      "platform": "Coders Rank",
       "rows": 7,
       "statuses": {
         "discovered": 7
@@ -1980,10 +1956,34 @@
       "confidence": "D/S"
     },
     {
-      "platform": "Carrd.co",
-      "rows": 4,
+      "platform": "Bandcamp Labels",
+      "rows": 5,
       "statuses": {
-        "discovered": 4
+        "discovered": 5
+      },
+      "confidence": "D/S"
+    },
+    {
+      "platform": "ngl.link",
+      "rows": 5,
+      "statuses": {
+        "discovered": 5
+      },
+      "confidence": "D/S"
+    },
+    {
+      "platform": "Coders Rank",
+      "rows": 8,
+      "statuses": {
+        "discovered": 8
+      },
+      "confidence": "D/S"
+    },
+    {
+      "platform": "Carrd.co",
+      "rows": 5,
+      "statuses": {
+        "discovered": 5
       },
       "confidence": "D/S"
     },
@@ -1997,17 +1997,17 @@
     },
     {
       "platform": "Lolchess",
-      "rows": 6,
+      "rows": 7,
       "statuses": {
-        "discovered": 6
+        "discovered": 7
       },
       "confidence": "D/S"
     },
     {
       "platform": "Mactalk",
-      "rows": 6,
+      "rows": 7,
       "statuses": {
-        "discovered": 6
+        "discovered": 7
       },
       "confidence": "D/S"
     },
@@ -2197,9 +2197,9 @@
     },
     {
       "platform": "GitHub",
-      "rows": 23,
+      "rows": 24,
       "statuses": {
-        "discovered": 23
+        "discovered": 24
       },
       "confidence": "D/S"
     },
@@ -2229,17 +2229,17 @@
     },
     {
       "platform": "Tweakers",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Plug.DJ",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -2349,25 +2349,25 @@
     },
     {
       "platform": "Steam",
-      "rows": 6,
+      "rows": 7,
       "statuses": {
-        "discovered": 6
+        "discovered": 7
       },
       "confidence": "D/S"
     },
     {
       "platform": "Steam (Group)",
-      "rows": 6,
+      "rows": 7,
       "statuses": {
-        "discovered": 6
+        "discovered": 7
       },
       "confidence": "D/S"
     },
     {
       "platform": "Steam (by id)",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -2381,25 +2381,25 @@
     },
     {
       "platform": "Truth Social",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Pixelfed",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Rockstar Social Club",
-      "rows": 6,
+      "rows": 7,
       "statuses": {
-        "discovered": 6
+        "discovered": 7
       },
       "confidence": "D/S"
     },
@@ -2421,41 +2421,41 @@
     },
     {
       "platform": "Paltalk",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "YouNow",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Old-games",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "CSSBattle",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Arhrock",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -2845,49 +2845,49 @@
     },
     {
       "platform": "PeerTube",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Vimeo Showcase",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "ItemFix",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "Wishlistr",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "1001tracklists",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
     {
       "platform": "SchemeColor",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -3053,9 +3053,9 @@
     },
     {
       "platform": "Twitch",
-      "rows": 5,
+      "rows": 6,
       "statuses": {
-        "discovered": 5
+        "discovered": 6
       },
       "confidence": "D/S"
     },
@@ -3125,17 +3125,17 @@
     },
     {
       "platform": "Flaticon",
-      "rows": 6,
+      "rows": 7,
       "statuses": {
-        "discovered": 6
+        "discovered": 7
       },
       "confidence": "D/S"
     },
     {
       "platform": "RuneScape",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -3149,17 +3149,17 @@
     },
     {
       "platform": "Mixer",
-      "rows": 4,
+      "rows": 5,
       "statuses": {
-        "discovered": 4
+        "discovered": 5
       },
       "confidence": "D/S"
     },
     {
       "platform": "Fur Affinity",
-      "rows": 7,
+      "rows": 8,
       "statuses": {
-        "discovered": 7
+        "discovered": 8
       },
       "confidence": "D/S"
     },
@@ -3181,9 +3181,9 @@
     },
     {
       "platform": "Twitter/X",
-      "rows": 1,
+      "rows": 2,
       "statuses": {
-        "discovered": 1
+        "discovered": 2
       },
       "confidence": "D/S"
     },
@@ -3197,25 +3197,25 @@
     },
     {
       "platform": "Linktree",
-      "rows": 1,
+      "rows": 2,
       "statuses": {
-        "discovered": 1
+        "discovered": 2
       },
       "confidence": "D/S"
     },
     {
       "platform": "DeviantArt",
-      "rows": 5,
+      "rows": 6,
       "statuses": {
-        "discovered": 5
+        "discovered": 6
       },
       "confidence": "D/S"
     },
     {
       "platform": "Sina Weibo (Mobile)",
-      "rows": 2,
+      "rows": 3,
       "statuses": {
-        "discovered": 2
+        "discovered": 3
       },
       "confidence": "D/S"
     },
@@ -3493,9 +3493,9 @@
     },
     {
       "platform": "itch.io",
-      "rows": 3,
+      "rows": 4,
       "statuses": {
-        "discovered": 3
+        "discovered": 4
       },
       "confidence": "D/S"
     },
@@ -3525,9 +3525,9 @@
     },
     {
       "platform": "Snapchat",
-      "rows": 1,
+      "rows": 2,
       "statuses": {
-        "discovered": 1
+        "discovered": 2
       },
       "confidence": "D/S"
     },
@@ -8045,6 +8045,30 @@
     },
     {
       "platform": "Queer",
+      "rows": 1,
+      "statuses": {
+        "discovered": 1
+      },
+      "confidence": "D/S"
+    },
+    {
+      "platform": "Wattpad",
+      "rows": 1,
+      "statuses": {
+        "discovered": 1
+      },
+      "confidence": "D/S"
+    },
+    {
+      "platform": "VK",
+      "rows": 1,
+      "statuses": {
+        "discovered": 1
+      },
+      "confidence": "D/S"
+    },
+    {
+      "platform": "Pandora",
       "rows": 1,
       "statuses": {
         "discovered": 1
@@ -20545,6 +20569,502 @@
       "area_id": "DA1287",
       "platform": "SchemeColor",
       "surface": "https://www.schemecolor.com/author/o9a",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1288",
+      "platform": "X",
+      "surface": "https://x.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1289",
+      "platform": "Twitter/X",
+      "surface": "https://twitter.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1290",
+      "platform": "GitHub",
+      "surface": "https://github.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1291",
+      "platform": "Bluesky",
+      "surface": "https://bsky.app/profile/spawnism.bsky.social",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1292",
+      "platform": "SoundCloud",
+      "surface": "https://soundcloud.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1293",
+      "platform": "Steam",
+      "surface": "https://steamcommunity.com/id/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1294",
+      "platform": "Steam (Group)",
+      "surface": "https://steamcommunity.com/groups/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1295",
+      "platform": "Steam (by id)",
+      "surface": "https://steamcommunity.com/profiles/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1296",
+      "platform": "Reddit",
+      "surface": "https://www.reddit.com/user/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1297",
+      "platform": "YouTube",
+      "surface": "https://www.youtube.com/@spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1298",
+      "platform": "Twitch",
+      "surface": "https://www.twitch.tv/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1299",
+      "platform": "Linktree",
+      "surface": "https://linktr.ee/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1300",
+      "platform": "DeviantArt",
+      "surface": "https://www.deviantart.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1301",
+      "platform": "RuneScape",
+      "surface": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1302",
+      "platform": "Wattpad",
+      "surface": "https://www.wattpad.com/user/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1303",
+      "platform": "Truth Social",
+      "surface": "https://truthsocial.com/@spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1304",
+      "platform": "Tumblr",
+      "surface": "https://www.tumblr.com/blog/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1305",
+      "platform": "GETTR",
+      "surface": "https://gettr.com/user/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1306",
+      "platform": "Nextdoor",
+      "surface": "https://nextdoor.com/profile/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1307",
+      "platform": "Pixelfed",
+      "surface": "https://pixelfed.org/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1308",
+      "platform": "VK",
+      "surface": "https://vk.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1309",
+      "platform": "Sina Weibo (Mobile)",
+      "surface": "https://m.weibo.cn/u/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1310",
+      "platform": "Dice",
+      "surface": "https://www.dice.com/profile/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1311",
+      "platform": "GitHub Gist",
+      "surface": "https://gist.github.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1312",
+      "platform": "Xbox",
+      "surface": "https://www.xbox.com/en-US/play/user/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1313",
+      "platform": "itch.io",
+      "surface": "https://spawnism.itch.io",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1314",
+      "platform": "Chess.com",
+      "surface": "https://www.chess.com/member/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1315",
+      "platform": "Rockstar Social Club",
+      "surface": "https://socialclub.rockstargames.com/member/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1316",
+      "platform": "Bandcamp",
+      "surface": "https://spawnism.bandcamp.com",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1317",
+      "platform": "Pandora",
+      "surface": "https://www.pandora.com/profile/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1318",
+      "platform": "YouTube Music",
+      "surface": "https://music.youtube.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1319",
+      "platform": "YouTube",
+      "surface": "https://www.youtube.com/user/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1320",
+      "platform": "Kick",
+      "surface": "https://kick.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1321",
+      "platform": "PeerTube",
+      "surface": "https://peertube.tv/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1322",
+      "platform": "Giphy",
+      "surface": "https://giphy.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1323",
+      "platform": "Snapchat",
+      "surface": "https://www.snapchat.com/add/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1324",
+      "platform": "Mixer",
+      "surface": "https://mixer.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1325",
+      "platform": "Flaticon",
+      "surface": "https://www.flaticon.com/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1326",
+      "platform": "Twitch VODs",
+      "surface": "https://www.twitch.tv/spawnism/videos?all=true",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1327",
+      "platform": "Vimeo Showcase",
+      "surface": "https://vimeo.com/showcase/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1328",
+      "platform": "Bandcamp Labels",
+      "surface": "https://spawnism.bandcamp.com/",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1329",
+      "platform": "ItemFix",
+      "surface": "https://www.itemfix.com/c/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1330",
+      "platform": "Fur Affinity",
+      "surface": "https://www.furaffinity.net/gallery/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1331",
+      "platform": "Tweakers",
+      "surface": "https://tweakers.net/gallery/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1332",
+      "platform": "Paltalk",
+      "surface": "https://www.paltalk.com/people/users/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1333",
+      "platform": "Niftygateway",
+      "surface": "https://niftygateway.com/profile/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1334",
+      "platform": "Wishlistr",
+      "surface": "https://www.wishlistr.com/spawnism/",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1335",
+      "platform": "YouNow",
+      "surface": "https://www.younow.com/spawnism/",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1336",
+      "platform": "Old-games",
+      "surface": "https://www.old-games.ru/forum/members/?username=spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1337",
+      "platform": "1001tracklists",
+      "surface": "https://www.1001tracklists.com/user/spawnism/index.html",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1338",
+      "platform": "CSSBattle",
+      "surface": "https://cssbattle.dev/player/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1339",
+      "platform": "ngl.link",
+      "surface": "https://ngl.link/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1340",
+      "platform": "Coders Rank",
+      "surface": "https://profile.codersrank.io/user/spawnism/",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1341",
+      "platform": "Dumpor",
+      "surface": "https://dumpor.com/v/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1342",
+      "platform": "Arhrock",
+      "surface": "https://arhrock.info/forum/members/?username=spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1343",
+      "platform": "Carrd.co",
+      "surface": "https://spawnism.carrd.co",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1344",
+      "platform": "Tenor.com",
+      "surface": "https://tenor.com/users/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1345",
+      "platform": "SchemeColor",
+      "surface": "https://www.schemecolor.com/author/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1346",
+      "platform": "Libraries",
+      "surface": "https://libraries.io/github/spawnism/",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1347",
+      "platform": "Lolchess",
+      "surface": "https://lolchess.gg/profile/na/spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1348",
+      "platform": "Mactalk",
+      "surface": "http://www.mactalk.com.au/member.php?username=spawnism",
+      "presence_status": "discovered",
+      "confidence": "D/S",
+      "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
+    },
+    {
+      "area_id": "DA1349",
+      "platform": "Plug.DJ",
+      "surface": "https://plug.dj/@/spawnism",
       "presence_status": "discovered",
       "confidence": "D/S",
       "why_relevant": "Auto-discovered from StyxNet OSINT; verify before citation."
@@ -33215,11 +33735,137 @@
       "confidence": "D/S"
     },
     {
+      "id": "D2106",
+      "name": "1001tracklists.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.1001tracklists.com/user/spawnism/index.html",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2107",
+      "name": "arhrock.info — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://arhrock.info/forum/members/?username=spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2108",
+      "name": "bsky.app — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://bsky.app/profile/spawnism.bsky.social",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2109",
+      "name": "chess.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.chess.com/member/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
       "id": "D211",
       "name": "giphy.com — auto-discovered",
       "date": "2026-11-22",
       "type": "discovered",
       "url": "https://giphy.com/uttp",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2110",
+      "name": "cssbattle.dev — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://cssbattle.dev/player/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2111",
+      "name": "deviantart.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.deviantart.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2112",
+      "name": "dice.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.dice.com/profile/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2113",
+      "name": "dumpor.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://dumpor.com/v/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2114",
+      "name": "flaticon.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.flaticon.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2115",
+      "name": "furaffinity.net — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.furaffinity.net/gallery/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2116",
+      "name": "gettr.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://gettr.com/user/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2117",
+      "name": "giphy.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://giphy.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2118",
+      "name": "gist.github.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://gist.github.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2119",
+      "name": "github.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://github.com/spawnism",
       "use": "Auto-discovered from archive scan; verify before citation.",
       "confidence": "D/S"
     },
@@ -33233,11 +33879,191 @@
       "confidence": "D/S"
     },
     {
+      "id": "D2120",
+      "name": "itemfix.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.itemfix.com/c/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2121",
+      "name": "kick.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://kick.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2122",
+      "name": "libraries.io — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://libraries.io/github/spawnism/",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2123",
+      "name": "linktr.ee — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://linktr.ee/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2124",
+      "name": "lolchess.gg — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://lolchess.gg/profile/na/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2125",
+      "name": "m.weibo.cn — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://m.weibo.cn/u/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2126",
+      "name": "mactalk.com.au — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "http://www.mactalk.com.au/member.php?username=spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2127",
+      "name": "mixer.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://mixer.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2128",
+      "name": "music.youtube.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://music.youtube.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2129",
+      "name": "nextdoor.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://nextdoor.com/profile/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
       "id": "D213",
       "name": "gist.github.com — auto-discovered",
       "date": "2026-11-22",
       "type": "discovered",
       "url": "https://gist.github.com/dpos",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2130",
+      "name": "ngl.link — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://ngl.link/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2131",
+      "name": "niftygateway.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://niftygateway.com/profile/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2132",
+      "name": "old-games.ru — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.old-games.ru/forum/members/?username=spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2133",
+      "name": "paltalk.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.paltalk.com/people/users/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2134",
+      "name": "pandora.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.pandora.com/profile/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2135",
+      "name": "peertube.tv — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://peertube.tv/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2136",
+      "name": "pixelfed.org — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://pixelfed.org/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2137",
+      "name": "plug.dj — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://plug.dj/@/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2138",
+      "name": "profile.codersrank.io — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://profile.codersrank.io/user/spawnism/",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2139",
+      "name": "reddit.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.reddit.com/user/spawnism",
       "use": "Auto-discovered from archive scan; verify before citation.",
       "confidence": "D/S"
     },
@@ -33251,6 +34077,96 @@
       "confidence": "D/S"
     },
     {
+      "id": "D2140",
+      "name": "schemecolor.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.schemecolor.com/author/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2141",
+      "name": "secure.runescape.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2142",
+      "name": "snapchat.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.snapchat.com/add/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2143",
+      "name": "socialclub.rockstargames.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://socialclub.rockstargames.com/member/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2144",
+      "name": "soundcloud.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://soundcloud.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2145",
+      "name": "spawnism.bandcamp.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://spawnism.bandcamp.com",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2146",
+      "name": "spawnism.carrd.co — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://spawnism.carrd.co",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2147",
+      "name": "spawnism.itch.io — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://spawnism.itch.io",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2148",
+      "name": "steamcommunity.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://steamcommunity.com/groups/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2149",
+      "name": "steamcommunity.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://steamcommunity.com/id/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
       "id": "D215",
       "name": "gist.github.com — auto-discovered",
       "date": "2026-11-22",
@@ -33260,11 +34176,164 @@
       "confidence": "D/S"
     },
     {
+      "id": "D2150",
+      "name": "steamcommunity.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://steamcommunity.com/profiles/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2151",
+      "name": "tenor.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://tenor.com/users/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2152",
+      "name": "truthsocial.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://truthsocial.com/@spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2153",
+      "name": "tumblr.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.tumblr.com/blog/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2154",
+      "name": "tweakers.net — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://tweakers.net/gallery/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2155",
+      "name": "twitch.tv — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.twitch.tv/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2156",
+      "name": "twitch.tv — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.twitch.tv/spawnism/videos?all=true",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2157",
+      "name": "twitter.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://twitter.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2158",
+      "name": "vimeo.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://vimeo.com/showcase/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2159",
+      "name": "vk.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://vk.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
       "id": "D216",
       "name": "github.com — auto-discovered",
       "date": "2026-11-22",
       "type": "discovered",
       "url": "https://github.com/dpos",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2160",
+      "name": "wattpad.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.wattpad.com/user/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2161",
+      "name": "wishlistr.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.wishlistr.com/spawnism/",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2162",
+      "name": "x.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://x.com/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2163",
+      "name": "xbox.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.xbox.com/en-US/play/user/spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2164",
+      "name": "younow.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.younow.com/spawnism/",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2165",
+      "name": "youtube.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.youtube.com/@spawnism",
+      "use": "Auto-discovered from archive scan; verify before citation.",
+      "confidence": "D/S"
+    },
+    {
+      "id": "D2166",
+      "name": "youtube.com — auto-discovered",
+      "date": "2026-11-22",
+      "type": "discovered",
+      "url": "https://www.youtube.com/user/spawnism",
       "use": "Auto-discovered from archive scan; verify before citation.",
       "confidence": "D/S"
     },
@@ -42488,7 +43557,135 @@
       "limits": "Public handle lead; not ownership-confirmed."
     },
     {
+      "name": "X handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Twitter/X handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "GitHub handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Bluesky handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "YouTube handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Twitch handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
       "name": "Kaskus handle cluster (uttp)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "DeviantArt handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Wattpad handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Tumblr handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "GETTR handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Nextdoor handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Sina Weibo (Mobile) handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Dice handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "GitHub Gist handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Xbox handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "itch.io handle cluster (spawnism)",
       "type": "discovered handle cluster",
       "status": "intake",
       "confidence": "D/S",
@@ -42504,6 +43701,86 @@
       "limits": "Public handle lead; not ownership-confirmed."
     },
     {
+      "name": "Chess.com handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Bandcamp handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "YouTube Music handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Kick handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Giphy handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Snapchat handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Mixer handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Twitch VODs handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Bandcamp Labels handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Tweakers handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
       "name": "openriskmanual.org handle cluster (uttp)",
       "type": "discovered handle cluster",
       "status": "intake",
@@ -42512,7 +43789,119 @@
       "limits": "Public handle lead; not ownership-confirmed."
     },
     {
+      "name": "Niftygateway handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "ngl.link handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Coders Rank handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Dumpor handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Carrd.co handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Tenor.com handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "OP.GG LoL Singapore handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "OP.GG LoL Phillippines handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "OP.GG LoL Thailand handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Dota2 handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
       "name": "Dobroeslovo handle cluster (uttp)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Libraries handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Lolchess handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Mactalk handle cluster (spawnism)",
+      "type": "discovered handle cluster",
+      "status": "intake",
+      "confidence": "D/S",
+      "indicators": "Auto-discovered from StyxNet OSINT.",
+      "limits": "Public handle lead; not ownership-confirmed."
+    },
+    {
+      "name": "Plug.DJ handle cluster (spawnism)",
       "type": "discovered handle cluster",
       "status": "intake",
       "confidence": "D/S",
@@ -48944,6 +50333,87 @@
       "first_seen": "2026-11-22T17:38:44Z"
     },
     {
+      "id": "P1611",
+      "claim": "Potential UTTP-linked handle observed: spawnism on X (https://x.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://x.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1612",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Twitter/X (https://twitter.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://twitter.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1613",
+      "claim": "Potential UTTP-linked handle observed: spawnism on GitHub (https://github.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://github.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1614",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Bluesky (https://bsky.app/profile/spawnism.bsky.social)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://bsky.app/profile/spawnism.bsky.social",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1615",
+      "claim": "Potential UTTP-linked handle observed: spawnism on YouTube (https://www.youtube.com/@spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.youtube.com/@spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1616",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Twitch (https://www.twitch.tv/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.twitch.tv/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1617",
+      "claim": "Potential UTTP-linked handle observed: spawnism on DeviantArt (https://www.deviantart.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.deviantart.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1618",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Wattpad (https://www.wattpad.com/user/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.wattpad.com/user/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1619",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Tumblr (https://www.tumblr.com/blog/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.tumblr.com/blog/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
       "id": "P162",
       "claim": "Potential UTTP-linked handle observed: uttp on Kaskus (https://www.kaskus.co.id/@uttp)",
       "type": "potential",
@@ -48951,6 +50421,96 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://www.kaskus.co.id/@uttp",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1620",
+      "claim": "Potential UTTP-linked handle observed: spawnism on GETTR (https://gettr.com/user/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://gettr.com/user/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1621",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Nextdoor (https://nextdoor.com/profile/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://nextdoor.com/profile/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1622",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Sina Weibo (Mobile) (https://m.weibo.cn/u/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://m.weibo.cn/u/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1623",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Dice (https://www.dice.com/profile/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.dice.com/profile/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1624",
+      "claim": "Potential UTTP-linked handle observed: spawnism on GitHub Gist (https://gist.github.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://gist.github.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1625",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Xbox (https://www.xbox.com/en-US/play/user/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.xbox.com/en-US/play/user/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1626",
+      "claim": "Potential UTTP-linked handle observed: spawnism on itch.io (https://spawnism.itch.io)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://spawnism.itch.io",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1627",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Chess.com (https://www.chess.com/member/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.chess.com/member/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1628",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Bandcamp (https://spawnism.bandcamp.com)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://spawnism.bandcamp.com",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1629",
+      "claim": "Potential UTTP-linked handle observed: spawnism on YouTube Music (https://music.youtube.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://music.youtube.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "id": "P163",
@@ -48962,6 +50522,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1630",
+      "claim": "Potential UTTP-linked handle observed: spawnism on YouTube (https://www.youtube.com/user/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.youtube.com/user/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1631",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Kick (https://kick.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://kick.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1632",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Giphy (https://giphy.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://giphy.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1633",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Snapchat (https://www.snapchat.com/add/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.snapchat.com/add/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1634",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Mixer (https://mixer.com/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://mixer.com/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1635",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Twitch VODs (https://www.twitch.tv/spawnism/videos?all=true)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.twitch.tv/spawnism/videos?all=true",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1636",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Bandcamp Labels (https://spawnism.bandcamp.com/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://spawnism.bandcamp.com/",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1637",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Tweakers (https://tweakers.net/gallery/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://tweakers.net/gallery/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1638",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Niftygateway (https://niftygateway.com/profile/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://niftygateway.com/profile/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1639",
+      "claim": "Potential UTTP-linked handle observed: spawnism on ngl.link (https://ngl.link/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://ngl.link/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
       "id": "P164",
       "claim": "Potential UTTP-linked handle observed: uttp on openriskmanual.org (https://openriskmanual.org/wiki/User:uttp)",
       "type": "potential",
@@ -48971,6 +50621,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1640",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Coders Rank (https://profile.codersrank.io/user/spawnism/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://profile.codersrank.io/user/spawnism/",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1641",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Dumpor (https://dumpor.com/v/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://dumpor.com/v/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1642",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Carrd.co (https://spawnism.carrd.co)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://spawnism.carrd.co",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1643",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Tenor.com (https://tenor.com/users/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://tenor.com/users/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1644",
+      "claim": "Potential UTTP-linked handle observed: spawnism on OP.GG LoL Singapore (https://op.gg/lol/summoners/search?q=spawnism&region=sg)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=spawnism&region=sg",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1645",
+      "claim": "Potential UTTP-linked handle observed: spawnism on OP.GG LoL Phillippines (https://op.gg/lol/summoners/search?q=spawnism&region=ph)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=spawnism&region=ph",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1646",
+      "claim": "Potential UTTP-linked handle observed: spawnism on OP.GG LoL Thailand (https://op.gg/lol/summoners/search?q=spawnism&region=th)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=spawnism&region=th",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1647",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Dota2 (https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1648",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Libraries (https://libraries.io/github/spawnism/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://libraries.io/github/spawnism/",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1649",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Lolchess (https://lolchess.gg/profile/na/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://lolchess.gg/profile/na/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
       "id": "P165",
       "claim": "Potential UTTP-linked handle observed: uttp on Dobroeslovo (http://www.dobroeslovo.ru/memberlist.php?username=uttp)",
       "type": "potential",
@@ -48978,6 +50718,24 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "http://www.dobroeslovo.ru/memberlist.php?username=uttp",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1650",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Mactalk (http://www.mactalk.com.au/member.php?username=spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "http://www.mactalk.com.au/member.php?username=spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
+    },
+    {
+      "id": "P1651",
+      "claim": "Potential UTTP-linked handle observed: spawnism on Plug.DJ (https://plug.dj/@/spawnism)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://plug.dj/@/spawnism",
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "id": "P166",
@@ -54147,6 +55905,48 @@
       "detail": "New platform surface changes detected.",
       "count": 805,
       "delta": 805
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "type": "source discovery",
+      "detail": "New source URLs discovered.",
+      "count": 2166,
+      "delta": 61
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "type": "OSINT collection",
+      "detail": "New StyxNet OSINT findings collected.",
+      "count": 940,
+      "delta": 82
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "type": "area discovery",
+      "detail": "New platform surfaces mapped.",
+      "count": 1349,
+      "delta": 62
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "type": "claim discovery",
+      "detail": "New potential claims identified.",
+      "count": 832,
+      "delta": 41
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "type": "watchlist discovery",
+      "detail": "New watch leads identified.",
+      "count": 813,
+      "delta": 40
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "type": "migration detection",
+      "detail": "New platform surface changes detected.",
+      "count": 808,
+      "delta": 3
     }
   ],
   "discovered_tactics": [
@@ -54450,145 +56250,145 @@
       "name": "UTTP / UTube Troll Police",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "UTTP Empire / Nu-UTTP",
       "entity_id": "UTTP-EMPIRE",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "Circusfall faction",
       "entity_id": "CIRCUSFALL",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "OfficerSlappy faction / UTTP Forum",
       "entity_id": "OFFICERSLAPPY",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "DPOS / Degeneracy Police Order State",
       "entity_id": "DPOS",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "TYRANNY / RUTTP",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "Anti-Fandom Resistance (AFR)",
       "entity_id": "AFR",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "Bn0r Empire",
       "entity_id": "BN0R",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "Reddit Defence Force (RDF)",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "RDFPARTY",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "KKTK / KuKluxTrollKlan",
       "entity_id": "KKTK",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "YFGA",
       "entity_id": "YFGA",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "VGCP / VideoGameCartoonPolice",
       "entity_id": "VGCP",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "AFF / Anti Fandom Front",
       "entity_id": "AFF",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "AUTTP / Anti-UTTP",
       "entity_id": "AUTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "764",
       "entity_id": "764",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "Harm Nation",
       "entity_id": "HARMNATION",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "O9A / ONA",
       "entity_id": "O9A",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "Spawnism",
       "entity_id": "SPAWNISM",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "FPE-Police",
       "entity_id": "FPE-POLICE",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "FPE ecosystem",
       "entity_id": "FPE",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "TNM / The Militia",
       "entity_id": "TNM",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "148 / 1488",
       "entity_id": "148",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     },
     {
       "name": "Imperium of the Enclave / GRS",
       "entity_id": "ENCLAVE",
       "basis": "name_token",
-      "first_seen": "2026-11-22T18:15:02Z"
+      "first_seen": "2026-11-22T18:29:02Z"
     }
   ],
   "migration_events": [
@@ -59419,6 +61219,24 @@
     {
       "date": "2026-11-22T17:41:20Z",
       "platform": "zwiftpower",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "platform": "wattpad",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "platform": "vk",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-22T18:29:02Z",
+      "platform": "pandora",
       "change": "discovered_surface",
       "detail": "Auto-discovered platform surface"
     }
@@ -80517,16 +82335,32 @@
     "bad_csv_files": [],
     "bad_manifest_rows": [
       {
+        "path": "18_ENTITY_MONITORING/discovered_areas.json",
+        "reason": "size_mismatch"
+      },
+      {
         "path": "18_ENTITY_MONITORING/discovered_sources.json",
-        "reason": "hash_mismatch"
+        "reason": "size_mismatch"
+      },
+      {
+        "path": "18_ENTITY_MONITORING/discovered_watchlist.json",
+        "reason": "size_mismatch"
+      },
+      {
+        "path": "18_ENTITY_MONITORING/discovery_events.json",
+        "reason": "size_mismatch"
       },
       {
         "path": "18_ENTITY_MONITORING/discovery_state.json",
-        "reason": "hash_mismatch"
+        "reason": "size_mismatch"
       },
       {
-        "path": "18_ENTITY_MONITORING/entity-intelligence.json",
-        "reason": "hash_mismatch"
+        "path": "18_ENTITY_MONITORING/migration_events.json",
+        "reason": "size_mismatch"
+      },
+      {
+        "path": "18_ENTITY_MONITORING/potential_claims.json",
+        "reason": "size_mismatch"
       },
       {
         "path": "18_ENTITY_MONITORING/rebrands.json",
@@ -80546,7 +82380,7 @@
     }
   },
   "monitor_feed": {
-    "updated": "2026-11-22T18:18:48Z",
+    "updated": "2026-11-22T18:29:14Z",
     "mode": "lightweight source watch",
     "urls_checked": 10,
     "results": [
@@ -80554,7 +82388,7 @@
         "status": 0,
         "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
         "content_type": "",
-        "elapsed_ms": 5214,
+        "elapsed_ms": 5165,
         "ok": false,
         "error": "The read operation timed out",
         "source_id": "S001",
@@ -80564,7 +82398,7 @@
         "status": 200,
         "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
         "content_type": "text/html",
-        "elapsed_ms": 94,
+        "elapsed_ms": 411,
         "ok": true,
         "source_id": "S003",
         "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -80573,7 +82407,7 @@
         "status": 200,
         "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
         "content_type": "application/pdf",
-        "elapsed_ms": 853,
+        "elapsed_ms": 872,
         "ok": true,
         "source_id": "S005",
         "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -80582,7 +82416,7 @@
         "status": 200,
         "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 213,
+        "elapsed_ms": 205,
         "ok": true,
         "source_id": "S013",
         "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -80591,7 +82425,7 @@
         "status": 200,
         "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 431,
+        "elapsed_ms": 409,
         "ok": true,
         "source_id": "S014",
         "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -80600,7 +82434,7 @@
         "status": 200,
         "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 649,
+        "elapsed_ms": 574,
         "ok": true,
         "source_id": "S021",
         "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -80609,7 +82443,7 @@
         "status": 403,
         "final_url": "https://soyjakwiki.org/UTTP",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 140,
+        "elapsed_ms": 103,
         "ok": false,
         "source_id": "S023",
         "url": "https://soyjakwiki.org/UTTP"
@@ -80618,7 +82452,7 @@
         "status": 200,
         "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
         "content_type": "application/pdf",
-        "elapsed_ms": 129,
+        "elapsed_ms": 120,
         "ok": true,
         "source_id": "S031",
         "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -80627,7 +82461,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 1053,
+        "elapsed_ms": 541,
         "ok": true,
         "source_id": "S034",
         "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -80636,7 +82470,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 498,
+        "elapsed_ms": 491,
         "ok": true,
         "source_id": "S040",
         "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -80645,23 +82479,23 @@
     "tel_records": 34
   },
   "tel_intake": {
-    "updated": "2026-11-22T18:18:49Z",
+    "updated": "2026-11-22T18:29:14Z",
     "count": 0,
     "entries": []
   },
   "cold_storage": {
-    "updated": "2026-11-22T18:00:22.245692Z",
-    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261122T180022Z.json.gz",
-    "snapshot_bytes": 3322,
+    "updated": "2026-11-22T18:18:50.159638Z",
+    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261122T181850Z.json.gz",
+    "snapshot_bytes": 3328,
     "snapshots": 24,
-    "total_bytes": 79235,
+    "total_bytes": 79288,
     "github": "disabled",
     "tel_records": 34,
-    "raw_snapshot_bytes": 12036,
-    "bytes_saved": 8714,
+    "raw_snapshot_bytes": 12038,
+    "bytes_saved": 8710,
     "db": {
       "checked": true,
-      "page_count": 88,
+      "page_count": 84,
       "freelist_before": 0,
       "full_vacuum": false,
       "freelist_after": 0
@@ -80761,7 +82595,7 @@
   ],
   "tel_records": 34,
   "monitor": {
-    "updated": "2026-11-22 18:18 UTC",
+    "updated": "2026-11-22 18:29 UTC",
     "styxnet": {
       "raw_rows": 823,
       "exact_rows": 761,
@@ -80778,36 +82612,36 @@
       "unclear_rows": 73
     },
     "archive": {
-      "manifest_files": 710,
-      "discovered_source_count": 2105,
+      "manifest_files": 741,
+      "discovered_source_count": 2166,
       "rebrand_count": 24,
-      "migration_event_count": 805,
-      "discovered_area_count": 1287,
-      "potential_claim_count": 791,
-      "discovered_watchlist_count": 773,
+      "migration_event_count": 808,
+      "discovered_area_count": 1349,
+      "potential_claim_count": 832,
+      "discovered_watchlist_count": 813,
       "discovered_tactic_count": 294,
-      "discovery_event_count": 22,
+      "discovery_event_count": 28,
       "styxnet_profile_count": 767,
       "osint_finding_count": 940,
       "osint_exact_count": 882,
       "osint_high_confidence_count": 446,
       "osint_new_7d": 940,
       "last_osint": "2026-11-22T18:18:48Z",
-      "new_sources_7d": 2105,
+      "new_sources_7d": 2166,
       "new_styxnet_profiles_7d": 767,
-      "last_discovery": "2026-11-22T18:15:02Z",
+      "last_discovery": "2026-11-22T18:29:02Z",
       "public_release_gb": 6,
       "entity_count": 31,
-      "source_count": 2196,
-      "area_rows": 1487,
-      "area_platforms": 822,
+      "source_count": 2257,
+      "area_rows": 1549,
+      "area_platforms": 825,
       "claim_count": 44,
-      "watchlist_count": 775,
-      "evolution_events": 71,
+      "watchlist_count": 815,
+      "evolution_events": 77,
       "unique_tactics": 342
     },
     "monitor_feed": {
-      "updated": "2026-11-22T18:18:48Z",
+      "updated": "2026-11-22T18:29:14Z",
       "mode": "lightweight source watch",
       "urls_checked": 10,
       "results": [
@@ -80815,7 +82649,7 @@
           "status": 0,
           "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
           "content_type": "",
-          "elapsed_ms": 5214,
+          "elapsed_ms": 5165,
           "ok": false,
           "error": "The read operation timed out",
           "source_id": "S001",
@@ -80825,7 +82659,7 @@
           "status": 200,
           "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
           "content_type": "text/html",
-          "elapsed_ms": 94,
+          "elapsed_ms": 411,
           "ok": true,
           "source_id": "S003",
           "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -80834,7 +82668,7 @@
           "status": 200,
           "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
           "content_type": "application/pdf",
-          "elapsed_ms": 853,
+          "elapsed_ms": 872,
           "ok": true,
           "source_id": "S005",
           "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -80843,7 +82677,7 @@
           "status": 200,
           "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 213,
+          "elapsed_ms": 205,
           "ok": true,
           "source_id": "S013",
           "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -80852,7 +82686,7 @@
           "status": 200,
           "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 431,
+          "elapsed_ms": 409,
           "ok": true,
           "source_id": "S014",
           "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -80861,7 +82695,7 @@
           "status": 200,
           "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 649,
+          "elapsed_ms": 574,
           "ok": true,
           "source_id": "S021",
           "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -80870,7 +82704,7 @@
           "status": 403,
           "final_url": "https://soyjakwiki.org/UTTP",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 140,
+          "elapsed_ms": 103,
           "ok": false,
           "source_id": "S023",
           "url": "https://soyjakwiki.org/UTTP"
@@ -80879,7 +82713,7 @@
           "status": 200,
           "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
           "content_type": "application/pdf",
-          "elapsed_ms": 129,
+          "elapsed_ms": 120,
           "ok": true,
           "source_id": "S031",
           "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -80888,7 +82722,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 1053,
+          "elapsed_ms": 541,
           "ok": true,
           "source_id": "S034",
           "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -80897,7 +82731,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 498,
+          "elapsed_ms": 491,
           "ok": true,
           "source_id": "S040",
           "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -80908,18 +82742,18 @@
     "tel_records": 34,
     "tel_intake": 0,
     "cold_storage": {
-      "updated": "2026-11-22T18:00:22.245692Z",
-      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261122T180022Z.json.gz",
-      "snapshot_bytes": 3322,
+      "updated": "2026-11-22T18:18:50.159638Z",
+      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261122T181850Z.json.gz",
+      "snapshot_bytes": 3328,
       "snapshots": 24,
-      "total_bytes": 79235,
+      "total_bytes": 79288,
       "github": "disabled",
       "tel_records": 34,
-      "raw_snapshot_bytes": 12036,
-      "bytes_saved": 8714,
+      "raw_snapshot_bytes": 12038,
+      "bytes_saved": 8710,
       "db": {
         "checked": true,
-        "page_count": 88,
+        "page_count": 84,
         "freelist_before": 0,
         "full_vacuum": false,
         "freelist_after": 0
@@ -80928,7 +82762,7 @@
     "overtime": {
       "mode": "rule-based scheduled refresh",
       "refresh_seconds": 30,
-      "last_refresh": "2026-11-22T18:18:49Z",
+      "last_refresh": "2026-11-22T18:29:14Z",
       "next_checks": [
         "offshoot survival",
         "platform removals",
