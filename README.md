@@ -116,6 +116,8 @@ The goal is accountability through documentation. Nothing more.
 | [`17_CURRENT_STATE_PACKAGE/`](17_CURRENT_STATE_PACKAGE/) | Short current-state assessment and platform/authority handoff package. |
 | [`18_ENTITY_MONITORING/`](18_ENTITY_MONITORING/) | All monitored entities, tracking links, validation, passive OSINT, and automated pipeline. |
 | [`19_ENTITY_INTEL_PUBLISH/`](19_ENTITY_INTEL_PUBLISH/) | GitHub mirror: one organized folder per entity, updated periodically. |
+| [`22_UTTP_DOMAINS/`](22_UTTP_DOMAINS/) | Domain leads by entity, extracted from StyxNet and OSINT. |
+| [`22_UTTP_DOMAINS/`](22_UTTP_DOMAINS/) | Domain leads by entity, extracted from StyxNet and OSINT. |
 
 No original file was deleted in the 2026-11-19 pass. See
 [`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and

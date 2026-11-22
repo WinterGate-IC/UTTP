@@ -14318,9 +14318,1392 @@
       ],
       "first_seen": "2026-11-22T17:35:59Z",
       "last_seen": "2026-11-22T17:35:59Z"
+    },
+    "spawnism|https://x.com/spawnism": {
+      "id": "OS0859",
+      "username": "spawnism",
+      "platform": "X",
+      "url": "https://x.com/spawnism",
+      "title": "sainaveen pawnism (@SPawnism) / X",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://twitter.com/spawnism": {
+      "id": "OS0860",
+      "username": "spawnism",
+      "platform": "Twitter/X",
+      "url": "https://twitter.com/spawnism",
+      "title": "sainaveen pawnism (@SPawnism) / X",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://github.com/spawnism": {
+      "id": "OS0861",
+      "username": "spawnism",
+      "platform": "GitHub",
+      "url": "https://github.com/spawnism",
+      "title": "spawnism (\u200e) \u00b7 GitHub",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://bsky.app/profile/spawnism.bsky.social": {
+      "id": "OS0862",
+      "username": "spawnism",
+      "platform": "Bluesky",
+      "url": "https://bsky.app/profile/spawnism.bsky.social",
+      "title": "@spawnism.bsky.social on Bluesky",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://soundcloud.com/spawnism": {
+      "id": "OS0863",
+      "username": "spawnism",
+      "platform": "SoundCloud",
+      "url": "https://soundcloud.com/spawnism",
+      "title": "Stream . \u00b0 \u201dBUTCHERSPLATE\u201d \u22b9 . \u1da5 \u2039\ud83c\udf55\u203a music | Listen to songs, albums, playlists for free on SoundCloud",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://steamcommunity.com/id/spawnism": {
+      "id": "OS0864",
+      "username": "spawnism",
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/spawnism",
+      "title": "Steam Community :: 2",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://steamcommunity.com/groups/spawnism": {
+      "id": "OS0865",
+      "username": "spawnism",
+      "platform": "Steam (Group)",
+      "url": "https://steamcommunity.com/groups/spawnism",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://steamcommunity.com/profiles/spawnism": {
+      "id": "OS0866",
+      "username": "spawnism",
+      "platform": "Steam (by id)",
+      "url": "https://steamcommunity.com/profiles/spawnism",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.reddit.com/user/spawnism": {
+      "id": "OS0867",
+      "username": "spawnism",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/spawnism",
+      "title": "Reddit",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.youtube.com/@spawnism": {
+      "id": "OS0868",
+      "username": "spawnism",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@spawnism",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.twitch.tv/spawnism": {
+      "id": "OS0869",
+      "username": "spawnism",
+      "platform": "Twitch",
+      "url": "https://www.twitch.tv/spawnism",
+      "title": "spawnism - Twitch",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://linktr.ee/spawnism": {
+      "id": "OS0870",
+      "username": "spawnism",
+      "platform": "Linktree",
+      "url": "https://linktr.ee/spawnism",
+      "title": "BRAZILIAN SPAWNIST | Linktree",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.deviantart.com/spawnism": {
+      "id": "OS0871",
+      "username": "spawnism",
+      "platform": "DeviantArt",
+      "url": "https://www.deviantart.com/spawnism",
+      "title": "Spawnism on DeviantArt",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism": {
+      "id": "OS0872",
+      "username": "spawnism",
+      "platform": "RuneScape",
+      "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism",
+      "title": "Old School  Hiscores",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.wattpad.com/user/spawnism": {
+      "id": "OS0873",
+      "username": "spawnism",
+      "platform": "Wattpad",
+      "url": "https://www.wattpad.com/user/spawnism",
+      "title": "Spawnism - Wattpad",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://truthsocial.com/@spawnism": {
+      "id": "OS0874",
+      "username": "spawnism",
+      "platform": "Truth Social",
+      "url": "https://truthsocial.com/@spawnism",
+      "title": "Truth Social",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.tumblr.com/blog/spawnism": {
+      "id": "OS0875",
+      "username": "spawnism",
+      "platform": "Tumblr",
+      "url": "https://www.tumblr.com/blog/spawnism",
+      "title": "@spawnism on Tumblr",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://gettr.com/user/spawnism": {
+      "id": "OS0876",
+      "username": "spawnism",
+      "platform": "GETTR",
+      "url": "https://gettr.com/user/spawnism",
+      "title": "spawnism on GETTR - Profile and Posts",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://nextdoor.com/profile/spawnism": {
+      "id": "OS0877",
+      "username": "spawnism",
+      "platform": "Nextdoor",
+      "url": "https://nextdoor.com/profile/spawnism",
+      "title": "Login - Nextdoor",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://pixelfed.org/spawnism": {
+      "id": "OS0878",
+      "username": "spawnism",
+      "platform": "Pixelfed",
+      "url": "https://pixelfed.org/spawnism",
+      "title": "Pixelfed - Decentralized social media",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://vk.com/spawnism": {
+      "id": "OS0879",
+      "username": "spawnism",
+      "platform": "VK",
+      "url": "https://vk.com/spawnism",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://m.weibo.cn/u/spawnism": {
+      "id": "OS0880",
+      "username": "spawnism",
+      "platform": "Sina Weibo (Mobile)",
+      "url": "https://m.weibo.cn/u/spawnism",
+      "title": "Sina Visitor System",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.dice.com/profile/spawnism": {
+      "id": "OS0881",
+      "username": "spawnism",
+      "platform": "Dice",
+      "url": "https://www.dice.com/profile/spawnism",
+      "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://gist.github.com/spawnism": {
+      "id": "OS0882",
+      "username": "spawnism",
+      "platform": "GitHub Gist",
+      "url": "https://gist.github.com/spawnism",
+      "title": "spawnism\u2019s gists \u00b7 GitHub",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.xbox.com/en-us/play/user/spawnism": {
+      "id": "OS0883",
+      "username": "spawnism",
+      "platform": "Xbox",
+      "url": "https://www.xbox.com/en-US/play/user/spawnism",
+      "title": "View spawnism&#x27;s profile | Xbox Cloud Gaming on\u200a\u2009Xbox.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://spawnism.itch.io": {
+      "id": "OS0884",
+      "username": "spawnism",
+      "platform": "itch.io",
+      "url": "https://spawnism.itch.io",
+      "title": "spawnism - itch.io",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.chess.com/member/spawnism": {
+      "id": "OS0885",
+      "username": "spawnism",
+      "platform": "Chess.com",
+      "url": "https://www.chess.com/member/spawnism",
+      "title": "Two time Thomas (Spawnism) - Chess Profile - Chess.com",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://socialclub.rockstargames.com/member/spawnism": {
+      "id": "OS0886",
+      "username": "spawnism",
+      "platform": "Rockstar Social Club",
+      "url": "https://socialclub.rockstargames.com/member/spawnism",
+      "title": "Rockstar Games",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://spawnism.bandcamp.com": {
+      "id": "OS0887",
+      "username": "spawnism",
+      "platform": "Bandcamp",
+      "url": "https://spawnism.bandcamp.com",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.pandora.com/profile/spawnism": {
+      "id": "OS0888",
+      "username": "spawnism",
+      "platform": "Pandora",
+      "url": "https://www.pandora.com/profile/spawnism",
+      "title": "Pandora Radio for Mobile",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://music.youtube.com/spawnism": {
+      "id": "OS0889",
+      "username": "spawnism",
+      "platform": "YouTube Music",
+      "url": "https://music.youtube.com/spawnism",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.youtube.com/user/spawnism": {
+      "id": "OS0890",
+      "username": "spawnism",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/spawnism",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://kick.com/spawnism": {
+      "id": "OS0891",
+      "username": "spawnism",
+      "platform": "Kick",
+      "url": "https://kick.com/spawnism",
+      "title": "Spawnism Live Stream - Watch Live on KICK",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://peertube.tv/spawnism": {
+      "id": "OS0892",
+      "username": "spawnism",
+      "platform": "PeerTube",
+      "url": "https://peertube.tv/spawnism",
+      "title": "PeerTube.TV",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://giphy.com/spawnism": {
+      "id": "OS0893",
+      "username": "spawnism",
+      "platform": "Giphy",
+      "url": "https://giphy.com/spawnism",
+      "title": "Spawnism GIFs - Find &amp; Share on GIPHY",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.snapchat.com/add/spawnism": {
+      "id": "OS0894",
+      "username": "spawnism",
+      "platform": "Snapchat",
+      "url": "https://www.snapchat.com/add/spawnism",
+      "title": "Spawnism (@spawnism) | Snapchat Stories, Spotlight &amp; Lenses",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://spawnism.itch.io/": {
+      "id": "OS0895",
+      "username": "spawnism",
+      "platform": "Itch.io",
+      "url": "https://spawnism.itch.io/",
+      "title": "spawnism - itch.io",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://mixer.com/spawnism": {
+      "id": "OS0896",
+      "username": "spawnism",
+      "platform": "Mixer",
+      "url": "https://mixer.com/spawnism",
+      "title": "Log in to Facebook | Facebook",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.flaticon.com/spawnism": {
+      "id": "OS0897",
+      "username": "spawnism",
+      "platform": "Flaticon",
+      "url": "https://www.flaticon.com/spawnism",
+      "title": "&nbsp;",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.twitch.tv/spawnism/videos?all=true": {
+      "id": "OS0898",
+      "username": "spawnism",
+      "platform": "Twitch VODs",
+      "url": "https://www.twitch.tv/spawnism/videos?all=true",
+      "title": "spawnism Videos - Twitch",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://vimeo.com/showcase/spawnism": {
+      "id": "OS0899",
+      "username": "spawnism",
+      "platform": "Vimeo Showcase",
+      "url": "https://vimeo.com/showcase/spawnism",
+      "title": "Showcase on Vimeo",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://spawnism.bandcamp.com/": {
+      "id": "OS0900",
+      "username": "spawnism",
+      "platform": "Bandcamp Labels",
+      "url": "https://spawnism.bandcamp.com/",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.itemfix.com/c/spawnism": {
+      "id": "OS0901",
+      "username": "spawnism",
+      "platform": "ItemFix",
+      "url": "https://www.itemfix.com/c/spawnism",
+      "title": "ItemFix - Channel:",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.furaffinity.net/gallery/spawnism": {
+      "id": "OS0902",
+      "username": "spawnism",
+      "platform": "Fur Affinity",
+      "url": "https://www.furaffinity.net/gallery/spawnism",
+      "title": "Artwork Gallery -- Fur Affinity [dot] net",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://tweakers.net/gallery/spawnism": {
+      "id": "OS0903",
+      "username": "spawnism",
+      "platform": "Tweakers",
+      "url": "https://tweakers.net/gallery/spawnism",
+      "title": "DPG Media Privacy Gate",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.paltalk.com/people/users/spawnism": {
+      "id": "OS0904",
+      "username": "spawnism",
+      "platform": "Paltalk",
+      "url": "https://www.paltalk.com/people/users/spawnism",
+      "title": "Chat Room Member on Paltalk",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://niftygateway.com/profile/spawnism": {
+      "id": "OS0905",
+      "username": "spawnism",
+      "platform": "Niftygateway",
+      "url": "https://niftygateway.com/profile/spawnism",
+      "title": "spawnism does not exits on Nifty Gateway",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.wishlistr.com/spawnism/": {
+      "id": "OS0906",
+      "username": "spawnism",
+      "platform": "Wishlistr",
+      "url": "https://www.wishlistr.com/spawnism/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.younow.com/spawnism/": {
+      "id": "OS0907",
+      "username": "spawnism",
+      "platform": "YouNow",
+      "url": "https://www.younow.com/spawnism/",
+      "title": "YouNow",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.old-games.ru/forum/members/?username=spawnism": {
+      "id": "OS0908",
+      "username": "spawnism",
+      "platform": "Old-games",
+      "url": "https://www.old-games.ru/forum/members/?username=spawnism",
+      "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | \u0424\u043e\u0440\u0443\u043c Old-Games.RU. \u0412\u0441\u0451 \u043e \u0441\u0442\u0430\u0440\u044b\u0445 \u0438\u0433\u0440\u0430\u0445",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.1001tracklists.com/user/spawnism/index.html": {
+      "id": "OS0909",
+      "username": "spawnism",
+      "platform": "1001tracklists",
+      "url": "https://www.1001tracklists.com/user/spawnism/index.html",
+      "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+      "status": 206,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://cssbattle.dev/player/spawnism": {
+      "id": "OS0910",
+      "username": "spawnism",
+      "platform": "CSSBattle",
+      "url": "https://cssbattle.dev/player/spawnism",
+      "title": "CSSBattle",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://ngl.link/spawnism": {
+      "id": "OS0911",
+      "username": "spawnism",
+      "platform": "ngl.link",
+      "url": "https://ngl.link/spawnism",
+      "title": "@spawnism",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://profile.codersrank.io/user/spawnism/": {
+      "id": "OS0912",
+      "username": "spawnism",
+      "platform": "Coders Rank",
+      "url": "https://profile.codersrank.io/user/spawnism/",
+      "title": "spawnism&#x27;s CodersRank profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://dumpor.com/v/spawnism": {
+      "id": "OS0913",
+      "username": "spawnism",
+      "platform": "Dumpor",
+      "url": "https://dumpor.com/v/spawnism",
+      "title": "spawnism  Watch instagram stories and profile anonymous",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://arhrock.info/forum/members/?username=spawnism": {
+      "id": "OS0914",
+      "username": "spawnism",
+      "platform": "Arhrock",
+      "url": "https://arhrock.info/forum/members/?username=spawnism",
+      "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | ArhRock Forum",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://spawnism.carrd.co": {
+      "id": "OS0915",
+      "username": "spawnism",
+      "platform": "Carrd.co",
+      "url": "https://spawnism.carrd.co",
+      "title": "GCA Notification of Non Hostility",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://tenor.com/users/spawnism": {
+      "id": "OS0916",
+      "username": "spawnism",
+      "platform": "Tenor.com",
+      "url": "https://tenor.com/users/spawnism",
+      "title": "spawnism&#039;s GIFs on Tenor",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.schemecolor.com/author/spawnism": {
+      "id": "OS0917",
+      "username": "spawnism",
+      "platform": "SchemeColor",
+      "url": "https://www.schemecolor.com/author/spawnism",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=br": {
+      "id": "OS0918",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Brazil",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=br",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=na": {
+      "id": "OS0919",
+      "username": "spawnism",
+      "platform": "OP.GG LoL North America",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=na",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=eune": {
+      "id": "OS0920",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Europe Nordic & East",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=eune",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=me": {
+      "id": "OS0921",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Middle East",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=me",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=kr": {
+      "id": "OS0922",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Korea",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=kr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=euw": {
+      "id": "OS0923",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Europe West",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=euw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=jp": {
+      "id": "OS0924",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Japan",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=jp",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=oce": {
+      "id": "OS0925",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Oceania",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=oce",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=lan": {
+      "id": "OS0926",
+      "username": "spawnism",
+      "platform": "OP.GG LoL LAN",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=lan",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=ru": {
+      "id": "OS0927",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Russia",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=ru",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=tr": {
+      "id": "OS0928",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Turkey",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=tr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=las": {
+      "id": "OS0929",
+      "username": "spawnism",
+      "platform": "OP.GG LoL LAS",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=las",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=tw": {
+      "id": "OS0930",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Taiwan",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=tw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=vn": {
+      "id": "OS0931",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Vietnam",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=vn",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=sg": {
+      "id": "OS0932",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Singapore",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=sg",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=ph": {
+      "id": "OS0933",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Phillippines",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=ph",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://op.gg/lol/summoners/search?q=spawnism&region=th": {
+      "id": "OS0934",
+      "username": "spawnism",
+      "platform": "OP.GG LoL Thailand",
+      "url": "https://op.gg/lol/summoners/search?q=spawnism&region=th",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username": {
+      "id": "OS0935",
+      "username": "spawnism",
+      "platform": "Dota2",
+      "url": "https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username",
+      "title": "\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \"spawnism\"",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://libraries.io/github/spawnism/": {
+      "id": "OS0936",
+      "username": "spawnism",
+      "platform": "Libraries",
+      "url": "https://libraries.io/github/spawnism/",
+      "title": "spawnism (\u200e) \u00b7 GitHub",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://lolchess.gg/profile/na/spawnism": {
+      "id": "OS0937",
+      "username": "spawnism",
+      "platform": "Lolchess",
+      "url": "https://lolchess.gg/profile/na/spawnism",
+      "title": "TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|http://www.mactalk.com.au/member.php?username=spawnism": {
+      "id": "OS0938",
+      "username": "spawnism",
+      "platform": "Mactalk",
+      "url": "http://www.mactalk.com.au/member.php?username=spawnism",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://plug.dj/@/spawnism": {
+      "id": "OS0939",
+      "username": "spawnism",
+      "platform": "Plug.DJ",
+      "url": "https://plug.dj/@/spawnism",
+      "title": "Sign in \u30fb Cloudflare Access",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "spawnism|https://www.radiokot.ru/forum/search.php?keywords=&terms=all&author=spawnism": {
+      "id": "OS0940",
+      "username": "spawnism",
+      "platform": "Radiokot",
+      "url": "https://www.radiokot.ru/forum/search.php?keywords=&terms=all&author=spawnism",
+      "title": "\u0424\u043e\u0440\u0443\u043c \u0420\u0430\u0434\u0438\u043e\u041a\u043e\u0442 - \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-22T18:18:48Z",
+      "last_seen": "2026-11-22T18:18:48Z"
     }
   },
-  "last_hunt": "2026-11-22T06:33:39Z",
+  "last_hunt": "2026-11-22T18:18:48Z",
   "last_target": null,
-  "last_target_index": 6
+  "last_target_index": 7
 }

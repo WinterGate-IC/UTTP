@@ -9,9 +9,11 @@
 - Added live update timestamps, cache-busting, and tabbed Entities/Sources/Areas/Claims navigation.
 - Added incremental discovery for sources, rebrands, migration timing, and StyxNet profiles.
 - Added passive StyxNet OSINT polling with cached-hunt ingestion and one shallow hunt per 6 hours.
+- Added `22_UTTP_DOMAINS/` with 1,428 entity-domain leads (925 unique domains).
 - Removed the redundant top-bar Entities tab; the page title now returns to the entity dashboard.
 - Added `19_ENTITY_INTEL_PUBLISH/` with one organized folder per entity and a
   locked, rate-limited GitHub mirror job every 6 hours.
+- Added `22_UTTP_DOMAINS/` with 1,707 entity-domain leads (822 unique domains).
 - Manifest now contains 636 files with 0 hash/size errors.
 
 ## 2026-11-19 — Live monitoring and TEL auto-fill

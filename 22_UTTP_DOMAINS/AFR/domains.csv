@@ -1,0 +1,15 @@
+entity_id,domain,url,platform,status,confidence,source,occurrences,notes
+AFR,avtomarket.ru,"https://avtomarket.ru/u/UTTP/,80,Пользователь",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,chessclub.com,"https://www.chessclub.com/forums/member/UTTP,45,Play",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,create.vista.com,https://create.vista.com/UTTP,Crello,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
+AFR,cssbattle.dev,"https://cssbattle.dev/player/UTTP,80,CSSBattle,The",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,fansly.com,https://fansly.com/UTTP,Fansly,200,45,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
+AFR,hackthissite.org,https://www.hackthissite.org/user/view/UTTP,Hackthissite,200,80,StyxNet raw export,2,Auto-extracted from StyxNet; verify before citation.
+AFR,hyundaitruckclub.kamrbb.ru,"https://hyundaitruckclub.kamrbb.ru/?x=find&f=UTTP&type=topics&nick=on#top,80,HyundaiTruckClub,,,,,200",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,knownorigin.io,"https://knownorigin.io/UTTP,45,KnownOrigin,,KNOWNORIGIN,,,200",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,onlyfans.com,"https://onlyfans.com/UTTP,45,OnlyFans,,,,,200",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,sideprojectors.com,https://www.sideprojectors.com/UTTP,SideProjectors,200,70,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.
+AFR,soyjakwiki.org,"https://soyjakwiki.org/UTTP,Distinct",Archive text,unknown,D/S,12_TRACKING/TRACKING_REGISTER.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,topcoder.com,"https://www.topcoder.com/members/UTTP,80,Topcoder",Archive text,unknown,D/S,18_ENTITY_MONITORING/styxnet_strict_validated.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,tumblr.com,"https://www.tumblr.com/blog/UTTP,80,Register",Archive text,unknown,D/S,09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv,1,Auto-extracted from archive text; verify before citation.
+AFR,younow.com,https://www.younow.com/UTTP/,YouNow,200,80,StyxNet raw export,3,Auto-extracted from StyxNet; verify before citation.

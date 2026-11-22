@@ -31,10 +31,6 @@
   "manifest_rows_checked": 710,
   "bad_manifest_rows": [
     {
-      "path": "18_ENTITY_MONITORING/archive_integrity.json",
-      "reason": "hash_mismatch"
-    },
-    {
       "path": "18_ENTITY_MONITORING/discovered_sources.json",
       "reason": "hash_mismatch"
     },
@@ -48,10 +44,6 @@
     },
     {
       "path": "18_ENTITY_MONITORING/rebrands.json",
-      "reason": "hash_mismatch"
-    },
-    {
-      "path": "18_ENTITY_MONITORING/strict_validation_summary.json",
       "reason": "hash_mismatch"
     }
   ],
