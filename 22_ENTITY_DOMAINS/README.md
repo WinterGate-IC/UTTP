@@ -3,10 +3,10 @@
 Verified domain links for every tracked entity. This folder is no longer
 UTTP-specific because it covers the full monitored ecosystem.
 
-- Verified domains: 641
-- Unique domains: 158
+- Verified domains: 744
+- Unique domains: 188
 - Entities with verified domains: 31
-- Internal unverified leads: 487
+- Internal unverified leads: 396
 
 Only domains confirmed through Ominis-OSINT page-level validation are listed.
 A verified domain is treated as either owned by the entity or a domain/platform

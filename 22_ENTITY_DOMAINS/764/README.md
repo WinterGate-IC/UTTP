@@ -2,7 +2,7 @@
 
 Verified domain links confirmed through Ominis-OSINT page inspection.
 
-- Verified domains: 55
+- Verified domains: 64
 - Validation: strong page-level handle linkage
 - Publication: verified-only
 

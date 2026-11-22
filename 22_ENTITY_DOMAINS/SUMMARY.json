@@ -1,16 +1,16 @@
 {
-  "total_rows": 641,
-  "unique_domains": 158,
-  "confirmed_links": 641,
-  "unverified_leads": 487,
+  "total_rows": 744,
+  "unique_domains": 188,
+  "confirmed_links": 744,
+  "unverified_leads": 396,
   "entities": {
-    "UTTP": 52,
-    "764": 55,
+    "UTTP": 86,
+    "FPE": 76,
+    "764": 64,
+    "DPOS": 72,
+    "O9A": 52,
     "SPAWNISM": 38,
     "OFFICERSLAPPY": 4,
-    "DPOS": 42,
-    "FPE": 51,
-    "O9A": 47,
     "AFR": 27,
     "BN0R": 6,
     "CIRCUSFALL": 3,
@@ -37,14 +37,14 @@
     "ZETA": 34
   },
   "unverified_by_entity": {
-    "764": 52,
+    "764": 42,
     "AFR": 6,
-    "DPOS": 79,
-    "FPE": 41,
-    "O9A": 75,
+    "DPOS": 49,
+    "FPE": 29,
+    "O9A": 70,
     "OFFICERSLAPPY": 9,
     "SPAWNISM": 27,
-    "UTTP": 171,
+    "UTTP": 137,
     "CIRCUSFALL": 2,
     "FPE-POLICE": 2,
     "UTTP-EMPIRE": 2,
@@ -64,11 +64,11 @@
     "SPWN": 1,
     "TND": 2
   },
-  "average_accuracy": 75.9,
+  "average_accuracy": 76.2,
   "accuracy_levels": {
-    "Confirmed": 504,
-    "Corroborated": 17,
-    "Linkage-confirmed": 119,
+    "Confirmed": 586,
+    "Corroborated": 27,
+    "Linkage-confirmed": 130,
     "User-verified": 1
   }
 }
