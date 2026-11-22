@@ -9,10 +9,27 @@ REGISTER = ROOT / '22_UTTP_DOMAINS' / 'DOMAINS_REGISTER.csv'
 OUT = Path('/var/www/html/data/domains.json')
 
 rows = list(csv.DictReader(REGISTER.open(newline='', encoding='utf-8')))
+summary_path = REGISTER.parent / 'SUMMARY.json'
+try:
+    summary = json.loads(summary_path.read_text(encoding='utf-8'))
+except Exception:
+    summary = {}
+signals = {}
+for r in rows:
+    status = r.get('validation_status', '')
+    if 'ominis-verified (' in status:
+        inner = status.split('ominis-verified (', 1)[1].split(')', 1)[0]
+        for signal in inner.split('+'):
+            signal = signal.strip()
+            if signal:
+                signals[signal] = signals.get(signal, 0) + 1
 data = {
     'updated': __import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
     'count': len(rows),
     'confirmed': sum(1 for r in rows if r.get('link_confirmed') == 'True'),
+    'lead_count': summary.get('unverified_leads', 0),
+    'lead_counts': summary.get('unverified_by_entity', {}),
+    'signals': signals,
     'entities': sorted({r['entity_id'] for r in rows}),
     'domains': rows,
 }

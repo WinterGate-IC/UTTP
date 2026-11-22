@@ -96,6 +96,10 @@ def main():
     for row in verified:
         entity = row.get('entity_id', '')
         entity_counts[entity] = entity_counts.get(entity, 0) + 1
+    lead_counts = {}
+    for row in leads:
+        entity = row.get('entity_id', '')
+        lead_counts[entity] = lead_counts.get(entity, 0) + 1
 
     summary = {
         'total_rows': len(verified),
@@ -103,6 +107,7 @@ def main():
         'confirmed_links': len(verified),
         'unverified_leads': len(leads),
         'entities': entity_counts,
+        'unverified_by_entity': lead_counts,
     }
     with SUMMARY_JSON.open('w', encoding='utf-8') as f:
         json.dump(summary, f, indent=2)
