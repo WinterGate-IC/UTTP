@@ -32,39 +32,8 @@ REGISTER = ROOT / '22_UTTP_DOMAINS' / 'DOMAINS_REGISTER.csv'
 QUEUE = BASE / 'domain_validation_queue.csv'
 CACHE = BASE / 'ominis_discovery_cache.json'
 
-ENTITY_HANDLES = {
-    'UTTP': 'uttp',
-    'UTTP-EMPIRE': 'uttpempire',
-    'CIRCUSFALL': 'circusfall',
-    'OFFICERSLAPPY': 'officerslappy',
-    'DPOS': 'dpos',
-    'AFR': 'afr',
-    'BN0R': 'bn0r',
-    'RDF': 'rdf',
-    '764': '764',
-    'O9A': 'o9a',
-    'HARMNATION': 'harmnation',
-    'SPAWNISM': 'spawnism',
-    'FPE': 'fpe',
-    'FPE-POLICE': 'fpepolice',
-    'TNM': 'tnm',
-    'ENCLAVE': 'enclave',
-    'AUTTP': 'auttp',
-    '148': '148',
-    'SPWN': 'spwn',
-    'E11': '11thstreet',
-    'KKTK': 'kktk',
-    'YFGA': 'yfga',
-    'VGCP': 'vgcp',
-    'AFF': 'aff',
-    'TND': 'tnd',
-    'ZETA': 'zeta',
-    'YTDESTROYERS': 'ytdestroyers',
-    'C09A': '09a',
-    'TYRANNYRUTTP': 'tyrannyruttp',
-    'RDFPARTY': 'rdfparty',
-    'THEFARTKNOCKERSTFK': 'thefartknockers',
-}
+from entity_registry import ENTITY_HANDLES
+
 STRONG = {'metadata', 'structured', 'redirect', 'canonical'}
 REFRESH_AFTER = timedelta(days=7)
 FIELDS = [

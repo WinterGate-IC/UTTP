@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import csv, json, hashlib, re
+import csv, json, hashlib, re, os, tempfile
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -8,6 +8,21 @@ ROOT = BASE.parent
 SITE = Path('/var/www/html')
 OUT_REPO = BASE / 'entity-intelligence.json'
 OUT_SITE = SITE / 'data' / 'entity-intelligence.json'
+
+
+def atomic_write(path, text):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=str(path.parent), prefix=path.name + '.', suffix='.tmp')
+    try:
+        with os.fdopen(fd, 'w', encoding='utf-8') as f:
+            f.write(text)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp, path)
+        os.chmod(path, 0o644)
+    finally:
+        if os.path.exists(tmp):
+            os.unlink(tmp)
 
 def nkey(value):
     return "".join(ch for ch in (value or "").lower() if ch.isalnum())
@@ -584,8 +599,7 @@ data = {
 OUT_REPO.parent.mkdir(parents=True, exist_ok=True)
 OUT_SITE.parent.mkdir(parents=True, exist_ok=True)
 text = json.dumps(data, indent=2, ensure_ascii=False)
-OUT_REPO.write_text(text, encoding='utf-8')
+atomic_write(OUT_REPO, text)
 if SITE.exists():
-    OUT_SITE.parent.mkdir(parents=True, exist_ok=True)
-    OUT_SITE.write_text(text, encoding='utf-8')
+    atomic_write(OUT_SITE, text)
 print('entities', len(entities), 'areas', len(areas), 'area_rows', len(area_rows), 'sources', len(sources), 'claims', len(claims), 'watchlist', len(watchlist))

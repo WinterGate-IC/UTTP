@@ -1,4 +1,6 @@
 entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
+SPAWNISM,1001tracklists.com,https://www.1001tracklists.com/user/spawnism/index.html,1001tracklists,206,45,StyxNet OSINT,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (user_activity); HTTP 206; confirmed handle linkage,ominis-verified
+SPAWNISM,bsky.app,https://bsky.app/profile/spawnism.bsky.social,Bluesky,200,80,StyxNet OSINT,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (user_activity); HTTP 200; confirmed handle linkage,ominis-verified
 SPAWNISM,giphy.com,https://giphy.com/spawnism,Giphy,200,100,StyxNet OSINT,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (canonical+jsonld+metadata+redirect); HTTP 200; confirmed handle linkage,ominis-verified
 SPAWNISM,gist.github.com,https://gist.github.com/spawnism,GitHub Gist,200,100,StyxNet OSINT,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (metadata); HTTP 200; confirmed handle linkage,ominis-verified
 SPAWNISM,github.com,https://github.com/spawnism,GitHub,200,100,StyxNet OSINT,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (author_meta+canonical+metadata+user_activity); HTTP 200; confirmed handle linkage,ominis-verified

@@ -8387,5 +8387,437 @@
     "related_terms": [],
     "checked_at": "2026-11-22T19:54:56Z",
     "url": "https://www.reverbnation.com/fpe"
+  },
+  "RDFPARTY|https://www.twitch.tv/rdfparty": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/rdfparty",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:47Z",
+    "url": "https://www.twitch.tv/rdfparty"
+  },
+  "TYRANNYRUTTP|https://www.twitch.tv/tyrannyruttp": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/tyrannyruttp",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:47Z",
+    "url": "https://www.twitch.tv/tyrannyruttp"
+  },
+  "TYRANNYRUTTP|https://www.paypal.com/paypalme/tyrannyruttp": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/tyrannyruttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:48Z",
+    "url": "https://www.paypal.com/paypalme/tyrannyruttp"
+  },
+  "RDFPARTY|https://www.paypal.com/paypalme/rdfparty": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/rdfparty",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:48Z",
+    "url": "https://www.paypal.com/paypalme/rdfparty"
+  },
+  "CIRCUSFALL|https://www.twitch.tv/circusfall": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/circusfall",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:48Z",
+    "url": "https://www.twitch.tv/circusfall"
+  },
+  "FPE-POLICE|https://www.twitch.tv/fpepolice": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/fpepolice",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:48Z",
+    "url": "https://www.twitch.tv/fpepolice"
+  },
+  "OFFICERSLAPPY|https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:49Z",
+    "url": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp"
+  },
+  "OFFICERSLAPPY|http://forum.evaveda.com/memberlist.php?username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "\u0424\u043e\u0440\u0443\u043c \u0410\u044e\u0440\u0432\u0435\u0434\u0430 \u0438 \u0419\u043e\u0433\u0430 - \u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438",
+    "final_url": "http://forum.evaveda.com/memberlist.php?username=uttp",
+    "missing": true,
+    "checked_at": "2026-11-22T20:00:49Z",
+    "url": "http://forum.evaveda.com/memberlist.php?username=uttp"
+  },
+  "FPE-POLICE|https://www.paypal.com/paypalme/fpepolice": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/fpepolice",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:49Z",
+    "url": "https://www.paypal.com/paypalme/fpepolice"
+  },
+  "CIRCUSFALL|https://www.paypal.com/paypalme/circusfall": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/circusfall",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:49Z",
+    "url": "https://www.paypal.com/paypalme/circusfall"
+  },
+  "OFFICERSLAPPY|https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp": {
+    "error": "Server disconnected without sending a response.",
+    "checked_at": "2026-11-22T20:00:49Z",
+    "url": "https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp"
+  },
+  "OFFICERSLAPPY|https://forum.gong.bg/memberlist.php?username=uttp": {
+    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)",
+    "checked_at": "2026-11-22T20:00:50Z",
+    "url": "https://forum.gong.bg/memberlist.php?username=uttp"
+  },
+  "OFFICERSLAPPY|https://www.twitch.tv/officerslappy": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "jsonld",
+      "metadata",
+      "structured",
+      "user_activity"
+    ],
+    "title": "officerslappy - Twitch",
+    "final_url": "https://www.twitch.tv/officerslappy",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:50Z",
+    "url": "https://www.twitch.tv/officerslappy"
+  },
+  "OFFICERSLAPPY|https://forum.neformat.com.ua/members/uttp/": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://forum.neformat.com.ua/members/uttp/",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:50Z",
+    "url": "https://forum.neformat.com.ua/members/uttp/"
+  },
+  "UTTP-EMPIRE|https://www.twitch.tv/uttpempire": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/uttpempire",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:50Z",
+    "url": "https://www.twitch.tv/uttpempire"
+  },
+  "OFFICERSLAPPY|https://www.paypal.com/paypalme/officerslappy": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/officerslappy",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:50Z",
+    "url": "https://www.paypal.com/paypalme/officerslappy"
+  },
+  "OFFICERSLAPPY|https://forum.hebat-malek.com/member.php?username=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "\u0645\u0646\u062a\u062f\u064a\u0627\u062a \u0647\u064a\u0628\u0629 \u0645\u0644\u0643 \u0645\u0646\u0628\u0639 \u0625\u0628\u062f\u0627\u0639 \u0644\u0627\u064a\u0646\u0636\u0628",
+    "final_url": "https://forum.hebat-malek.com/member.php?username=uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:50Z",
+    "url": "https://forum.hebat-malek.com/member.php?username=uttp"
+  },
+  "UTTP-EMPIRE|https://www.paypal.com/paypalme/uttpempire": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/uttpempire",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:51Z",
+    "url": "https://www.paypal.com/paypalme/uttpempire"
+  },
+  "SPAWNISM|https://arhrock.info/forum/members/?username=spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | ArhRock Forum",
+    "final_url": "https://arhrock.info/forum/members/?username=spawnism",
+    "missing": true,
+    "checked_at": "2026-11-22T20:00:51Z",
+    "url": "https://arhrock.info/forum/members/?username=spawnism"
+  },
+  "YTDESTROYERS|https://www.paypal.com/paypalme/ytdestroyers": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/ytdestroyers",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:51Z",
+    "url": "https://www.paypal.com/paypalme/ytdestroyers"
+  },
+  "THEFARTKNOCKERSTFK|https://www.paypal.com/paypalme/thefartknockers": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/thefartknockers",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:52Z",
+    "url": "https://www.paypal.com/paypalme/thefartknockers"
+  },
+  "SPAWNISM|https://www.flaticon.com/spawnism": {
+    "status": 403,
+    "signals": [],
+    "title": "That request didn't go through. Our security filter flagged something. You don't have permission to access this page.",
+    "final_url": "https://www.flaticon.com/spawnism",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:52Z",
+    "url": "https://www.flaticon.com/spawnism"
+  },
+  "SPAWNISM|https://www.1001tracklists.com/user/spawnism/index.html": {
+    "status": 206,
+    "signals": [
+      "user_activity"
+    ],
+    "title": "1001Tracklists \u22c5 The World's Leading DJ Tracklist/Playlist Database",
+    "final_url": "https://www.1001tracklists.com/user/spawnism/index.html",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:52Z",
+    "url": "https://www.1001tracklists.com/user/spawnism/index.html"
+  },
+  "SPAWNISM|https://www.furaffinity.net/gallery/spawnism": {
+    "status": 200,
+    "signals": [
+      "body"
+    ],
+    "title": "Artwork Gallery -- Fur Affinity [dot] net",
+    "final_url": "https://www.furaffinity.net/gallery/spawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:52Z",
+    "url": "https://www.furaffinity.net/gallery/spawnism"
+  },
+  "SPAWNISM|https://www.dice.com/profile/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+    "final_url": "https://www.dice.com/dashboard/login?redirectUrl=%2Fprofile%2Fspawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:53Z",
+    "url": "https://www.dice.com/profile/spawnism"
+  },
+  "SPAWNISM|https://bsky.app/profile/spawnism.bsky.social": {
+    "status": 200,
+    "signals": [
+      "user_activity"
+    ],
+    "title": "@spawnism.bsky.social on Bluesky",
+    "final_url": "https://bsky.app/profile/spawnism.bsky.social",
+    "platform_confidence": 95,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:53Z",
+    "url": "https://bsky.app/profile/spawnism.bsky.social"
+  },
+  "SPAWNISM|https://music.youtube.com/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Bevor Sie fortfahren",
+    "final_url": "https://consent.youtube.com/m?continue=https%3A%2F%2Fmusic.youtube.com%2Fspawnism%3Fcbrd%3D1&gl=DE&m=0&pc=ytm&cm=2&hl=de&src=1",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:53Z",
+    "url": "https://music.youtube.com/spawnism"
+  },
+  "SPAWNISM|http://www.mactalk.com.au/member.php?username=spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "",
+    "final_url": "http://www.mactalk.com.au/member.php?username=spawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:53Z",
+    "url": "http://www.mactalk.com.au/member.php?username=spawnism"
+  },
+  "SPAWNISM|https://lolchess.gg/profile/na/spawnism": {
+    "status": 200,
+    "signals": [
+      "body"
+    ],
+    "title": "\ub864\uccb4\uc9c0\uc9c0 \uc804\ub7b5\uc801 \ud300 \uc804\ud22c TFT (\ub864\ud1a0\uccb4\uc2a4) \uc804\uc801\uac80\uc0c9",
+    "final_url": "https://lolchess.gg/search?region=na&name=spawnism&hl=ko",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:54Z",
+    "url": "https://lolchess.gg/profile/na/spawnism"
+  },
+  "SPAWNISM|https://nextdoor.com/profile/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Login - Nextdoor",
+    "final_url": "https://nextdoor.com/login/?next=/profile/spawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:54Z",
+    "url": "https://nextdoor.com/profile/spawnism"
+  },
+  "SPAWNISM|https://www.old-games.ru/forum/members/?username=spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | \u0424\u043e\u0440\u0443\u043c Old-Games.RU. \u0412\u0441\u0451 \u043e \u0441\u0442\u0430\u0440\u044b\u0445 \u0438\u0433\u0440\u0430\u0445",
+    "final_url": "https://www.old-games.ru/forum/members/?username=spawnism",
+    "missing": true,
+    "checked_at": "2026-11-22T20:00:54Z",
+    "url": "https://www.old-games.ru/forum/members/?username=spawnism"
+  },
+  "SPAWNISM|https://www.paltalk.com/people/users/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Chat Room Member on Paltalk",
+    "final_url": "https://www.paltalk.com/people/users/spawnism/",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:54Z",
+    "url": "https://www.paltalk.com/people/users/spawnism"
+  },
+  "SPAWNISM|https://niftygateway.com/profile/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "spawnism does not exits on Nifty Gateway",
+    "final_url": "https://www.niftygateway.com/profile/spawnism/",
+    "missing": true,
+    "checked_at": "2026-11-22T20:00:55Z",
+    "url": "https://niftygateway.com/profile/spawnism"
+  },
+  "SPAWNISM|https://www.pandora.com/profile/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Pandora",
+    "final_url": "https://www.pandora.com/restricted",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T20:00:55Z",
+    "url": "https://www.pandora.com/profile/spawnism"
+  },
+  "SPAWNISM|https://www.reddit.com/user/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Reddit",
+    "final_url": "https://www.reddit.com/user/spawnism/",
+    "platform_confidence": 90,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:55Z",
+    "url": "https://www.reddit.com/user/spawnism"
+  },
+  "SPAWNISM|https://www.schemecolor.com/author/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://www.schemecolor.com/author/spawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:55Z",
+    "url": "https://www.schemecolor.com/author/spawnism"
+  },
+  "SPAWNISM|https://m.weibo.cn/u/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Sina Visitor System",
+    "final_url": "https://visitor.passport.weibo.cn/visitor/visitor?entry=sinawap&a=enter&url=https%3A%2F%2Fm.weibo.cn%2Fu%2Fspawnism&domain=.weibo.cn&sudaref=&ua=php-sso_sdk_client-0.6.36&_rand=1795377655.1255",
+    "platform_confidence": 55,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:56Z",
+    "url": "https://m.weibo.cn/u/spawnism"
+  },
+  "SPAWNISM|https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Old School Hiscores",
+    "final_url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:56Z",
+    "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=spawnism"
+  },
+  "SPAWNISM|https://socialclub.rockstargames.com/member/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Rockstar Games",
+    "final_url": "https://socialclub.rockstargames.com/member/spawnism",
+    "platform_confidence": 80,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:00:57Z",
+    "url": "https://socialclub.rockstargames.com/member/spawnism"
+  },
+  "SPAWNISM|https://plug.dj/@/spawnism": {
+    "status": 200,
+    "signals": [],
+    "title": "Sign in \u30fb Cloudflare Access",
+    "final_url": "https://xbytez.cloudflareaccess.com/cdn-cgi/access/login/plug.dj?kid=458a98e02971e1c33fc4a26e791d349de63d65f84b8b201541d08fb819efec48&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjVkYzcyMmI4MmQxNjI5ZmU4ZTFhNGY1NDQxNmIwZGU5NmM3MDYwODMzMWFjMDllMzdjYTkwOTdhYzQ2OTRlMWEifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjQ1OGE5OGUwMjk3MWUxYzMzZmM0YTI2ZTc5MWQzNDlkZTYzZDY1Zjg0YjhiMjAxNTQxZDA4ZmI4MTllZmVjNDgiLCJob3N0bmFtZSI6InBsdWcuZGoiLCJyZWRpcmVjdF91cmwiOiIvQC9zcGF3bmlzbSIsInNlcnZpY2VfdG9rZW5fc3RhdHVzIjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImlzX2dhdGV3YXkiOmZhbHNlLCJleHAiOjE3OTUzNzc5NjAsIm5iZiI6MTc5NTM3NzY2MCwiaWF0IjoxNzk1Mzc3NjYwLCJhdXRoX3N0YXR1cyI6Ik5PTkUiLCJtdGxzX2F1dGgiOnsiY2VydF9pc3N1ZXJfZG4iOiIiLCJjZXJ0X3NlcmlhbCI6IiIsImNlcnRfaXNzdWVyX3NraSI6IiIsImNlcnRfcHJlc2VudGVkIjpmYWxzZSwiY29tbW9uX25hbWUiOiIiLCJhdXRoX3N0YXR1cyI6Ik5PTkUifSwicmVhbF9jb3VudHJ5IjoiREUiLCJhcHBfc2Vzc2lvbl9oYXNoIjoiZmI1ZDJhMzdmMGMxY2Y5OGFmNTlkZjdmOWYxYzgwNmM4MzJjNGM4MWIxMDRiMjA1ZjcwNTM3N2E2ZjExOWFjNyJ9.IxmB883Up07Ie0htQZl3IcDQnSDM77OV_xUWwTEDQLOy_J-5IiqHB1obvQJRXwK8d1Z456IyBnlxVtV3D22ku5l6F01vTtSY6up6FwfOtA89M8FMv0rbKlVZlQBrPQ-ooW2wRkt3AfpxDlYDZJ1o7rUuwsJJg-1Dq_TUVKYWj2J6wrVCQxCNoHMgg1xwRf6Obg67MKvHWvjAMj-qz9GnfveFJO20f-SAHLpLk0MceqXZkaP9UH8Y5GJprBpA9S6ylax_UpScDJRzVpTIVnn9RiBBKEnMXZ56H5qfeHlEQmLfqgqyH7Y5GOaO55U2Stx1L3MvpU7pwedEfuG2WDWSXA&redirect_url=%2F%40%2Fspawnism",
+    "platform_confidence": 0,
+    "related_terms": [
+      "spawnism"
+    ],
+    "checked_at": "2026-11-22T20:01:00Z",
+    "url": "https://plug.dj/@/spawnism"
   }
 }

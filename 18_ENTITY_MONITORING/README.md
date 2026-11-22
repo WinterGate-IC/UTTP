@@ -61,6 +61,8 @@ entity is tracked through the links and registers below:
 
 This is the backend of record; the GitHub repository is an archive mirror. Run everything with `bash run_pipeline.sh`.
 
+The pipeline is file-locked against overlapping runs, key JSON outputs are atomically replaced, and the per-entity publisher holds the same pipeline lock while generating its manifest. This prevents cron races, partial JSON reads, and stale or mismatched manifests.
+
 ## Ominis-OSINT verification
 
 The engine integrates [Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT), built by WIC founder AnonCatalyst, to validate domain findings at the page level. HTTP 200 alone is never accepted as proof.

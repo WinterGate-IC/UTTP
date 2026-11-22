@@ -122,7 +122,6 @@ DPOS,tradingview.com,https://www.tradingview.com/u/dpos,TradingView,200,80,StyxN
 DPOS,truthsocial.com,https://truthsocial.com/@dpos,Truth Social,200,55,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,tumblr.com,https://www.tumblr.com/blog/dpos,Tumblr,200,100,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,tweakers.net,https://tweakers.net/gallery/dpos,Tweakers,200,70,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
-DPOS,twitch.tv,https://www.twitch.tv/dpos,Twitch,200,100,StyxNet OSINT,2,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,twitter.com,https://twitter.com/dpos,Twitter/X,200,100,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,viber.com,https://viber.com/dpos,Viber,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,videohive.net,https://videohive.net/user/dpos,VideoHive,200,100,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
@@ -130,7 +129,6 @@ DPOS,vimeo.com,https://vimeo.com/showcase/dpos,Vimeo Showcase,200,45,StyxNet OSI
 DPOS,vk.com,https://vk.com/audio?owner_id=dpos,VK Music,200,45,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,wa.me,https://wa.me/dpos,WhatsApp,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,wishlistr.com,https://www.wishlistr.com/dpos/,Wishlistr,200,45,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
-DPOS,x.com,https://x.com/dpos,X,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,xbox.com,https://www.xbox.com/en-US/play/user/dpos,Xbox,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,yelp.com,https://www.yelp.com/user_details?userid=dpos,Yelp (by id),200,55,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 DPOS,younow.com,https://www.younow.com/dpos/,YouNow,200,55,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
@@ -258,9 +256,7 @@ OFFICERSLAPPY,forum.neformat.com.ua,https://forum.neformat.com.ua/members/uttp/,
 OFFICERSLAPPY,forum.prihoz.ru,https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp,forum.prihoz.ru,200,55,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,ominis-error; Server disconnected without sending a response.; previous status retained,exact-handle-token
 OFFICERSLAPPY,forums.mozfr.org,https://forums.mozfr.org/memberlist.php?username=uttp,forums.mozfr.org,200,55,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: no exact handle token,
 OFFICERSLAPPY,forumyuristov.ru,https://forumyuristov.ru/members/?username=uttp,ForumYuristov,200,55,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: no exact handle token,
-SPAWNISM,1001tracklists.com,https://www.1001tracklists.com/user/spawnism/index.html,1001tracklists,206,45,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 206; unverified,ominis-no-match
 SPAWNISM,arhrock.info,https://arhrock.info/forum/members/?username=spawnism,Arhrock,200,55,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
-SPAWNISM,bsky.app,https://bsky.app/profile/spawnism.bsky.social,Bluesky,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
 SPAWNISM,dice.com,https://www.dice.com/profile/spawnism,Dice,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
 SPAWNISM,dota2.ru,https://dota2.ru/forum/search?type=user&keywords=spawnism&sort_by=username,Dota2,200,100,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 SPAWNISM,flaticon.com,https://www.flaticon.com/spawnism,Flaticon,200,45,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 403; unverified,ominis-no-match
@@ -494,7 +490,6 @@ RDFPARTY,twitch.tv,https://www.twitch.tv/rdfparty,Twitch,200,85,Ominis discovery
 THEFARTKNOCKERSTFK,paypal.com,https://www.paypal.com/paypalme/thefartknockers,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
 TYRANNYRUTTP,paypal.com,https://www.paypal.com/paypalme/tyrannyruttp,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
 YTDESTROYERS,paypal.com,https://www.paypal.com/paypalme/ytdestroyers,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
-OFFICERSLAPPY,twitch.tv,https://www.twitch.tv/officerslappy,Twitch,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
 TYRANNYRUTTP,twitch.tv,https://www.twitch.tv/tyrannyruttp,Twitch,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
 FPE,tweakers.net,https://tweakers.net/gallery/fpe,Tweakers,200,70,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
 SPAWNISM,twitch.tv,https://www.twitch.tv/spawnism,Twitch,200,100,StyxNet OSINT,2,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match

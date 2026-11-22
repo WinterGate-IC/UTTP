@@ -35,39 +35,7 @@ REGISTER = ROOT / '22_UTTP_DOMAINS' / 'DOMAINS_REGISTER.csv'
 LEADS = BASE / 'domain_validation_queue.csv'
 CACHE = BASE / 'ominis_validation_cache.json'
 
-ENTITY_HANDLES = {
-    'UTTP': 'uttp',
-    'UTTP-EMPIRE': 'uttpempire',
-    'CIRCUSFALL': 'circusfall',
-    'OFFICERSLAPPY': 'officerslappy',
-    'DPOS': 'dpos',
-    'AFR': 'afr',
-    'BN0R': 'bn0r',
-    'RDF': 'rdf',
-    '764': '764',
-    'O9A': 'o9a',
-    'HARMNATION': 'harmnation',
-    'SPAWNISM': 'spawnism',
-    'FPE': 'fpe',
-    'FPE-POLICE': 'fpepolice',
-    'TNM': 'tnm',
-    'ENCLAVE': 'enclave',
-    'AUTTP': 'auttp',
-    '148': '148',
-    'SPWN': 'spwn',
-    'E11': '11thstreet',
-    'KKTK': 'kktk',
-    'YFGA': 'yfga',
-    'VGCP': 'vgcp',
-    'AFF': 'aff',
-    'TND': 'tnd',
-    'ZETA': 'zeta',
-    'YTDESTROYERS': 'ytdestroyers',
-    'C09A': '09a',
-    'TYRANNYRUTTP': 'tyrannyruttp',
-    'RDFPARTY': 'rdfparty',
-    'THEFARTKNOCKERSTFK': 'thefartknockers',
-}
+from entity_registry import ENTITY_HANDLES, DOMAIN_TOKENS, STRONG_SIGNALS
 
 ENTITY_TERMS = {
     'UTTP': ('utube troll police', 'youtube troll police', 'uttp empire'),
@@ -79,45 +47,6 @@ ENTITY_TERMS = {
     'AFR': ('antifandom resistance', 'anti fandom resistance'),
 }
 
-ACTIVITY_TOKENS = {
-    'UTTP': ('uttp', 'utubetrollpolice', 'utubetroll'),
-    'UTTP-EMPIRE': ('uttpempire', 'nuuttp'),
-    'CIRCUSFALL': ('circusfall',),
-    'OFFICERSLAPPY': ('officerslappy', 'slappy'),
-    'AFR': ('antifandomresistance', 'antifandom'),
-    'BN0R': ('bn0r',),
-    'RDF': ('rdfparty', 'redditdefenceforce', 'rdf'),
-    'DPOS': ('dpos', 'degeneracypolice'),
-    '764': ('764',),
-    'O9A': ('o9a', 'orderofnineangles', 'ona'),
-    'HARMNATION': ('harmnation',),
-    'SPAWNISM': ('spawnism',),
-    'AUTTP': ('auttp',),
-    'FPE': ('fpe', 'fundamentalpapereducation'),
-    'FPE-POLICE': ('fpepolice',),
-    'TNM': ('tnm', 'themilitia'),
-    '148': ('148',),
-    'ENCLAVE': ('enclave', 'imperiumoftheenclave'),
-    'SPWN': ('spawnism', 'spwn'),
-    'E11': ('11thstreet',),
-    'KKTK': ('kktk', 'kukluxtrollklan'),
-    'YFGA': ('yfga',),
-    'VGCP': ('vgcp', 'videogamecartoonpolice'),
-    'AFF': ('antifandomfront',),
-    'TND': ('thegroupthatdestroyedfpe', 'destroyedfpe'),
-    'ZETA': ('zeta',),
-    'YTDESTROYERS': ('ytdestroyers', 'youtubetrolldestroyers'),
-    'C09A': ('09acult', 'o9acult', '09a'),
-    'TYRANNYRUTTP': ('tyrannyruttp',),
-    'RDFPARTY': ('rdfparty',),
-    'THEFARTKNOCKERSTFK': ('thefartknockers', 'fartknockers'),
-}
-
-STRONG_SIGNALS = {
-    'metadata', 'structured', 'redirect', 'canonical', 'json', 'jsonld',
-    'microdata', 'rel_author', 'author_meta', 'js_state', 'json_api',
-    'user_activity',
-}
 SKIP_MARKERS = (
     '/search', 'search?', 'keywords=', 'author=', '?q=', '&q=', 'query=',
     'filter?search', '/find?', 'search-index', '/login', '/signup',
@@ -231,7 +160,7 @@ def token_in_value(value, tokens):
 
 
 def entity_user_activity(body, entity):
-    tokens = ACTIVITY_TOKENS.get(entity, ())
+    tokens = DOMAIN_TOKENS.get(entity, ())
     if not tokens:
         return []
     found = set()
@@ -271,8 +200,6 @@ def jsonld_match(body, handle):
         for value in walk_json(payload):
             if username._mentions(value, handle):
                 return True
-        if handle.casefold() in block.casefold():
-            return True
     return False
 
 

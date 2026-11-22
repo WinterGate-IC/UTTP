@@ -8,7 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from discover import TOKENS
+from entity_registry import DOMAIN_TOKENS
 
 BASE = Path(__file__).resolve().parent
 ROOT = BASE.parent
@@ -25,7 +25,7 @@ DEFAULT_FIELDS = [
 
 def has_exact_token(url, entity_id):
     text = (url or '').lower()
-    for tok in TOKENS.get(entity_id, set()):
+    for tok in DOMAIN_TOKENS.get(entity_id, set()):
         if re.search(r'\b' + re.escape(tok) + r'\b', text):
             return True
     return False

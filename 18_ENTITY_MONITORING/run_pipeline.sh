@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 set -euo pipefail
+LOCK=/var/tmp/opencode/entity-pipeline.lock
+exec 9>"$LOCK"
+if ! flock -n 9; then
+  echo "entity pipeline already running; skipping"
+  exit 0
+fi
 set -a
 source /opt/tel/.env
 set +a
@@ -22,4 +28,6 @@ fi
 /usr/bin/python3 "$DIR/build_domains.py" >/var/tmp/opencode/build-domains.log 2>&1
 /usr/bin/python3 /var/tmp/opencode/entity-work/build_page.py >/var/tmp/opencode/build-page.log 2>&1
 /usr/bin/python3 "$DIR/cold_storage.py" >/var/tmp/opencode/cold-storage.log 2>&1
+/usr/bin/python3 "$DIR/update_manifest.py" >/var/tmp/opencode/update-manifest.log 2>&1
+/usr/bin/python3 "$DIR/strict_validate.py" >/var/tmp/opencode/strict-validate-final.log 2>&1
 /usr/bin/python3 "$DIR/update_manifest.py" >/var/tmp/opencode/update-manifest.log 2>&1

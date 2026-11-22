@@ -5,6 +5,7 @@ This is a periodic mirror, not a real-time sync. It writes one folder per
 group-level entity, then makes at most one git commit/push per run. GitHub API
 rate limits are checked before any push and the token is never logged.
 """
+import fcntl
 import json
 import os
 import random
@@ -21,7 +22,19 @@ DATA = BASE / 'entity-intelligence.json'
 OUT = ROOT / '19_ENTITY_INTEL_PUBLISH'
 MIN_CORE_REMAINING = 200
 COMMIT_MESSAGE = 'Update per-entity intelligence mirror'
+PIPELINE_LOCK = Path('/var/tmp/opencode/entity-pipeline.lock')
 
+
+
+
+def acquire_pipeline_lock():
+    f = PIPELINE_LOCK.open('w')
+    try:
+        fcntl.flock(f, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        f.close()
+        return None
+    return f
 
 def now():
     return datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
@@ -143,16 +156,15 @@ def git_has_changes():
     return bool(r.stdout.strip())
 
 
-def git_commit_push():
-    r = run(['git', 'add', '-A'])
-    if r.returncode != 0:
-        return {'pushed': False, 'reason': 'git add failed: ' + redact(r.stderr)}
-    r = run(['git', 'diff', '--cached', '--quiet'])
-    if r.returncode == 0:
-        return {'pushed': False, 'reason': 'no changes'}
-    r = run(['git', 'commit', '-m', COMMIT_MESSAGE])
-    if r.returncode != 0:
-        return {'pushed': False, 'reason': 'git commit failed: ' + redact(r.stderr)}
+def git_ahead():
+    r = run(['git', 'rev-list', '--count', 'origin/main..HEAD'])
+    try:
+        return int((r.stdout or '0').strip() or '0')
+    except ValueError:
+        return 0
+
+
+def push_origin():
     rl = rate_limit()
     if not rl:
         return {'pushed': False, 'reason': 'rate limit unavailable', 'committed': True}
@@ -166,16 +178,38 @@ def git_commit_push():
     return {'pushed': True, 'rate_limit': rl}
 
 
+def git_commit_push():
+    r = run(['git', 'add', '-A'])
+    if r.returncode != 0:
+        return {'pushed': False, 'reason': 'git add failed: ' + redact(r.stderr)}
+    r = run(['git', 'diff', '--cached', '--quiet'])
+    if r.returncode == 0:
+        return {'pushed': False, 'reason': 'no changes'}
+    r = run(['git', 'commit', '-m', COMMIT_MESSAGE])
+    if r.returncode != 0:
+        return {'pushed': False, 'reason': 'git commit failed: ' + redact(r.stderr)}
+    return push_origin()
+
+
 def main():
-    data = json.loads(DATA.read_text(encoding='utf-8'))
-    sources = source_map(data)
-    for entity in data.get('entities', []):
-        write_entity(entity, data, sources)
-    write_index(data)
-    run([sys.executable, str(BASE / 'update_manifest.py')])
+    lock = acquire_pipeline_lock()
+    if not lock:
+        print(json.dumps({'generated': 0, 'skipped': 'entity pipeline is running'}))
+        return
+    try:
+        data = json.loads(DATA.read_text(encoding='utf-8'))
+        sources = source_map(data)
+        for entity in data.get('entities', []):
+            write_entity(entity, data, sources)
+        write_index(data)
+        run([sys.executable, str(BASE / 'update_manifest.py')])
+    finally:
+        lock.close()
     result = {'generated': len(data.get('entities', [])), 'updated': now()}
     if git_has_changes():
         result.update(git_commit_push())
+    elif git_ahead():
+        result.update(push_origin())
     else:
         result['pushed'] = False
         result['reason'] = 'no changes'
