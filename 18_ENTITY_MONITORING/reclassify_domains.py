@@ -33,6 +33,9 @@ def main():
     for r in rows:
         entity = r['entity_id']
         url = r.get('url', '')
+        # Preserve user-provided verified rows as-is
+        if r.get('source') == 'User-provided':
+            continue
         exact = has_exact_token(url, entity)
         status_ok = r.get('status', '') in {'200', '206', '204'}
         confirmed = exact and status_ok

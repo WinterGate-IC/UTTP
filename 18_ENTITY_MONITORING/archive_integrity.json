@@ -16,20 +16,7 @@
   "csv_files_checked": 32,
   "bad_csv_files": [],
   "manifest_rows_checked": 743,
-  "bad_manifest_rows": [
-    {
-      "path": "18_ENTITY_MONITORING/discovered_sources.json",
-      "reason": "hash_mismatch"
-    },
-    {
-      "path": "18_ENTITY_MONITORING/discovery_state.json",
-      "reason": "hash_mismatch"
-    },
-    {
-      "path": "18_ENTITY_MONITORING/rebrands.json",
-      "reason": "hash_mismatch"
-    }
-  ],
+  "bad_manifest_rows": [],
   "manifest_hash_ok": true,
   "candidate_handles": 15,
   "ownership_verified": 15

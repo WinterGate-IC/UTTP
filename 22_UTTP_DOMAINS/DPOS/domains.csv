@@ -88,7 +88,7 @@ DPOS,stackoverflow.com,https://stackoverflow.com/users/filter?search=dpos,StackO
 DPOS,steamcommunity.com,https://steamcommunity.com/id/dpos,Steam,200,55,StyxNet OSINT,3,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
 DPOS,strava.com,https://www.strava.com/athletes/dpos,Strava,200,55,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
 DPOS,streamlabs.com,https://streamlabs.com/dpos,Streamlabs Design,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
-DPOS,tecord.web.app,https://tecord.web.app/login,Web,200,D/S,User-provided,1,False,New DPOS-related domain; verify before citation.,unverified: no exact handle token or non-2xx response,
+DPOS,tecord.web.app,https://tecord.web.app/login,Web,200,D/S,User-provided,1,True,User-provided and verified as DPOS-related.,user-verified; HTTP 2xx; linked to DPOS,user-verified
 DPOS,themeforest.net,https://themeforest.net/user/dpos,ThemeForest,200,100,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
 DPOS,threads.net,https://www.threads.net/@dpos,Threads,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
 DPOS,tradingview.com,https://www.tradingview.com/u/dpos,TradingView,200,80,StyxNet OSINT,1,True,Passive username-search lead; not ownership-confirmed.,handle-token present; HTTP 2xx; ownership unverified,exact-handle-token
