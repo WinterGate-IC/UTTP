@@ -72,9 +72,15 @@ A domain is published only when Ominis confirms the entity handle through at lea
 - **Redirect** — the URL redirects to a profile path containing the handle.
 - **Structured data** — JSON-LD or structured profile fields contain the exact handle.
 - **Embedded JSON** — inline JSON fields such as `username`, `handle`, `login`, `screen_name`, `uniqueId`, or `canonicalBaseUrl` match the handle.
+- **JSON-LD** — structured `name`, `alternateName`, `identifier`, `sameAs`, `author`, `publisher`, `url`, or `mainEntityOfPage` values match the handle.
+- **Microdata** — `itemprop` name/author/url/sameAs fields match the handle.
+- **Author metadata** — `meta author`, `article:author`, `profile:username`, `twitter:creator`, `twitter:site`, and similar fields match the handle.
+- **Author links** — `rel="author"` or `rel="me"` links point to a path containing the handle.
+- **JavaScript state** — `__NEXT_DATA__`, `__INITIAL_STATE__`, `__APOLLO_STATE__`, or similar state blocks contain the handle.
+- **JSON API response** — a JSON response contains the handle in an author field, profile value, or object key.
 - **Entity user activity** — posts, author fields, profile links, or embedded author JSON on the page reference usernames containing entity-related tokens. This is a confirmed handle linkage and is strong evidence for the entity intel folder.
 
-A verified domain is treated as either owned by the entity or a domain/platform the entity operates in. Validation confirms entity handle linkage, not legal ownership. Visible-body mentions are medium-strength and never sufficient alone. Exact-token URL matches are only a pre-filter. Entity-specific phrases add context. Every result records its validation basis, for example `ominis-verified (canonical+metadata+json+user_activity)`.
+Parked domains, suspended accounts, soft-404 pages, login walls, and search pages are rejected. A verified domain is treated as either owned by the entity or a domain/platform the entity operates in. Validation confirms entity handle linkage, not legal ownership. Visible-body mentions are medium-strength and never sufficient alone. Exact-token URL matches are only a pre-filter. Entity-specific phrases add context. Every result records its validation basis, for example `ominis-verified (canonical+metadata+jsonld+user_activity)`.
 
 Unverified, body-only, no-match, and error rows are not published. They stay in `domain_validation_queue.csv` for automated rechecks. The pipeline validates 40 URLs per pass, caches results for 7 days, and prioritizes entities with fewer confirmed domains.
 

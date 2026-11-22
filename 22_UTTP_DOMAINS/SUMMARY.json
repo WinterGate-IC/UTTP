@@ -1,8 +1,8 @@
 {
-  "total_rows": 597,
+  "total_rows": 595,
   "unique_domains": 145,
-  "confirmed_links": 597,
-  "unverified_leads": 495,
+  "confirmed_links": 595,
+  "unverified_leads": 497,
   "entities": {
     "UTTP": 33,
     "FPE": 52,
@@ -16,7 +16,7 @@
     "ENCLAVE": 31,
     "FPE-POLICE": 3,
     "HARMNATION": 10,
-    "OFFICERSLAPPY": 4,
+    "OFFICERSLAPPY": 3,
     "RDF": 26,
     "TNM": 27,
     "UTTP-EMPIRE": 4,
@@ -30,7 +30,7 @@
     "SPWN": 21,
     "THEFARTKNOCKERSTFK": 6,
     "TND": 28,
-    "TYRANNYRUTTP": 3,
+    "TYRANNYRUTTP": 2,
     "VGCP": 13,
     "YFGA": 13,
     "YTDESTROYERS": 4,
@@ -42,7 +42,7 @@
     "DPOS": 80,
     "FPE": 40,
     "O9A": 75,
-    "OFFICERSLAPPY": 9,
+    "OFFICERSLAPPY": 10,
     "SPAWNISM": 29,
     "UTTP": 195,
     "CIRCUSFALL": 2,
@@ -50,7 +50,7 @@
     "UTTP-EMPIRE": 2,
     "RDFPARTY": 2,
     "THEFARTKNOCKERSTFK": 1,
-    "TYRANNYRUTTP": 1,
+    "TYRANNYRUTTP": 2,
     "YTDESTROYERS": 1
   }
 }

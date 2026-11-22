@@ -113,7 +113,11 @@ ACTIVITY_TOKENS = {
     'THEFARTKNOCKERSTFK': ('thefartknockers', 'fartknockers'),
 }
 
-STRONG_SIGNALS = {'metadata', 'structured', 'redirect', 'canonical', 'json', 'user_activity'}
+STRONG_SIGNALS = {
+    'metadata', 'structured', 'redirect', 'canonical', 'json', 'jsonld',
+    'microdata', 'rel_author', 'author_meta', 'js_state', 'json_api',
+    'user_activity',
+}
 SKIP_MARKERS = (
     '/search', 'search?', 'keywords=', 'author=', '?q=', '&q=', 'query=',
     'filter?search', '/find?', 'search-index', '/login', '/signup',
@@ -133,6 +137,30 @@ PROFILE_LINK_RE = re.compile(
     r'(?:href|url)=["\']([^"\']*(?:/user/|/u/|/@|/members?/|/profile/|'
     r'/author/|/people/)[^"\']*)["\']', re.IGNORECASE)
 AT_HANDLE_RE = re.compile(r'@([A-Za-z0-9_.-]{2,64})')
+JSONLD_RE = re.compile(
+    r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+    re.IGNORECASE | re.DOTALL)
+MICRODATA_RE = re.compile(
+    r'itemprop=["\'](?:name|alternateName|identifier|author|url|sameAs|'
+    r'mainEntityOfPage)["\'][^>]*(?:content|href)=["\']([^"\']+)["\']',
+    re.IGNORECASE)
+MICRODATA_TEXT_RE = re.compile(
+    r'itemprop=["\'](?:name|alternateName|author)["\'][^>]*>(.*?)</',
+    re.IGNORECASE | re.DOTALL)
+META_AUTHOR_RE = re.compile(
+    r'<meta[^>]+(?:name|property)=["\'](?:author|article:author|'
+    r'profile:username|twitter:creator|twitter:site|og:see_also|fb:profile_id)'
+    r'["\'][^>]*content=["\']([^"\']+)["\']', re.IGNORECASE)
+REL_AUTHOR_RE = re.compile(
+    r'<(?:a|link)[^>]+rel=["\'][^"\']*(?:author|me)[^"\']*["\'][^>]+'
+    r'href=["\']([^"\']+)["\']', re.IGNORECASE)
+JS_STATE_RE = re.compile(
+    r'(?:window\.)?__(?:INITIAL_STATE|NEXT_DATA|APOLLO_STATE)__\s*=\s*(\{.*?\});',
+    re.DOTALL)
+PARKED_MARKERS = (
+    'domain for sale', 'buy this domain', 'this domain is for sale',
+    'account suspended', 'this account has been suspended',
+)
 
 
 def now():
@@ -223,6 +251,80 @@ def entity_user_activity(body, entity):
     return sorted(found)
 
 
+def walk_json(value):
+    if isinstance(value, dict):
+        for item in value.values():
+            yield from walk_json(item)
+    elif isinstance(value, list):
+        for item in value:
+            yield from walk_json(item)
+    elif isinstance(value, str):
+        yield value
+
+
+def jsonld_match(body, handle):
+    for block in JSONLD_RE.findall(body[:MAX_BODY]):
+        try:
+            payload = json.loads(block.strip())
+        except Exception:
+            continue
+        for value in walk_json(payload):
+            if username._mentions(value, handle):
+                return True
+        if handle.casefold() in block.casefold():
+            return True
+    return False
+
+
+def microdata_match(body, handle):
+    for value in MICRODATA_RE.findall(body[:MAX_BODY]):
+        if username._mentions(value, handle):
+            return True
+    for value in MICRODATA_TEXT_RE.findall(body[:MAX_BODY]):
+        if username._mentions(value, handle):
+            return True
+    return False
+
+
+def author_meta_match(body, handle):
+    for value in META_AUTHOR_RE.findall(body[:MAX_BODY]):
+        if username._mentions(value, handle):
+            return True
+    return False
+
+
+def rel_author_match(body, handle):
+    for value in REL_AUTHOR_RE.findall(body[:MAX_BODY]):
+        if username._mentions(value, handle):
+            return True
+    return False
+
+
+def js_state_match(body, handle):
+    for match in JS_STATE_RE.finditer(body[:MAX_BODY]):
+        chunk = match.group(1)
+        if username._mentions(chunk, handle):
+            return True
+        for value in JSON_HANDLE_RE.finditer(chunk):
+            if username._mentions(value.group(1), handle):
+                return True
+    return False
+
+
+def json_api_match(response, handle):
+    ctype = (response.headers.get('content-type') or '').lower()
+    if 'json' not in ctype:
+        return False
+    try:
+        payload = response.json()
+    except Exception:
+        return False
+    for value in walk_json(payload):
+        if username._mentions(value, handle):
+            return True
+    return False
+
+
 def is_candidate(row):
     if row.get('source') == 'User-provided':
         return False
@@ -277,6 +379,9 @@ async def inspect_url(client, entity, handle, url, timeout):
     if any(marker in visible.casefold() for marker in username._BODY_MISSING_MARKERS):
         return {'status': status, 'signals': [], 'title': title,
                 'final_url': str(response.url), 'missing': True}
+    if any(marker in (title + ' ' + visible).casefold() for marker in PARKED_MARKERS):
+        return {'status': status, 'signals': [], 'title': title,
+                'final_url': str(response.url), 'missing': True}
 
     signals = []
     requested = urlsplit(url)
@@ -297,6 +402,18 @@ async def inspect_url(client, entity, handle, url, timeout):
         signals.append('body')
     if entity_user_activity(body, entity):
         signals.append('user_activity')
+    if jsonld_match(body, handle):
+        signals.append('jsonld')
+    if microdata_match(body, handle):
+        signals.append('microdata')
+    if author_meta_match(body, handle):
+        signals.append('author_meta')
+    if rel_author_match(body, handle):
+        signals.append('rel_author')
+    if js_state_match(body, handle):
+        signals.append('js_state')
+    if json_api_match(response, handle):
+        signals.append('json_api')
 
     detected = platforms.detect_profiles(str(response.url)) or platforms.detect_profiles(url)
     platform_confidence = int(detected[0].get('confidence') or 0) if detected else 0

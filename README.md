@@ -112,11 +112,18 @@ Each candidate is checked against multiple, independent page signals. A publishe
 | **Redirect** | The requested URL redirects to a profile path containing the entity handle instead of a not-found page. | Strong |
 | **Structured data** | JSON-LD or structured profile fields contain the exact entity handle. | Strong |
 | **Embedded JSON** | Inline JSON fields such as `username`, `handle`, `login`, `screen_name`, `uniqueId`, `vanityChannelUrl`, `canonicalBaseUrl`, or `alternateName` contain the exact handle. | Strong |
+| **JSON-LD** | JSON-LD `name`, `alternateName`, `identifier`, `sameAs`, `author`, `publisher`, `url`, or `mainEntityOfPage` contains the handle. | Strong |
+| **Microdata** | `itemprop` fields or visible microdata values for name, author, URL, or sameAs contain the handle. | Strong |
+| **Author metadata** | `meta author`, `article:author`, `profile:username`, `twitter:creator`, `twitter:site`, or similar author fields contain the handle. | Strong |
+| **Author links** | `rel="author"` or `rel="me"` links point to a path containing the handle. | Strong |
+| **JavaScript state** | `__NEXT_DATA__`, `__INITIAL_STATE__`, `__APOLLO_STATE__`, or similar state blocks contain the handle. | Strong |
+| **JSON API response** | A JSON response contains the handle in an object key, author field, or profile value. | Strong |
 | **Entity user activity** | Posts, author fields, profile links, or embedded author JSON on the page reference usernames containing entity-related tokens. | Strong — confirmed handle linkage |
 | **Visible body text** | The handle appears in visible profile content, not a footer mention. | Medium — never sufficient alone |
 | **Entity relationship terms** | Page text contains entity-specific phrases (for example, “degeneracy police order state,” “order of nine angles,” or “utube troll police”). | Context signal |
 | **Exact-token URL/path** | The entity handle appears as a whole token in the URL path or query. | Pre-filter only |
 | **HTTP 2xx** | The page is reachable. | Reachability only |
+| **Negative / gate signals** | Parked domains, suspended accounts, soft-404 pages, login walls, and search pages do not confirm a link. | Rejection |
 
 ### Publication rule
 
@@ -127,6 +134,8 @@ A domain is published only when:
 3. the result is stored with its validation basis, for example `ominis-verified (canonical+metadata+json)`.
 
 A verified domain is treated as **either owned by the entity or a domain/platform the entity operates in**. Validation confirms entity handle linkage, not legal ownership. Owned and operated-in domains are both valid intelligence targets.
+
+Signals are recorded individually and weighted. Multiple independent strong signals increase the accuracy score. A single strong signal can publish a domain, but the archive preserves exactly which signals matched so the evidence can be audited.
 
 Body-only matches, no-match pages, errors, and token-only URL matches remain **unverified**. They are moved to the internal `domain_validation_queue.csv` and are **not** published in the domain register, per-entity domain folders, `domains.json`, or the Explore tab. User-provided links are published only after explicit user verification.
 

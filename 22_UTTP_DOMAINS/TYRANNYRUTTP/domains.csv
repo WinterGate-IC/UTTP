@@ -1,4 +1,3 @@
 entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
-TYRANNYRUTTP,app.trakt.tv,https://app.trakt.tv/profile/tyrannyruttp,Trakt,200,85,Ominis discovery,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (canonical); HTTP 200; confirmed handle linkage,ominis-verified
-TYRANNYRUTTP,twitch.tv,https://www.twitch.tv/tyrannyruttp,Twitch,200,85,Ominis discovery,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (canonical); HTTP 200; confirmed handle linkage,ominis-verified
-TYRANNYRUTTP,t.me,https://t.me/tyrannyruttp,Telegram,200,80,Ominis discovery,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (metadata); HTTP 200; confirmed handle linkage,ominis-verified
+TYRANNYRUTTP,app.trakt.tv,https://app.trakt.tv/profile/tyrannyruttp,Trakt,200,85,Ominis discovery,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (canonical+user_activity); HTTP 200; confirmed handle linkage,ominis-verified
+TYRANNYRUTTP,t.me,https://t.me/tyrannyruttp,Telegram,200,80,Ominis discovery,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (metadata+user_activity); HTTP 200; confirmed handle linkage,ominis-verified
