@@ -11,6 +11,10 @@ DIR=18_ENTITY_MONITORING
 /usr/bin/python3 "$DIR/styxnet_osint.py" >/var/tmp/opencode/styxnet-osint.log 2>&1
 /usr/bin/python3 "$DIR/fill_tel.py" >/var/tmp/opencode/fill-tel.log 2>&1
 /usr/bin/python3 "$DIR/sync_tel_intake.py" >/var/tmp/opencode/sync-tel-intake.log 2>&1
+if [ "${OMINIS_VALIDATE:-0}" = "1" ]; then
+  /usr/bin/python3 "$DIR/ominis_validate.py" >/var/tmp/opencode/ominis-validate.log 2>&1 || true
+fi
+/usr/bin/python3 "$DIR/reclassify_domains.py" >/var/tmp/opencode/reclassify-domains.log 2>&1
 /usr/bin/python3 "$DIR/build_entity_intelligence.py" >/var/tmp/opencode/build-json.log 2>&1
 /usr/bin/python3 "$DIR/build_domains.py" >/var/tmp/opencode/build-domains.log 2>&1
 /usr/bin/python3 /var/tmp/opencode/entity-work/build_page.py >/var/tmp/opencode/build-page.log 2>&1

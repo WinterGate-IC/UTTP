@@ -1,5 +1,5 @@
 {
-  "internal_links_checked": 148,
+  "internal_links_checked": 149,
   "broken_internal_links": [],
   "json_files_checked": 167,
   "bad_json_files": [],
@@ -15,7 +15,7 @@
   ],
   "csv_files_checked": 32,
   "bad_csv_files": [],
-  "manifest_rows_checked": 743,
+  "manifest_rows_checked": 744,
   "bad_manifest_rows": [],
   "manifest_hash_ok": true,
   "candidate_handles": 15,

@@ -15,6 +15,7 @@ entity is tracked through the links and registers below:
 | Rejected/false claims | [FALSE_CLAIMS.csv](https://github.com/WinterGate-IC/UTTP/blob/main/16_VALIDATED_FALSE_CLAIMS/FALSE_CLAIMS.csv) |
 | Tracking board | [TRACKING_BOARD.md](https://github.com/WinterGate-IC/UTTP/blob/main/12_TRACKING/TRACKING_BOARD.md) |
 | StyxNet validation | [StyxNet site](https://wintergate.org/styxnet/) · [`strict_validation_summary.json`](strict_validation_summary.json) · [`styxnet_profiles.json`](styxnet_profiles.json) |
+| Ominis-OSINT validation | [`ominis_validate.py`](ominis_validate.py) · [Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) |
 | Backend status feeds | [monitor-feed.json](https://wintergate.org/data/monitor-feed.json) · [tel-intake.json](https://wintergate.org/data/tel-intake.json) · [cold-storage-status.json](https://wintergate.org/data/cold-storage-status.json) |
 | TEL threat register | Local TEL API, synced by `fill_tel.py` and `sync_tel_intake.py` |
 
@@ -29,14 +30,19 @@ entity is tracked through the links and registers below:
 4. `fill_tel.py` pushes the group-level register to TEL.
 5. `sync_tel_intake.py` pulls newly listed TEL names into `tel_intake.json` as
    review leads.
-6. `build_entity_intelligence.py` rebuilds `entity-intelligence.json` from the
+6. `ominis_validate.py` (opt-in with `OMINIS_VALIDATE=1`) re-checks domain
+   leads using Ominis-OSINT's page metadata, canonical, redirect, structured
+   data, and visible-body validation signals.
+7. `reclassify_domains.py` enforces exact-token domain attribution and rewrites
+   the per-entity domain CSVs and summary.
+8. `build_entity_intelligence.py` rebuilds `entity-intelligence.json` from the
    registers, sources, claims, areas, discovery outputs, and validation state.
-7. `cold_storage.py` writes hashed compressed snapshots under
+9. `cold_storage.py` writes hashed compressed snapshots under
    `/var/lib/wintergate/cold_storage/`.
-8. `publish_entity_intel.py` writes one folder per entity under
-   `19_ENTITY_INTEL_PUBLISH/`, refreshes the manifest, and pushes at most once
-   every 6 hours after checking the GitHub rate limit.
-9. `update_manifest.py` regenerates `00_READ_FIRST/MANIFEST.csv` and its SHA-256.
+10. `publish_entity_intel.py` writes one folder per entity under
+    `19_ENTITY_INTEL_PUBLISH/`, refreshes the manifest, and pushes at most once
+    every 6 hours after checking the GitHub rate limit.
+11. `update_manifest.py` regenerates `00_READ_FIRST/MANIFEST.csv` and its SHA-256.
 
 This is the backend of record; the GitHub repository is an archive mirror. Run everything with `bash run_pipeline.sh`.
 
