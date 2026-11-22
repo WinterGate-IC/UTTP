@@ -39,7 +39,7 @@ REFRESH_AFTER = timedelta(days=7)
 FIELDS = [
     'entity_id', 'domain', 'url', 'platform', 'status', 'confidence',
     'source', 'occurrences', 'link_confirmed', 'notes', 'validation_status',
-    'entity_match',
+    'entity_match', 'alternate_urls',
 ]
 
 
@@ -135,16 +135,29 @@ def main():
                     existing = row
                     break
             if existing:
-                existing['url'] = hit.url
+                known_urls = [existing.get('url') or '']
+                known_urls += [u for u in (existing.get('alternate_urls') or '').split(';') if u]
+                if hit.url not in known_urls:
+                    known_urls.append(hit.url)
+                    existing['alternate_urls'] = ';'.join(known_urls[1:])
+                    try:
+                        existing['occurrences'] = str(max(1, int(existing.get('occurrences') or 1)) + 1)
+                    except ValueError:
+                        existing['occurrences'] = '2'
+                    old_status = existing.get('validation_status') or ''
+                    old_signals = set()
+                    if 'ominis-verified (' in old_status:
+                        old_signals = set(old_status.split('ominis-verified (', 1)[1].split(')', 1)[0].split('+'))
+                    old_signals.add(hit.match)
+                    existing['validation_status'] = (
+                        f"ominis-verified ({'+'.join(sorted(s for s in old_signals if s))}); "
+                        f"HTTP {hit.status}; confirmed handle linkage")
                 existing['platform'] = hit.platform or existing.get('platform', '')
                 existing['status'] = str(hit.status)
                 existing['confidence'] = str(hit.confidence or existing.get('confidence', ''))
                 existing['source'] = 'Ominis discovery'
                 existing['link_confirmed'] = 'True'
                 existing['notes'] = 'Ominis page-level handle linkage; entity-linked domain.'
-                existing['validation_status'] = (
-                    f'ominis-verified ({hit.match}); HTTP {hit.status}; '
-                    'confirmed handle linkage')
                 existing['entity_match'] = 'ominis-verified'
                 added += 1
                 continue
@@ -164,6 +177,7 @@ def main():
                     f'ominis-verified ({hit.match}); HTTP {hit.status}; '
                     'confirmed handle linkage'),
                 'entity_match': 'ominis-verified',
+                'alternate_urls': '',
             }
             added += 1
 

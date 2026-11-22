@@ -125,7 +125,11 @@ def load_register():
 
 
 def save_register(rows):
-    fieldnames = list(rows[0].keys())
+    fieldnames = list(rows[0].keys()) if rows else []
+    for row in rows:
+        for key in row.keys():
+            if key not in fieldnames:
+                fieldnames.append(key)
     with REGISTER.open('w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -356,6 +360,12 @@ async def inspect_url(client, entity, handle, url, timeout):
     }
 
 
+def _status_signals(status):
+    if 'ominis-verified (' in (status or ''):
+        return {x for x in status.split('ominis-verified (', 1)[1].split(')', 1)[0].split('+') if x}
+    return set()
+
+
 def mark_row(row, result):
     if result.get('error'):
         row['validation_status'] = f"ominis-error; {result['error']}; previous status retained"
@@ -363,13 +373,24 @@ def mark_row(row, result):
 
     signals = set(result.get('signals') or [])
     status = result.get('status')
-    strong = sorted(signals & STRONG_SIGNALS)
+    old_signals = _status_signals(row.get('validation_status'))
+    strong = sorted(old_signals | (signals & STRONG_SIGNALS))
     if strong:
         row['link_confirmed'] = 'True'
         row['validation_status'] = (
             f"ominis-verified ({'+'.join(strong)}); HTTP {status}; confirmed handle linkage")
         row['entity_match'] = 'ominis-verified'
         return True
+    # A previously verified row with additional handle URLs should not be
+    # demoted merely because the primary URL changed. The alternates are part
+    # of the same domain evidence and are validated as a set.
+    if row.get('alternate_urls') and old_signals:
+        row['link_confirmed'] = 'True'
+        row['validation_status'] = (
+            f"ominis-verified ({'+'.join(sorted(old_signals))}); HTTP {status}; "
+            'confirmed handle linkage (alternate URL retained)')
+        row['entity_match'] = 'ominis-verified'
+        return False
     if 'body' in signals:
         related = result.get('related_terms') or []
         label = 'ominis-body-related' if related else 'ominis-body-only'

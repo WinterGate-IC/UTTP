@@ -19,7 +19,7 @@ SUMMARY_JSON = PER_ENTITY_DIR / 'SUMMARY.json'
 DEFAULT_FIELDS = [
     'entity_id', 'domain', 'url', 'platform', 'status', 'confidence',
     'source', 'occurrences', 'link_confirmed', 'notes', 'validation_status',
-    'entity_match',
+    'entity_match', 'alternate_urls',
 ]
 
 
@@ -29,6 +29,51 @@ def has_exact_token(url, entity_id):
         if re.search(r'\b' + re.escape(tok) + r'\b', text):
             return True
     return False
+
+
+def norm_url(value):
+    value = (value or '').strip().lower().rstrip('/')
+    value = re.sub(r'^https?://', '', value)
+    value = re.sub(r'^www\.', '', value)
+    return value
+
+
+def source_occurrences():
+    """Count exact-URL appearances across the passive source stores."""
+    counts = {}
+
+    def bump(url, n=1):
+        key = norm_url(url)
+        if key:
+            counts[key] = counts.get(key, 0) + n
+
+    for name in ('styxnet_osint.json', 'styxnet_profiles.json'):
+        path = BASE / name
+        if not path.exists():
+            continue
+        try:
+            items = json.loads(path.read_text(encoding='utf-8'))
+        except Exception:
+            continue
+        for item in items:
+            bump(item.get('url'))
+    discovered = BASE / 'discovered_sources.json'
+    if discovered.exists():
+        try:
+            items = json.loads(discovered.read_text(encoding='utf-8'))
+        except Exception:
+            items = []
+        for item in items:
+            bump(item.get('url'), max(1, len(item.get('source_files') or [])))
+    raw = ROOT / '09_STYXNET_REPORTS' / 'styxnet_UTTP_csv_1789803261.csv'
+    if raw.exists():
+        try:
+            with raw.open(newline='', encoding='utf-8') as fh:
+                for item in csv.DictReader(fh):
+                    bump(item.get('url'))
+        except Exception:
+            pass
+    return counts
 
 
 def read_rows(path):
@@ -57,6 +102,73 @@ def main():
         key = (row.get('entity_id'), row.get('url'), row.get('domain'))
         combined[key] = row
     rows = list(combined.values())
+    # Merge verified rows that point at the same entity/domain but different
+    # handle URLs. Preserve every URL in alternate_urls and keep the strongest
+    # signal set. Unverified leads are merged separately from verified rows.
+    def _signals(status):
+        if 'ominis-verified (' in (status or ''):
+            return {x for x in status.split('ominis-verified (', 1)[1].split(')', 1)[0].split('+') if x}
+        return set()
+
+    def _occ(row):
+        try:
+            return max(1, int(row.get('occurrences') or 1))
+        except ValueError:
+            return 1
+
+    merged = {}
+    for row in rows:
+        key = (row.get('entity_id'), (row.get('domain') or '').lower(), row.get('link_confirmed'))
+        base = merged.get(key)
+        if base is None:
+            merged[key] = row
+            continue
+        urls = [base.get('url') or ''] + [u for u in (base.get('alternate_urls') or '').split(';') if u]
+        urls += [row.get('url') or ''] + [u for u in (row.get('alternate_urls') or '').split(';') if u]
+        seen, unique = set(), []
+        for url in urls:
+            key_url = norm_url(url)
+            if key_url and key_url not in seen:
+                seen.add(key_url)
+                unique.append(url)
+        primary = base.get('url') or (unique[0] if unique else '')
+        if primary and norm_url(primary) not in seen:
+            unique.insert(0, primary)
+        base['url'] = primary
+        base['alternate_urls'] = ';'.join(u for u in unique if norm_url(u) != norm_url(primary))
+        alt_count = len([u for u in base['alternate_urls'].split(';') if u])
+        base['occurrences'] = str(max(_occ(base), _occ(row), 1 + alt_count))
+        sigs = _signals(base.get('validation_status')) | _signals(row.get('validation_status'))
+        if sigs:
+            http = row.get('status') or base.get('status') or ''
+            base['validation_status'] = (
+                f"ominis-verified ({'+'.join(sorted(sigs))}); HTTP {http}; confirmed handle linkage")
+            base['entity_match'] = 'ominis-verified'
+            base['link_confirmed'] = 'True'
+            base['notes'] = 'Ominis page-level handle linkage; entity-linked domain.'
+        try:
+            if int(row.get('confidence') or 0) > int(base.get('confidence') or 0):
+                base['confidence'] = row.get('confidence')
+        except ValueError:
+            pass
+        base['status'] = row.get('status') or base.get('status')
+        sources = {x for x in ((base.get('source') or '') + ' + ' + (row.get('source') or '')).split(' + ') if x}
+        base['source'] = ' + '.join(sorted(sources))
+    rows = list(merged.values())
+    if 'alternate_urls' not in fieldnames:
+        fieldnames.append('alternate_urls')
+    for row in rows:
+        row.setdefault('alternate_urls', '')
+
+    occurrences = source_occurrences()
+    for row in rows:
+        try:
+            current = max(1, int(row.get('occurrences') or 1))
+        except ValueError:
+            current = 1
+        alt_count = len([u for u in (row.get('alternate_urls') or '').split(';') if u])
+        found = occurrences.get(norm_url(row.get('url')), 0)
+        row['occurrences'] = str(max(current, found + alt_count, 1))
 
     for row in rows:
         entity = row.get('entity_id', '')
@@ -166,6 +278,11 @@ A verified domain is treated as either owned by the entity or a domain/platform
 the entity operates in. Validation confirms entity handle linkage, not legal
 ownership. Unverified leads remain in `18_ENTITY_MONITORING/domain_validation_queue.csv`
 and are not published in this folder or on the Explore tab.
+
+- `occurrences` counts exact URL appearances across the passive source stores
+  plus distinct handle URLs found on the same domain.
+- `alternate_urls` preserves additional profile URLs on the same domain for
+  the same entity instead of stopping after the first handle.
 """, encoding='utf-8')
 
     print(json.dumps({'verified_rows': len(verified),
