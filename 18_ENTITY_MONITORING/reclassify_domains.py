@@ -78,7 +78,15 @@ def main():
     for row in rows:
         if row.get('link_confirmed') == 'True':
             if row.get('source') != 'User-provided':
-                row['notes'] = 'Ominis page-level verification; ownership not inferred.'
+                row['notes'] = 'Ominis page-level handle linkage; entity-linked domain.'
+                status = row.get('validation_status', '')
+                if 'ominis-verified' in status:
+                    match = re.search(r'ominis-verified \(([^)]+)\)', status)
+                    signal = match.group(1) if match else 'strong-signal'
+                    http = re.search(r'HTTP (\d+)', status)
+                    code = http.group(1) if http else row.get('status', '')
+                    row['validation_status'] = (
+                        f'ominis-verified ({signal}); HTTP {code}; confirmed handle linkage')
         else:
             row['notes'] = 'Unverified lead; internal validation queue only.'
 

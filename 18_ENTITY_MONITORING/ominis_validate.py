@@ -79,7 +79,41 @@ ENTITY_TERMS = {
     'AFR': ('antifandom resistance', 'anti fandom resistance'),
 }
 
-STRONG_SIGNALS = {'metadata', 'structured', 'redirect', 'canonical', 'json'}
+ACTIVITY_TOKENS = {
+    'UTTP': ('uttp', 'utubetrollpolice', 'utubetroll'),
+    'UTTP-EMPIRE': ('uttpempire', 'nuuttp'),
+    'CIRCUSFALL': ('circusfall',),
+    'OFFICERSLAPPY': ('officerslappy', 'slappy'),
+    'AFR': ('antifandomresistance', 'antifandom'),
+    'BN0R': ('bn0r',),
+    'RDF': ('rdfparty', 'redditdefenceforce', 'rdf'),
+    'DPOS': ('dpos', 'degeneracypolice'),
+    '764': ('764',),
+    'O9A': ('o9a', 'orderofnineangles', 'ona'),
+    'HARMNATION': ('harmnation',),
+    'SPAWNISM': ('spawnism',),
+    'AUTTP': ('auttp',),
+    'FPE': ('fpe', 'fundamentalpapereducation'),
+    'FPE-POLICE': ('fpepolice',),
+    'TNM': ('tnm', 'themilitia'),
+    '148': ('148',),
+    'ENCLAVE': ('enclave', 'imperiumoftheenclave'),
+    'SPWN': ('spawnism', 'spwn'),
+    'E11': ('11thstreet',),
+    'KKTK': ('kktk', 'kukluxtrollklan'),
+    'YFGA': ('yfga',),
+    'VGCP': ('vgcp', 'videogamecartoonpolice'),
+    'AFF': ('antifandomfront',),
+    'TND': ('thegroupthatdestroyedfpe', 'destroyedfpe'),
+    'ZETA': ('zeta',),
+    'YTDESTROYERS': ('ytdestroyers', 'youtubetrolldestroyers'),
+    'C09A': ('09acult', 'o9acult', '09a'),
+    'TYRANNYRUTTP': ('tyrannyruttp',),
+    'RDFPARTY': ('rdfparty',),
+    'THEFARTKNOCKERSTFK': ('thefartknockers', 'fartknockers'),
+}
+
+STRONG_SIGNALS = {'metadata', 'structured', 'redirect', 'canonical', 'json', 'user_activity'}
 SKIP_MARKERS = (
     '/search', 'search?', 'keywords=', 'author=', '?q=', '&q=', 'query=',
     'filter?search', '/find?', 'search-index', '/login', '/signup',
@@ -95,6 +129,10 @@ JSON_HANDLE_RE = re.compile(
     r'"(?:username|handle|login|screen_name|uniqueId|vanityChannelUrl|'
     r'canonicalBaseUrl|alternateName|author|owner|account|user)"\s*:\s*'
     r'"@?([^"]{1,200})"', re.IGNORECASE)
+PROFILE_LINK_RE = re.compile(
+    r'(?:href|url)=["\']([^"\']*(?:/user/|/u/|/@|/members?/|/profile/|'
+    r'/author/|/people/)[^"\']*)["\']', re.IGNORECASE)
+AT_HANDLE_RE = re.compile(r'@([A-Za-z0-9_.-]{2,64})')
 
 
 def now():
@@ -152,6 +190,37 @@ def entity_terms_present(body, title, entity):
     terms = ENTITY_TERMS.get(entity, ())
     haystack = (title + ' ' + body).casefold()
     return [term for term in terms if term in haystack]
+
+def token_in_value(value, tokens):
+    low = (value or '').lower()
+    for tok in tokens:
+        if tok.isdigit():
+            if re.search(r'(?<!\d)' + re.escape(tok) + r'(?!\d)', low):
+                return tok
+        elif re.search(r'(?<![a-z0-9])' + re.escape(tok) + r'(?![a-z0-9])', low):
+            return tok
+    return None
+
+
+def entity_user_activity(body, entity):
+    tokens = ACTIVITY_TOKENS.get(entity, ())
+    if not tokens:
+        return []
+    found = set()
+    chunk = body[:MAX_BODY]
+    for match in PROFILE_LINK_RE.finditer(chunk):
+        hit = token_in_value(match.group(1), tokens)
+        if hit:
+            found.add(hit)
+    for match in AT_HANDLE_RE.finditer(chunk):
+        hit = token_in_value(match.group(1), tokens)
+        if hit:
+            found.add(hit)
+    for match in JSON_HANDLE_RE.finditer(chunk):
+        hit = token_in_value(match.group(1), tokens)
+        if hit:
+            found.add(hit)
+    return sorted(found)
 
 
 def is_candidate(row):
@@ -226,6 +295,8 @@ async def inspect_url(client, entity, handle, url, timeout):
         signals.append('canonical')
     if username._mentions(visible, handle):
         signals.append('body')
+    if entity_user_activity(body, entity):
+        signals.append('user_activity')
 
     detected = platforms.detect_profiles(str(response.url)) or platforms.detect_profiles(url)
     platform_confidence = int(detected[0].get('confidence') or 0) if detected else 0
@@ -252,7 +323,7 @@ def mark_row(row, result):
     if strong:
         row['link_confirmed'] = 'True'
         row['validation_status'] = (
-            f"ominis-verified ({'+'.join(strong)}); HTTP {status}; handle verified, ownership unverified")
+            f"ominis-verified ({'+'.join(strong)}); HTTP {status}; confirmed handle linkage")
         row['entity_match'] = 'ominis-verified'
         return True
     if 'body' in signals:

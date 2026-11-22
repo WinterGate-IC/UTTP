@@ -331,7 +331,6 @@ UTTP,furaffinity.net,https://www.furaffinity.net/gallery/uttp_thdtc,Fur Affinity
 UTTP,gamebanana.com,https://gamebanana.com/uttp,GameBanana,200,45,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,giphy.com,https://giphy.com/UTTP,Giphy,200,100,StyxNet raw export,3,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,gist.github.com,https://gist.github.com/uttp,GitHub Gist,200,100,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
-UTTP,github.com,https://github.com/uttp,GitHub,200,70,StyxNet raw export,42,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,google.com,https://www.google.com/travel/flights/uttp,Google Flights,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,gotovim-doma.ru,https://gotovim-doma.ru/forum/search.php?keywords=&terms=all&author=uttp,GotovimDoma,200,45,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,hypixel.net,https://hypixel.net/player/uttp,Hypixel,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
@@ -434,7 +433,6 @@ UTTP,skillsprofile.skillbuilder.aws,https://skillsprofile.skillbuilder.aws/user/
 UTTP,smihub.com,https://smihub.com/v/UTTP,SmiHub,200,100,StyxNet raw export,2,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,socialclub.rockstargames.com,https://socialclub.rockstargames.com/member/uttp,Rockstar Social Club,200,55,StyxNet OSINT,3,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,sopuli.xyz,https://sopuli.xyz/u/SpicedUpButtplug,Beehaw,200,56,StyxNet raw export,2,False,Unverified lead; internal validation queue only.,unverified: no exact handle token,
-UTTP,soundcloud.com,https://soundcloud.com/uttp,SoundCloud,200,100,StyxNet raw export,3,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,spaghettimodels.com,https://spaghettimodels.com/uttp,Spaghettimodels,200,45,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,stacker.news,https://stacker.news/user/UTTP,Stacker News,200,100,StyxNet raw export,2,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,stackoverflow.com,https://stackoverflow.com/users/3081229/uttp,Stack Overflow,200,70,StyxNet raw export,25,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
@@ -484,3 +482,15 @@ UTTP,yelp.com,https://www.yelp.com/user_details?userid=uttp,Yelp (by id),200,55,
 UTTP,younow.com,https://www.younow.com/uttp/,YouNow,200,55,StyxNet OSINT,3,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,youtube.com,https://www.youtube.com/@uttp,YouTube,200,80,StyxNet OSINT,6,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
 UTTP,zwiftpower.com,https://zwiftpower.com/profile.php? rider_id=uttp,ZwiftPower,200,80,StyxNet OSINT,1,False,Unverified lead; internal validation queue only.,unverified: awaiting Ominis page validation,exact-handle-token
+CIRCUSFALL,paypal.com,https://www.paypal.com/paypalme/circusfall,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+CIRCUSFALL,twitch.tv,https://www.twitch.tv/circusfall,Twitch,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+FPE-POLICE,paypal.com,https://www.paypal.com/paypalme/fpepolice,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+FPE-POLICE,twitch.tv,https://www.twitch.tv/fpepolice,Twitch,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+OFFICERSLAPPY,paypal.com,https://www.paypal.com/paypalme/officerslappy,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+UTTP-EMPIRE,paypal.com,https://www.paypal.com/paypalme/uttpempire,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+UTTP-EMPIRE,twitch.tv,https://www.twitch.tv/uttpempire,Twitch,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+RDFPARTY,paypal.com,https://www.paypal.com/paypalme/rdfparty,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+RDFPARTY,twitch.tv,https://www.twitch.tv/rdfparty,Twitch,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+THEFARTKNOCKERSTFK,paypal.com,https://www.paypal.com/paypalme/thefartknockers,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+TYRANNYRUTTP,paypal.com,https://www.paypal.com/paypalme/tyrannyruttp,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match
+YTDESTROYERS,paypal.com,https://www.paypal.com/paypalme/ytdestroyers,PayPal.me,200,85,Ominis discovery,1,False,Unverified lead; internal validation queue only.,ominis-no-match; HTTP 200; unverified,ominis-no-match

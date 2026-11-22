@@ -1,5 +1,3 @@
 entity_id,domain,url,platform,status,confidence,source,occurrences,link_confirmed,notes,validation_status,entity_match
-RDFPARTY,paypal.com,https://www.paypal.com/paypalme/rdfparty,PayPal.me,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (redirect); HTTP 200; handle verified, ownership unverified",ominis-verified
-RDFPARTY,app.trakt.tv,https://app.trakt.tv/profile/rdfparty,Trakt,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (redirect); HTTP 200; handle verified, ownership unverified",ominis-verified
-RDFPARTY,twitch.tv,https://www.twitch.tv/rdfparty,Twitch,200,85,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (canonical); HTTP 200; handle verified, ownership unverified",ominis-verified
-RDFPARTY,t.me,https://t.me/rdfparty,Telegram,200,80,Ominis discovery,1,True,Ominis page-level verification; ownership not inferred.,"ominis-verified (metadata); HTTP 200; handle verified, ownership unverified",ominis-verified
+RDFPARTY,app.trakt.tv,https://app.trakt.tv/profile/rdfparty,Trakt,200,85,Ominis discovery,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (canonical); HTTP 200; confirmed handle linkage,ominis-verified
+RDFPARTY,t.me,https://t.me/rdfparty,Telegram,200,80,Ominis discovery,1,True,Ominis page-level handle linkage; entity-linked domain.,ominis-verified (metadata); HTTP 200; confirmed handle linkage,ominis-verified

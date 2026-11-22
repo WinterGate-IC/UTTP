@@ -957,30 +957,6 @@
     "checked_at": "2026-11-22T19:19:00Z",
     "url": "https://www.younow.com/o9a/"
   },
-  "OFFICERSLAPPY|https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp": {
-    "status": 200,
-    "signals": [],
-    "title": "One moment, please...",
-    "final_url": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp",
-    "platform_confidence": 0,
-    "related_terms": [],
-    "checked_at": "2026-11-22T19:19:00Z",
-    "url": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp"
-  },
-  "OFFICERSLAPPY|https://forum.gong.bg/memberlist.php?username=uttp": {
-    "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)",
-    "checked_at": "2026-11-22T19:31:42Z",
-    "url": "https://forum.gong.bg/memberlist.php?username=uttp"
-  },
-  "OFFICERSLAPPY|http://forum.evaveda.com/memberlist.php?username=uttp": {
-    "status": 200,
-    "signals": [],
-    "title": "\u0424\u043e\u0440\u0443\u043c \u0410\u044e\u0440\u0432\u0435\u0434\u0430 \u0438 \u0419\u043e\u0433\u0430 - \u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438",
-    "final_url": "http://forum.evaveda.com/memberlist.php?username=uttp",
-    "missing": true,
-    "checked_at": "2026-11-22T19:19:00Z",
-    "url": "http://forum.evaveda.com/memberlist.php?username=uttp"
-  },
   "O9A|https://www.yelp.com/user_details?userid=o9a": {
     "status": 200,
     "signals": [],
@@ -993,21 +969,6 @@
     "checked_at": "2026-11-22T19:19:00Z",
     "url": "https://www.yelp.com/user_details?userid=o9a"
   },
-  "OFFICERSLAPPY|https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp": {
-    "error": "Server disconnected without sending a response.",
-    "checked_at": "2026-11-22T19:31:42Z",
-    "url": "https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp"
-  },
-  "OFFICERSLAPPY|https://forum.hebat-malek.com/member.php?username=uttp": {
-    "status": 200,
-    "signals": [],
-    "title": "\u0645\u0646\u062a\u062f\u064a\u0627\u062a \u0647\u064a\u0628\u0629 \u0645\u0644\u0643 \u0645\u0646\u0628\u0639 \u0625\u0628\u062f\u0627\u0639 \u0644\u0627\u064a\u0646\u0636\u0628",
-    "final_url": "https://forum.hebat-malek.com/member.php?username=uttp",
-    "platform_confidence": 0,
-    "related_terms": [],
-    "checked_at": "2026-11-22T19:19:00Z",
-    "url": "https://forum.hebat-malek.com/member.php?username=uttp"
-  },
   "SPAWNISM|https://arhrock.info/forum/members/?username=spawnism": {
     "status": 200,
     "signals": [],
@@ -1016,16 +977,6 @@
     "missing": true,
     "checked_at": "2026-11-22T19:19:00Z",
     "url": "https://arhrock.info/forum/members/?username=spawnism"
-  },
-  "OFFICERSLAPPY|https://forum.neformat.com.ua/members/uttp/": {
-    "status": 200,
-    "signals": [],
-    "title": "One moment, please...",
-    "final_url": "https://forum.neformat.com.ua/members/uttp/",
-    "platform_confidence": 0,
-    "related_terms": [],
-    "checked_at": "2026-11-22T19:19:00Z",
-    "url": "https://forum.neformat.com.ua/members/uttp/"
   },
   "O9A|https://www.xbox.com/en-US/play/user/o9a": {
     "status": 200,
@@ -3617,5 +3568,476 @@
     "error": "",
     "checked_at": "2026-11-22T19:31:57Z",
     "url": "https://play.md/profile/fpe"
+  },
+  "RDFPARTY|https://www.twitch.tv/rdfparty": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/rdfparty",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://www.twitch.tv/rdfparty"
+  },
+  "RDFPARTY|https://t.me/rdfparty": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata"
+    ],
+    "title": "Telegram: Contact @rdfparty",
+    "final_url": "https://t.me/rdfparty",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://t.me/rdfparty"
+  },
+  "RDFPARTY|https://app.trakt.tv/profile/rdfparty": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/rdfparty",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://app.trakt.tv/profile/rdfparty"
+  },
+  "TYRANNYRUTTP|https://t.me/tyrannyruttp": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata"
+    ],
+    "title": "Telegram: Contact @tyrannyruttp",
+    "final_url": "https://t.me/tyrannyruttp",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://t.me/tyrannyruttp"
+  },
+  "TYRANNYRUTTP|https://www.twitch.tv/tyrannyruttp": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/tyrannyruttp",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://www.twitch.tv/tyrannyruttp"
+  },
+  "TYRANNYRUTTP|https://app.trakt.tv/profile/tyrannyruttp": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/tyrannyruttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://app.trakt.tv/profile/tyrannyruttp"
+  },
+  "CIRCUSFALL|https://app.trakt.tv/profile/circusfall": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/circusfall",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://app.trakt.tv/profile/circusfall"
+  },
+  "RDFPARTY|https://www.paypal.com/paypalme/rdfparty": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/rdfparty",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://www.paypal.com/paypalme/rdfparty"
+  },
+  "CIRCUSFALL|https://t.me/circusfall": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata"
+    ],
+    "title": "Telegram: Contact @circusfall",
+    "final_url": "https://t.me/circusfall",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://t.me/circusfall"
+  },
+  "CIRCUSFALL|https://www.twitch.tv/circusfall": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/circusfall",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://www.twitch.tv/circusfall"
+  },
+  "FPE-POLICE|https://app.trakt.tv/profile/fpepolice": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/fpepolice",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://app.trakt.tv/profile/fpepolice"
+  },
+  "TYRANNYRUTTP|https://www.paypal.com/paypalme/tyrannyruttp": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/tyrannyruttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://www.paypal.com/paypalme/tyrannyruttp"
+  },
+  "FPE-POLICE|https://t.me/fpepolice": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata"
+    ],
+    "title": "Telegram: Contact @fpepolice",
+    "final_url": "https://t.me/fpepolice",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:31Z",
+    "url": "https://t.me/fpepolice"
+  },
+  "CIRCUSFALL|https://www.paypal.com/paypalme/circusfall": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/circusfall",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:32Z",
+    "url": "https://www.paypal.com/paypalme/circusfall"
+  },
+  "CIRCUSFALL|https://www.pinterest.com/circusfall/": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "metadata",
+      "structured"
+    ],
+    "title": "\u302a \u23dc\ufe35 \ua4b0C\u0742\u08ed\u0742\u2148\uab49\u0ecb\u05c2\u010d\u0323\u19c9\u1a5a\u1a5a\ua4b1 \ud83d\udcee\u1a5e\u273f\u0f18 \ua4d3'\ud835\ude56\u1a58\u05b4\u035f\ud835\ude97\u0260\u19c9\u0597\u1a60\u2113\ud835\udd60 (circusfall) - Profile | Pinterest",
+    "final_url": "https://www.pinterest.com/circusfall/",
+    "platform_confidence": 75,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:32Z",
+    "url": "https://www.pinterest.com/circusfall/"
+  },
+  "FPE-POLICE|https://www.twitch.tv/fpepolice": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/fpepolice",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:32Z",
+    "url": "https://www.twitch.tv/fpepolice"
+  },
+  "FPE-POLICE|https://www.paypal.com/paypalme/fpepolice": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/fpepolice",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:32Z",
+    "url": "https://www.paypal.com/paypalme/fpepolice"
+  },
+  "YTDESTROYERS|https://app.trakt.tv/profile/ytdestroyers": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/ytdestroyers",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:32Z",
+    "url": "https://app.trakt.tv/profile/ytdestroyers"
+  },
+  "YTDESTROYERS|https://t.me/ytdestroyers": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata"
+    ],
+    "title": "Telegram: Contact @ytdestroyers",
+    "final_url": "https://t.me/ytdestroyers",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:32Z",
+    "url": "https://t.me/ytdestroyers"
+  },
+  "YTDESTROYERS|https://www.twitch.tv/ytdestroyers": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "metadata",
+      "structured"
+    ],
+    "title": "ytdestroyers - Twitch",
+    "final_url": "https://www.twitch.tv/ytdestroyers",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:32Z",
+    "url": "https://www.twitch.tv/ytdestroyers"
+  },
+  "YTDESTROYERS|https://www.paypal.com/paypalme/ytdestroyers": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/ytdestroyers",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://www.paypal.com/paypalme/ytdestroyers"
+  },
+  "UTTP-EMPIRE|https://app.trakt.tv/profile/uttpempire": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/uttpempire",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://app.trakt.tv/profile/uttpempire"
+  },
+  "FPE-POLICE|https://www.tiktok.com/@fpepolice": {
+    "status": 200,
+    "signals": [
+      "json",
+      "structured"
+    ],
+    "title": "TikTok - Make Your Day",
+    "final_url": "https://www.tiktok.com/@fpepolice",
+    "platform_confidence": 95,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://www.tiktok.com/@fpepolice"
+  },
+  "YTDESTROYERS|https://x.com/ytdestroyers": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "metadata"
+    ],
+    "title": "BossDestroyersYT (@YtDestroyers) / X",
+    "final_url": "https://x.com/ytdestroyers",
+    "platform_confidence": 90,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://x.com/ytdestroyers"
+  },
+  "UTTP-EMPIRE|https://t.me/uttpempire": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata"
+    ],
+    "title": "Telegram: View @uttpempire",
+    "final_url": "https://t.me/uttpempire",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://t.me/uttpempire"
+  },
+  "UTTP-EMPIRE|https://www.twitch.tv/uttpempire": {
+    "status": 200,
+    "signals": [],
+    "title": "Twitch",
+    "final_url": "https://www.twitch.tv/uttpempire",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://www.twitch.tv/uttpempire"
+  },
+  "THEFARTKNOCKERSTFK|https://app.trakt.tv/profile/thefartknockers": {
+    "status": 200,
+    "signals": [
+      "canonical"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/thefartknockers",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://app.trakt.tv/profile/thefartknockers"
+  },
+  "UTTP-EMPIRE|https://www.deviantart.com/uttpempire": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "metadata"
+    ],
+    "title": "UTTPEMPIRE on DeviantArt",
+    "final_url": "https://www.deviantart.com/uttpempire",
+    "platform_confidence": 75,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://www.deviantart.com/uttpempire"
+  },
+  "UTTP-EMPIRE|https://www.wattpad.com/user/UTTPEMPIRE": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "metadata",
+      "structured"
+    ],
+    "title": "UTTPEMPIRE - Wattpad",
+    "final_url": "https://www.wattpad.com/user/UTTPEMPIRE",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://www.wattpad.com/user/UTTPEMPIRE"
+  },
+  "THEFARTKNOCKERSTFK|https://www.snapchat.com/@thefartknockers": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "metadata",
+      "structured"
+    ],
+    "title": "Evan And Bry (@thefartknockers) | Snapchat Storys, Spotlight und Linsen",
+    "final_url": "https://www.snapchat.com/@thefartknockers",
+    "platform_confidence": 45,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:33Z",
+    "url": "https://www.snapchat.com/@thefartknockers"
+  },
+  "UTTP-EMPIRE|https://www.paypal.com/paypalme/uttpempire": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/uttpempire",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:34Z",
+    "url": "https://www.paypal.com/paypalme/uttpempire"
+  },
+  "THEFARTKNOCKERSTFK|https://www.paypal.com/paypalme/thefartknockers": {
+    "status": 200,
+    "signals": [],
+    "title": "PayPal.Me",
+    "final_url": "https://www.paypal.com/paypalme/thefartknockers",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:34Z",
+    "url": "https://www.paypal.com/paypalme/thefartknockers"
+  },
+  "THEFARTKNOCKERSTFK|https://myspace.com/thefartknockers": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "metadata"
+    ],
+    "title": "The Fart-Knockers (thefartknockers) on Myspace",
+    "final_url": "https://myspace.com/thefartknockers",
+    "platform_confidence": 65,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:45:34Z",
+    "url": "https://myspace.com/thefartknockers"
+  },
+  "OFFICERSLAPPY|https://www.twitch.tv/officerslappy": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "json",
+      "metadata",
+      "structured",
+      "user_activity"
+    ],
+    "title": "officerslappy - Twitch",
+    "final_url": "https://www.twitch.tv/officerslappy",
+    "platform_confidence": 85,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:48:29Z",
+    "url": "https://www.twitch.tv/officerslappy"
+  },
+  "OFFICERSLAPPY|https://t.me/officerslappy": {
+    "status": 200,
+    "signals": [
+      "body",
+      "metadata",
+      "user_activity"
+    ],
+    "title": "Telegram: Contact @officerslappy",
+    "final_url": "https://t.me/officerslappy",
+    "platform_confidence": 80,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:48:29Z",
+    "url": "https://t.me/officerslappy"
+  },
+  "OFFICERSLAPPY|https://app.trakt.tv/profile/officerslappy": {
+    "status": 200,
+    "signals": [
+      "canonical",
+      "user_activity"
+    ],
+    "title": "Trakt Web: Profile",
+    "final_url": "https://app.trakt.tv/profile/officerslappy",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:48:29Z",
+    "url": "https://app.trakt.tv/profile/officerslappy"
+  },
+  "OFFICERSLAPPY|https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp": {
+    "status": 200,
+    "signals": [],
+    "title": "One moment, please...",
+    "final_url": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp",
+    "platform_confidence": 0,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:48:30Z",
+    "url": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp"
+  },
+  "OFFICERSLAPPY|https://www.deviantart.com/officerslappy": {
+    "status": 200,
+    "signals": [
+      "body",
+      "canonical",
+      "metadata"
+    ],
+    "title": "OfficerSlappy on DeviantArt",
+    "final_url": "https://www.deviantart.com/officerslappy",
+    "platform_confidence": 75,
+    "related_terms": [],
+    "checked_at": "2026-11-22T19:48:30Z",
+    "url": "https://www.deviantart.com/officerslappy"
   }
 }

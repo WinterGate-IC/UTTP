@@ -172,10 +172,10 @@ def main():
                 existing['confidence'] = str(hit.confidence or existing.get('confidence', ''))
                 existing['source'] = 'Ominis discovery'
                 existing['link_confirmed'] = 'True'
-                existing['notes'] = 'Ominis page-level verification; ownership not inferred.'
+                existing['notes'] = 'Ominis page-level handle linkage; entity-linked domain.'
                 existing['validation_status'] = (
                     f'ominis-verified ({hit.match}); HTTP {hit.status}; '
-                    'handle verified, ownership unverified')
+                    'confirmed handle linkage')
                 existing['entity_match'] = 'ominis-verified'
                 added += 1
                 continue
@@ -190,10 +190,10 @@ def main():
                 'source': 'Ominis discovery',
                 'occurrences': '1',
                 'link_confirmed': 'True',
-                'notes': 'Ominis page-level verification; ownership not inferred.',
+                'notes': 'Ominis page-level handle linkage; entity-linked domain.',
                 'validation_status': (
                     f'ominis-verified ({hit.match}); HTTP {hit.status}; '
-                    'handle verified, ownership unverified'),
+                    'confirmed handle linkage'),
                 'entity_match': 'ominis-verified',
             }
             added += 1

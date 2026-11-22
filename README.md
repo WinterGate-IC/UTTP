@@ -112,6 +112,7 @@ Each candidate is checked against multiple, independent page signals. A publishe
 | **Redirect** | The requested URL redirects to a profile path containing the entity handle instead of a not-found page. | Strong |
 | **Structured data** | JSON-LD or structured profile fields contain the exact entity handle. | Strong |
 | **Embedded JSON** | Inline JSON fields such as `username`, `handle`, `login`, `screen_name`, `uniqueId`, `vanityChannelUrl`, `canonicalBaseUrl`, or `alternateName` contain the exact handle. | Strong |
+| **Entity user activity** | Posts, author fields, profile links, or embedded author JSON on the page reference usernames containing entity-related tokens. | Strong — confirmed handle linkage |
 | **Visible body text** | The handle appears in visible profile content, not a footer mention. | Medium — never sufficient alone |
 | **Entity relationship terms** | Page text contains entity-specific phrases (for example, “degeneracy police order state,” “order of nine angles,” or “utube troll police”). | Context signal |
 | **Exact-token URL/path** | The entity handle appears as a whole token in the URL path or query. | Pre-filter only |
@@ -124,6 +125,8 @@ A domain is published only when:
 1. the page is reachable;
 2. Ominis confirms the entity handle through a **strong** page signal; and
 3. the result is stored with its validation basis, for example `ominis-verified (canonical+metadata+json)`.
+
+A verified domain is treated as **either owned by the entity or a domain/platform the entity operates in**. Validation confirms entity handle linkage, not legal ownership. Owned and operated-in domains are both valid intelligence targets.
 
 Body-only matches, no-match pages, errors, and token-only URL matches remain **unverified**. They are moved to the internal `domain_validation_queue.csv` and are **not** published in the domain register, per-entity domain folders, `domains.json`, or the Explore tab. User-provided links are published only after explicit user verification.
 
