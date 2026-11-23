@@ -2664,6 +2664,87 @@
     "first_seen": "2026-11-23T00:45:01Z"
   },
   {
+    "id": "P1671",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Twitch (https://www.twitch.tv/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.twitch.tv/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1672",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on YouTube (https://www.youtube.com/@officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/@officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1673",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Tumblr (https://www.tumblr.com/blog/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.tumblr.com/blog/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1674",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Gab (https://gab.com/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gab.com/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1675",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on GETTR (https://gettr.com/user/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gettr.com/user/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1676",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Nextdoor (https://nextdoor.com/profile/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://nextdoor.com/profile/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1677",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Dice (https://www.dice.com/profile/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.dice.com/profile/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1678",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Xbox (https://www.xbox.com/en-US/play/user/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.xbox.com/en-US/play/user/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1679",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Bandcamp (https://officerslappy.bandcamp.com)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://officerslappy.bandcamp.com",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
     "id": "P168",
     "claim": "Potential UTTP-linked handle observed: uttp on forum.1796web.com (https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp)",
     "type": "potential",
@@ -2671,6 +2752,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1680",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on YouTube Music (https://music.youtube.com/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://music.youtube.com/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1681",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on YouTube (https://www.youtube.com/user/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/user/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1682",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Odysee (https://odysee.com/@officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://odysee.com/@officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1683",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Giphy (https://giphy.com/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://giphy.com/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1684",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Bandcamp Labels (https://officerslappy.bandcamp.com/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://officerslappy.bandcamp.com/",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1685",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on DeviantART (https://officerslappy.deviantart.com)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://officerslappy.deviantart.com",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1686",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Tweakers (https://tweakers.net/gallery/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tweakers.net/gallery/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1687",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Niftygateway (https://niftygateway.com/profile/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://niftygateway.com/profile/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1688",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Coders Rank (https://profile.codersrank.io/user/officerslappy/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profile.codersrank.io/user/officerslappy/",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1689",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Dumpor (https://dumpor.com/v/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dumpor.com/v/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
   },
   {
     "id": "P169",
@@ -2682,6 +2853,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1690",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on OP.GG LoL Phillippines (https://op.gg/lol/summoners/search?q=officerslappy&region=ph)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=officerslappy&region=ph",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1691",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on OP.GG LoL Singapore (https://op.gg/lol/summoners/search?q=officerslappy&region=sg)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=officerslappy&region=sg",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1692",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on OP.GG LoL Thailand (https://op.gg/lol/summoners/search?q=officerslappy&region=th)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=officerslappy&region=th",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1693",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Dota2 (https://dota2.ru/forum/search?type=user&keywords=officerslappy&sort_by=username)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dota2.ru/forum/search?type=user&keywords=officerslappy&sort_by=username",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1694",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Lolchess (https://lolchess.gg/profile/na/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://lolchess.gg/profile/na/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1695",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Mactalk (http://www.mactalk.com.au/member.php?username=officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "http://www.mactalk.com.au/member.php?username=officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1696",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Plug.DJ (https://plug.dj/@/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://plug.dj/@/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1697",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on WhatsApp (https://wa.me/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://wa.me/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1698",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Viber (https://viber.com/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://viber.com/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1699",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on MapMyRun (https://www.mapmyrun.com/athlete/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.mapmyrun.com/athlete/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
     "id": "P170",
     "claim": "Potential UTTP-linked handle observed: uttp on forum.prihoz.ru (https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp)",
     "type": "potential",
@@ -2689,6 +2950,51 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1700",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on MapMyWalk (https://www.mapmywalk.com/athlete/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.mapmywalk.com/athlete/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1701",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on MapMyRide (https://www.mapmyride.com/athlete/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.mapmyride.com/athlete/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1702",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Audible (https://www.audible.com/member/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.audible.com/member/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1703",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Pluralsight (https://www.pluralsight.com/profile/officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.pluralsight.com/profile/officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "P1704",
+    "claim": "Potential UTTP-linked handle observed: officerslappy on Google Scholar (https://scholar.google.com/citations?user=officerslappy)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://scholar.google.com/citations?user=officerslappy",
+    "first_seen": "2026-11-23T07:00:02Z"
   },
   {
     "id": "P171",

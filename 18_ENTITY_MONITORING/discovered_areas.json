@@ -12535,5 +12535,563 @@
     "confidence": "D/S",
     "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
     "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1394",
+    "platform": "Steam",
+    "surface_url": "https://steamcommunity.com/id/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1395",
+    "platform": "Steam (Group)",
+    "surface_url": "https://steamcommunity.com/groups/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1396",
+    "platform": "Steam (by id)",
+    "surface_url": "https://steamcommunity.com/profiles/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1397",
+    "platform": "Facebook",
+    "surface_url": "https://www.facebook.com/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1398",
+    "platform": "Reddit",
+    "surface_url": "https://www.reddit.com/user/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1399",
+    "platform": "Twitch",
+    "surface_url": "https://www.twitch.tv/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1400",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/@officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1401",
+    "platform": "Mixcloud",
+    "surface_url": "https://www.mixcloud.com/officerslappy/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1402",
+    "platform": "RuneScape",
+    "surface_url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1403",
+    "platform": "Tumblr",
+    "surface_url": "https://www.tumblr.com/blog/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1404",
+    "platform": "Gab",
+    "surface_url": "https://gab.com/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1405",
+    "platform": "Truth Social",
+    "surface_url": "https://truthsocial.com/@officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1406",
+    "platform": "GETTR",
+    "surface_url": "https://gettr.com/user/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1407",
+    "platform": "Nextdoor",
+    "surface_url": "https://nextdoor.com/profile/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1408",
+    "platform": "Pixelfed",
+    "surface_url": "https://pixelfed.org/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1409",
+    "platform": "Dice",
+    "surface_url": "https://www.dice.com/profile/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1410",
+    "platform": "Xbox",
+    "surface_url": "https://www.xbox.com/en-US/play/user/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1411",
+    "platform": "Rockstar Social Club",
+    "surface_url": "https://socialclub.rockstargames.com/member/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1412",
+    "platform": "Bandcamp",
+    "surface_url": "https://officerslappy.bandcamp.com",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1413",
+    "platform": "YouTube Music",
+    "surface_url": "https://music.youtube.com/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1414",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/user/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1415",
+    "platform": "Odysee",
+    "surface_url": "https://odysee.com/@officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1416",
+    "platform": "PeerTube",
+    "surface_url": "https://peertube.tv/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1417",
+    "platform": "Giphy",
+    "surface_url": "https://giphy.com/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1418",
+    "platform": "Vimeo Showcase",
+    "surface_url": "https://vimeo.com/showcase/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1419",
+    "platform": "Bandcamp Labels",
+    "surface_url": "https://officerslappy.bandcamp.com/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1420",
+    "platform": "DeviantART",
+    "surface_url": "https://officerslappy.deviantart.com",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1421",
+    "platform": "ItemFix",
+    "surface_url": "https://www.itemfix.com/c/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1422",
+    "platform": "Fur Affinity",
+    "surface_url": "https://www.furaffinity.net/gallery/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1423",
+    "platform": "Tweakers",
+    "surface_url": "https://tweakers.net/gallery/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1424",
+    "platform": "Paltalk",
+    "surface_url": "https://www.paltalk.com/people/users/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1425",
+    "platform": "Niftygateway",
+    "surface_url": "https://niftygateway.com/profile/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1426",
+    "platform": "Wishlistr",
+    "surface_url": "https://www.wishlistr.com/officerslappy/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1427",
+    "platform": "Old-games",
+    "surface_url": "https://www.old-games.ru/forum/members/?username=officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1428",
+    "platform": "YouNow",
+    "surface_url": "https://www.younow.com/officerslappy/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1429",
+    "platform": "1001tracklists",
+    "surface_url": "https://www.1001tracklists.com/user/officerslappy/index.html",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1430",
+    "platform": "CSSBattle",
+    "surface_url": "https://cssbattle.dev/player/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1431",
+    "platform": "Coders Rank",
+    "surface_url": "https://profile.codersrank.io/user/officerslappy/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1432",
+    "platform": "Dumpor",
+    "surface_url": "https://dumpor.com/v/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1433",
+    "platform": "Arhrock",
+    "surface_url": "https://arhrock.info/forum/members/?username=officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1434",
+    "platform": "SchemeColor",
+    "surface_url": "https://www.schemecolor.com/author/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1435",
+    "platform": "Lolchess",
+    "surface_url": "https://lolchess.gg/profile/na/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1436",
+    "platform": "Mactalk",
+    "surface_url": "http://www.mactalk.com.au/member.php?username=officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1437",
+    "platform": "Plug.DJ",
+    "surface_url": "https://plug.dj/@/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1438",
+    "platform": "phpbbguru.net",
+    "surface_url": "https://www.phpbbguru.net/community/memberlist.php?mode=viewprofile&u=officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1439",
+    "platform": "rec.poker",
+    "surface_url": "https://rec.poker/author/officerslappy/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1440",
+    "platform": "WhatsApp",
+    "surface_url": "https://wa.me/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1441",
+    "platform": "Line",
+    "surface_url": "https://line.me/ti/p/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1442",
+    "platform": "Viber",
+    "surface_url": "https://viber.com/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1443",
+    "platform": "Something Awful",
+    "surface_url": "https://forums.somethingawful.com/member.php?u=officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1444",
+    "platform": "Etherscan",
+    "surface_url": "https://etherscan.io/address/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1445",
+    "platform": "OpenSea",
+    "surface_url": "https://opensea.io/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1446",
+    "platform": "Yelp",
+    "surface_url": "https://www.yelp.com/user_details?username=officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1447",
+    "platform": "MapMyRun",
+    "surface_url": "https://www.mapmyrun.com/athlete/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1448",
+    "platform": "MapMyWalk",
+    "surface_url": "https://www.mapmywalk.com/athlete/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1449",
+    "platform": "MapMyRide",
+    "surface_url": "https://www.mapmyride.com/athlete/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1450",
+    "platform": "1x",
+    "surface_url": "https://1x.com/member/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1451",
+    "platform": "Life of Pix",
+    "surface_url": "https://www.lifeofpix.com/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1452",
+    "platform": "Audible",
+    "surface_url": "https://www.audible.com/member/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1453",
+    "platform": "Pluralsight",
+    "surface_url": "https://www.pluralsight.com/profile/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1454",
+    "platform": "Make:",
+    "surface_url": "https://makezine.com/officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1455",
+    "platform": "Google Scholar",
+    "surface_url": "https://scholar.google.com/citations?user=officerslappy",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T07:00:02Z"
   }
 ]

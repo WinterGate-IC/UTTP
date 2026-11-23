@@ -16429,9 +16429,1333 @@
       ],
       "first_seen": "2026-11-23T00:32:24Z",
       "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "officerslappy|https://steamcommunity.com/id/officerslappy": {
+      "id": "OS0985",
+      "username": "officerslappy",
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/officerslappy",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://steamcommunity.com/groups/officerslappy": {
+      "id": "OS0986",
+      "username": "officerslappy",
+      "platform": "Steam (Group)",
+      "url": "https://steamcommunity.com/groups/officerslappy",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://steamcommunity.com/profiles/officerslappy": {
+      "id": "OS0987",
+      "username": "officerslappy",
+      "platform": "Steam (by id)",
+      "url": "https://steamcommunity.com/profiles/officerslappy",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.facebook.com/officerslappy": {
+      "id": "OS0988",
+      "username": "officerslappy",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/officerslappy",
+      "title": "Redirecting...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.reddit.com/user/officerslappy": {
+      "id": "OS0989",
+      "username": "officerslappy",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/officerslappy",
+      "title": "Reddit",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.twitch.tv/officerslappy": {
+      "id": "OS0990",
+      "username": "officerslappy",
+      "platform": "Twitch",
+      "url": "https://www.twitch.tv/officerslappy",
+      "title": "officerslappy - Twitch",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.youtube.com/@officerslappy": {
+      "id": "OS0991",
+      "username": "officerslappy",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.mixcloud.com/officerslappy/": {
+      "id": "OS0992",
+      "username": "officerslappy",
+      "platform": "Mixcloud",
+      "url": "https://www.mixcloud.com/officerslappy/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://secure.runescape.com/m=hiscore_oldschool/overall?user1=officerslappy": {
+      "id": "OS0993",
+      "username": "officerslappy",
+      "platform": "RuneScape",
+      "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=officerslappy",
+      "title": "Old School  Hiscores",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.tumblr.com/blog/officerslappy": {
+      "id": "OS0994",
+      "username": "officerslappy",
+      "platform": "Tumblr",
+      "url": "https://www.tumblr.com/blog/officerslappy",
+      "title": "Register - Login",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://gab.com/officerslappy": {
+      "id": "OS0995",
+      "username": "officerslappy",
+      "platform": "Gab",
+      "url": "https://gab.com/officerslappy",
+      "title": "OfficerSlappy (@OfficerSlappy) \u00b7 Gab.com - Gab Social",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://truthsocial.com/@officerslappy": {
+      "id": "OS0996",
+      "username": "officerslappy",
+      "platform": "Truth Social",
+      "url": "https://truthsocial.com/@officerslappy",
+      "title": "Truth Social",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://gettr.com/user/officerslappy": {
+      "id": "OS0997",
+      "username": "officerslappy",
+      "platform": "GETTR",
+      "url": "https://gettr.com/user/officerslappy",
+      "title": "officerslappy on GETTR - Profile and Posts",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://nextdoor.com/profile/officerslappy": {
+      "id": "OS0998",
+      "username": "officerslappy",
+      "platform": "Nextdoor",
+      "url": "https://nextdoor.com/profile/officerslappy",
+      "title": "Login - Nextdoor",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://pixelfed.org/officerslappy": {
+      "id": "OS0999",
+      "username": "officerslappy",
+      "platform": "Pixelfed",
+      "url": "https://pixelfed.org/officerslappy",
+      "title": "Pixelfed - Decentralized social media",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.dice.com/profile/officerslappy": {
+      "id": "OS1000",
+      "username": "officerslappy",
+      "platform": "Dice",
+      "url": "https://www.dice.com/profile/officerslappy",
+      "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.xbox.com/en-us/play/user/officerslappy": {
+      "id": "OS1001",
+      "username": "officerslappy",
+      "platform": "Xbox",
+      "url": "https://www.xbox.com/en-US/play/user/officerslappy",
+      "title": "Play\u200a\u2009XBOX",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://socialclub.rockstargames.com/member/officerslappy": {
+      "id": "OS1002",
+      "username": "officerslappy",
+      "platform": "Rockstar Social Club",
+      "url": "https://socialclub.rockstargames.com/member/officerslappy",
+      "title": "Rockstar Games",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://officerslappy.bandcamp.com": {
+      "id": "OS1003",
+      "username": "officerslappy",
+      "platform": "Bandcamp",
+      "url": "https://officerslappy.bandcamp.com",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://music.youtube.com/officerslappy": {
+      "id": "OS1004",
+      "username": "officerslappy",
+      "platform": "YouTube Music",
+      "url": "https://music.youtube.com/officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.youtube.com/user/officerslappy": {
+      "id": "OS1005",
+      "username": "officerslappy",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://odysee.com/@officerslappy": {
+      "id": "OS1006",
+      "username": "officerslappy",
+      "platform": "Odysee",
+      "url": "https://odysee.com/@officerslappy",
+      "title": "OfficerSlappy",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://peertube.tv/officerslappy": {
+      "id": "OS1007",
+      "username": "officerslappy",
+      "platform": "PeerTube",
+      "url": "https://peertube.tv/officerslappy",
+      "title": "PeerTube.TV",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://giphy.com/officerslappy": {
+      "id": "OS1008",
+      "username": "officerslappy",
+      "platform": "Giphy",
+      "url": "https://giphy.com/officerslappy",
+      "title": "GIFs - Find &amp; Share on GIPHY",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://vimeo.com/showcase/officerslappy": {
+      "id": "OS1009",
+      "username": "officerslappy",
+      "platform": "Vimeo Showcase",
+      "url": "https://vimeo.com/showcase/officerslappy",
+      "title": "Showcase on Vimeo",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://officerslappy.bandcamp.com/": {
+      "id": "OS1010",
+      "username": "officerslappy",
+      "platform": "Bandcamp Labels",
+      "url": "https://officerslappy.bandcamp.com/",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://officerslappy.deviantart.com": {
+      "id": "OS1011",
+      "username": "officerslappy",
+      "platform": "DeviantART",
+      "url": "https://officerslappy.deviantart.com",
+      "title": "OfficerSlappy on DeviantArt",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.itemfix.com/c/officerslappy": {
+      "id": "OS1012",
+      "username": "officerslappy",
+      "platform": "ItemFix",
+      "url": "https://www.itemfix.com/c/officerslappy",
+      "title": "ItemFix - Channel:",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.furaffinity.net/gallery/officerslappy": {
+      "id": "OS1013",
+      "username": "officerslappy",
+      "platform": "Fur Affinity",
+      "url": "https://www.furaffinity.net/gallery/officerslappy",
+      "title": "Artwork Gallery -- Fur Affinity [dot] net",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://tweakers.net/gallery/officerslappy": {
+      "id": "OS1014",
+      "username": "officerslappy",
+      "platform": "Tweakers",
+      "url": "https://tweakers.net/gallery/officerslappy",
+      "title": "DPG Media Privacy Gate",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.paltalk.com/people/users/officerslappy": {
+      "id": "OS1015",
+      "username": "officerslappy",
+      "platform": "Paltalk",
+      "url": "https://www.paltalk.com/people/users/officerslappy",
+      "title": "Chat Room Member on Paltalk",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://niftygateway.com/profile/officerslappy": {
+      "id": "OS1016",
+      "username": "officerslappy",
+      "platform": "Niftygateway",
+      "url": "https://niftygateway.com/profile/officerslappy",
+      "title": "officerslappy does not exits on Nifty Gateway",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.wishlistr.com/officerslappy/": {
+      "id": "OS1017",
+      "username": "officerslappy",
+      "platform": "Wishlistr",
+      "url": "https://www.wishlistr.com/officerslappy/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.old-games.ru/forum/members/?username=officerslappy": {
+      "id": "OS1018",
+      "username": "officerslappy",
+      "platform": "Old-games",
+      "url": "https://www.old-games.ru/forum/members/?username=officerslappy",
+      "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | \u0424\u043e\u0440\u0443\u043c Old-Games.RU. \u0412\u0441\u0451 \u043e \u0441\u0442\u0430\u0440\u044b\u0445 \u0438\u0433\u0440\u0430\u0445",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.younow.com/officerslappy/": {
+      "id": "OS1019",
+      "username": "officerslappy",
+      "platform": "YouNow",
+      "url": "https://www.younow.com/officerslappy/",
+      "title": "YouNow",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.1001tracklists.com/user/officerslappy/index.html": {
+      "id": "OS1020",
+      "username": "officerslappy",
+      "platform": "1001tracklists",
+      "url": "https://www.1001tracklists.com/user/officerslappy/index.html",
+      "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+      "status": 206,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://cssbattle.dev/player/officerslappy": {
+      "id": "OS1021",
+      "username": "officerslappy",
+      "platform": "CSSBattle",
+      "url": "https://cssbattle.dev/player/officerslappy",
+      "title": "CSSBattle",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://profile.codersrank.io/user/officerslappy/": {
+      "id": "OS1022",
+      "username": "officerslappy",
+      "platform": "Coders Rank",
+      "url": "https://profile.codersrank.io/user/officerslappy/",
+      "title": "officerslappy&#x27;s CodersRank profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://dumpor.com/v/officerslappy": {
+      "id": "OS1023",
+      "username": "officerslappy",
+      "platform": "Dumpor",
+      "url": "https://dumpor.com/v/officerslappy",
+      "title": "officerslappy  Watch instagram stories and profile anonymous",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://arhrock.info/forum/members/?username=officerslappy": {
+      "id": "OS1024",
+      "username": "officerslappy",
+      "platform": "Arhrock",
+      "url": "https://arhrock.info/forum/members/?username=officerslappy",
+      "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | ArhRock Forum",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.schemecolor.com/author/officerslappy": {
+      "id": "OS1025",
+      "username": "officerslappy",
+      "platform": "SchemeColor",
+      "url": "https://www.schemecolor.com/author/officerslappy",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=na": {
+      "id": "OS1026",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL North America",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=na",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=br": {
+      "id": "OS1027",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Brazil",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=br",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=me": {
+      "id": "OS1028",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Middle East",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=me",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=kr": {
+      "id": "OS1029",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Korea",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=kr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=eune": {
+      "id": "OS1030",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Europe Nordic & East",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=eune",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=oce": {
+      "id": "OS1031",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Oceania",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=oce",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=euw": {
+      "id": "OS1032",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Europe West",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=euw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=jp": {
+      "id": "OS1033",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Japan",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=jp",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=ru": {
+      "id": "OS1034",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Russia",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=ru",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=lan": {
+      "id": "OS1035",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL LAN",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=lan",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=las": {
+      "id": "OS1036",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL LAS",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=las",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=tw": {
+      "id": "OS1037",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Taiwan",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=tw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=tr": {
+      "id": "OS1038",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Turkey",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=tr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=ph": {
+      "id": "OS1039",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Phillippines",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=ph",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=sg": {
+      "id": "OS1040",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Singapore",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=sg",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=vn": {
+      "id": "OS1041",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Vietnam",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=vn",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://op.gg/lol/summoners/search?q=officerslappy&region=th": {
+      "id": "OS1042",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Thailand",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=th",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://dota2.ru/forum/search?type=user&keywords=officerslappy&sort_by=username": {
+      "id": "OS1043",
+      "username": "officerslappy",
+      "platform": "Dota2",
+      "url": "https://dota2.ru/forum/search?type=user&keywords=officerslappy&sort_by=username",
+      "title": "\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \"officerslappy\"",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://lolchess.gg/profile/na/officerslappy": {
+      "id": "OS1044",
+      "username": "officerslappy",
+      "platform": "Lolchess",
+      "url": "https://lolchess.gg/profile/na/officerslappy",
+      "title": "TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|http://www.mactalk.com.au/member.php?username=officerslappy": {
+      "id": "OS1045",
+      "username": "officerslappy",
+      "platform": "Mactalk",
+      "url": "http://www.mactalk.com.au/member.php?username=officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://plug.dj/@/officerslappy": {
+      "id": "OS1046",
+      "username": "officerslappy",
+      "platform": "Plug.DJ",
+      "url": "https://plug.dj/@/officerslappy",
+      "title": "Sign in \u30fb Cloudflare Access",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.phpbbguru.net/community/memberlist.php?mode=viewprofile&u=officerslappy": {
+      "id": "OS1047",
+      "username": "officerslappy",
+      "platform": "phpbbguru.net",
+      "url": "https://www.phpbbguru.net/community/memberlist.php?mode=viewprofile&u=officerslappy",
+      "title": "phpBB Guru - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0443\u0441\u0441\u043a\u0430\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0444\u043e\u0440\u0443\u043c\u0430 phpBB - \u0412\u0445\u043e\u0434",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://rec.poker/author/officerslappy/": {
+      "id": "OS1048",
+      "username": "officerslappy",
+      "platform": "rec.poker",
+      "url": "https://rec.poker/author/officerslappy/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://wa.me/officerslappy": {
+      "id": "OS1049",
+      "username": "officerslappy",
+      "platform": "WhatsApp",
+      "url": "https://wa.me/officerslappy",
+      "title": "Share on WhatsApp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://line.me/ti/p/officerslappy": {
+      "id": "OS1050",
+      "username": "officerslappy",
+      "platform": "Line",
+      "url": "https://line.me/ti/p/officerslappy",
+      "title": "LINE",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://viber.com/officerslappy": {
+      "id": "OS1051",
+      "username": "officerslappy",
+      "platform": "Viber",
+      "url": "https://viber.com/officerslappy",
+      "title": "Viber Account Page",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://forums.somethingawful.com/member.php?u=officerslappy": {
+      "id": "OS1052",
+      "username": "officerslappy",
+      "platform": "Something Awful",
+      "url": "https://forums.somethingawful.com/member.php?u=officerslappy",
+      "title": "Something happened - The Something Awful Forums",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://etherscan.io/address/officerslappy": {
+      "id": "OS1053",
+      "username": "officerslappy",
+      "platform": "Etherscan",
+      "url": "https://etherscan.io/address/officerslappy",
+      "title": "Ethereum Account (Invalid Address)",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://opensea.io/officerslappy": {
+      "id": "OS1054",
+      "username": "officerslappy",
+      "platform": "OpenSea",
+      "url": "https://opensea.io/officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.yelp.com/user_details?username=officerslappy": {
+      "id": "OS1055",
+      "username": "officerslappy",
+      "platform": "Yelp",
+      "url": "https://www.yelp.com/user_details?username=officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.mapmyrun.com/athlete/officerslappy": {
+      "id": "OS1056",
+      "username": "officerslappy",
+      "platform": "MapMyRun",
+      "url": "https://www.mapmyrun.com/athlete/officerslappy",
+      "title": "MapMyRun",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.mapmywalk.com/athlete/officerslappy": {
+      "id": "OS1057",
+      "username": "officerslappy",
+      "platform": "MapMyWalk",
+      "url": "https://www.mapmywalk.com/athlete/officerslappy",
+      "title": "MapMyWalk",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.mapmyride.com/athlete/officerslappy": {
+      "id": "OS1058",
+      "username": "officerslappy",
+      "platform": "MapMyRide",
+      "url": "https://www.mapmyride.com/athlete/officerslappy",
+      "title": "MapMyRide",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://1x.com/member/officerslappy": {
+      "id": "OS1059",
+      "username": "officerslappy",
+      "platform": "1x",
+      "url": "https://1x.com/member/officerslappy",
+      "title": "1x.com \u2022 In Pursuit of the Sublime",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.lifeofpix.com/officerslappy": {
+      "id": "OS1060",
+      "username": "officerslappy",
+      "platform": "Life of Pix",
+      "url": "https://www.lifeofpix.com/officerslappy",
+      "title": "Life of Pix",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.audible.com/member/officerslappy": {
+      "id": "OS1061",
+      "username": "officerslappy",
+      "platform": "Audible",
+      "url": "https://www.audible.com/member/officerslappy",
+      "title": "Audible | Luister audioboeken, hoorspelen & podcasts",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://www.pluralsight.com/profile/officerslappy": {
+      "id": "OS1062",
+      "username": "officerslappy",
+      "platform": "Pluralsight",
+      "url": "https://www.pluralsight.com/profile/officerslappy",
+      "title": "| Profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://makezine.com/officerslappy": {
+      "id": "OS1063",
+      "username": "officerslappy",
+      "platform": "Make:",
+      "url": "https://makezine.com/officerslappy",
+      "title": "This is not the page you&#039;re looking for... | Make: DIY Projects and Ideas for Makers",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    "officerslappy|https://scholar.google.com/citations?user=officerslappy": {
+      "id": "OS1064",
+      "username": "officerslappy",
+      "platform": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
     }
   },
-  "last_hunt": "2026-11-23T00:32:24Z",
+  "last_hunt": "2026-11-23T06:48:16Z",
   "last_target": null,
-  "last_target_index": 8
+  "last_target_index": 9
 }

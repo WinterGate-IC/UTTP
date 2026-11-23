@@ -2800,6 +2800,86 @@
     "first_seen": "2026-11-23T00:45:02Z"
   },
   {
+    "id": "W1642",
+    "name": "Twitch handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1643",
+    "name": "YouTube handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1644",
+    "name": "Tumblr handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1645",
+    "name": "Gab handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1646",
+    "name": "GETTR handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1647",
+    "name": "Nextdoor handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1648",
+    "name": "Dice handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1649",
+    "name": "Xbox handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
     "id": "W165",
     "name": "forum.1796web.com handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -2808,6 +2888,106 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1650",
+    "name": "Bandcamp handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1651",
+    "name": "YouTube Music handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1652",
+    "name": "Odysee handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1653",
+    "name": "Giphy handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1654",
+    "name": "Bandcamp Labels handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1655",
+    "name": "DeviantART handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1656",
+    "name": "Tweakers handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1657",
+    "name": "Niftygateway handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1658",
+    "name": "Coders Rank handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1659",
+    "name": "Dumpor handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
   },
   {
     "id": "W166",
@@ -2820,6 +3000,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1660",
+    "name": "OP.GG LoL Phillippines handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1661",
+    "name": "OP.GG LoL Singapore handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1662",
+    "name": "OP.GG LoL Thailand handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1663",
+    "name": "Dota2 handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1664",
+    "name": "Lolchess handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1665",
+    "name": "Mactalk handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1666",
+    "name": "Plug.DJ handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1667",
+    "name": "WhatsApp handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1668",
+    "name": "Viber handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1669",
+    "name": "MapMyRun handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
     "id": "W167",
     "name": "forum.prihoz.ru handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -2828,6 +3108,56 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1670",
+    "name": "MapMyWalk handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1671",
+    "name": "MapMyRide handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1672",
+    "name": "Audible handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1673",
+    "name": "Pluralsight handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
+  },
+  {
+    "id": "W1674",
+    "name": "Google Scholar handle cluster (officerslappy)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T07:00:03Z"
   },
   {
     "id": "W168",

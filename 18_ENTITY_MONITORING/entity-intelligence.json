@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "WinterGateIC Entity Intelligence",
-    "updated": "2026-11-23 05:15 UTC",
+    "updated": "2026-11-23 11:15 UTC",
     "scope": "Group-level entity monitoring. No usernames, account IDs, invite links, victim data, or private identifiers.",
     "entity_count": 31,
     "area_rows": 200,
     "area_platforms": 20,
     "source_count": 91,
     "claim_count": 44,
-    "potential_claim_count": 851,
+    "potential_claim_count": 885,
     "watchlist_count": 12,
-    "discovered_area_count": 1393,
-    "discovered_watchlist_count": 831,
+    "discovered_area_count": 1455,
+    "discovered_watchlist_count": 864,
     "discovered_tactic_count": 294,
-    "discovery_event_count": 35,
+    "discovery_event_count": 41,
     "privacy": "No target list. Areas are platforms/surfaces, not people. Handles are leads, not identities.",
     "learning_model": "Rule-based adaptive scoring from confidence, source density, tactical indicators, area footprint, and evolution timeline. Not a predictive AI model and not a claim of future certainty."
   },
@@ -7768,6 +7768,87 @@
       "first_seen": "2026-11-23T00:45:01Z"
     },
     {
+      "id": "P1671",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Twitch (https://www.twitch.tv/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.twitch.tv/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1672",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on YouTube (https://www.youtube.com/@officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.youtube.com/@officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1673",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Tumblr (https://www.tumblr.com/blog/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.tumblr.com/blog/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1674",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Gab (https://gab.com/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://gab.com/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1675",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on GETTR (https://gettr.com/user/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://gettr.com/user/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1676",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Nextdoor (https://nextdoor.com/profile/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://nextdoor.com/profile/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1677",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Dice (https://www.dice.com/profile/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.dice.com/profile/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1678",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Xbox (https://www.xbox.com/en-US/play/user/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.xbox.com/en-US/play/user/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1679",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Bandcamp (https://officerslappy.bandcamp.com)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://officerslappy.bandcamp.com",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
       "id": "P168",
       "claim": "Potential UTTP-linked handle observed: uttp on forum.1796web.com (https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp)",
       "type": "potential",
@@ -7775,6 +7856,96 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1680",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on YouTube Music (https://music.youtube.com/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://music.youtube.com/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1681",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on YouTube (https://www.youtube.com/user/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.youtube.com/user/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1682",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Odysee (https://odysee.com/@officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://odysee.com/@officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1683",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Giphy (https://giphy.com/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://giphy.com/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1684",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Bandcamp Labels (https://officerslappy.bandcamp.com/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://officerslappy.bandcamp.com/",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1685",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on DeviantART (https://officerslappy.deviantart.com)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://officerslappy.deviantart.com",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1686",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Tweakers (https://tweakers.net/gallery/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://tweakers.net/gallery/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1687",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Niftygateway (https://niftygateway.com/profile/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://niftygateway.com/profile/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1688",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Coders Rank (https://profile.codersrank.io/user/officerslappy/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://profile.codersrank.io/user/officerslappy/",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1689",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Dumpor (https://dumpor.com/v/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://dumpor.com/v/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
     },
     {
       "id": "P169",
@@ -7786,6 +7957,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1690",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on OP.GG LoL Phillippines (https://op.gg/lol/summoners/search?q=officerslappy&region=ph)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=officerslappy&region=ph",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1691",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on OP.GG LoL Singapore (https://op.gg/lol/summoners/search?q=officerslappy&region=sg)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=officerslappy&region=sg",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1692",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on OP.GG LoL Thailand (https://op.gg/lol/summoners/search?q=officerslappy&region=th)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=officerslappy&region=th",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1693",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Dota2 (https://dota2.ru/forum/search?type=user&keywords=officerslappy&sort_by=username)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://dota2.ru/forum/search?type=user&keywords=officerslappy&sort_by=username",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1694",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Lolchess (https://lolchess.gg/profile/na/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://lolchess.gg/profile/na/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1695",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Mactalk (http://www.mactalk.com.au/member.php?username=officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "http://www.mactalk.com.au/member.php?username=officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1696",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Plug.DJ (https://plug.dj/@/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://plug.dj/@/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1697",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on WhatsApp (https://wa.me/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://wa.me/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1698",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Viber (https://viber.com/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://viber.com/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1699",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on MapMyRun (https://www.mapmyrun.com/athlete/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.mapmyrun.com/athlete/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
       "id": "P170",
       "claim": "Potential UTTP-linked handle observed: uttp on forum.prihoz.ru (https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp)",
       "type": "potential",
@@ -7793,6 +8054,51 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1700",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on MapMyWalk (https://www.mapmywalk.com/athlete/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.mapmywalk.com/athlete/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1701",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on MapMyRide (https://www.mapmyride.com/athlete/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.mapmyride.com/athlete/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1702",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Audible (https://www.audible.com/member/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.audible.com/member/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1703",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Pluralsight (https://www.pluralsight.com/profile/officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.pluralsight.com/profile/officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
+    },
+    {
+      "id": "P1704",
+      "claim": "Potential UTTP-linked handle observed: officerslappy on Google Scholar (https://scholar.google.com/citations?user=officerslappy)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://scholar.google.com/citations?user=officerslappy",
+      "first_seen": "2026-11-23T07:00:02Z"
     },
     {
       "id": "P171",
@@ -13008,6 +13314,48 @@
       "detail": "New platform surface changes detected.",
       "count": 809,
       "delta": 1
+    },
+    {
+      "date": "2026-11-23T07:00:02Z",
+      "type": "source discovery",
+      "detail": "New source URLs discovered.",
+      "count": 2271,
+      "delta": 61
+    },
+    {
+      "date": "2026-11-23T07:00:02Z",
+      "type": "OSINT collection",
+      "detail": "New StyxNet OSINT findings collected.",
+      "count": 1064,
+      "delta": 80
+    },
+    {
+      "date": "2026-11-23T07:00:02Z",
+      "type": "area discovery",
+      "detail": "New platform surfaces mapped.",
+      "count": 1455,
+      "delta": 62
+    },
+    {
+      "date": "2026-11-23T07:00:02Z",
+      "type": "claim discovery",
+      "detail": "New potential claims identified.",
+      "count": 885,
+      "delta": 34
+    },
+    {
+      "date": "2026-11-23T07:00:02Z",
+      "type": "watchlist discovery",
+      "detail": "New watch leads identified.",
+      "count": 864,
+      "delta": 33
+    },
+    {
+      "date": "2026-11-23T07:00:02Z",
+      "type": "migration detection",
+      "detail": "New platform surface changes detected.",
+      "count": 811,
+      "delta": 2
     }
   ],
   "discovered_tactics": [
@@ -13311,145 +13659,145 @@
       "name": "UTTP / UTube Troll Police",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "UTTP Empire / Nu-UTTP",
       "entity_id": "UTTP-EMPIRE",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "Circusfall faction",
       "entity_id": "CIRCUSFALL",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "OfficerSlappy faction / UTTP Forum",
       "entity_id": "OFFICERSLAPPY",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "DPOS / Degeneracy Police Order State",
       "entity_id": "DPOS",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "TYRANNY / RUTTP",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "Anti-Fandom Resistance (AFR)",
       "entity_id": "AFR",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "Bn0r Empire",
       "entity_id": "BN0R",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "Reddit Defence Force (RDF)",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "RDFPARTY",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "KKTK / KuKluxTrollKlan",
       "entity_id": "KKTK",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "YFGA",
       "entity_id": "YFGA",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "VGCP / VideoGameCartoonPolice",
       "entity_id": "VGCP",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "AFF / Anti Fandom Front",
       "entity_id": "AFF",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "AUTTP / Anti-UTTP",
       "entity_id": "AUTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "764",
       "entity_id": "764",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "Harm Nation",
       "entity_id": "HARMNATION",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "O9A / ONA",
       "entity_id": "O9A",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "Spawnism",
       "entity_id": "SPAWNISM",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "FPE-Police",
       "entity_id": "FPE-POLICE",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "FPE ecosystem",
       "entity_id": "FPE",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "TNM / The Militia",
       "entity_id": "TNM",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "148 / 1488",
       "entity_id": "148",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     },
     {
       "name": "Imperium of the Enclave / GRS",
       "entity_id": "ENCLAVE",
       "basis": "name_token",
-      "first_seen": "2026-11-23T05:15:01Z"
+      "first_seen": "2026-11-23T11:15:01Z"
     }
   ],
   "migration_events": [
@@ -18304,6 +18652,18 @@
     {
       "date": "2026-11-23T00:45:01Z",
       "platform": "hashnode",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T07:00:02Z",
+      "platform": "yelp",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T07:00:02Z",
+      "platform": "pluralsight",
       "change": "discovered_surface",
       "detail": "Auto-discovered platform surface"
     }
@@ -40109,6 +40469,1330 @@
       ],
       "first_seen": "2026-11-23T00:32:24Z",
       "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0985",
+      "username": "officerslappy",
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/officerslappy",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0986",
+      "username": "officerslappy",
+      "platform": "Steam (Group)",
+      "url": "https://steamcommunity.com/groups/officerslappy",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0987",
+      "username": "officerslappy",
+      "platform": "Steam (by id)",
+      "url": "https://steamcommunity.com/profiles/officerslappy",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0988",
+      "username": "officerslappy",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/officerslappy",
+      "title": "Redirecting...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0989",
+      "username": "officerslappy",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/officerslappy",
+      "title": "Reddit",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0990",
+      "username": "officerslappy",
+      "platform": "Twitch",
+      "url": "https://www.twitch.tv/officerslappy",
+      "title": "officerslappy - Twitch",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0991",
+      "username": "officerslappy",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0992",
+      "username": "officerslappy",
+      "platform": "Mixcloud",
+      "url": "https://www.mixcloud.com/officerslappy/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0993",
+      "username": "officerslappy",
+      "platform": "RuneScape",
+      "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=officerslappy",
+      "title": "Old School  Hiscores",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0994",
+      "username": "officerslappy",
+      "platform": "Tumblr",
+      "url": "https://www.tumblr.com/blog/officerslappy",
+      "title": "Register - Login",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0995",
+      "username": "officerslappy",
+      "platform": "Gab",
+      "url": "https://gab.com/officerslappy",
+      "title": "OfficerSlappy (@OfficerSlappy) · Gab.com - Gab Social",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0996",
+      "username": "officerslappy",
+      "platform": "Truth Social",
+      "url": "https://truthsocial.com/@officerslappy",
+      "title": "Truth Social",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0997",
+      "username": "officerslappy",
+      "platform": "GETTR",
+      "url": "https://gettr.com/user/officerslappy",
+      "title": "officerslappy on GETTR - Profile and Posts",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0998",
+      "username": "officerslappy",
+      "platform": "Nextdoor",
+      "url": "https://nextdoor.com/profile/officerslappy",
+      "title": "Login - Nextdoor",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS0999",
+      "username": "officerslappy",
+      "platform": "Pixelfed",
+      "url": "https://pixelfed.org/officerslappy",
+      "title": "Pixelfed - Decentralized social media",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1000",
+      "username": "officerslappy",
+      "platform": "Dice",
+      "url": "https://www.dice.com/profile/officerslappy",
+      "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1001",
+      "username": "officerslappy",
+      "platform": "Xbox",
+      "url": "https://www.xbox.com/en-US/play/user/officerslappy",
+      "title": "Play  XBOX",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1002",
+      "username": "officerslappy",
+      "platform": "Rockstar Social Club",
+      "url": "https://socialclub.rockstargames.com/member/officerslappy",
+      "title": "Rockstar Games",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1003",
+      "username": "officerslappy",
+      "platform": "Bandcamp",
+      "url": "https://officerslappy.bandcamp.com",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1004",
+      "username": "officerslappy",
+      "platform": "YouTube Music",
+      "url": "https://music.youtube.com/officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1005",
+      "username": "officerslappy",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1006",
+      "username": "officerslappy",
+      "platform": "Odysee",
+      "url": "https://odysee.com/@officerslappy",
+      "title": "OfficerSlappy",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1007",
+      "username": "officerslappy",
+      "platform": "PeerTube",
+      "url": "https://peertube.tv/officerslappy",
+      "title": "PeerTube.TV",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1008",
+      "username": "officerslappy",
+      "platform": "Giphy",
+      "url": "https://giphy.com/officerslappy",
+      "title": "GIFs - Find &amp; Share on GIPHY",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1009",
+      "username": "officerslappy",
+      "platform": "Vimeo Showcase",
+      "url": "https://vimeo.com/showcase/officerslappy",
+      "title": "Showcase on Vimeo",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1010",
+      "username": "officerslappy",
+      "platform": "Bandcamp Labels",
+      "url": "https://officerslappy.bandcamp.com/",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1011",
+      "username": "officerslappy",
+      "platform": "DeviantART",
+      "url": "https://officerslappy.deviantart.com",
+      "title": "OfficerSlappy on DeviantArt",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1012",
+      "username": "officerslappy",
+      "platform": "ItemFix",
+      "url": "https://www.itemfix.com/c/officerslappy",
+      "title": "ItemFix - Channel:",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1013",
+      "username": "officerslappy",
+      "platform": "Fur Affinity",
+      "url": "https://www.furaffinity.net/gallery/officerslappy",
+      "title": "Artwork Gallery -- Fur Affinity [dot] net",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1014",
+      "username": "officerslappy",
+      "platform": "Tweakers",
+      "url": "https://tweakers.net/gallery/officerslappy",
+      "title": "DPG Media Privacy Gate",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1015",
+      "username": "officerslappy",
+      "platform": "Paltalk",
+      "url": "https://www.paltalk.com/people/users/officerslappy",
+      "title": "Chat Room Member on Paltalk",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1016",
+      "username": "officerslappy",
+      "platform": "Niftygateway",
+      "url": "https://niftygateway.com/profile/officerslappy",
+      "title": "officerslappy does not exits on Nifty Gateway",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1017",
+      "username": "officerslappy",
+      "platform": "Wishlistr",
+      "url": "https://www.wishlistr.com/officerslappy/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1018",
+      "username": "officerslappy",
+      "platform": "Old-games",
+      "url": "https://www.old-games.ru/forum/members/?username=officerslappy",
+      "title": "Выдающиеся пользователи | Форум Old-Games.RU. Всё о старых играх",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1019",
+      "username": "officerslappy",
+      "platform": "YouNow",
+      "url": "https://www.younow.com/officerslappy/",
+      "title": "YouNow",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1020",
+      "username": "officerslappy",
+      "platform": "1001tracklists",
+      "url": "https://www.1001tracklists.com/user/officerslappy/index.html",
+      "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+      "status": 206,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1021",
+      "username": "officerslappy",
+      "platform": "CSSBattle",
+      "url": "https://cssbattle.dev/player/officerslappy",
+      "title": "CSSBattle",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1022",
+      "username": "officerslappy",
+      "platform": "Coders Rank",
+      "url": "https://profile.codersrank.io/user/officerslappy/",
+      "title": "officerslappy&#x27;s CodersRank profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1023",
+      "username": "officerslappy",
+      "platform": "Dumpor",
+      "url": "https://dumpor.com/v/officerslappy",
+      "title": "officerslappy  Watch instagram stories and profile anonymous",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1024",
+      "username": "officerslappy",
+      "platform": "Arhrock",
+      "url": "https://arhrock.info/forum/members/?username=officerslappy",
+      "title": "Выдающиеся пользователи | ArhRock Forum",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1025",
+      "username": "officerslappy",
+      "platform": "SchemeColor",
+      "url": "https://www.schemecolor.com/author/officerslappy",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1026",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL North America",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=na",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1027",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Brazil",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=br",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1028",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Middle East",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=me",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1029",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Korea",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=kr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1030",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Europe Nordic & East",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=eune",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1031",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Oceania",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=oce",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1032",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Europe West",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=euw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1033",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Japan",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=jp",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1034",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Russia",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=ru",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1035",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL LAN",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=lan",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1036",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL LAS",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=las",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1037",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Taiwan",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=tw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1038",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Turkey",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=tr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1039",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Phillippines",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=ph",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1040",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Singapore",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=sg",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1041",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Vietnam",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=vn",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1042",
+      "username": "officerslappy",
+      "platform": "OP.GG LoL Thailand",
+      "url": "https://op.gg/lol/summoners/search?q=officerslappy&region=th",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1043",
+      "username": "officerslappy",
+      "platform": "Dota2",
+      "url": "https://dota2.ru/forum/search?type=user&keywords=officerslappy&sort_by=username",
+      "title": "Результаты поиска по запросу \"officerslappy\"",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1044",
+      "username": "officerslappy",
+      "platform": "Lolchess",
+      "url": "https://lolchess.gg/profile/na/officerslappy",
+      "title": "TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1045",
+      "username": "officerslappy",
+      "platform": "Mactalk",
+      "url": "http://www.mactalk.com.au/member.php?username=officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1046",
+      "username": "officerslappy",
+      "platform": "Plug.DJ",
+      "url": "https://plug.dj/@/officerslappy",
+      "title": "Sign in ・ Cloudflare Access",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1047",
+      "username": "officerslappy",
+      "platform": "phpbbguru.net",
+      "url": "https://www.phpbbguru.net/community/memberlist.php?mode=viewprofile&u=officerslappy",
+      "title": "phpBB Guru - Официальная русская поддержка форума phpBB - Вход",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1048",
+      "username": "officerslappy",
+      "platform": "rec.poker",
+      "url": "https://rec.poker/author/officerslappy/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1049",
+      "username": "officerslappy",
+      "platform": "WhatsApp",
+      "url": "https://wa.me/officerslappy",
+      "title": "Share on WhatsApp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1050",
+      "username": "officerslappy",
+      "platform": "Line",
+      "url": "https://line.me/ti/p/officerslappy",
+      "title": "LINE",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1051",
+      "username": "officerslappy",
+      "platform": "Viber",
+      "url": "https://viber.com/officerslappy",
+      "title": "Viber Account Page",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1052",
+      "username": "officerslappy",
+      "platform": "Something Awful",
+      "url": "https://forums.somethingawful.com/member.php?u=officerslappy",
+      "title": "Something happened - The Something Awful Forums",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1053",
+      "username": "officerslappy",
+      "platform": "Etherscan",
+      "url": "https://etherscan.io/address/officerslappy",
+      "title": "Ethereum Account (Invalid Address)",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1054",
+      "username": "officerslappy",
+      "platform": "OpenSea",
+      "url": "https://opensea.io/officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1055",
+      "username": "officerslappy",
+      "platform": "Yelp",
+      "url": "https://www.yelp.com/user_details?username=officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1056",
+      "username": "officerslappy",
+      "platform": "MapMyRun",
+      "url": "https://www.mapmyrun.com/athlete/officerslappy",
+      "title": "MapMyRun",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1057",
+      "username": "officerslappy",
+      "platform": "MapMyWalk",
+      "url": "https://www.mapmywalk.com/athlete/officerslappy",
+      "title": "MapMyWalk",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1058",
+      "username": "officerslappy",
+      "platform": "MapMyRide",
+      "url": "https://www.mapmyride.com/athlete/officerslappy",
+      "title": "MapMyRide",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1059",
+      "username": "officerslappy",
+      "platform": "1x",
+      "url": "https://1x.com/member/officerslappy",
+      "title": "1x.com • In Pursuit of the Sublime",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1060",
+      "username": "officerslappy",
+      "platform": "Life of Pix",
+      "url": "https://www.lifeofpix.com/officerslappy",
+      "title": "Life of Pix",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1061",
+      "username": "officerslappy",
+      "platform": "Audible",
+      "url": "https://www.audible.com/member/officerslappy",
+      "title": "Audible | Luister audioboeken, hoorspelen & podcasts",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1062",
+      "username": "officerslappy",
+      "platform": "Pluralsight",
+      "url": "https://www.pluralsight.com/profile/officerslappy",
+      "title": "| Profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1063",
+      "username": "officerslappy",
+      "platform": "Make:",
+      "url": "https://makezine.com/officerslappy",
+      "title": "This is not the page you&#039;re looking for... | Make: DIY Projects and Ideas for Makers",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
+    },
+    {
+      "id": "OS1064",
+      "username": "officerslappy",
+      "platform": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=officerslappy",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T06:48:16Z",
+      "last_seen": "2026-11-23T06:48:16Z"
     }
   ],
   "strict_validation": {
@@ -40142,7 +41826,7 @@
     }
   },
   "monitor_feed": {
-    "updated": "2026-11-23T05:15:12Z",
+    "updated": "2026-11-23T11:15:13Z",
     "mode": "lightweight source watch",
     "urls_checked": 10,
     "results": [
@@ -40150,7 +41834,7 @@
         "status": 0,
         "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
         "content_type": "",
-        "elapsed_ms": 5111,
+        "elapsed_ms": 5153,
         "ok": false,
         "error": "The read operation timed out",
         "source_id": "S001",
@@ -40160,7 +41844,7 @@
         "status": 200,
         "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
         "content_type": "text/html",
-        "elapsed_ms": 354,
+        "elapsed_ms": 733,
         "ok": true,
         "source_id": "S003",
         "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -40169,7 +41853,7 @@
         "status": 200,
         "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
         "content_type": "application/pdf",
-        "elapsed_ms": 822,
+        "elapsed_ms": 857,
         "ok": true,
         "source_id": "S005",
         "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -40178,7 +41862,7 @@
         "status": 200,
         "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 131,
+        "elapsed_ms": 352,
         "ok": true,
         "source_id": "S013",
         "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -40187,7 +41871,7 @@
         "status": 200,
         "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 455,
+        "elapsed_ms": 401,
         "ok": true,
         "source_id": "S014",
         "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -40196,7 +41880,7 @@
         "status": 200,
         "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 316,
+        "elapsed_ms": 421,
         "ok": true,
         "source_id": "S021",
         "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -40205,7 +41889,7 @@
         "status": 403,
         "final_url": "https://soyjakwiki.org/UTTP",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 91,
+        "elapsed_ms": 102,
         "ok": false,
         "source_id": "S023",
         "url": "https://soyjakwiki.org/UTTP"
@@ -40214,7 +41898,7 @@
         "status": 200,
         "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
         "content_type": "application/pdf",
-        "elapsed_ms": 114,
+        "elapsed_ms": 137,
         "ok": true,
         "source_id": "S031",
         "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -40223,7 +41907,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 595,
+        "elapsed_ms": 578,
         "ok": true,
         "source_id": "S034",
         "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -40232,7 +41916,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 452,
+        "elapsed_ms": 533,
         "ok": true,
         "source_id": "S040",
         "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -40241,23 +41925,23 @@
     "tel_records": 34
   },
   "tel_intake": {
-    "updated": "2026-11-23T05:15:12Z",
+    "updated": "2026-11-23T11:15:13Z",
     "count": 0,
     "entries": []
   },
   "cold_storage": {
-    "updated": "2026-11-23T05:00:25.962705Z",
-    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261123T050025Z.json.gz",
-    "snapshot_bytes": 3337,
+    "updated": "2026-11-23T07:00:32.774947Z",
+    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261123T070032Z.json.gz",
+    "snapshot_bytes": 3338,
     "snapshots": 24,
-    "total_bytes": 80027,
+    "total_bytes": 80048,
     "github": "disabled",
     "tel_records": 34,
-    "raw_snapshot_bytes": 12028,
-    "bytes_saved": 8691,
+    "raw_snapshot_bytes": 12033,
+    "bytes_saved": 8695,
     "db": {
       "checked": true,
-      "page_count": 90,
+      "page_count": 89,
       "freelist_before": 0,
       "full_vacuum": false,
       "freelist_after": 0
@@ -40357,7 +42041,7 @@
   ],
   "tel_records": 34,
   "monitor": {
-    "updated": "2026-11-23 05:15 UTC",
+    "updated": "2026-11-23 11:15 UTC",
     "styxnet": {
       "raw_rows": 823,
       "exact_rows": 761,
@@ -40374,24 +42058,24 @@
       "unclear_rows": 73
     },
     "archive": {
-      "manifest_files": 784,
-      "discovered_source_count": 2210,
+      "manifest_files": 783,
+      "discovered_source_count": 2271,
       "rebrand_count": 24,
-      "migration_event_count": 809,
-      "discovered_area_count": 1393,
-      "potential_claim_count": 851,
-      "discovered_watchlist_count": 831,
+      "migration_event_count": 811,
+      "discovered_area_count": 1455,
+      "potential_claim_count": 885,
+      "discovered_watchlist_count": 864,
       "discovered_tactic_count": 294,
-      "discovery_event_count": 35,
+      "discovery_event_count": 41,
       "styxnet_profile_count": 767,
-      "osint_finding_count": 984,
-      "osint_exact_count": 926,
-      "osint_high_confidence_count": 465,
-      "osint_new_7d": 984,
-      "last_osint": "2026-11-23T00:32:24Z",
-      "new_sources_7d": 2210,
+      "osint_finding_count": 1064,
+      "osint_exact_count": 1006,
+      "osint_high_confidence_count": 499,
+      "osint_new_7d": 1064,
+      "last_osint": "2026-11-23T06:48:16Z",
+      "new_sources_7d": 2271,
       "new_styxnet_profiles_7d": 767,
-      "last_discovery": "2026-11-23T05:15:01Z",
+      "last_discovery": "2026-11-23T11:15:01Z",
       "public_release_gb": 6,
       "entity_count": 31,
       "source_count": 91,
@@ -40399,11 +42083,11 @@
       "area_platforms": 20,
       "claim_count": 44,
       "watchlist_count": 12,
-      "evolution_events": 84,
+      "evolution_events": 90,
       "unique_tactics": 342
     },
     "monitor_feed": {
-      "updated": "2026-11-23T05:15:12Z",
+      "updated": "2026-11-23T11:15:13Z",
       "mode": "lightweight source watch",
       "urls_checked": 10,
       "results": [
@@ -40411,7 +42095,7 @@
           "status": 0,
           "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
           "content_type": "",
-          "elapsed_ms": 5111,
+          "elapsed_ms": 5153,
           "ok": false,
           "error": "The read operation timed out",
           "source_id": "S001",
@@ -40421,7 +42105,7 @@
           "status": 200,
           "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
           "content_type": "text/html",
-          "elapsed_ms": 354,
+          "elapsed_ms": 733,
           "ok": true,
           "source_id": "S003",
           "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -40430,7 +42114,7 @@
           "status": 200,
           "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
           "content_type": "application/pdf",
-          "elapsed_ms": 822,
+          "elapsed_ms": 857,
           "ok": true,
           "source_id": "S005",
           "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -40439,7 +42123,7 @@
           "status": 200,
           "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 131,
+          "elapsed_ms": 352,
           "ok": true,
           "source_id": "S013",
           "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -40448,7 +42132,7 @@
           "status": 200,
           "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 455,
+          "elapsed_ms": 401,
           "ok": true,
           "source_id": "S014",
           "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -40457,7 +42141,7 @@
           "status": 200,
           "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 316,
+          "elapsed_ms": 421,
           "ok": true,
           "source_id": "S021",
           "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -40466,7 +42150,7 @@
           "status": 403,
           "final_url": "https://soyjakwiki.org/UTTP",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 91,
+          "elapsed_ms": 102,
           "ok": false,
           "source_id": "S023",
           "url": "https://soyjakwiki.org/UTTP"
@@ -40475,7 +42159,7 @@
           "status": 200,
           "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
           "content_type": "application/pdf",
-          "elapsed_ms": 114,
+          "elapsed_ms": 137,
           "ok": true,
           "source_id": "S031",
           "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -40484,7 +42168,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 595,
+          "elapsed_ms": 578,
           "ok": true,
           "source_id": "S034",
           "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -40493,7 +42177,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 452,
+          "elapsed_ms": 533,
           "ok": true,
           "source_id": "S040",
           "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -40504,18 +42188,18 @@
     "tel_records": 34,
     "tel_intake": 0,
     "cold_storage": {
-      "updated": "2026-11-23T05:00:25.962705Z",
-      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261123T050025Z.json.gz",
-      "snapshot_bytes": 3337,
+      "updated": "2026-11-23T07:00:32.774947Z",
+      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261123T070032Z.json.gz",
+      "snapshot_bytes": 3338,
       "snapshots": 24,
-      "total_bytes": 80027,
+      "total_bytes": 80048,
       "github": "disabled",
       "tel_records": 34,
-      "raw_snapshot_bytes": 12028,
-      "bytes_saved": 8691,
+      "raw_snapshot_bytes": 12033,
+      "bytes_saved": 8695,
       "db": {
         "checked": true,
-        "page_count": 90,
+        "page_count": 89,
         "freelist_before": 0,
         "full_vacuum": false,
         "freelist_after": 0
@@ -40524,7 +42208,7 @@
     "overtime": {
       "mode": "rule-based scheduled refresh",
       "refresh_seconds": 30,
-      "last_refresh": "2026-11-23T05:15:23Z",
+      "last_refresh": "2026-11-23T11:15:16Z",
       "next_checks": [
         "offshoot survival",
         "platform removals",

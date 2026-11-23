@@ -4852,5 +4852,17 @@
     "platform": "hashnode",
     "change": "discovered_surface",
     "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T07:00:02Z",
+    "platform": "yelp",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T07:00:02Z",
+    "platform": "pluralsight",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
   }
 ]
