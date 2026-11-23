@@ -2997,6 +2997,51 @@
     "first_seen": "2026-11-23T07:00:02Z"
   },
   {
+    "id": "P1705",
+    "claim": "Potential UTTP-linked handle observed: afr on GitHub (https://github.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://github.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1706",
+    "claim": "Potential UTTP-linked handle observed: afr on X (https://x.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://x.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1707",
+    "claim": "Potential UTTP-linked handle observed: afr on Twitter/X (https://twitter.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://twitter.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1708",
+    "claim": "Potential UTTP-linked handle observed: afr on Mastodon (https://mastodon.social/@afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://mastodon.social/@afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1709",
+    "claim": "Potential UTTP-linked handle observed: afr on Keybase (https://keybase.io/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://keybase.io/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "P171",
     "claim": "Potential UTTP-linked handle observed: uttp on forums.mozfr.org (https://forums.mozfr.org/memberlist.php?username=uttp)",
     "type": "potential",
@@ -3004,6 +3049,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://forums.mozfr.org/memberlist.php?username=uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1710",
+    "claim": "Potential UTTP-linked handle observed: afr on Bluesky (https://bsky.app/profile/afr.bsky.social)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://bsky.app/profile/afr.bsky.social",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1711",
+    "claim": "Potential UTTP-linked handle observed: afr on SoundCloud (https://soundcloud.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://soundcloud.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1712",
+    "claim": "Potential UTTP-linked handle observed: afr on Steam (https://steamcommunity.com/id/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://steamcommunity.com/id/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1713",
+    "claim": "Potential UTTP-linked handle observed: afr on Replit (https://replit.com/@afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://replit.com/@afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1714",
+    "claim": "Potential UTTP-linked handle observed: afr on About.me (https://about.me/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://about.me/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1715",
+    "claim": "Potential UTTP-linked handle observed: afr on Vimeo (https://vimeo.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://vimeo.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1716",
+    "claim": "Potential UTTP-linked handle observed: afr on Bandcamp (https://bandcamp.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://bandcamp.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1717",
+    "claim": "Potential UTTP-linked handle observed: afr on DeviantArt (https://www.deviantart.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.deviantart.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1718",
+    "claim": "Potential UTTP-linked handle observed: afr on Tumblr (https://www.tumblr.com/blog/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.tumblr.com/blog/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1719",
+    "claim": "Potential UTTP-linked handle observed: afr on Gab (https://gab.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gab.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "P172",
@@ -3015,6 +3150,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1720",
+    "claim": "Potential UTTP-linked handle observed: afr on GETTR (https://gettr.com/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gettr.com/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1721",
+    "claim": "Potential UTTP-linked handle observed: afr on Clubhouse (https://www.joinclubhouse.com/@afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.joinclubhouse.com/@afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1722",
+    "claim": "Potential UTTP-linked handle observed: afr on Fotolog (https://www.fotolog.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.fotolog.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1723",
+    "claim": "Potential UTTP-linked handle observed: afr on Nextdoor (https://nextdoor.com/profile/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://nextdoor.com/profile/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1724",
+    "claim": "Potential UTTP-linked handle observed: afr on Sina Weibo (Mobile) (https://m.weibo.cn/u/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://m.weibo.cn/u/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1725",
+    "claim": "Potential UTTP-linked handle observed: afr on Naver Blog (https://blog.naver.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://blog.naver.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1726",
+    "claim": "Potential UTTP-linked handle observed: afr on Dice (https://www.dice.com/profile/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.dice.com/profile/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1727",
+    "claim": "Potential UTTP-linked handle observed: afr on GitHub Gist (https://gist.github.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gist.github.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1728",
+    "claim": "Potential UTTP-linked handle observed: afr on Codewars (https://www.codewars.com/users/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.codewars.com/users/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1729",
+    "claim": "Potential UTTP-linked handle observed: afr on StackBlitz (https://stackblitz.com/@afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://stackblitz.com/@afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "P173",
     "claim": "Potential UTTP-linked handle observed: uttp on Vimeo Showcase (https://vimeo.com/showcase/uttp)",
     "type": "potential",
@@ -3022,6 +3247,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://vimeo.com/showcase/uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1730",
+    "claim": "Potential UTTP-linked handle observed: afr on Xbox (https://www.xbox.com/en-US/play/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.xbox.com/en-US/play/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1731",
+    "claim": "Potential UTTP-linked handle observed: afr on GOG (https://www.gog.com/u/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.gog.com/u/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1732",
+    "claim": "Potential UTTP-linked handle observed: afr on itch.io (https://afr.itch.io)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://afr.itch.io",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1733",
+    "claim": "Potential UTTP-linked handle observed: afr on Chess.com (https://www.chess.com/member/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.chess.com/member/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1734",
+    "claim": "Potential UTTP-linked handle observed: afr on osu! (https://osu.ppy.sh/users/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://osu.ppy.sh/users/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1735",
+    "claim": "Potential UTTP-linked handle observed: afr on Hypixel (https://hypixel.net/player/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://hypixel.net/player/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1736",
+    "claim": "Potential UTTP-linked handle observed: afr on Second Life (https://my.secondlife.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://my.secondlife.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1737",
+    "claim": "Potential UTTP-linked handle observed: afr on Star Citizen (https://robertsspaceindustries.com/citizens/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://robertsspaceindustries.com/citizens/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1738",
+    "claim": "Potential UTTP-linked handle observed: afr on hearthis.at (https://hearthis.at/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://hearthis.at/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1739",
+    "claim": "Potential UTTP-linked handle observed: afr on Audiomack (https://audiomack.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://audiomack.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "P174",
@@ -3033,6 +3348,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1740",
+    "claim": "Potential UTTP-linked handle observed: afr on ReverbNation (https://www.reverbnation.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.reverbnation.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1741",
+    "claim": "Potential UTTP-linked handle observed: afr on YouTube Music (https://music.youtube.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://music.youtube.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1742",
+    "claim": "Potential UTTP-linked handle observed: afr on YouTube (https://www.youtube.com/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1743",
+    "claim": "Potential UTTP-linked handle observed: afr on YouTube (Channel) (https://www.youtube.com/@afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/@afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1744",
+    "claim": "Potential UTTP-linked handle observed: afr on Odysee (https://odysee.com/@afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://odysee.com/@afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1745",
+    "claim": "Potential UTTP-linked handle observed: afr on Giphy (https://giphy.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://giphy.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1746",
+    "claim": "Potential UTTP-linked handle observed: afr on FurAffinity (https://www.furaffinity.net/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.furaffinity.net/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1747",
+    "claim": "Potential UTTP-linked handle observed: afr on Snapchat (https://www.snapchat.com/add/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.snapchat.com/add/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1748",
+    "claim": "Potential UTTP-linked handle observed: afr on Streamlabs Design (https://streamlabs.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://streamlabs.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1749",
+    "claim": "Potential UTTP-linked handle observed: afr on The Noun Project (https://thenounproject.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://thenounproject.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "P175",
     "claim": "Potential UTTP-linked handle observed: uttp on Wishlistr (https://www.wishlistr.com/uttp/)",
     "type": "potential",
@@ -3040,6 +3445,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://www.wishlistr.com/uttp/",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1750",
+    "claim": "Potential UTTP-linked handle observed: afr on MusicBrainz (https://musicbrainz.org/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://musicbrainz.org/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1751",
+    "claim": "Potential UTTP-linked handle observed: afr on Hype Machine (https://hypem.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://hypem.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1752",
+    "claim": "Potential UTTP-linked handle observed: afr on Twitch VODs (https://www.twitch.tv/afr/videos?all=true)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.twitch.tv/afr/videos?all=true",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1753",
+    "claim": "Potential UTTP-linked handle observed: afr on Toneden (https://toneden.io/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://toneden.io/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1754",
+    "claim": "Potential UTTP-linked handle observed: afr on UnitedMasters (https://unitedmasters.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://unitedmasters.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1755",
+    "claim": "Potential UTTP-linked handle observed: afr on United Masters (https://app.unitedmasters.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://app.unitedmasters.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1756",
+    "claim": "Potential UTTP-linked handle observed: afr on WordPressOrg (https://profiles.wordpress.org/afr/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profiles.wordpress.org/afr/",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1757",
+    "claim": "Potential UTTP-linked handle observed: afr on ThemeForest (https://themeforest.net/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://themeforest.net/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1758",
+    "claim": "Potential UTTP-linked handle observed: afr on Flickr Groups (https://www.flickr.com/groups/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.flickr.com/groups/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1759",
+    "claim": "Potential UTTP-linked handle observed: afr on Disqus (https://disqus.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://disqus.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "P176",
@@ -3051,6 +3546,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1760",
+    "claim": "Potential UTTP-linked handle observed: afr on DeviantART (https://afr.deviantart.com)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://afr.deviantart.com",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1761",
+    "claim": "Potential UTTP-linked handle observed: afr on profile.hatena.ne.jp (https://profile.hatena.ne.jp/afr/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profile.hatena.ne.jp/afr/",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1762",
+    "claim": "Potential UTTP-linked handle observed: afr on Codecanyon (https://codecanyon.net/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://codecanyon.net/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1763",
+    "claim": "Potential UTTP-linked handle observed: afr on Imgflip (https://imgflip.com/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://imgflip.com/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1764",
+    "claim": "Potential UTTP-linked handle observed: afr on Fur Affinity (https://www.furaffinity.net/gallery/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.furaffinity.net/gallery/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1765",
+    "claim": "Potential UTTP-linked handle observed: afr on Audiojungle (https://audiojungle.net/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://audiojungle.net/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1766",
+    "claim": "Potential UTTP-linked handle observed: afr on Tweakers (https://tweakers.net/gallery/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tweakers.net/gallery/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1767",
+    "claim": "Potential UTTP-linked handle observed: afr on VideoHive (https://videohive.net/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://videohive.net/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1768",
+    "claim": "Potential UTTP-linked handle observed: afr on Niftygateway (https://niftygateway.com/profile/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://niftygateway.com/profile/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1769",
+    "claim": "Potential UTTP-linked handle observed: afr on N4g (https://n4g.com/user/home/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://n4g.com/user/home/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "P177",
     "claim": "Potential UTTP-linked handle observed: uttp on SchemeColor (https://www.schemecolor.com/author/uttp)",
     "type": "potential",
@@ -3058,6 +3643,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://www.schemecolor.com/author/uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1770",
+    "claim": "Potential UTTP-linked handle observed: afr on Asciinema (https://asciinema.org/~afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://asciinema.org/~afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1771",
+    "claim": "Potential UTTP-linked handle observed: afr on PromoDJ (http://promodj.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "http://promodj.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1772",
+    "claim": "Potential UTTP-linked handle observed: afr on many.link (https://many.link/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://many.link/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1773",
+    "claim": "Potential UTTP-linked handle observed: afr on Vjudge (https://VJudge.net/user/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://VJudge.net/user/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1774",
+    "claim": "Potential UTTP-linked handle observed: afr on Erome (https://www.erome.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.erome.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1775",
+    "claim": "Potential UTTP-linked handle observed: afr on Pokemon Showdown (https://pokemonshowdown.com/users/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://pokemonshowdown.com/users/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1776",
+    "claim": "Potential UTTP-linked handle observed: afr on YouNow (https://www.younow.com/afr/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.younow.com/afr/",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1777",
+    "claim": "Potential UTTP-linked handle observed: afr on ContactInBio (domain) (http://afr.contactin.bio/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "http://afr.contactin.bio/",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1778",
+    "claim": "Potential UTTP-linked handle observed: afr on mywishboard.com (https://mywishboard.com/@afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://mywishboard.com/@afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1779",
+    "claim": "Potential UTTP-linked handle observed: afr on ngl.link (https://ngl.link/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://ngl.link/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "P178",
@@ -3069,6 +3744,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1780",
+    "claim": "Potential UTTP-linked handle observed: afr on Crypto Hack (https://cryptohack.org/user/afr/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://cryptohack.org/user/afr/",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1781",
+    "claim": "Potential UTTP-linked handle observed: afr on Play.md (https://play.md/profile/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://play.md/profile/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1782",
+    "claim": "Potential UTTP-linked handle observed: afr on Coders Rank (https://profile.codersrank.io/user/afr/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profile.codersrank.io/user/afr/",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1783",
+    "claim": "Potential UTTP-linked handle observed: afr on Dumpor (https://dumpor.com/v/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dumpor.com/v/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1784",
+    "claim": "Potential UTTP-linked handle observed: afr on Minecraft-statistic (https://minecraft-statistic.net/ru/player/afr.html)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://minecraft-statistic.net/ru/player/afr.html",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1785",
+    "claim": "Potential UTTP-linked handle observed: afr on Carrd.co (https://afr.carrd.co)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://afr.carrd.co",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1786",
+    "claim": "Potential UTTP-linked handle observed: afr on Castingcallclub (https://www.castingcall.club/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.castingcall.club/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1787",
+    "claim": "Potential UTTP-linked handle observed: afr on Cda.pl (https://www.cda.pl/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.cda.pl/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1788",
+    "claim": "Potential UTTP-linked handle observed: afr on Radiomed (https://radiomed.ru/users/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://radiomed.ru/users/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1789",
+    "claim": "Potential UTTP-linked handle observed: afr on Tenor.com (https://tenor.com/users/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tenor.com/users/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "P179",
     "claim": "Potential UTTP-linked handle observed: uttp on 1x (https://1x.com/member/uttp)",
     "type": "potential",
@@ -3078,6 +3843,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1790",
+    "claim": "Potential UTTP-linked handle observed: afr on Zbiornik.com (https://mini.zbiornik.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://mini.zbiornik.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1791",
+    "claim": "Potential UTTP-linked handle observed: afr on ffm.bio (https://ffm.bio/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://ffm.bio/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1792",
+    "claim": "Potential UTTP-linked handle observed: afr on forum.uipath.com (https://forum.uipath.com/u/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://forum.uipath.com/u/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1793",
+    "claim": "Potential UTTP-linked handle observed: afr on musicinafrica.net (https://musicinafrica.net/fr/users/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://musicinafrica.net/fr/users/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1794",
+    "claim": "Potential UTTP-linked handle observed: afr on sketchfab.com (https://sketchfab.com/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://sketchfab.com/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1795",
+    "claim": "Potential UTTP-linked handle observed: afr on Shelf (https://www.shelf.im/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.shelf.im/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1796",
+    "claim": "Potential UTTP-linked handle observed: afr on OP.GG LoL Phillippines (https://op.gg/lol/summoners/search?q=afr&region=ph)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=afr&region=ph",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1797",
+    "claim": "Potential UTTP-linked handle observed: afr on OP.GG LoL Singapore (https://op.gg/lol/summoners/search?q=afr&region=sg)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=afr&region=sg",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1798",
+    "claim": "Potential UTTP-linked handle observed: afr on OP.GG LoL Thailand (https://op.gg/lol/summoners/search?q=afr&region=th)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=afr&region=th",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1799",
+    "claim": "Potential UTTP-linked handle observed: afr on smallgames.ws (https://smallgames.ws/user/afr/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://smallgames.ws/user/afr/",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "P180",
     "claim": "Potential UTTP-linked handle observed: uttp on Temu (https://www.temu.com/uttp)",
     "type": "potential",
@@ -3085,6 +3940,69 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://www.temu.com/uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1800",
+    "claim": "Potential UTTP-linked handle observed: afr on Dota2 (https://dota2.ru/forum/search?type=user&keywords=afr&sort_by=username)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dota2.ru/forum/search?type=user&keywords=afr&sort_by=username",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1801",
+    "claim": "Potential UTTP-linked handle observed: afr on Libraries (https://libraries.io/github/afr/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://libraries.io/github/afr/",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1802",
+    "claim": "Potential UTTP-linked handle observed: afr on Lolchess (https://lolchess.gg/profile/na/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://lolchess.gg/profile/na/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1803",
+    "claim": "Potential UTTP-linked handle observed: afr on Plug.DJ (https://plug.dj/@/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://plug.dj/@/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1804",
+    "claim": "Potential UTTP-linked handle observed: afr on Pornhub (https://pornhub.com/users/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://pornhub.com/users/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1805",
+    "claim": "Potential UTTP-linked handle observed: afr on Repl.it (https://repl.it/@afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://repl.it/@afr",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "P1806",
+    "claim": "Potential UTTP-linked handle observed: afr on Vero (https://vero.co/afr)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://vero.co/afr",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "P181",

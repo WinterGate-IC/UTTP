@@ -3160,6 +3160,56 @@
     "first_seen": "2026-11-23T07:00:03Z"
   },
   {
+    "id": "W1675",
+    "name": "GitHub handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1676",
+    "name": "X handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1677",
+    "name": "Twitter/X handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1678",
+    "name": "Mastodon handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1679",
+    "name": "Keybase handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "W168",
     "name": "forums.mozfr.org handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -3168,6 +3218,106 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1680",
+    "name": "Bluesky handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1681",
+    "name": "SoundCloud handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1682",
+    "name": "Steam handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1683",
+    "name": "Replit handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1684",
+    "name": "About.me handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1685",
+    "name": "Vimeo handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1686",
+    "name": "Bandcamp handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1687",
+    "name": "DeviantArt handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1688",
+    "name": "Tumblr handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1689",
+    "name": "Gab handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "W169",
@@ -3180,6 +3330,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1690",
+    "name": "GETTR handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1691",
+    "name": "Clubhouse handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1692",
+    "name": "Fotolog handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1693",
+    "name": "Nextdoor handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1694",
+    "name": "Sina Weibo (Mobile) handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1695",
+    "name": "Naver Blog handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1696",
+    "name": "Dice handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1697",
+    "name": "GitHub Gist handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1698",
+    "name": "Codewars handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1699",
+    "name": "StackBlitz handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "W170",
     "name": "Vimeo Showcase handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -3188,6 +3438,106 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1700",
+    "name": "Xbox handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1701",
+    "name": "GOG handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1702",
+    "name": "itch.io handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1703",
+    "name": "Chess.com handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1704",
+    "name": "osu! handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1705",
+    "name": "Hypixel handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1706",
+    "name": "Second Life handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1707",
+    "name": "Star Citizen handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1708",
+    "name": "hearthis.at handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1709",
+    "name": "Audiomack handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "W171",
@@ -3200,6 +3550,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1710",
+    "name": "ReverbNation handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1711",
+    "name": "YouTube Music handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1712",
+    "name": "YouTube handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1713",
+    "name": "YouTube (Channel) handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1714",
+    "name": "Odysee handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1715",
+    "name": "Giphy handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1716",
+    "name": "FurAffinity handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1717",
+    "name": "Snapchat handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1718",
+    "name": "Streamlabs Design handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1719",
+    "name": "The Noun Project handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "W172",
     "name": "Wishlistr handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -3208,6 +3658,106 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1720",
+    "name": "MusicBrainz handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1721",
+    "name": "Hype Machine handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1722",
+    "name": "Twitch VODs handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1723",
+    "name": "Toneden handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1724",
+    "name": "UnitedMasters handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1725",
+    "name": "WordPressOrg handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1726",
+    "name": "ThemeForest handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1727",
+    "name": "Flickr Groups handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1728",
+    "name": "Disqus handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1729",
+    "name": "profile.hatena.ne.jp handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "W173",
@@ -3220,6 +3770,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1730",
+    "name": "Codecanyon handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1731",
+    "name": "Imgflip handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1732",
+    "name": "Audiojungle handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1733",
+    "name": "Tweakers handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1734",
+    "name": "VideoHive handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1735",
+    "name": "Niftygateway handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1736",
+    "name": "N4g handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1737",
+    "name": "Asciinema handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1738",
+    "name": "PromoDJ handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1739",
+    "name": "many.link handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "W174",
     "name": "SchemeColor handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -3228,6 +3878,106 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1740",
+    "name": "Vjudge handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1741",
+    "name": "Erome handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1742",
+    "name": "Pokemon Showdown handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1743",
+    "name": "YouNow handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1744",
+    "name": "ContactInBio (domain) handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1745",
+    "name": "mywishboard.com handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1746",
+    "name": "ngl.link handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1747",
+    "name": "Crypto Hack handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1748",
+    "name": "Play.md handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1749",
+    "name": "Coders Rank handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "W175",
@@ -3240,6 +3990,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1750",
+    "name": "Dumpor handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1751",
+    "name": "Minecraft-statistic handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1752",
+    "name": "Carrd.co handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1753",
+    "name": "Castingcallclub handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1754",
+    "name": "Cda.pl handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1755",
+    "name": "Radiomed handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1756",
+    "name": "Tenor.com handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1757",
+    "name": "Zbiornik.com handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1758",
+    "name": "ffm.bio handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1759",
+    "name": "forum.uipath.com handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "W176",
     "name": "1x handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -3250,6 +4100,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1760",
+    "name": "musicinafrica.net handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1761",
+    "name": "sketchfab.com handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1762",
+    "name": "Shelf handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1763",
+    "name": "OP.GG LoL Phillippines handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1764",
+    "name": "OP.GG LoL Singapore handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1765",
+    "name": "OP.GG LoL Thailand handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1766",
+    "name": "smallgames.ws handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1767",
+    "name": "Dota2 handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1768",
+    "name": "Libraries handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1769",
+    "name": "Lolchess handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
     "id": "W177",
     "name": "Temu handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -3258,6 +4208,36 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1770",
+    "name": "Plug.DJ handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1771",
+    "name": "Pornhub handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "W1772",
+    "name": "Vero handle cluster (afr)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T13:15:01Z"
   },
   {
     "id": "W178",

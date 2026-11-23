@@ -13093,5 +13093,1220 @@
     "confidence": "D/S",
     "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
     "first_seen": "2026-11-23T07:00:02Z"
+  },
+  {
+    "id": "A_D1456",
+    "platform": "GitHub",
+    "surface_url": "https://github.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1457",
+    "platform": "X",
+    "surface_url": "https://x.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1458",
+    "platform": "Twitter/X",
+    "surface_url": "https://twitter.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1459",
+    "platform": "Mastodon",
+    "surface_url": "https://mastodon.social/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1460",
+    "platform": "Keybase",
+    "surface_url": "https://keybase.io/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1461",
+    "platform": "Bluesky",
+    "surface_url": "https://bsky.app/profile/afr.bsky.social",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1462",
+    "platform": "SoundCloud",
+    "surface_url": "https://soundcloud.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1463",
+    "platform": "Steam",
+    "surface_url": "https://steamcommunity.com/id/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1464",
+    "platform": "Replit",
+    "surface_url": "https://replit.com/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1465",
+    "platform": "Steam (Group)",
+    "surface_url": "https://steamcommunity.com/groups/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1466",
+    "platform": "Steam (by id)",
+    "surface_url": "https://steamcommunity.com/profiles/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1467",
+    "platform": "Facebook",
+    "surface_url": "https://www.facebook.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1468",
+    "platform": "Instagram",
+    "surface_url": "https://www.instagram.com/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1469",
+    "platform": "Twitch",
+    "surface_url": "https://www.twitch.tv/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1470",
+    "platform": "About.me",
+    "surface_url": "https://about.me/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1471",
+    "platform": "Dribbble",
+    "surface_url": "https://dribbble.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1472",
+    "platform": "Mixcloud",
+    "surface_url": "https://www.mixcloud.com/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1473",
+    "platform": "Vimeo",
+    "surface_url": "https://vimeo.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1474",
+    "platform": "Bandcamp",
+    "surface_url": "https://bandcamp.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1475",
+    "platform": "Nintendo",
+    "surface_url": "https://www.reddit.com/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1476",
+    "platform": "DeviantArt",
+    "surface_url": "https://www.deviantart.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1477",
+    "platform": "RuneScape",
+    "surface_url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1478",
+    "platform": "Figma",
+    "surface_url": "https://www.figma.com/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1479",
+    "platform": "Tumblr",
+    "surface_url": "https://www.tumblr.com/blog/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1480",
+    "platform": "Gab",
+    "surface_url": "https://gab.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1481",
+    "platform": "Truth Social",
+    "surface_url": "https://truthsocial.com/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1482",
+    "platform": "GETTR",
+    "surface_url": "https://gettr.com/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1483",
+    "platform": "Clubhouse",
+    "surface_url": "https://www.joinclubhouse.com/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1484",
+    "platform": "Fotolog",
+    "surface_url": "https://www.fotolog.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1485",
+    "platform": "Nextdoor",
+    "surface_url": "https://nextdoor.com/profile/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1486",
+    "platform": "Pixelfed",
+    "surface_url": "https://pixelfed.org/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1487",
+    "platform": "Sina Weibo (Mobile)",
+    "surface_url": "https://m.weibo.cn/u/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1488",
+    "platform": "Naver Blog",
+    "surface_url": "https://blog.naver.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1489",
+    "platform": "Kuaishou",
+    "surface_url": "https://www.kuaishou.com/profile/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1490",
+    "platform": "Bigo Live",
+    "surface_url": "https://www.bigolive.tv/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1491",
+    "platform": "Dice",
+    "surface_url": "https://www.dice.com/profile/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1492",
+    "platform": "GitHub Gist",
+    "surface_url": "https://gist.github.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1493",
+    "platform": "Codewars",
+    "surface_url": "https://www.codewars.com/users/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1494",
+    "platform": "StackBlitz",
+    "surface_url": "https://stackblitz.com/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1495",
+    "platform": "Surge",
+    "surface_url": "https://afr.surge.sh",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1496",
+    "platform": "Xbox",
+    "surface_url": "https://www.xbox.com/en-US/play/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1497",
+    "platform": "GOG",
+    "surface_url": "https://www.gog.com/u/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1498",
+    "platform": "itch.io",
+    "surface_url": "https://afr.itch.io",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1499",
+    "platform": "Rockstar Social Club",
+    "surface_url": "https://socialclub.rockstargames.com/member/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1500",
+    "platform": "Chess.com",
+    "surface_url": "https://www.chess.com/member/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1501",
+    "platform": "osu!",
+    "surface_url": "https://osu.ppy.sh/users/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1502",
+    "platform": "Hypixel",
+    "surface_url": "https://hypixel.net/player/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1503",
+    "platform": "Second Life",
+    "surface_url": "https://my.secondlife.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1504",
+    "platform": "Star Citizen",
+    "surface_url": "https://robertsspaceindustries.com/citizens/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1505",
+    "platform": "hearthis.at",
+    "surface_url": "https://hearthis.at/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1506",
+    "platform": "Audiomack",
+    "surface_url": "https://audiomack.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1507",
+    "platform": "ReverbNation",
+    "surface_url": "https://www.reverbnation.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1508",
+    "platform": "Audius",
+    "surface_url": "https://audius.co/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1509",
+    "platform": "YouTube Music",
+    "surface_url": "https://music.youtube.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1510",
+    "platform": "VK Music",
+    "surface_url": "https://vk.com/audio?owner_id=afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1511",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1512",
+    "platform": "YouTube (Channel)",
+    "surface_url": "https://www.youtube.com/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1513",
+    "platform": "Odysee",
+    "surface_url": "https://odysee.com/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1514",
+    "platform": "PeerTube",
+    "surface_url": "https://peertube.tv/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1515",
+    "platform": "Giphy",
+    "surface_url": "https://giphy.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1516",
+    "platform": "FurAffinity",
+    "surface_url": "https://www.furaffinity.net/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1517",
+    "platform": "Snapchat",
+    "surface_url": "https://www.snapchat.com/add/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1518",
+    "platform": "Bio.site",
+    "surface_url": "https://bio.site/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1519",
+    "platform": "Streamlabs Design",
+    "surface_url": "https://streamlabs.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1520",
+    "platform": "The Noun Project",
+    "surface_url": "https://thenounproject.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1521",
+    "platform": "MusicBrainz",
+    "surface_url": "https://musicbrainz.org/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1522",
+    "platform": "Hype Machine",
+    "surface_url": "https://hypem.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1523",
+    "platform": "Twitch VODs",
+    "surface_url": "https://www.twitch.tv/afr/videos?all=true",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1524",
+    "platform": "Vimeo Showcase",
+    "surface_url": "https://vimeo.com/showcase/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1525",
+    "platform": "Cargo Collective",
+    "surface_url": "https://cargocollective.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1526",
+    "platform": "Toneden",
+    "surface_url": "https://toneden.io/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1527",
+    "platform": "UnitedMasters",
+    "surface_url": "https://unitedmasters.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1528",
+    "platform": "United Masters",
+    "surface_url": "https://app.unitedmasters.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1529",
+    "platform": "WordPressOrg",
+    "surface_url": "https://profiles.wordpress.org/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1530",
+    "platform": "ThemeForest",
+    "surface_url": "https://themeforest.net/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1531",
+    "platform": "Flickr Groups",
+    "surface_url": "https://www.flickr.com/groups/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1532",
+    "platform": "Disqus",
+    "surface_url": "https://disqus.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1533",
+    "platform": "DeviantART",
+    "surface_url": "https://afr.deviantart.com",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1534",
+    "platform": "profile.hatena.ne.jp",
+    "surface_url": "https://profile.hatena.ne.jp/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1535",
+    "platform": "Codecanyon",
+    "surface_url": "https://codecanyon.net/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1536",
+    "platform": "ChaturBate",
+    "surface_url": "https://chaturbate.com/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1537",
+    "platform": "OpenCollective",
+    "surface_url": "https://opencollective.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1538",
+    "platform": "ItemFix",
+    "surface_url": "https://www.itemfix.com/c/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1539",
+    "platform": "Imgflip",
+    "surface_url": "https://imgflip.com/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1540",
+    "platform": "Fur Affinity",
+    "surface_url": "https://www.furaffinity.net/gallery/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1541",
+    "platform": "Audiojungle",
+    "surface_url": "https://audiojungle.net/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1542",
+    "platform": "Tweakers",
+    "surface_url": "https://tweakers.net/gallery/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1543",
+    "platform": "VideoHive",
+    "surface_url": "https://videohive.net/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1544",
+    "platform": "Paltalk",
+    "surface_url": "https://www.paltalk.com/people/users/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1545",
+    "platform": "Niftygateway",
+    "surface_url": "https://niftygateway.com/profile/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1546",
+    "platform": "N4g",
+    "surface_url": "https://n4g.com/user/home/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1547",
+    "platform": "Asciinema",
+    "surface_url": "https://asciinema.org/~afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1548",
+    "platform": "Wishlistr",
+    "surface_url": "https://www.wishlistr.com/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1549",
+    "platform": "PromoDJ",
+    "surface_url": "http://promodj.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1550",
+    "platform": "many.link",
+    "surface_url": "https://many.link/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1551",
+    "platform": "InterPals",
+    "surface_url": "https://www.interpals.net/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1552",
+    "platform": "Vjudge",
+    "surface_url": "https://VJudge.net/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1553",
+    "platform": "Erome",
+    "surface_url": "https://www.erome.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1554",
+    "platform": "Pokemon Showdown",
+    "surface_url": "https://pokemonshowdown.com/users/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1555",
+    "platform": "Old-games",
+    "surface_url": "https://www.old-games.ru/forum/members/?username=afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1556",
+    "platform": "YouNow",
+    "surface_url": "https://www.younow.com/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1557",
+    "platform": "1001tracklists",
+    "surface_url": "https://www.1001tracklists.com/user/afr/index.html",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1558",
+    "platform": "ContactInBio (domain)",
+    "surface_url": "http://afr.contactin.bio/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1559",
+    "platform": "Touristlink",
+    "surface_url": "https://www.touristlink.com/user/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1560",
+    "platform": "mywishboard.com",
+    "surface_url": "https://mywishboard.com/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1561",
+    "platform": "CSSBattle",
+    "surface_url": "https://cssbattle.dev/player/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1562",
+    "platform": "ngl.link",
+    "surface_url": "https://ngl.link/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1563",
+    "platform": "Crypto Hack",
+    "surface_url": "https://cryptohack.org/user/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1564",
+    "platform": "Play.md",
+    "surface_url": "https://play.md/profile/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1565",
+    "platform": "Coders Rank",
+    "surface_url": "https://profile.codersrank.io/user/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1566",
+    "platform": "Dumpor",
+    "surface_url": "https://dumpor.com/v/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1567",
+    "platform": "Minecraft-statistic",
+    "surface_url": "https://minecraft-statistic.net/ru/player/afr.html",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1568",
+    "platform": "Arhrock",
+    "surface_url": "https://arhrock.info/forum/members/?username=afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1569",
+    "platform": "Carrd.co",
+    "surface_url": "https://afr.carrd.co",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1570",
+    "platform": "Castingcallclub",
+    "surface_url": "https://www.castingcall.club/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1571",
+    "platform": "Cda.pl",
+    "surface_url": "https://www.cda.pl/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1572",
+    "platform": "Mcuuid",
+    "surface_url": "https://playerdb.co/api/player/minecraft/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1573",
+    "platform": "Olx.pl",
+    "surface_url": "https://www.olx.pl/oferty/uzytkownik/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1574",
+    "platform": "Radiomed",
+    "surface_url": "https://radiomed.ru/users/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1575",
+    "platform": "Tenor.com",
+    "surface_url": "https://tenor.com/users/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1576",
+    "platform": "Zbiornik.com",
+    "surface_url": "https://mini.zbiornik.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1577",
+    "platform": "ffm.bio",
+    "surface_url": "https://ffm.bio/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1578",
+    "platform": "forum.uipath.com",
+    "surface_url": "https://forum.uipath.com/u/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1579",
+    "platform": "musicinafrica.net",
+    "surface_url": "https://musicinafrica.net/fr/users/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1580",
+    "platform": "sketchfab.com",
+    "surface_url": "https://sketchfab.com/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1581",
+    "platform": "SchemeColor",
+    "surface_url": "https://www.schemecolor.com/author/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1582",
+    "platform": "Shelf",
+    "surface_url": "https://www.shelf.im/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1583",
+    "platform": "smallgames.ws",
+    "surface_url": "https://smallgames.ws/user/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1584",
+    "platform": "Libraries",
+    "surface_url": "https://libraries.io/github/afr/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1585",
+    "platform": "Lolchess",
+    "surface_url": "https://lolchess.gg/profile/na/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1586",
+    "platform": "Plug.DJ",
+    "surface_url": "https://plug.dj/@/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1587",
+    "platform": "Pornhub",
+    "surface_url": "https://pornhub.com/users/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1588",
+    "platform": "Repl.it",
+    "surface_url": "https://repl.it/@afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1589",
+    "platform": "Vero",
+    "surface_url": "https://vero.co/afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1590",
+    "platform": "Yelp (by id)",
+    "surface_url": "https://www.yelp.com/user_details?userid=afr",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T13:15:01Z"
   }
 ]

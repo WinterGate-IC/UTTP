@@ -17752,5 +17752,2660 @@
     ],
     "first_seen": "2026-11-23T06:48:16Z",
     "last_seen": "2026-11-23T06:48:16Z"
+  },
+  {
+    "id": "OS1065",
+    "username": "afr",
+    "platform": "GitHub",
+    "url": "https://github.com/afr",
+    "title": "afr \u00b7 GitHub",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1066",
+    "username": "afr",
+    "platform": "X",
+    "url": "https://x.com/afr",
+    "title": "Financial Review (@AFR) / X",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1067",
+    "username": "afr",
+    "platform": "Twitter/X",
+    "url": "https://twitter.com/afr",
+    "title": "Financial Review (@AFR) / X",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1068",
+    "username": "afr",
+    "platform": "Mastodon",
+    "url": "https://mastodon.social/@afr",
+    "title": "\u0627\u0641\u0631\u064a\u062f\ud83d\udccd (@Afr@mastodon.social) - Mastodon.social",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1069",
+    "username": "afr",
+    "platform": "Keybase",
+    "url": "https://keybase.io/afr",
+    "title": "afr (M Ammar Fadhlur Rahman) | Keybase",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1070",
+    "username": "afr",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/afr.bsky.social",
+    "title": "@afr.bsky.social on Bluesky",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1071",
+    "username": "afr",
+    "platform": "SoundCloud",
+    "url": "https://soundcloud.com/afr",
+    "title": "Stream AfroBoy94 music | Listen to songs, albums, playlists for free on SoundCloud",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1072",
+    "username": "afr",
+    "platform": "Steam",
+    "url": "https://steamcommunity.com/id/afr",
+    "title": "Steam Community :: Afr",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1073",
+    "username": "afr",
+    "platform": "Replit",
+    "url": "https://replit.com/@afr",
+    "title": "Sign Up - Replit",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1074",
+    "username": "afr",
+    "platform": "Steam (Group)",
+    "url": "https://steamcommunity.com/groups/afr",
+    "title": "Steam Community :: Group :: Air France",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1075",
+    "username": "afr",
+    "platform": "Steam (by id)",
+    "url": "https://steamcommunity.com/profiles/afr",
+    "title": "Steam Community :: Error",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1076",
+    "username": "afr",
+    "platform": "Facebook",
+    "url": "https://www.facebook.com/afr",
+    "title": "Redirecting...",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1077",
+    "username": "afr",
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/afr/",
+    "title": "",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1078",
+    "username": "afr",
+    "platform": "Twitch",
+    "url": "https://www.twitch.tv/afr",
+    "title": "Twitch",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1079",
+    "username": "afr",
+    "platform": "About.me",
+    "url": "https://about.me/afr",
+    "title": "AFR | about.me",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1080",
+    "username": "afr",
+    "platform": "Dribbble",
+    "url": "https://dribbble.com/afr",
+    "title": "Andre Felipe Ribeiro | Dribbble",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1081",
+    "username": "afr",
+    "platform": "Mixcloud",
+    "url": "https://www.mixcloud.com/afr/",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1082",
+    "username": "afr",
+    "platform": "Vimeo",
+    "url": "https://vimeo.com/afr",
+    "title": "AFR",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1083",
+    "username": "afr",
+    "platform": "Bandcamp",
+    "url": "https://bandcamp.com/afr",
+    "title": "afr&#39;s collection | Bandcamp",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1084",
+    "username": "afr",
+    "platform": "Nintendo",
+    "url": "https://www.reddit.com/user/afr",
+    "title": "Reddit",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1085",
+    "username": "afr",
+    "platform": "DeviantArt",
+    "url": "https://www.deviantart.com/afr",
+    "title": "afr on DeviantArt",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1086",
+    "username": "afr",
+    "platform": "RuneScape",
+    "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=afr",
+    "title": "Old School  Hiscores",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1087",
+    "username": "afr",
+    "platform": "Figma",
+    "url": "https://www.figma.com/@afr",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1088",
+    "username": "afr",
+    "platform": "Tumblr",
+    "url": "https://www.tumblr.com/blog/afr",
+    "title": "Register - Login",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1089",
+    "username": "afr",
+    "platform": "Gab",
+    "url": "https://gab.com/afr",
+    "title": "Tony (@afr) \u00b7 Gab.com - Gab Social",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1090",
+    "username": "afr",
+    "platform": "Truth Social",
+    "url": "https://truthsocial.com/@afr",
+    "title": "Truth Social",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1091",
+    "username": "afr",
+    "platform": "GETTR",
+    "url": "https://gettr.com/user/afr",
+    "title": "afr on GETTR - Profile and Posts",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1092",
+    "username": "afr",
+    "platform": "Clubhouse",
+    "url": "https://www.joinclubhouse.com/@afr",
+    "title": "Alexander Forbes-Reed - Clubhouse",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1093",
+    "username": "afr",
+    "platform": "Fotolog",
+    "url": "https://www.fotolog.com/afr",
+    "title": "Best five African Safari Destinations to Visit this Year - FotoLog",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1094",
+    "username": "afr",
+    "platform": "Nextdoor",
+    "url": "https://nextdoor.com/profile/afr",
+    "title": "Login - Nextdoor",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1095",
+    "username": "afr",
+    "platform": "Pixelfed",
+    "url": "https://pixelfed.org/afr",
+    "title": "Pixelfed - Decentralized social media",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1096",
+    "username": "afr",
+    "platform": "Sina Weibo (Mobile)",
+    "url": "https://m.weibo.cn/u/afr",
+    "title": "Sina Visitor System",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1097",
+    "username": "afr",
+    "platform": "Naver Blog",
+    "url": "https://blog.naver.com/afr",
+    "title": "afr\ub2d8\uc758 \ube14\ub85c\uadf8 : \ub124\uc774\ubc84 \ube14\ub85c\uadf8",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1098",
+    "username": "afr",
+    "platform": "Kuaishou",
+    "url": "https://www.kuaishou.com/profile/afr",
+    "title": "\u5feb\u624b",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1099",
+    "username": "afr",
+    "platform": "Bigo Live",
+    "url": "https://www.bigolive.tv/afr",
+    "title": "BIGO LIVE - Broadcast &amp; Explore Live Streaming",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1100",
+    "username": "afr",
+    "platform": "Dice",
+    "url": "https://www.dice.com/profile/afr",
+    "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1101",
+    "username": "afr",
+    "platform": "GitHub Gist",
+    "url": "https://gist.github.com/afr",
+    "title": "afr\u2019s gists \u00b7 GitHub",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1102",
+    "username": "afr",
+    "platform": "Codewars",
+    "url": "https://www.codewars.com/users/afr",
+    "title": "afr | Codewars",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1103",
+    "username": "afr",
+    "platform": "StackBlitz",
+    "url": "https://stackblitz.com/@afr",
+    "title": "afr",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1104",
+    "username": "afr",
+    "platform": "Surge",
+    "url": "https://afr.surge.sh",
+    "title": "AF Radio - Ghana radio app",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1105",
+    "username": "afr",
+    "platform": "Xbox",
+    "url": "https://www.xbox.com/en-US/play/user/afr",
+    "title": "View afr&#x27;s profile | Xbox Cloud Gaming on\u200a\u2009Xbox.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1106",
+    "username": "afr",
+    "platform": "GOG",
+    "url": "https://www.gog.com/u/afr",
+    "title": "AFr&#039;s profile on GOG.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1107",
+    "username": "afr",
+    "platform": "itch.io",
+    "url": "https://afr.itch.io",
+    "title": "afr - itch.io",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1108",
+    "username": "afr",
+    "platform": "Rockstar Social Club",
+    "url": "https://socialclub.rockstargames.com/member/afr",
+    "title": "Rockstar Games",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1109",
+    "username": "afr",
+    "platform": "Chess.com",
+    "url": "https://www.chess.com/member/afr",
+    "title": "papi lephoto (afr) - Chess Profile - Chess.com",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1110",
+    "username": "afr",
+    "platform": "osu!",
+    "url": "https://osu.ppy.sh/users/afr",
+    "title": "afr\u202c \u00b7 player info\u202c | \u202dosu!\u202c",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1111",
+    "username": "afr",
+    "platform": "Hypixel",
+    "url": "https://hypixel.net/player/afr",
+    "title": "Afr | Hypixel Forums",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1112",
+    "username": "afr",
+    "platform": "Second Life",
+    "url": "https://my.secondlife.com/afr",
+    "title": "afr - Second Life",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1113",
+    "username": "afr",
+    "platform": "Star Citizen",
+    "url": "https://robertsspaceindustries.com/citizens/afr",
+    "title": "AFR | AFR - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1114",
+    "username": "afr",
+    "platform": "hearthis.at",
+    "url": "https://hearthis.at/afr",
+    "title": "AFR |  hearthis.at",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1115",
+    "username": "afr",
+    "platform": "Audiomack",
+    "url": "https://audiomack.com/afr",
+    "title": "afr - Listen Free on Audiomack",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1116",
+    "username": "afr",
+    "platform": "ReverbNation",
+    "url": "https://www.reverbnation.com/afr",
+    "title": "AFR | ReverbNation",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1117",
+    "username": "afr",
+    "platform": "Audius",
+    "url": "https://audius.co/afr",
+    "title": "Audius \u2014 Free Music Streaming for Artists, Labels &amp; Fans",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1118",
+    "username": "afr",
+    "platform": "YouTube Music",
+    "url": "https://music.youtube.com/afr",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1119",
+    "username": "afr",
+    "platform": "VK Music",
+    "url": "https://vk.com/audio?owner_id=afr",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1120",
+    "username": "afr",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/afr",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1121",
+    "username": "afr",
+    "platform": "YouTube (Channel)",
+    "url": "https://www.youtube.com/@afr",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1122",
+    "username": "afr",
+    "platform": "Odysee",
+    "url": "https://odysee.com/@afr",
+    "title": "@afr",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1123",
+    "username": "afr",
+    "platform": "PeerTube",
+    "url": "https://peertube.tv/afr",
+    "title": "PeerTube.TV",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1124",
+    "username": "afr",
+    "platform": "Giphy",
+    "url": "https://giphy.com/afr",
+    "title": "Afr GIFs - Find &amp; Share on GIPHY",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1125",
+    "username": "afr",
+    "platform": "FurAffinity",
+    "url": "https://www.furaffinity.net/user/afr",
+    "title": "Userpage of AfR -- Fur Affinity [dot] net",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1126",
+    "username": "afr",
+    "platform": "Snapchat",
+    "url": "https://www.snapchat.com/add/afr",
+    "title": "A \ud83c\uddf6\ud83c\udde6 (@afr) | Snapchat Stories, Spotlight &amp; Lenses",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1127",
+    "username": "afr",
+    "platform": "Bio.site",
+    "url": "https://bio.site/afr",
+    "title": "Alessandra  \u2014 Bio Sites",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1128",
+    "username": "afr",
+    "platform": "Itch.io",
+    "url": "https://afr.itch.io/",
+    "title": "afr - itch.io",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1129",
+    "username": "afr",
+    "platform": "Streamlabs Design",
+    "url": "https://streamlabs.com/afr",
+    "title": "afr / Streamlabs",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1130",
+    "username": "afr",
+    "platform": "The Noun Project",
+    "url": "https://thenounproject.com/afr",
+    "title": "Andre Ribeiro",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1131",
+    "username": "afr",
+    "platform": "MusicBrainz",
+    "url": "https://musicbrainz.org/user/afr",
+    "title": "Editor \u201cafr\u201d - MusicBrainz",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1132",
+    "username": "afr",
+    "platform": "Hype Machine",
+    "url": "https://hypem.com/afr",
+    "title": "afr's favorite tracks / Hype Machine",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1133",
+    "username": "afr",
+    "platform": "Twitch VODs",
+    "url": "https://www.twitch.tv/afr/videos?all=true",
+    "title": "Twitch",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1134",
+    "username": "afr",
+    "platform": "Vimeo Showcase",
+    "url": "https://vimeo.com/showcase/afr",
+    "title": "Showcase on Vimeo",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1135",
+    "username": "afr",
+    "platform": "Cargo Collective",
+    "url": "https://cargocollective.com/afr",
+    "title": "Alain Fern\u00e1ndez del Rey",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1136",
+    "username": "afr",
+    "platform": "Toneden",
+    "url": "https://toneden.io/afr",
+    "title": "a.fr - Free music on ToneDen",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1137",
+    "username": "afr",
+    "platform": "UnitedMasters",
+    "url": "https://unitedmasters.com/afr",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1138",
+    "username": "afr",
+    "platform": "United Masters",
+    "url": "https://app.unitedmasters.com/afr",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1139",
+    "username": "afr",
+    "platform": "WordPressOrg",
+    "url": "https://profiles.wordpress.org/afr/",
+    "title": "Afr (@afr) &#8211; WordPress user profile | WordPress.org",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1140",
+    "username": "afr",
+    "platform": "ThemeForest",
+    "url": "https://themeforest.net/user/afr",
+    "title": "AFR&#39;s profile on ThemeForest",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1141",
+    "username": "afr",
+    "platform": "StackOverflow",
+    "url": "https://stackoverflow.com/users/filter?search=afr",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1142",
+    "username": "afr",
+    "platform": "Flickr Groups",
+    "url": "https://www.flickr.com/groups/afr",
+    "title": "Agrupaci\u00f3n fotogr\u00e1fica Redov\u00e1n | Flickr",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1143",
+    "username": "afr",
+    "platform": "Disqus",
+    "url": "https://disqus.com/afr",
+    "title": "Disqus Profile - AFR",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1144",
+    "username": "afr",
+    "platform": "DeviantART",
+    "url": "https://afr.deviantart.com",
+    "title": "afr on DeviantArt",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1145",
+    "username": "afr",
+    "platform": "profile.hatena.ne.jp",
+    "url": "https://profile.hatena.ne.jp/afr/",
+    "title": "afr&#39;s Profile - Hatena",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1146",
+    "username": "afr",
+    "platform": "Codecanyon",
+    "url": "https://codecanyon.net/user/afr",
+    "title": "AFR&#39;s profile on CodeCanyon",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1147",
+    "username": "afr",
+    "platform": "ChaturBate",
+    "url": "https://chaturbate.com/afr/",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1148",
+    "username": "afr",
+    "platform": "OpenCollective",
+    "url": "https://opencollective.com/afr",
+    "title": "Antoine-Fr\u00e9d\u00e9ric Raquin - Open Collective",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1149",
+    "username": "afr",
+    "platform": "ItemFix",
+    "url": "https://www.itemfix.com/c/afr",
+    "title": "ItemFix - Channel:",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1150",
+    "username": "afr",
+    "platform": "Imgflip",
+    "url": "https://imgflip.com/user/afr",
+    "title": "AFR's Profile - Imgflip",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1151",
+    "username": "afr",
+    "platform": "Fur Affinity",
+    "url": "https://www.furaffinity.net/gallery/afr",
+    "title": "Artwork Gallery for AfR -- Fur Affinity [dot] net",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1152",
+    "username": "afr",
+    "platform": "Audiojungle",
+    "url": "https://audiojungle.net/user/afr",
+    "title": "AFR&#39;s profile on AudioJungle",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1153",
+    "username": "afr",
+    "platform": "Tweakers",
+    "url": "https://tweakers.net/gallery/afr",
+    "title": "DPG Media Privacy Gate",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1154",
+    "username": "afr",
+    "platform": "VideoHive",
+    "url": "https://videohive.net/user/afr",
+    "title": "AFR&#39;s profile on VideoHive",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1155",
+    "username": "afr",
+    "platform": "Paltalk",
+    "url": "https://www.paltalk.com/people/users/afr",
+    "title": "Chat Room Member on Paltalk",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1156",
+    "username": "afr",
+    "platform": "Niftygateway",
+    "url": "https://niftygateway.com/profile/afr",
+    "title": "afr&#x27;s NFT Collection",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1157",
+    "username": "afr",
+    "platform": "N4g",
+    "url": "https://n4g.com/user/home/afr",
+    "title": "AFR, Author at N4G",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1158",
+    "username": "afr",
+    "platform": "Asciinema",
+    "url": "https://asciinema.org/~afr",
+    "title": "afr&#39;s profile - asciinema.org",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1159",
+    "username": "afr",
+    "platform": "Wishlistr",
+    "url": "https://www.wishlistr.com/afr/",
+    "title": "One moment, please...",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1160",
+    "username": "afr",
+    "platform": "PromoDJ",
+    "url": "http://promodj.com/afr",
+    "title": "andrey19",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1161",
+    "username": "afr",
+    "platform": "many.link",
+    "url": "https://many.link/afr",
+    "title": "afr \u2013 many.link",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1162",
+    "username": "afr",
+    "platform": "InterPals",
+    "url": "https://www.interpals.net/afr",
+    "title": "InterPals",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1163",
+    "username": "afr",
+    "platform": "Vjudge",
+    "url": "https://VJudge.net/user/afr",
+    "title": "afr's profile - Virtual Judge",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1164",
+    "username": "afr",
+    "platform": "Erome",
+    "url": "https://www.erome.com/afr",
+    "title": "Afr - Profile page - EroMe",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1165",
+    "username": "afr",
+    "platform": "Pokemon Showdown",
+    "url": "https://pokemonshowdown.com/users/afr",
+    "title": "afr - Users - Pok&eacute;mon Showdown",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1166",
+    "username": "afr",
+    "platform": "Old-games",
+    "url": "https://www.old-games.ru/forum/members/?username=afr",
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | \u0424\u043e\u0440\u0443\u043c Old-Games.RU. \u0412\u0441\u0451 \u043e \u0441\u0442\u0430\u0440\u044b\u0445 \u0438\u0433\u0440\u0430\u0445",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1167",
+    "username": "afr",
+    "platform": "YouNow",
+    "url": "https://www.younow.com/afr/",
+    "title": "YouNow",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1168",
+    "username": "afr",
+    "platform": "1001tracklists",
+    "url": "https://www.1001tracklists.com/user/afr/index.html",
+    "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+    "status": 206,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1169",
+    "username": "afr",
+    "platform": "ContactInBio (domain)",
+    "url": "http://afr.contactin.bio/",
+    "title": "@afr - ContactInBio",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1170",
+    "username": "afr",
+    "platform": "Touristlink",
+    "url": "https://www.touristlink.com/user/afr",
+    "title": "Members across the World",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1171",
+    "username": "afr",
+    "platform": "mywishboard.com",
+    "url": "https://mywishboard.com/@afr",
+    "title": "@afr - wishlist, wishes and dreams on myWishBoard",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1172",
+    "username": "afr",
+    "platform": "CSSBattle",
+    "url": "https://cssbattle.dev/player/afr",
+    "title": "CSSBattle",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1173",
+    "username": "afr",
+    "platform": "ngl.link",
+    "url": "https://ngl.link/afr",
+    "title": "@afr",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1174",
+    "username": "afr",
+    "platform": "Crypto Hack",
+    "url": "https://cryptohack.org/user/afr/",
+    "title": "CryptoHack &ndash; afr",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1175",
+    "username": "afr",
+    "platform": "Play.md",
+    "url": "https://play.md/profile/afr",
+    "title": "Play.md - \u0432\u0438\u0434\u0435\u043e Afr",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1176",
+    "username": "afr",
+    "platform": "Coders Rank",
+    "url": "https://profile.codersrank.io/user/afr/",
+    "title": "afr&#x27;s CodersRank profile",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1177",
+    "username": "afr",
+    "platform": "Dumpor",
+    "url": "https://dumpor.com/v/afr",
+    "title": "afr  Watch instagram stories and profile anonymous",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1178",
+    "username": "afr",
+    "platform": "Minecraft-statistic",
+    "url": "https://minecraft-statistic.net/ru/player/afr.html",
+    "title": "afr \u2014 \u043f\u0440\u043e\u0444\u0438\u043b\u044c \u0438\u0433\u0440\u043e\u043a\u0430 Minecraft, \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0438 \u0441\u043a\u0438\u043d",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1179",
+    "username": "afr",
+    "platform": "Arhrock",
+    "url": "https://arhrock.info/forum/members/?username=afr",
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | ArhRock Forum",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1180",
+    "username": "afr",
+    "platform": "Carrd.co",
+    "url": "https://afr.carrd.co",
+    "title": "\u22b9 Para: A Prole De Afrodite !&iexcl; \ud83c\udf37",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1181",
+    "username": "afr",
+    "platform": "Castingcallclub",
+    "url": "https://www.castingcall.club/afr",
+    "title": "AFR | Casting Call Club",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1182",
+    "username": "afr",
+    "platform": "Cda.pl",
+    "url": "https://www.cda.pl/afr",
+    "title": "afr - cda.pl",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1183",
+    "username": "afr",
+    "platform": "Mcuuid",
+    "url": "https://playerdb.co/api/player/minecraft/afr",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1184",
+    "username": "afr",
+    "platform": "Olx.pl",
+    "url": "https://www.olx.pl/oferty/uzytkownik/afr/",
+    "title": "Og\u0142oszenia - Sprzedam, kupi\u0119 na OLX.pl",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1185",
+    "username": "afr",
+    "platform": "Radiomed",
+    "url": "https://radiomed.ru/users/afr",
+    "title": "\u041f\u043e\u0438\u0441\u043a | \u041f\u043e\u0440\u0442\u0430\u043b \u0440\u0430\u0434\u0438\u043e\u043b\u043e\u0433\u043e\u0432",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1186",
+    "username": "afr",
+    "platform": "Tenor.com",
+    "url": "https://tenor.com/users/afr",
+    "title": "afr&#039;s GIFs on Tenor",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1187",
+    "username": "afr",
+    "platform": "Zbiornik.com",
+    "url": "https://mini.zbiornik.com/afr",
+    "title": "afr - Profil - Mini Zbiornik",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1188",
+    "username": "afr",
+    "platform": "ffm.bio",
+    "url": "https://ffm.bio/afr",
+    "title": "AFR",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1189",
+    "username": "afr",
+    "platform": "forum.uipath.com",
+    "url": "https://forum.uipath.com/u/afr",
+    "title": "Profile - afr - UiPath Community Forum",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1190",
+    "username": "afr",
+    "platform": "musicinafrica.net",
+    "url": "https://musicinafrica.net/fr/users/afr",
+    "title": "Afram King",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1191",
+    "username": "afr",
+    "platform": "sketchfab.com",
+    "url": "https://sketchfab.com/afr",
+    "title": "afr - Sketchfab",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1192",
+    "username": "afr",
+    "platform": "SchemeColor",
+    "url": "https://www.schemecolor.com/author/afr",
+    "title": "One moment, please...",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1193",
+    "username": "afr",
+    "platform": "Shelf",
+    "url": "https://www.shelf.im/afr",
+    "title": "Afr on Shelf",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1194",
+    "username": "afr",
+    "platform": "OP.GG LoL Brazil",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=br",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1195",
+    "username": "afr",
+    "platform": "OP.GG LoL North America",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=na",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1196",
+    "username": "afr",
+    "platform": "OP.GG LoL Middle East",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=me",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1197",
+    "username": "afr",
+    "platform": "OP.GG LoL Europe Nordic & East",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=eune",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1198",
+    "username": "afr",
+    "platform": "OP.GG LoL Oceania",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=oce",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1199",
+    "username": "afr",
+    "platform": "OP.GG LoL Korea",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=kr",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1200",
+    "username": "afr",
+    "platform": "OP.GG LoL Europe West",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=euw",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1201",
+    "username": "afr",
+    "platform": "OP.GG LoL Japan",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=jp",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1202",
+    "username": "afr",
+    "platform": "OP.GG LoL LAS",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=las",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1203",
+    "username": "afr",
+    "platform": "OP.GG LoL Russia",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=ru",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1204",
+    "username": "afr",
+    "platform": "OP.GG LoL LAN",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=lan",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1205",
+    "username": "afr",
+    "platform": "OP.GG LoL Turkey",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=tr",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1206",
+    "username": "afr",
+    "platform": "OP.GG LoL Taiwan",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=tw",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1207",
+    "username": "afr",
+    "platform": "OP.GG LoL Vietnam",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=vn",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1208",
+    "username": "afr",
+    "platform": "OP.GG LoL Phillippines",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=ph",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1209",
+    "username": "afr",
+    "platform": "OP.GG LoL Singapore",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=sg",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1210",
+    "username": "afr",
+    "platform": "OP.GG LoL Thailand",
+    "url": "https://op.gg/lol/summoners/search?q=afr&region=th",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1211",
+    "username": "afr",
+    "platform": "smallgames.ws",
+    "url": "https://smallgames.ws/user/afr/",
+    "title": "afr",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1212",
+    "username": "afr",
+    "platform": "Dota2",
+    "url": "https://dota2.ru/forum/search?type=user&keywords=afr&sort_by=username",
+    "title": "\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \"afr\"",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1213",
+    "username": "afr",
+    "platform": "Libraries",
+    "url": "https://libraries.io/github/afr/",
+    "title": "afr \u00b7 GitHub",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1214",
+    "username": "afr",
+    "platform": "Lolchess",
+    "url": "https://lolchess.gg/profile/na/afr",
+    "title": "TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1215",
+    "username": "afr",
+    "platform": "Plug.DJ",
+    "url": "https://plug.dj/@/afr",
+    "title": "Sign in \u30fb Cloudflare Access",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1216",
+    "username": "afr",
+    "platform": "Pornhub",
+    "url": "https://pornhub.com/users/afr",
+    "title": "afr&#039;s Profile - Pornhub.com",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1217",
+    "username": "afr",
+    "platform": "Radiokot",
+    "url": "https://www.radiokot.ru/forum/search.php?keywords=&terms=all&author=afr",
+    "title": "\u0424\u043e\u0440\u0443\u043c \u0420\u0430\u0434\u0438\u043e\u041a\u043e\u0442 - \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1218",
+    "username": "afr",
+    "platform": "Repl.it",
+    "url": "https://repl.it/@afr",
+    "title": "Sign Up - Replit",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1219",
+    "username": "afr",
+    "platform": "Vero",
+    "url": "https://vero.co/afr",
+    "title": "Afr on VERO\u2122",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1220",
+    "username": "afr",
+    "platform": "Yelp (by id)",
+    "url": "https://www.yelp.com/user_details?userid=afr",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T13:03:18Z",
+    "last_seen": "2026-11-23T13:03:18Z"
   }
 ]
