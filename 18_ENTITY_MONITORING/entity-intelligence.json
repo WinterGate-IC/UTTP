@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "WinterGateIC Entity Intelligence",
-    "updated": "2026-11-23 17:15 UTC",
+    "updated": "2026-11-23 23:15 UTC",
     "scope": "Group-level entity monitoring. No usernames, account IDs, invite links, victim data, or private identifiers.",
     "entity_count": 31,
     "area_rows": 200,
     "area_platforms": 20,
     "source_count": 91,
     "claim_count": 44,
-    "potential_claim_count": 987,
+    "potential_claim_count": 1085,
     "watchlist_count": 12,
-    "discovered_area_count": 1590,
-    "discovered_watchlist_count": 962,
+    "discovered_area_count": 1714,
+    "discovered_watchlist_count": 1055,
     "discovered_tactic_count": 294,
-    "discovery_event_count": 47,
+    "discovery_event_count": 53,
     "privacy": "No target list. Areas are platforms/surfaces, not people. Handles are leads, not identities.",
     "learning_model": "Rule-based adaptive scoring from confidence, source density, tactical indicators, area footprint, and evolution timeline. Not a predictive AI model and not a claim of future certainty."
   },
@@ -9109,6 +9109,33 @@
       "first_seen": "2026-11-23T13:15:01Z"
     },
     {
+      "id": "P1807",
+      "claim": "Potential UTTP-linked handle observed: rdf on GitHub (https://github.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://github.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1808",
+      "claim": "Potential UTTP-linked handle observed: rdf on Mastodon (https://mastodon.social/@rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://mastodon.social/@rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1809",
+      "claim": "Potential UTTP-linked handle observed: rdf on Keybase (https://keybase.io/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://keybase.io/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
       "id": "P181",
       "claim": "Potential UTTP-linked handle observed: uttp on TanTan (https://www.tantan.com/uttp)",
       "type": "potential",
@@ -9116,6 +9143,96 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://www.tantan.com/uttp",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1810",
+      "claim": "Potential UTTP-linked handle observed: rdf on Bluesky (https://bsky.app/profile/rdf.bsky.social)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://bsky.app/profile/rdf.bsky.social",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1811",
+      "claim": "Potential UTTP-linked handle observed: rdf on Replit (https://replit.com/@rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://replit.com/@rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1812",
+      "claim": "Potential UTTP-linked handle observed: rdf on Steam (Group) (https://steamcommunity.com/groups/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://steamcommunity.com/groups/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1813",
+      "claim": "Potential UTTP-linked handle observed: rdf on YouTube (https://www.youtube.com/@rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.youtube.com/@rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1814",
+      "claim": "Potential UTTP-linked handle observed: rdf on Codeberg (https://codeberg.org/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://codeberg.org/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1815",
+      "claim": "Potential UTTP-linked handle observed: rdf on Threads (https://www.threads.net/@rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.threads.net/@rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1816",
+      "claim": "Potential UTTP-linked handle observed: rdf on Rubygems (https://rubygems.org/profiles/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://rubygems.org/profiles/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1817",
+      "claim": "Potential UTTP-linked handle observed: rdf on Linktree (https://linktr.ee/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://linktr.ee/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1818",
+      "claim": "Potential UTTP-linked handle observed: rdf on Bandcamp (https://bandcamp.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://bandcamp.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1819",
+      "claim": "Potential UTTP-linked handle observed: rdf on DeviantArt (https://www.deviantart.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.deviantart.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
     },
     {
       "id": "P182",
@@ -9127,6 +9244,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1820",
+      "claim": "Potential UTTP-linked handle observed: rdf on Tumblr (https://www.tumblr.com/blog/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.tumblr.com/blog/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1821",
+      "claim": "Potential UTTP-linked handle observed: rdf on Gab (https://gab.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://gab.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1822",
+      "claim": "Potential UTTP-linked handle observed: rdf on GETTR (https://gettr.com/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://gettr.com/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1823",
+      "claim": "Potential UTTP-linked handle observed: rdf on Foursquare (https://foursquare.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://foursquare.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1824",
+      "claim": "Potential UTTP-linked handle observed: rdf on Clubhouse (https://www.joinclubhouse.com/@rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.joinclubhouse.com/@rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1825",
+      "claim": "Potential UTTP-linked handle observed: rdf on Fotolog (https://www.fotolog.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.fotolog.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1826",
+      "claim": "Potential UTTP-linked handle observed: rdf on Nextdoor (https://nextdoor.com/profile/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://nextdoor.com/profile/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1827",
+      "claim": "Potential UTTP-linked handle observed: rdf on Friendica (https://friendi.ca/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://friendi.ca/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1828",
+      "claim": "Potential UTTP-linked handle observed: rdf on Douban (https://www.douban.com/people/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.douban.com/people/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1829",
+      "claim": "Potential UTTP-linked handle observed: rdf on Dice (https://www.dice.com/profile/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.dice.com/profile/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
       "id": "P183",
       "claim": "Potential UTTP-linked handle observed: uttp on EDGAR Full-Text Search (https://efts.sec.gov/LATEST/search-index?q=%22uttp%22)",
       "type": "potential",
@@ -9134,6 +9341,96 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://efts.sec.gov/LATEST/search-index?q=%22uttp%22",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1830",
+      "claim": "Potential UTTP-linked handle observed: rdf on GitHub Gist (https://gist.github.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://gist.github.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1831",
+      "claim": "Potential UTTP-linked handle observed: rdf on Codewars (https://www.codewars.com/users/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.codewars.com/users/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1832",
+      "claim": "Potential UTTP-linked handle observed: rdf on StackBlitz (https://stackblitz.com/@rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://stackblitz.com/@rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1833",
+      "claim": "Potential UTTP-linked handle observed: rdf on Xbox (https://www.xbox.com/en-US/play/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.xbox.com/en-US/play/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1834",
+      "claim": "Potential UTTP-linked handle observed: rdf on GOG (https://www.gog.com/u/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.gog.com/u/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1835",
+      "claim": "Potential UTTP-linked handle observed: rdf on Chess.com (https://www.chess.com/member/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.chess.com/member/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1836",
+      "claim": "Potential UTTP-linked handle observed: rdf on osu! (https://osu.ppy.sh/users/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://osu.ppy.sh/users/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1837",
+      "claim": "Potential UTTP-linked handle observed: rdf on itch.io (https://rdf.itch.io)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://rdf.itch.io",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1838",
+      "claim": "Potential UTTP-linked handle observed: rdf on Hypixel (https://hypixel.net/player/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://hypixel.net/player/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1839",
+      "claim": "Potential UTTP-linked handle observed: rdf on Second Life (https://my.secondlife.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://my.secondlife.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
     },
     {
       "id": "P184",
@@ -9145,6 +9442,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1840",
+      "claim": "Potential UTTP-linked handle observed: rdf on Star Citizen (https://robertsspaceindustries.com/citizens/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://robertsspaceindustries.com/citizens/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1841",
+      "claim": "Potential UTTP-linked handle observed: rdf on hearthis.at (https://hearthis.at/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://hearthis.at/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1842",
+      "claim": "Potential UTTP-linked handle observed: rdf on ReverbNation (https://www.reverbnation.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.reverbnation.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1843",
+      "claim": "Potential UTTP-linked handle observed: rdf on Audiomack (https://audiomack.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://audiomack.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1844",
+      "claim": "Potential UTTP-linked handle observed: rdf on YouTube Music (https://music.youtube.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://music.youtube.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1845",
+      "claim": "Potential UTTP-linked handle observed: rdf on CD Baby (https://www.cdbaby.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.cdbaby.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1846",
+      "claim": "Potential UTTP-linked handle observed: rdf on YouTube (https://www.youtube.com/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.youtube.com/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1847",
+      "claim": "Potential UTTP-linked handle observed: rdf on Odysee (https://odysee.com/@rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://odysee.com/@rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1848",
+      "claim": "Potential UTTP-linked handle observed: rdf on FurAffinity (https://www.furaffinity.net/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.furaffinity.net/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1849",
+      "claim": "Potential UTTP-linked handle observed: rdf on Giphy (https://giphy.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://giphy.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
       "id": "P185",
       "claim": "Potential UTTP-linked handle observed: uttp on Anycubic (https://www.anycubic.com/uttp)",
       "type": "potential",
@@ -9152,6 +9539,96 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://www.anycubic.com/uttp",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1850",
+      "claim": "Potential UTTP-linked handle observed: rdf on Snapchat (https://www.snapchat.com/add/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.snapchat.com/add/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1851",
+      "claim": "Potential UTTP-linked handle observed: rdf on Mixer (https://mixer.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://mixer.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1852",
+      "claim": "Potential UTTP-linked handle observed: rdf on Streamlabs Design (https://streamlabs.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://streamlabs.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1853",
+      "claim": "Potential UTTP-linked handle observed: rdf on The Noun Project (https://thenounproject.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://thenounproject.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1854",
+      "claim": "Potential UTTP-linked handle observed: rdf on MusicBrainz (https://musicbrainz.org/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://musicbrainz.org/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1855",
+      "claim": "Potential UTTP-linked handle observed: rdf on Producer Hive (https://producerhive.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://producerhive.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1856",
+      "claim": "Potential UTTP-linked handle observed: rdf on Working Not Working (https://workingnotworking.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://workingnotworking.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1857",
+      "claim": "Potential UTTP-linked handle observed: rdf on Contently (https://www.contently.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.contently.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1858",
+      "claim": "Potential UTTP-linked handle observed: rdf on UnitedMasters (https://unitedmasters.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://unitedmasters.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1859",
+      "claim": "Potential UTTP-linked handle observed: rdf on United Masters (https://app.unitedmasters.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://app.unitedmasters.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
     },
     {
       "id": "P186",
@@ -9163,6 +9640,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1860",
+      "claim": "Potential UTTP-linked handle observed: rdf on WordPressOrg (https://profiles.wordpress.org/rdf/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://profiles.wordpress.org/rdf/",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1861",
+      "claim": "Potential UTTP-linked handle observed: rdf on ThemeForest (https://themeforest.net/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://themeforest.net/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1862",
+      "claim": "Potential UTTP-linked handle observed: rdf on Disqus (https://disqus.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://disqus.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1863",
+      "claim": "Potential UTTP-linked handle observed: rdf on profile.hatena.ne.jp (https://profile.hatena.ne.jp/rdf/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://profile.hatena.ne.jp/rdf/",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1864",
+      "claim": "Potential UTTP-linked handle observed: rdf on DeviantART (https://rdf.deviantart.com)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://rdf.deviantart.com",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1865",
+      "claim": "Potential UTTP-linked handle observed: rdf on Smugmug (https://rdf.smugmug.com/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://rdf.smugmug.com/",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1866",
+      "claim": "Potential UTTP-linked handle observed: rdf on Toster (https://qna.habr.com/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://qna.habr.com/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1867",
+      "claim": "Potential UTTP-linked handle observed: rdf on Codecanyon (https://codecanyon.net/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://codecanyon.net/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1868",
+      "claim": "Potential UTTP-linked handle observed: rdf on Imgflip (https://imgflip.com/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://imgflip.com/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1869",
+      "claim": "Potential UTTP-linked handle observed: rdf on Fur Affinity (https://www.furaffinity.net/gallery/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.furaffinity.net/gallery/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
       "id": "P187",
       "claim": "Potential UTTP-linked handle observed: uttp on SideProjectors (https://www.sideprojectors.com/uttp)",
       "type": "potential",
@@ -9170,6 +9737,96 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://www.sideprojectors.com/uttp",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1870",
+      "claim": "Potential UTTP-linked handle observed: rdf on Audiojungle (https://audiojungle.net/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://audiojungle.net/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1871",
+      "claim": "Potential UTTP-linked handle observed: rdf on Tweakers (https://tweakers.net/gallery/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://tweakers.net/gallery/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1872",
+      "claim": "Potential UTTP-linked handle observed: rdf on VideoHive (https://videohive.net/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://videohive.net/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1873",
+      "claim": "Potential UTTP-linked handle observed: rdf on Niftygateway (https://niftygateway.com/profile/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://niftygateway.com/profile/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1874",
+      "claim": "Potential UTTP-linked handle observed: rdf on N4g (https://n4g.com/user/home/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://n4g.com/user/home/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1875",
+      "claim": "Potential UTTP-linked handle observed: rdf on PromoDJ (http://promodj.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "http://promodj.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1876",
+      "claim": "Potential UTTP-linked handle observed: rdf on Vgtimes (https://vgtimes.ru/user/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://vgtimes.ru/user/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1877",
+      "claim": "Potential UTTP-linked handle observed: rdf on Erome (https://www.erome.com/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.erome.com/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1878",
+      "claim": "Potential UTTP-linked handle observed: rdf on Pokemon Showdown (https://pokemonshowdown.com/users/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://pokemonshowdown.com/users/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1879",
+      "claim": "Potential UTTP-linked handle observed: rdf on YouNow (https://www.younow.com/rdf/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.younow.com/rdf/",
+      "first_seen": "2026-11-23T19:30:01Z"
     },
     {
       "id": "P188",
@@ -9181,6 +9838,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1880",
+      "claim": "Potential UTTP-linked handle observed: rdf on ngl.link (https://ngl.link/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://ngl.link/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1881",
+      "claim": "Potential UTTP-linked handle observed: rdf on Coders Rank (https://profile.codersrank.io/user/rdf/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://profile.codersrank.io/user/rdf/",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1882",
+      "claim": "Potential UTTP-linked handle observed: rdf on Dumpor (https://dumpor.com/v/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://dumpor.com/v/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1883",
+      "claim": "Potential UTTP-linked handle observed: rdf on Minecraft-statistic (https://minecraft-statistic.net/ru/player/rdf.html)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://minecraft-statistic.net/ru/player/rdf.html",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1884",
+      "claim": "Potential UTTP-linked handle observed: rdf on Empretienda AR (https://rdf.empretienda.com.ar)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://rdf.empretienda.com.ar",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1885",
+      "claim": "Potential UTTP-linked handle observed: rdf on Artpersona (http://artpersona.org/cb/userprofile/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "http://artpersona.org/cb/userprofile/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1886",
+      "claim": "Potential UTTP-linked handle observed: rdf on CD-Action (https://cdaction.pl/uzytkownicy/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://cdaction.pl/uzytkownicy/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1887",
+      "claim": "Potential UTTP-linked handle observed: rdf on Cda.pl (https://www.cda.pl/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.cda.pl/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1888",
+      "claim": "Potential UTTP-linked handle observed: rdf on Castingcallclub (https://www.castingcall.club/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.castingcall.club/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1889",
+      "claim": "Potential UTTP-linked handle observed: rdf on Cytoid.io (https://cytoid.io/profile/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://cytoid.io/profile/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
       "id": "P189",
       "claim": "Potential UTTP-linked handle observed: uttp on podolsk (https://forum.podolsk.ru/search.php?keywords=&terms=all&author=uttp)",
       "type": "potential",
@@ -9190,6 +9937,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1890",
+      "claim": "Potential UTTP-linked handle observed: rdf on Mym.fans (https://mym.fans/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://mym.fans/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1891",
+      "claim": "Potential UTTP-linked handle observed: rdf on Tenor.com (https://tenor.com/users/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://tenor.com/users/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1892",
+      "claim": "Potential UTTP-linked handle observed: rdf on musicinafrica.net (https://musicinafrica.net/fr/users/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://musicinafrica.net/fr/users/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1893",
+      "claim": "Potential UTTP-linked handle observed: rdf on renderosity.com (https://renderosity.com/users/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://renderosity.com/users/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1894",
+      "claim": "Potential UTTP-linked handle observed: rdf on OP.GG LoL Singapore (https://op.gg/lol/summoners/search?q=rdf&region=sg)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=rdf&region=sg",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1895",
+      "claim": "Potential UTTP-linked handle observed: rdf on OP.GG LoL Thailand (https://op.gg/lol/summoners/search?q=rdf&region=th)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=rdf&region=th",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1896",
+      "claim": "Potential UTTP-linked handle observed: rdf on OP.GG LoL Phillippines (https://op.gg/lol/summoners/search?q=rdf&region=ph)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://op.gg/lol/summoners/search?q=rdf&region=ph",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1897",
+      "claim": "Potential UTTP-linked handle observed: rdf on Cifra Club (https://cifraclub.com.br/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://cifraclub.com.br/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1898",
+      "claim": "Potential UTTP-linked handle observed: rdf on Libraries (https://libraries.io/github/rdf/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://libraries.io/github/rdf/",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1899",
+      "claim": "Potential UTTP-linked handle observed: rdf on Lolchess (https://lolchess.gg/profile/na/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://lolchess.gg/profile/na/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
       "id": "P190",
       "claim": "Potential UTTP-linked handle observed: uttp on lightstalking.com (https://www.lightstalking.com/author/uttp/)",
       "type": "potential",
@@ -9197,6 +10034,51 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://www.lightstalking.com/author/uttp/",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1900",
+      "claim": "Potential UTTP-linked handle observed: rdf on Mactalk (http://www.mactalk.com.au/member.php?username=rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "http://www.mactalk.com.au/member.php?username=rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1901",
+      "claim": "Potential UTTP-linked handle observed: rdf on Plug.DJ (https://plug.dj/@/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://plug.dj/@/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1902",
+      "claim": "Potential UTTP-linked handle observed: rdf on Pornhub (https://pornhub.com/users/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://pornhub.com/users/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1903",
+      "claim": "Potential UTTP-linked handle observed: rdf on Repl.it (https://repl.it/@rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://repl.it/@rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
+    },
+    {
+      "id": "P1904",
+      "claim": "Potential UTTP-linked handle observed: rdf on Vero (https://vero.co/rdf)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://vero.co/rdf",
+      "first_seen": "2026-11-23T19:30:01Z"
     },
     {
       "id": "P191",
@@ -14316,6 +15198,48 @@
       "detail": "New platform surface changes detected.",
       "count": 830,
       "delta": 19
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "type": "source discovery",
+      "detail": "New source URLs discovered.",
+      "count": 2530,
+      "delta": 124
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "type": "OSINT collection",
+      "detail": "New StyxNet OSINT findings collected.",
+      "count": 1363,
+      "delta": 143
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "type": "area discovery",
+      "detail": "New platform surfaces mapped.",
+      "count": 1714,
+      "delta": 124
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "type": "claim discovery",
+      "detail": "New potential claims identified.",
+      "count": 1085,
+      "delta": 98
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "type": "watchlist discovery",
+      "detail": "New watch leads identified.",
+      "count": 1055,
+      "delta": 93
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "type": "migration detection",
+      "detail": "New platform surface changes detected.",
+      "count": 840,
+      "delta": 10
     }
   ],
   "discovered_tactics": [
@@ -14619,145 +15543,145 @@
       "name": "UTTP / UTube Troll Police",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "UTTP Empire / Nu-UTTP",
       "entity_id": "UTTP-EMPIRE",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "Circusfall faction",
       "entity_id": "CIRCUSFALL",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "OfficerSlappy faction / UTTP Forum",
       "entity_id": "OFFICERSLAPPY",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "DPOS / Degeneracy Police Order State",
       "entity_id": "DPOS",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "TYRANNY / RUTTP",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "Anti-Fandom Resistance (AFR)",
       "entity_id": "AFR",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "Bn0r Empire",
       "entity_id": "BN0R",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "Reddit Defence Force (RDF)",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "RDFPARTY",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "KKTK / KuKluxTrollKlan",
       "entity_id": "KKTK",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "YFGA",
       "entity_id": "YFGA",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "VGCP / VideoGameCartoonPolice",
       "entity_id": "VGCP",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "AFF / Anti Fandom Front",
       "entity_id": "AFF",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "AUTTP / Anti-UTTP",
       "entity_id": "AUTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "764",
       "entity_id": "764",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "Harm Nation",
       "entity_id": "HARMNATION",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "O9A / ONA",
       "entity_id": "O9A",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "Spawnism",
       "entity_id": "SPAWNISM",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "FPE-Police",
       "entity_id": "FPE-POLICE",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "FPE ecosystem",
       "entity_id": "FPE",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "TNM / The Militia",
       "entity_id": "TNM",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "148 / 1488",
       "entity_id": "148",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     },
     {
       "name": "Imperium of the Enclave / GRS",
       "entity_id": "ENCLAVE",
       "basis": "name_token",
-      "first_seen": "2026-11-23T17:15:01Z"
+      "first_seen": "2026-11-23T23:15:01Z"
     }
   ],
   "migration_events": [
@@ -19738,6 +20662,66 @@
     {
       "date": "2026-11-23T13:15:01Z",
       "platform": "smallgames.ws",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "codeberg",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "foursquare",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "friendica",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "cd baby",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "working not working",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "contently",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "smugmug",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "toster",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "empretienda ar",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T19:30:01Z",
+      "platform": "cd-action",
       "change": "discovered_surface",
       "detail": "Auto-discovered platform surface"
     }
@@ -45522,6 +46506,2441 @@
       ],
       "first_seen": "2026-11-23T13:03:18Z",
       "last_seen": "2026-11-23T13:03:18Z"
+    },
+    {
+      "id": "OS1221",
+      "username": "rdf",
+      "platform": "GitHub",
+      "url": "https://github.com/rdf",
+      "title": "Rdf · GitHub",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1222",
+      "username": "rdf",
+      "platform": "Mastodon",
+      "url": "https://mastodon.social/@rdf",
+      "title": "Rory Fraser (@rdf@mastodon.social) - Mastodon.social",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1223",
+      "username": "rdf",
+      "platform": "Keybase",
+      "url": "https://keybase.io/rdf",
+      "title": "rdf | Keybase",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1224",
+      "username": "rdf",
+      "platform": "Bluesky",
+      "url": "https://bsky.app/profile/rdf.bsky.social",
+      "title": "@rdf.bsky.social on Bluesky",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1225",
+      "username": "rdf",
+      "platform": "SoundCloud",
+      "url": "https://soundcloud.com/rdf",
+      "title": "Stream Roebin de Freitas music | Listen to songs, albums, playlists for free on SoundCloud",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1226",
+      "username": "rdf",
+      "platform": "Replit",
+      "url": "https://replit.com/@rdf",
+      "title": "Sign Up - Replit",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1227",
+      "username": "rdf",
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/rdf",
+      "title": "Steam Community :: Off",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1228",
+      "username": "rdf",
+      "platform": "Steam (Group)",
+      "url": "https://steamcommunity.com/groups/rdf",
+      "title": "Steam Community :: Group :: -[RdF]-",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1229",
+      "username": "rdf",
+      "platform": "Steam (by id)",
+      "url": "https://steamcommunity.com/profiles/rdf",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1230",
+      "username": "rdf",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/rdf",
+      "title": "Reddit",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1231",
+      "username": "rdf",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1232",
+      "username": "rdf",
+      "platform": "Codeberg",
+      "url": "https://codeberg.org/rdf",
+      "title": "RDF - Codeberg.org",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1233",
+      "username": "rdf",
+      "platform": "Threads",
+      "url": "https://www.threads.net/@rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1234",
+      "username": "rdf",
+      "platform": "Rubygems",
+      "url": "https://rubygems.org/profiles/rdf",
+      "title": "Profile of rdf | RubyGems.org | your community gem host",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1235",
+      "username": "rdf",
+      "platform": "Mixcloud",
+      "url": "https://www.mixcloud.com/rdf/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1236",
+      "username": "rdf",
+      "platform": "Linktree",
+      "url": "https://linktr.ee/rdf",
+      "title": "rdf Official: Facebook | Linktree",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1237",
+      "username": "rdf",
+      "platform": "Bandcamp",
+      "url": "https://bandcamp.com/rdf",
+      "title": "rdf&#39;s collection | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1238",
+      "username": "rdf",
+      "platform": "DeviantArt",
+      "url": "https://www.deviantart.com/rdf",
+      "title": "rdf on DeviantArt",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1239",
+      "username": "rdf",
+      "platform": "RuneScape",
+      "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=rdf",
+      "title": "Old School  Hiscores",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1240",
+      "username": "rdf",
+      "platform": "Figma",
+      "url": "https://www.figma.com/@rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1241",
+      "username": "rdf",
+      "platform": "Tumblr",
+      "url": "https://www.tumblr.com/blog/rdf",
+      "title": "Register - Login",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1242",
+      "username": "rdf",
+      "platform": "Gab",
+      "url": "https://gab.com/rdf",
+      "title": "Robert Flanary (@RDF) · Gab.com - Gab Social",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1243",
+      "username": "rdf",
+      "platform": "Truth Social",
+      "url": "https://truthsocial.com/@rdf",
+      "title": "Truth Social",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1244",
+      "username": "rdf",
+      "platform": "GETTR",
+      "url": "https://gettr.com/user/rdf",
+      "title": "rdf on GETTR - Profile and Posts",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1245",
+      "username": "rdf",
+      "platform": "Foursquare",
+      "url": "https://foursquare.com/rdf",
+      "title": "Foursquare",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1246",
+      "username": "rdf",
+      "platform": "Clubhouse",
+      "url": "https://www.joinclubhouse.com/@rdf",
+      "title": "Rodney Franks - Clubhouse",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1247",
+      "username": "rdf",
+      "platform": "Fotolog",
+      "url": "https://www.fotolog.com/rdf",
+      "title": "FotoLog",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1248",
+      "username": "rdf",
+      "platform": "Nextdoor",
+      "url": "https://nextdoor.com/profile/rdf",
+      "title": "Login - Nextdoor",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1249",
+      "username": "rdf",
+      "platform": "Pixelfed",
+      "url": "https://pixelfed.org/rdf",
+      "title": "Pixelfed - Decentralized social media",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1250",
+      "username": "rdf",
+      "platform": "Friendica",
+      "url": "https://friendi.ca/rdf",
+      "title": "friendica",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1251",
+      "username": "rdf",
+      "platform": "Douban",
+      "url": "https://www.douban.com/people/rdf",
+      "title": "RDF Site Sum",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1252",
+      "username": "rdf",
+      "platform": "Dice",
+      "url": "https://www.dice.com/profile/rdf",
+      "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1253",
+      "username": "rdf",
+      "platform": "GitHub Gist",
+      "url": "https://gist.github.com/rdf",
+      "title": "Rdf’s gists · GitHub",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1254",
+      "username": "rdf",
+      "platform": "Codewars",
+      "url": "https://www.codewars.com/users/rdf",
+      "title": "rdf | Codewars",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1255",
+      "username": "rdf",
+      "platform": "StackBlitz",
+      "url": "https://stackblitz.com/@rdf",
+      "title": "RDF",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1256",
+      "username": "rdf",
+      "platform": "Xbox",
+      "url": "https://www.xbox.com/en-US/play/user/rdf",
+      "title": "View rdf&#x27;s profile | Xbox Cloud Gaming on  Xbox.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1257",
+      "username": "rdf",
+      "platform": "GOG",
+      "url": "https://www.gog.com/u/rdf",
+      "title": "rdf&#039;s profile on GOG.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1258",
+      "username": "rdf",
+      "platform": "Rockstar Social Club",
+      "url": "https://socialclub.rockstargames.com/member/rdf",
+      "title": "Rockstar Games",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1259",
+      "username": "rdf",
+      "platform": "Chess.com",
+      "url": "https://www.chess.com/member/rdf",
+      "title": "Ryan Foster (rdf) - Chess Profile - Chess.com",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1260",
+      "username": "rdf",
+      "platform": "osu!",
+      "url": "https://osu.ppy.sh/users/rdf",
+      "title": "RDF‬ · player info‬ | ‭osu!‬",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1261",
+      "username": "rdf",
+      "platform": "itch.io",
+      "url": "https://rdf.itch.io",
+      "title": "Rdf - itch.io",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1262",
+      "username": "rdf",
+      "platform": "Hypixel",
+      "url": "https://hypixel.net/player/rdf",
+      "title": "RDF | Hypixel Forums",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1263",
+      "username": "rdf",
+      "platform": "Second Life",
+      "url": "https://my.secondlife.com/rdf",
+      "title": "rdf - Second Life",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1264",
+      "username": "rdf",
+      "platform": "Star Citizen",
+      "url": "https://robertsspaceindustries.com/citizens/rdf",
+      "title": "Like_a | RDF - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1265",
+      "username": "rdf",
+      "platform": "Pandora",
+      "url": "https://www.pandora.com/profile/rdf",
+      "title": "Pandora Radio for Mobile",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1266",
+      "username": "rdf",
+      "platform": "hearthis.at",
+      "url": "https://hearthis.at/rdf",
+      "title": "RDF |  hearthis.at",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1267",
+      "username": "rdf",
+      "platform": "ReverbNation",
+      "url": "https://www.reverbnation.com/rdf",
+      "title": "Rdf | ReverbNation",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1268",
+      "username": "rdf",
+      "platform": "Audiomack",
+      "url": "https://audiomack.com/rdf",
+      "title": "rdf - Listen Free on Audiomack",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1269",
+      "username": "rdf",
+      "platform": "Audius",
+      "url": "https://audius.co/rdf",
+      "title": "Audius — Free Music Streaming for Artists, Labels &amp; Fans",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1270",
+      "username": "rdf",
+      "platform": "YouTube Music",
+      "url": "https://music.youtube.com/rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1271",
+      "username": "rdf",
+      "platform": "CD Baby",
+      "url": "https://www.cdbaby.com/rdf",
+      "title": "CD Baby",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1272",
+      "username": "rdf",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1273",
+      "username": "rdf",
+      "platform": "Odysee",
+      "url": "https://odysee.com/@rdf",
+      "title": "@rdf",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1274",
+      "username": "rdf",
+      "platform": "PeerTube",
+      "url": "https://peertube.tv/rdf",
+      "title": "PeerTube.TV",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1275",
+      "username": "rdf",
+      "platform": "FurAffinity",
+      "url": "https://www.furaffinity.net/user/rdf",
+      "title": "Userpage of RDF -- Fur Affinity [dot] net",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1276",
+      "username": "rdf",
+      "platform": "Giphy",
+      "url": "https://giphy.com/rdf",
+      "title": "Rdf GIFs - Find &amp; Share on GIPHY",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1277",
+      "username": "rdf",
+      "platform": "Snapchat",
+      "url": "https://www.snapchat.com/add/rdf",
+      "title": "Friedman Rachel (@rdf) | Snapchat Stories, Spotlight &amp; Lenses",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1278",
+      "username": "rdf",
+      "platform": "Itch.io",
+      "url": "https://rdf.itch.io/",
+      "title": "Rdf - itch.io",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1279",
+      "username": "rdf",
+      "platform": "Mixer",
+      "url": "https://mixer.com/rdf",
+      "title": "Log in to Facebook | Facebook",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1280",
+      "username": "rdf",
+      "platform": "Streamlabs Design",
+      "url": "https://streamlabs.com/rdf",
+      "title": "rdf / Streamlabs",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1281",
+      "username": "rdf",
+      "platform": "The Noun Project",
+      "url": "https://thenounproject.com/rdf",
+      "title": "rdf",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1282",
+      "username": "rdf",
+      "platform": "MusicBrainz",
+      "url": "https://musicbrainz.org/user/rdf",
+      "title": "Editor “rdf” - MusicBrainz",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1283",
+      "username": "rdf",
+      "platform": "Producer Hive",
+      "url": "https://producerhive.com/rdf",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1284",
+      "username": "rdf",
+      "platform": "Vimeo Showcase",
+      "url": "https://vimeo.com/showcase/rdf",
+      "title": "Showcase on Vimeo",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1285",
+      "username": "rdf",
+      "platform": "Cargo Collective",
+      "url": "https://cargocollective.com/rdf",
+      "title": "Ryan De Franco Director of Photography",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1286",
+      "username": "rdf",
+      "platform": "Working Not Working",
+      "url": "https://workingnotworking.com/rdf",
+      "title": "workingnotworking.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1287",
+      "username": "rdf",
+      "platform": "Contently",
+      "url": "https://www.contently.com/rdf",
+      "title": "Contently",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1288",
+      "username": "rdf",
+      "platform": "UnitedMasters",
+      "url": "https://unitedmasters.com/rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1289",
+      "username": "rdf",
+      "platform": "United Masters",
+      "url": "https://app.unitedmasters.com/rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1290",
+      "username": "rdf",
+      "platform": "MicrosoftLearn",
+      "url": "https://learn.microsoft.com/en-us/users/rdf",
+      "title": "Profile | Microsoft Learn",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1291",
+      "username": "rdf",
+      "platform": "WordPressOrg",
+      "url": "https://profiles.wordpress.org/rdf/",
+      "title": "rdf (@rdf) &#8211; WordPress user profile | WordPress.org",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1292",
+      "username": "rdf",
+      "platform": "ThemeForest",
+      "url": "https://themeforest.net/user/rdf",
+      "title": "rdf&#39;s profile on ThemeForest",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1293",
+      "username": "rdf",
+      "platform": "StackOverflow",
+      "url": "https://stackoverflow.com/users/filter?search=rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1294",
+      "username": "rdf",
+      "platform": "Disqus",
+      "url": "https://disqus.com/rdf",
+      "title": "Disqus Profile - RDF",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1295",
+      "username": "rdf",
+      "platform": "profile.hatena.ne.jp",
+      "url": "https://profile.hatena.ne.jp/rdf/",
+      "title": "rdf&#39;s Profile - Hatena",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1296",
+      "username": "rdf",
+      "platform": "DeviantART",
+      "url": "https://rdf.deviantart.com",
+      "title": "rdf on DeviantArt",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1297",
+      "username": "rdf",
+      "platform": "Smugmug",
+      "url": "https://rdf.smugmug.com/",
+      "title": "password - rdf",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1298",
+      "username": "rdf",
+      "platform": "Toster",
+      "url": "https://qna.habr.com/user/rdf",
+      "title": "Пользователь RDF &mdash; Хабр Q&A",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1299",
+      "username": "rdf",
+      "platform": "Codecanyon",
+      "url": "https://codecanyon.net/user/rdf",
+      "title": "rdf&#39;s profile on CodeCanyon",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1300",
+      "username": "rdf",
+      "platform": "ChaturBate",
+      "url": "https://chaturbate.com/rdf/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1301",
+      "username": "rdf",
+      "platform": "Imgflip",
+      "url": "https://imgflip.com/user/rdf",
+      "title": "rdf's Profile - Imgflip",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1302",
+      "username": "rdf",
+      "platform": "ItemFix",
+      "url": "https://www.itemfix.com/c/rdf",
+      "title": "ItemFix - Channel:",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1303",
+      "username": "rdf",
+      "platform": "Fur Affinity",
+      "url": "https://www.furaffinity.net/gallery/rdf",
+      "title": "Artwork Gallery for RDF -- Fur Affinity [dot] net",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1304",
+      "username": "rdf",
+      "platform": "Audiojungle",
+      "url": "https://audiojungle.net/user/rdf",
+      "title": "rdf&#39;s profile on AudioJungle",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1305",
+      "username": "rdf",
+      "platform": "Tweakers",
+      "url": "https://tweakers.net/gallery/rdf",
+      "title": "DPG Media Privacy Gate",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1306",
+      "username": "rdf",
+      "platform": "Paltalk",
+      "url": "https://www.paltalk.com/people/users/rdf",
+      "title": "Chat Room Member on Paltalk",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1307",
+      "username": "rdf",
+      "platform": "VideoHive",
+      "url": "https://videohive.net/user/rdf",
+      "title": "rdf&#39;s profile on VideoHive",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1308",
+      "username": "rdf",
+      "platform": "Niftygateway",
+      "url": "https://niftygateway.com/profile/rdf",
+      "title": "rdf does not exits on Nifty Gateway",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1309",
+      "username": "rdf",
+      "platform": "N4g",
+      "url": "https://n4g.com/user/home/rdf",
+      "title": "RDF, Author at N4G",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1310",
+      "username": "rdf",
+      "platform": "PromoDJ",
+      "url": "http://promodj.com/rdf",
+      "title": "NadejdaDima",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1311",
+      "username": "rdf",
+      "platform": "Wishlistr",
+      "url": "https://www.wishlistr.com/rdf/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1312",
+      "username": "rdf",
+      "platform": "InterPals",
+      "url": "https://www.interpals.net/rdf",
+      "title": "InterPals",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1313",
+      "username": "rdf",
+      "platform": "Vgtimes",
+      "url": "https://vgtimes.ru/user/rdf",
+      "title": "rdf",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1314",
+      "username": "rdf",
+      "platform": "Erome",
+      "url": "https://www.erome.com/rdf",
+      "title": "rdf - Profile page - EroMe",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1315",
+      "username": "rdf",
+      "platform": "Pokemon Showdown",
+      "url": "https://pokemonshowdown.com/users/rdf",
+      "title": "rdf - Users - Pok&eacute;mon Showdown",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1316",
+      "username": "rdf",
+      "platform": "Old-games",
+      "url": "https://www.old-games.ru/forum/members/?username=rdf",
+      "title": "Выдающиеся пользователи | Форум Old-Games.RU. Всё о старых играх",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1317",
+      "username": "rdf",
+      "platform": "YouNow",
+      "url": "https://www.younow.com/rdf/",
+      "title": "YouNow",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1318",
+      "username": "rdf",
+      "platform": "1001tracklists",
+      "url": "https://www.1001tracklists.com/user/rdf/index.html",
+      "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+      "status": 206,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1319",
+      "username": "rdf",
+      "platform": "ngl.link",
+      "url": "https://ngl.link/rdf",
+      "title": "@rdf",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1320",
+      "username": "rdf",
+      "platform": "CSSBattle",
+      "url": "https://cssbattle.dev/player/rdf",
+      "title": "CSSBattle",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1321",
+      "username": "rdf",
+      "platform": "Coders Rank",
+      "url": "https://profile.codersrank.io/user/rdf/",
+      "title": "rdf&#x27;s CodersRank profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1322",
+      "username": "rdf",
+      "platform": "Dumpor",
+      "url": "https://dumpor.com/v/rdf",
+      "title": "rdf  Watch instagram stories and profile anonymous",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1323",
+      "username": "rdf",
+      "platform": "Minecraft-statistic",
+      "url": "https://minecraft-statistic.net/ru/player/rdf.html",
+      "title": "rdf — профиль игрока Minecraft, статистика и скин",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1324",
+      "username": "rdf",
+      "platform": "Empretienda AR",
+      "url": "https://rdf.empretienda.com.ar",
+      "title": "Tienda online de RDF",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1325",
+      "username": "rdf",
+      "platform": "Arhrock",
+      "url": "https://arhrock.info/forum/members/?username=rdf",
+      "title": "Выдающиеся пользователи | ArhRock Forum",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1326",
+      "username": "rdf",
+      "platform": "Artpersona",
+      "url": "http://artpersona.org/cb/userprofile/rdf",
+      "title": "ArtPersona Preview",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1327",
+      "username": "rdf",
+      "platform": "CD-Action",
+      "url": "https://cdaction.pl/uzytkownicy/rdf",
+      "title": "CD-Action",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1328",
+      "username": "rdf",
+      "platform": "Cda.pl",
+      "url": "https://www.cda.pl/rdf",
+      "title": "rdf - cda.pl",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1329",
+      "username": "rdf",
+      "platform": "Castingcallclub",
+      "url": "https://www.castingcall.club/rdf",
+      "title": "RDF | Casting Call Club",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1330",
+      "username": "rdf",
+      "platform": "Cytoid.io",
+      "url": "https://cytoid.io/profile/rdf",
+      "title": "rdf - Cytoid",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1331",
+      "username": "rdf",
+      "platform": "Fotka",
+      "url": "https://api.fotka.com/v2/user/dataStatic?login=rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1332",
+      "username": "rdf",
+      "platform": "Mym.fans",
+      "url": "https://mym.fans/rdf",
+      "title": "Rdf • MYM • Exclusive social network for creators &amp; fans",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1333",
+      "username": "rdf",
+      "platform": "Tenor.com",
+      "url": "https://tenor.com/users/rdf",
+      "title": "Rdf&#039;s GIFs on Tenor",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1334",
+      "username": "rdf",
+      "platform": "musicinafrica.net",
+      "url": "https://musicinafrica.net/fr/users/rdf",
+      "title": "Users &#8211; Music In Africa",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1335",
+      "username": "rdf",
+      "platform": "renderosity.com",
+      "url": "https://renderosity.com/users/rdf",
+      "title": "Renderosity - 3D Models | 3D Software | 3D Art",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1336",
+      "username": "rdf",
+      "platform": "SchemeColor",
+      "url": "https://www.schemecolor.com/author/rdf",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1337",
+      "username": "rdf",
+      "platform": "Shelf",
+      "url": "https://www.shelf.im/rdf",
+      "title": "Alan on Shelf",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1338",
+      "username": "rdf",
+      "platform": "OP.GG LoL Brazil",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=br",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1339",
+      "username": "rdf",
+      "platform": "OP.GG LoL North America",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=na",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1340",
+      "username": "rdf",
+      "platform": "OP.GG LoL Middle East",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=me",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1341",
+      "username": "rdf",
+      "platform": "OP.GG LoL Europe Nordic & East",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=eune",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1342",
+      "username": "rdf",
+      "platform": "OP.GG LoL Europe West",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=euw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1343",
+      "username": "rdf",
+      "platform": "OP.GG LoL Oceania",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=oce",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1344",
+      "username": "rdf",
+      "platform": "OP.GG LoL Korea",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=kr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1345",
+      "username": "rdf",
+      "platform": "OP.GG LoL Japan",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=jp",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1346",
+      "username": "rdf",
+      "platform": "OP.GG LoL LAN",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=lan",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1347",
+      "username": "rdf",
+      "platform": "OP.GG LoL Russia",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=ru",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1348",
+      "username": "rdf",
+      "platform": "OP.GG LoL LAS",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=las",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1349",
+      "username": "rdf",
+      "platform": "OP.GG LoL Taiwan",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=tw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1350",
+      "username": "rdf",
+      "platform": "OP.GG LoL Turkey",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=tr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1351",
+      "username": "rdf",
+      "platform": "OP.GG LoL Singapore",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=sg",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1352",
+      "username": "rdf",
+      "platform": "OP.GG LoL Vietnam",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=vn",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1353",
+      "username": "rdf",
+      "platform": "OP.GG LoL Thailand",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=th",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1354",
+      "username": "rdf",
+      "platform": "OP.GG LoL Phillippines",
+      "url": "https://op.gg/lol/summoners/search?q=rdf&region=ph",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1355",
+      "username": "rdf",
+      "platform": "Cifra Club",
+      "url": "https://cifraclub.com.br/rdf",
+      "title": "RDF - Cifra Club",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1356",
+      "username": "rdf",
+      "platform": "Libraries",
+      "url": "https://libraries.io/github/rdf/",
+      "title": "Rdf · GitHub",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1357",
+      "username": "rdf",
+      "platform": "Lolchess",
+      "url": "https://lolchess.gg/profile/na/rdf",
+      "title": "TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1358",
+      "username": "rdf",
+      "platform": "Mactalk",
+      "url": "http://www.mactalk.com.au/member.php?username=rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1359",
+      "username": "rdf",
+      "platform": "Plug.DJ",
+      "url": "https://plug.dj/@/rdf",
+      "title": "Sign in ・ Cloudflare Access",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1360",
+      "username": "rdf",
+      "platform": "Pornhub",
+      "url": "https://pornhub.com/users/rdf",
+      "title": "rdf&#039;s Profile - Pornhub.com",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1361",
+      "username": "rdf",
+      "platform": "Repl.it",
+      "url": "https://repl.it/@rdf",
+      "title": "Sign Up - Replit",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1362",
+      "username": "rdf",
+      "platform": "Vero",
+      "url": "https://vero.co/rdf",
+      "title": "Rdf on VERO™",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
+    },
+    {
+      "id": "OS1363",
+      "username": "rdf",
+      "platform": "Yelp (by id)",
+      "url": "https://www.yelp.com/user_details?userid=rdf",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T19:18:47Z",
+      "last_seen": "2026-11-23T19:18:47Z"
     }
   ],
   "strict_validation": {
@@ -45555,7 +48974,7 @@
     }
   },
   "monitor_feed": {
-    "updated": "2026-11-23T17:15:15Z",
+    "updated": "2026-11-23T23:15:14Z",
     "mode": "lightweight source watch",
     "urls_checked": 10,
     "results": [
@@ -45563,7 +48982,7 @@
         "status": 0,
         "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
         "content_type": "",
-        "elapsed_ms": 5253,
+        "elapsed_ms": 5107,
         "ok": false,
         "error": "The read operation timed out",
         "source_id": "S001",
@@ -45573,7 +48992,7 @@
         "status": 200,
         "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
         "content_type": "text/html",
-        "elapsed_ms": 960,
+        "elapsed_ms": 586,
         "ok": true,
         "source_id": "S003",
         "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -45582,7 +49001,7 @@
         "status": 200,
         "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
         "content_type": "application/pdf",
-        "elapsed_ms": 997,
+        "elapsed_ms": 845,
         "ok": true,
         "source_id": "S005",
         "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -45591,7 +49010,7 @@
         "status": 200,
         "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 368,
+        "elapsed_ms": 148,
         "ok": true,
         "source_id": "S013",
         "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -45600,7 +49019,7 @@
         "status": 200,
         "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 599,
+        "elapsed_ms": 437,
         "ok": true,
         "source_id": "S014",
         "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -45609,7 +49028,7 @@
         "status": 200,
         "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 633,
+        "elapsed_ms": 425,
         "ok": true,
         "source_id": "S021",
         "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -45618,7 +49037,7 @@
         "status": 403,
         "final_url": "https://soyjakwiki.org/UTTP",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 192,
+        "elapsed_ms": 88,
         "ok": false,
         "source_id": "S023",
         "url": "https://soyjakwiki.org/UTTP"
@@ -45627,7 +49046,7 @@
         "status": 200,
         "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
         "content_type": "application/pdf",
-        "elapsed_ms": 157,
+        "elapsed_ms": 171,
         "ok": true,
         "source_id": "S031",
         "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -45636,7 +49055,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 771,
+        "elapsed_ms": 613,
         "ok": true,
         "source_id": "S034",
         "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -45645,7 +49064,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 724,
+        "elapsed_ms": 461,
         "ok": true,
         "source_id": "S040",
         "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -45654,7 +49073,7 @@
     "tel_records": 34
   },
   "tel_intake": {
-    "updated": "2026-11-23T17:15:15Z",
+    "updated": "2026-11-23T23:15:14Z",
     "count": 0,
     "entries": []
   },
@@ -45770,7 +49189,7 @@
   ],
   "tel_records": 34,
   "monitor": {
-    "updated": "2026-11-23 17:15 UTC",
+    "updated": "2026-11-23 23:15 UTC",
     "styxnet": {
       "raw_rows": 823,
       "exact_rows": 761,
@@ -45788,23 +49207,23 @@
     },
     "archive": {
       "manifest_files": 783,
-      "discovered_source_count": 2406,
+      "discovered_source_count": 2530,
       "rebrand_count": 24,
-      "migration_event_count": 830,
-      "discovered_area_count": 1590,
-      "potential_claim_count": 987,
-      "discovered_watchlist_count": 962,
+      "migration_event_count": 840,
+      "discovered_area_count": 1714,
+      "potential_claim_count": 1085,
+      "discovered_watchlist_count": 1055,
       "discovered_tactic_count": 294,
-      "discovery_event_count": 47,
+      "discovery_event_count": 53,
       "styxnet_profile_count": 767,
-      "osint_finding_count": 1220,
-      "osint_exact_count": 1162,
-      "osint_high_confidence_count": 602,
-      "osint_new_7d": 1220,
-      "last_osint": "2026-11-23T13:03:18Z",
-      "new_sources_7d": 2406,
+      "osint_finding_count": 1363,
+      "osint_exact_count": 1305,
+      "osint_high_confidence_count": 701,
+      "osint_new_7d": 1363,
+      "last_osint": "2026-11-23T19:18:47Z",
+      "new_sources_7d": 2530,
       "new_styxnet_profiles_7d": 767,
-      "last_discovery": "2026-11-23T17:15:01Z",
+      "last_discovery": "2026-11-23T23:15:01Z",
       "public_release_gb": 6,
       "entity_count": 31,
       "source_count": 91,
@@ -45812,11 +49231,11 @@
       "area_platforms": 20,
       "claim_count": 44,
       "watchlist_count": 12,
-      "evolution_events": 96,
+      "evolution_events": 102,
       "unique_tactics": 342
     },
     "monitor_feed": {
-      "updated": "2026-11-23T17:15:15Z",
+      "updated": "2026-11-23T23:15:14Z",
       "mode": "lightweight source watch",
       "urls_checked": 10,
       "results": [
@@ -45824,7 +49243,7 @@
           "status": 0,
           "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
           "content_type": "",
-          "elapsed_ms": 5253,
+          "elapsed_ms": 5107,
           "ok": false,
           "error": "The read operation timed out",
           "source_id": "S001",
@@ -45834,7 +49253,7 @@
           "status": 200,
           "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
           "content_type": "text/html",
-          "elapsed_ms": 960,
+          "elapsed_ms": 586,
           "ok": true,
           "source_id": "S003",
           "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -45843,7 +49262,7 @@
           "status": 200,
           "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
           "content_type": "application/pdf",
-          "elapsed_ms": 997,
+          "elapsed_ms": 845,
           "ok": true,
           "source_id": "S005",
           "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -45852,7 +49271,7 @@
           "status": 200,
           "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 368,
+          "elapsed_ms": 148,
           "ok": true,
           "source_id": "S013",
           "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -45861,7 +49280,7 @@
           "status": 200,
           "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 599,
+          "elapsed_ms": 437,
           "ok": true,
           "source_id": "S014",
           "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -45870,7 +49289,7 @@
           "status": 200,
           "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 633,
+          "elapsed_ms": 425,
           "ok": true,
           "source_id": "S021",
           "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -45879,7 +49298,7 @@
           "status": 403,
           "final_url": "https://soyjakwiki.org/UTTP",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 192,
+          "elapsed_ms": 88,
           "ok": false,
           "source_id": "S023",
           "url": "https://soyjakwiki.org/UTTP"
@@ -45888,7 +49307,7 @@
           "status": 200,
           "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
           "content_type": "application/pdf",
-          "elapsed_ms": 157,
+          "elapsed_ms": 171,
           "ok": true,
           "source_id": "S031",
           "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -45897,7 +49316,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 771,
+          "elapsed_ms": 613,
           "ok": true,
           "source_id": "S034",
           "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -45906,7 +49325,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 724,
+          "elapsed_ms": 461,
           "ok": true,
           "source_id": "S040",
           "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -45937,7 +49356,7 @@
     "overtime": {
       "mode": "rule-based scheduled refresh",
       "refresh_seconds": 30,
-      "last_refresh": "2026-11-23T17:15:20Z",
+      "last_refresh": "2026-11-23T23:15:18Z",
       "next_checks": [
         "offshoot survival",
         "platform removals",

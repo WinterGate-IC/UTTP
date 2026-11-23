@@ -4978,5 +4978,65 @@
     "platform": "smallgames.ws",
     "change": "discovered_surface",
     "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "codeberg",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "foursquare",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "friendica",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "cd baby",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "working not working",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "contently",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "smugmug",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "toster",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "empretienda ar",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
+  },
+  {
+    "date": "2026-11-23T19:30:01Z",
+    "platform": "cd-action",
+    "change": "discovered_surface",
+    "detail": "Auto-discovered platform surface"
   }
 ]

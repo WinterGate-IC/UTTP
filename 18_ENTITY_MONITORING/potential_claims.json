@@ -4005,6 +4005,33 @@
     "first_seen": "2026-11-23T13:15:01Z"
   },
   {
+    "id": "P1807",
+    "claim": "Potential UTTP-linked handle observed: rdf on GitHub (https://github.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://github.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1808",
+    "claim": "Potential UTTP-linked handle observed: rdf on Mastodon (https://mastodon.social/@rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://mastodon.social/@rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1809",
+    "claim": "Potential UTTP-linked handle observed: rdf on Keybase (https://keybase.io/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://keybase.io/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
     "id": "P181",
     "claim": "Potential UTTP-linked handle observed: uttp on TanTan (https://www.tantan.com/uttp)",
     "type": "potential",
@@ -4012,6 +4039,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://www.tantan.com/uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1810",
+    "claim": "Potential UTTP-linked handle observed: rdf on Bluesky (https://bsky.app/profile/rdf.bsky.social)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://bsky.app/profile/rdf.bsky.social",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1811",
+    "claim": "Potential UTTP-linked handle observed: rdf on Replit (https://replit.com/@rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://replit.com/@rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1812",
+    "claim": "Potential UTTP-linked handle observed: rdf on Steam (Group) (https://steamcommunity.com/groups/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://steamcommunity.com/groups/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1813",
+    "claim": "Potential UTTP-linked handle observed: rdf on YouTube (https://www.youtube.com/@rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/@rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1814",
+    "claim": "Potential UTTP-linked handle observed: rdf on Codeberg (https://codeberg.org/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://codeberg.org/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1815",
+    "claim": "Potential UTTP-linked handle observed: rdf on Threads (https://www.threads.net/@rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.threads.net/@rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1816",
+    "claim": "Potential UTTP-linked handle observed: rdf on Rubygems (https://rubygems.org/profiles/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://rubygems.org/profiles/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1817",
+    "claim": "Potential UTTP-linked handle observed: rdf on Linktree (https://linktr.ee/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://linktr.ee/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1818",
+    "claim": "Potential UTTP-linked handle observed: rdf on Bandcamp (https://bandcamp.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://bandcamp.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1819",
+    "claim": "Potential UTTP-linked handle observed: rdf on DeviantArt (https://www.deviantart.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.deviantart.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
   },
   {
     "id": "P182",
@@ -4023,6 +4140,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1820",
+    "claim": "Potential UTTP-linked handle observed: rdf on Tumblr (https://www.tumblr.com/blog/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.tumblr.com/blog/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1821",
+    "claim": "Potential UTTP-linked handle observed: rdf on Gab (https://gab.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gab.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1822",
+    "claim": "Potential UTTP-linked handle observed: rdf on GETTR (https://gettr.com/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gettr.com/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1823",
+    "claim": "Potential UTTP-linked handle observed: rdf on Foursquare (https://foursquare.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://foursquare.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1824",
+    "claim": "Potential UTTP-linked handle observed: rdf on Clubhouse (https://www.joinclubhouse.com/@rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.joinclubhouse.com/@rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1825",
+    "claim": "Potential UTTP-linked handle observed: rdf on Fotolog (https://www.fotolog.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.fotolog.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1826",
+    "claim": "Potential UTTP-linked handle observed: rdf on Nextdoor (https://nextdoor.com/profile/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://nextdoor.com/profile/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1827",
+    "claim": "Potential UTTP-linked handle observed: rdf on Friendica (https://friendi.ca/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://friendi.ca/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1828",
+    "claim": "Potential UTTP-linked handle observed: rdf on Douban (https://www.douban.com/people/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.douban.com/people/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1829",
+    "claim": "Potential UTTP-linked handle observed: rdf on Dice (https://www.dice.com/profile/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.dice.com/profile/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
     "id": "P183",
     "claim": "Potential UTTP-linked handle observed: uttp on EDGAR Full-Text Search (https://efts.sec.gov/LATEST/search-index?q=%22uttp%22)",
     "type": "potential",
@@ -4030,6 +4237,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://efts.sec.gov/LATEST/search-index?q=%22uttp%22",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1830",
+    "claim": "Potential UTTP-linked handle observed: rdf on GitHub Gist (https://gist.github.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gist.github.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1831",
+    "claim": "Potential UTTP-linked handle observed: rdf on Codewars (https://www.codewars.com/users/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.codewars.com/users/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1832",
+    "claim": "Potential UTTP-linked handle observed: rdf on StackBlitz (https://stackblitz.com/@rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://stackblitz.com/@rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1833",
+    "claim": "Potential UTTP-linked handle observed: rdf on Xbox (https://www.xbox.com/en-US/play/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.xbox.com/en-US/play/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1834",
+    "claim": "Potential UTTP-linked handle observed: rdf on GOG (https://www.gog.com/u/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.gog.com/u/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1835",
+    "claim": "Potential UTTP-linked handle observed: rdf on Chess.com (https://www.chess.com/member/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.chess.com/member/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1836",
+    "claim": "Potential UTTP-linked handle observed: rdf on osu! (https://osu.ppy.sh/users/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://osu.ppy.sh/users/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1837",
+    "claim": "Potential UTTP-linked handle observed: rdf on itch.io (https://rdf.itch.io)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://rdf.itch.io",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1838",
+    "claim": "Potential UTTP-linked handle observed: rdf on Hypixel (https://hypixel.net/player/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://hypixel.net/player/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1839",
+    "claim": "Potential UTTP-linked handle observed: rdf on Second Life (https://my.secondlife.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://my.secondlife.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
   },
   {
     "id": "P184",
@@ -4041,6 +4338,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1840",
+    "claim": "Potential UTTP-linked handle observed: rdf on Star Citizen (https://robertsspaceindustries.com/citizens/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://robertsspaceindustries.com/citizens/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1841",
+    "claim": "Potential UTTP-linked handle observed: rdf on hearthis.at (https://hearthis.at/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://hearthis.at/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1842",
+    "claim": "Potential UTTP-linked handle observed: rdf on ReverbNation (https://www.reverbnation.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.reverbnation.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1843",
+    "claim": "Potential UTTP-linked handle observed: rdf on Audiomack (https://audiomack.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://audiomack.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1844",
+    "claim": "Potential UTTP-linked handle observed: rdf on YouTube Music (https://music.youtube.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://music.youtube.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1845",
+    "claim": "Potential UTTP-linked handle observed: rdf on CD Baby (https://www.cdbaby.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.cdbaby.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1846",
+    "claim": "Potential UTTP-linked handle observed: rdf on YouTube (https://www.youtube.com/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1847",
+    "claim": "Potential UTTP-linked handle observed: rdf on Odysee (https://odysee.com/@rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://odysee.com/@rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1848",
+    "claim": "Potential UTTP-linked handle observed: rdf on FurAffinity (https://www.furaffinity.net/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.furaffinity.net/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1849",
+    "claim": "Potential UTTP-linked handle observed: rdf on Giphy (https://giphy.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://giphy.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
     "id": "P185",
     "claim": "Potential UTTP-linked handle observed: uttp on Anycubic (https://www.anycubic.com/uttp)",
     "type": "potential",
@@ -4048,6 +4435,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://www.anycubic.com/uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1850",
+    "claim": "Potential UTTP-linked handle observed: rdf on Snapchat (https://www.snapchat.com/add/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.snapchat.com/add/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1851",
+    "claim": "Potential UTTP-linked handle observed: rdf on Mixer (https://mixer.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://mixer.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1852",
+    "claim": "Potential UTTP-linked handle observed: rdf on Streamlabs Design (https://streamlabs.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://streamlabs.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1853",
+    "claim": "Potential UTTP-linked handle observed: rdf on The Noun Project (https://thenounproject.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://thenounproject.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1854",
+    "claim": "Potential UTTP-linked handle observed: rdf on MusicBrainz (https://musicbrainz.org/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://musicbrainz.org/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1855",
+    "claim": "Potential UTTP-linked handle observed: rdf on Producer Hive (https://producerhive.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://producerhive.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1856",
+    "claim": "Potential UTTP-linked handle observed: rdf on Working Not Working (https://workingnotworking.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://workingnotworking.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1857",
+    "claim": "Potential UTTP-linked handle observed: rdf on Contently (https://www.contently.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.contently.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1858",
+    "claim": "Potential UTTP-linked handle observed: rdf on UnitedMasters (https://unitedmasters.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://unitedmasters.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1859",
+    "claim": "Potential UTTP-linked handle observed: rdf on United Masters (https://app.unitedmasters.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://app.unitedmasters.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
   },
   {
     "id": "P186",
@@ -4059,6 +4536,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1860",
+    "claim": "Potential UTTP-linked handle observed: rdf on WordPressOrg (https://profiles.wordpress.org/rdf/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profiles.wordpress.org/rdf/",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1861",
+    "claim": "Potential UTTP-linked handle observed: rdf on ThemeForest (https://themeforest.net/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://themeforest.net/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1862",
+    "claim": "Potential UTTP-linked handle observed: rdf on Disqus (https://disqus.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://disqus.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1863",
+    "claim": "Potential UTTP-linked handle observed: rdf on profile.hatena.ne.jp (https://profile.hatena.ne.jp/rdf/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profile.hatena.ne.jp/rdf/",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1864",
+    "claim": "Potential UTTP-linked handle observed: rdf on DeviantART (https://rdf.deviantart.com)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://rdf.deviantart.com",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1865",
+    "claim": "Potential UTTP-linked handle observed: rdf on Smugmug (https://rdf.smugmug.com/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://rdf.smugmug.com/",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1866",
+    "claim": "Potential UTTP-linked handle observed: rdf on Toster (https://qna.habr.com/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://qna.habr.com/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1867",
+    "claim": "Potential UTTP-linked handle observed: rdf on Codecanyon (https://codecanyon.net/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://codecanyon.net/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1868",
+    "claim": "Potential UTTP-linked handle observed: rdf on Imgflip (https://imgflip.com/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://imgflip.com/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1869",
+    "claim": "Potential UTTP-linked handle observed: rdf on Fur Affinity (https://www.furaffinity.net/gallery/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.furaffinity.net/gallery/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
     "id": "P187",
     "claim": "Potential UTTP-linked handle observed: uttp on SideProjectors (https://www.sideprojectors.com/uttp)",
     "type": "potential",
@@ -4066,6 +4633,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://www.sideprojectors.com/uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1870",
+    "claim": "Potential UTTP-linked handle observed: rdf on Audiojungle (https://audiojungle.net/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://audiojungle.net/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1871",
+    "claim": "Potential UTTP-linked handle observed: rdf on Tweakers (https://tweakers.net/gallery/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tweakers.net/gallery/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1872",
+    "claim": "Potential UTTP-linked handle observed: rdf on VideoHive (https://videohive.net/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://videohive.net/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1873",
+    "claim": "Potential UTTP-linked handle observed: rdf on Niftygateway (https://niftygateway.com/profile/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://niftygateway.com/profile/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1874",
+    "claim": "Potential UTTP-linked handle observed: rdf on N4g (https://n4g.com/user/home/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://n4g.com/user/home/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1875",
+    "claim": "Potential UTTP-linked handle observed: rdf on PromoDJ (http://promodj.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "http://promodj.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1876",
+    "claim": "Potential UTTP-linked handle observed: rdf on Vgtimes (https://vgtimes.ru/user/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://vgtimes.ru/user/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1877",
+    "claim": "Potential UTTP-linked handle observed: rdf on Erome (https://www.erome.com/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.erome.com/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1878",
+    "claim": "Potential UTTP-linked handle observed: rdf on Pokemon Showdown (https://pokemonshowdown.com/users/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://pokemonshowdown.com/users/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1879",
+    "claim": "Potential UTTP-linked handle observed: rdf on YouNow (https://www.younow.com/rdf/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.younow.com/rdf/",
+    "first_seen": "2026-11-23T19:30:01Z"
   },
   {
     "id": "P188",
@@ -4077,6 +4734,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1880",
+    "claim": "Potential UTTP-linked handle observed: rdf on ngl.link (https://ngl.link/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://ngl.link/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1881",
+    "claim": "Potential UTTP-linked handle observed: rdf on Coders Rank (https://profile.codersrank.io/user/rdf/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profile.codersrank.io/user/rdf/",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1882",
+    "claim": "Potential UTTP-linked handle observed: rdf on Dumpor (https://dumpor.com/v/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dumpor.com/v/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1883",
+    "claim": "Potential UTTP-linked handle observed: rdf on Minecraft-statistic (https://minecraft-statistic.net/ru/player/rdf.html)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://minecraft-statistic.net/ru/player/rdf.html",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1884",
+    "claim": "Potential UTTP-linked handle observed: rdf on Empretienda AR (https://rdf.empretienda.com.ar)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://rdf.empretienda.com.ar",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1885",
+    "claim": "Potential UTTP-linked handle observed: rdf on Artpersona (http://artpersona.org/cb/userprofile/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "http://artpersona.org/cb/userprofile/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1886",
+    "claim": "Potential UTTP-linked handle observed: rdf on CD-Action (https://cdaction.pl/uzytkownicy/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://cdaction.pl/uzytkownicy/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1887",
+    "claim": "Potential UTTP-linked handle observed: rdf on Cda.pl (https://www.cda.pl/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.cda.pl/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1888",
+    "claim": "Potential UTTP-linked handle observed: rdf on Castingcallclub (https://www.castingcall.club/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.castingcall.club/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1889",
+    "claim": "Potential UTTP-linked handle observed: rdf on Cytoid.io (https://cytoid.io/profile/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://cytoid.io/profile/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
     "id": "P189",
     "claim": "Potential UTTP-linked handle observed: uttp on podolsk (https://forum.podolsk.ru/search.php?keywords=&terms=all&author=uttp)",
     "type": "potential",
@@ -4086,6 +4833,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1890",
+    "claim": "Potential UTTP-linked handle observed: rdf on Mym.fans (https://mym.fans/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://mym.fans/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1891",
+    "claim": "Potential UTTP-linked handle observed: rdf on Tenor.com (https://tenor.com/users/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tenor.com/users/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1892",
+    "claim": "Potential UTTP-linked handle observed: rdf on musicinafrica.net (https://musicinafrica.net/fr/users/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://musicinafrica.net/fr/users/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1893",
+    "claim": "Potential UTTP-linked handle observed: rdf on renderosity.com (https://renderosity.com/users/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://renderosity.com/users/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1894",
+    "claim": "Potential UTTP-linked handle observed: rdf on OP.GG LoL Singapore (https://op.gg/lol/summoners/search?q=rdf&region=sg)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=rdf&region=sg",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1895",
+    "claim": "Potential UTTP-linked handle observed: rdf on OP.GG LoL Thailand (https://op.gg/lol/summoners/search?q=rdf&region=th)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=rdf&region=th",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1896",
+    "claim": "Potential UTTP-linked handle observed: rdf on OP.GG LoL Phillippines (https://op.gg/lol/summoners/search?q=rdf&region=ph)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=rdf&region=ph",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1897",
+    "claim": "Potential UTTP-linked handle observed: rdf on Cifra Club (https://cifraclub.com.br/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://cifraclub.com.br/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1898",
+    "claim": "Potential UTTP-linked handle observed: rdf on Libraries (https://libraries.io/github/rdf/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://libraries.io/github/rdf/",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1899",
+    "claim": "Potential UTTP-linked handle observed: rdf on Lolchess (https://lolchess.gg/profile/na/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://lolchess.gg/profile/na/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
     "id": "P190",
     "claim": "Potential UTTP-linked handle observed: uttp on lightstalking.com (https://www.lightstalking.com/author/uttp/)",
     "type": "potential",
@@ -4093,6 +4930,51 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://www.lightstalking.com/author/uttp/",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1900",
+    "claim": "Potential UTTP-linked handle observed: rdf on Mactalk (http://www.mactalk.com.au/member.php?username=rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "http://www.mactalk.com.au/member.php?username=rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1901",
+    "claim": "Potential UTTP-linked handle observed: rdf on Plug.DJ (https://plug.dj/@/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://plug.dj/@/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1902",
+    "claim": "Potential UTTP-linked handle observed: rdf on Pornhub (https://pornhub.com/users/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://pornhub.com/users/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1903",
+    "claim": "Potential UTTP-linked handle observed: rdf on Repl.it (https://repl.it/@rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://repl.it/@rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "P1904",
+    "claim": "Potential UTTP-linked handle observed: rdf on Vero (https://vero.co/rdf)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://vero.co/rdf",
+    "first_seen": "2026-11-23T19:30:01Z"
   },
   {
     "id": "P191",

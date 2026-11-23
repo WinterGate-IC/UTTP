@@ -20407,5 +20407,2440 @@
     ],
     "first_seen": "2026-11-23T13:03:18Z",
     "last_seen": "2026-11-23T13:03:18Z"
+  },
+  {
+    "id": "OS1221",
+    "username": "rdf",
+    "platform": "GitHub",
+    "url": "https://github.com/rdf",
+    "title": "Rdf \u00b7 GitHub",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1222",
+    "username": "rdf",
+    "platform": "Mastodon",
+    "url": "https://mastodon.social/@rdf",
+    "title": "Rory Fraser (@rdf@mastodon.social) - Mastodon.social",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1223",
+    "username": "rdf",
+    "platform": "Keybase",
+    "url": "https://keybase.io/rdf",
+    "title": "rdf | Keybase",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1224",
+    "username": "rdf",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/rdf.bsky.social",
+    "title": "@rdf.bsky.social on Bluesky",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1225",
+    "username": "rdf",
+    "platform": "SoundCloud",
+    "url": "https://soundcloud.com/rdf",
+    "title": "Stream Roebin de Freitas music | Listen to songs, albums, playlists for free on SoundCloud",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1226",
+    "username": "rdf",
+    "platform": "Replit",
+    "url": "https://replit.com/@rdf",
+    "title": "Sign Up - Replit",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1227",
+    "username": "rdf",
+    "platform": "Steam",
+    "url": "https://steamcommunity.com/id/rdf",
+    "title": "Steam Community :: Off",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1228",
+    "username": "rdf",
+    "platform": "Steam (Group)",
+    "url": "https://steamcommunity.com/groups/rdf",
+    "title": "Steam Community :: Group :: -[RdF]-",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1229",
+    "username": "rdf",
+    "platform": "Steam (by id)",
+    "url": "https://steamcommunity.com/profiles/rdf",
+    "title": "Steam Community :: Error",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1230",
+    "username": "rdf",
+    "platform": "Reddit",
+    "url": "https://www.reddit.com/user/rdf",
+    "title": "Reddit",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1231",
+    "username": "rdf",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1232",
+    "username": "rdf",
+    "platform": "Codeberg",
+    "url": "https://codeberg.org/rdf",
+    "title": "RDF - Codeberg.org",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1233",
+    "username": "rdf",
+    "platform": "Threads",
+    "url": "https://www.threads.net/@rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1234",
+    "username": "rdf",
+    "platform": "Rubygems",
+    "url": "https://rubygems.org/profiles/rdf",
+    "title": "Profile of rdf | RubyGems.org | your community gem host",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1235",
+    "username": "rdf",
+    "platform": "Mixcloud",
+    "url": "https://www.mixcloud.com/rdf/",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1236",
+    "username": "rdf",
+    "platform": "Linktree",
+    "url": "https://linktr.ee/rdf",
+    "title": "rdf Official: Facebook | Linktree",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1237",
+    "username": "rdf",
+    "platform": "Bandcamp",
+    "url": "https://bandcamp.com/rdf",
+    "title": "rdf&#39;s collection | Bandcamp",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1238",
+    "username": "rdf",
+    "platform": "DeviantArt",
+    "url": "https://www.deviantart.com/rdf",
+    "title": "rdf on DeviantArt",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1239",
+    "username": "rdf",
+    "platform": "RuneScape",
+    "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=rdf",
+    "title": "Old School  Hiscores",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1240",
+    "username": "rdf",
+    "platform": "Figma",
+    "url": "https://www.figma.com/@rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1241",
+    "username": "rdf",
+    "platform": "Tumblr",
+    "url": "https://www.tumblr.com/blog/rdf",
+    "title": "Register - Login",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1242",
+    "username": "rdf",
+    "platform": "Gab",
+    "url": "https://gab.com/rdf",
+    "title": "Robert Flanary (@RDF) \u00b7 Gab.com - Gab Social",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1243",
+    "username": "rdf",
+    "platform": "Truth Social",
+    "url": "https://truthsocial.com/@rdf",
+    "title": "Truth Social",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1244",
+    "username": "rdf",
+    "platform": "GETTR",
+    "url": "https://gettr.com/user/rdf",
+    "title": "rdf on GETTR - Profile and Posts",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1245",
+    "username": "rdf",
+    "platform": "Foursquare",
+    "url": "https://foursquare.com/rdf",
+    "title": "Foursquare",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1246",
+    "username": "rdf",
+    "platform": "Clubhouse",
+    "url": "https://www.joinclubhouse.com/@rdf",
+    "title": "Rodney Franks - Clubhouse",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1247",
+    "username": "rdf",
+    "platform": "Fotolog",
+    "url": "https://www.fotolog.com/rdf",
+    "title": "FotoLog",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1248",
+    "username": "rdf",
+    "platform": "Nextdoor",
+    "url": "https://nextdoor.com/profile/rdf",
+    "title": "Login - Nextdoor",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1249",
+    "username": "rdf",
+    "platform": "Pixelfed",
+    "url": "https://pixelfed.org/rdf",
+    "title": "Pixelfed - Decentralized social media",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1250",
+    "username": "rdf",
+    "platform": "Friendica",
+    "url": "https://friendi.ca/rdf",
+    "title": "friendica",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1251",
+    "username": "rdf",
+    "platform": "Douban",
+    "url": "https://www.douban.com/people/rdf",
+    "title": "RDF Site Sum",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1252",
+    "username": "rdf",
+    "platform": "Dice",
+    "url": "https://www.dice.com/profile/rdf",
+    "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1253",
+    "username": "rdf",
+    "platform": "GitHub Gist",
+    "url": "https://gist.github.com/rdf",
+    "title": "Rdf\u2019s gists \u00b7 GitHub",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1254",
+    "username": "rdf",
+    "platform": "Codewars",
+    "url": "https://www.codewars.com/users/rdf",
+    "title": "rdf | Codewars",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1255",
+    "username": "rdf",
+    "platform": "StackBlitz",
+    "url": "https://stackblitz.com/@rdf",
+    "title": "RDF",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1256",
+    "username": "rdf",
+    "platform": "Xbox",
+    "url": "https://www.xbox.com/en-US/play/user/rdf",
+    "title": "View rdf&#x27;s profile | Xbox Cloud Gaming on\u200a\u2009Xbox.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1257",
+    "username": "rdf",
+    "platform": "GOG",
+    "url": "https://www.gog.com/u/rdf",
+    "title": "rdf&#039;s profile on GOG.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1258",
+    "username": "rdf",
+    "platform": "Rockstar Social Club",
+    "url": "https://socialclub.rockstargames.com/member/rdf",
+    "title": "Rockstar Games",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1259",
+    "username": "rdf",
+    "platform": "Chess.com",
+    "url": "https://www.chess.com/member/rdf",
+    "title": "Ryan Foster (rdf) - Chess Profile - Chess.com",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1260",
+    "username": "rdf",
+    "platform": "osu!",
+    "url": "https://osu.ppy.sh/users/rdf",
+    "title": "RDF\u202c \u00b7 player info\u202c | \u202dosu!\u202c",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1261",
+    "username": "rdf",
+    "platform": "itch.io",
+    "url": "https://rdf.itch.io",
+    "title": "Rdf - itch.io",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1262",
+    "username": "rdf",
+    "platform": "Hypixel",
+    "url": "https://hypixel.net/player/rdf",
+    "title": "RDF | Hypixel Forums",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1263",
+    "username": "rdf",
+    "platform": "Second Life",
+    "url": "https://my.secondlife.com/rdf",
+    "title": "rdf - Second Life",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1264",
+    "username": "rdf",
+    "platform": "Star Citizen",
+    "url": "https://robertsspaceindustries.com/citizens/rdf",
+    "title": "Like_a | RDF - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1265",
+    "username": "rdf",
+    "platform": "Pandora",
+    "url": "https://www.pandora.com/profile/rdf",
+    "title": "Pandora Radio for Mobile",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1266",
+    "username": "rdf",
+    "platform": "hearthis.at",
+    "url": "https://hearthis.at/rdf",
+    "title": "RDF |  hearthis.at",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1267",
+    "username": "rdf",
+    "platform": "ReverbNation",
+    "url": "https://www.reverbnation.com/rdf",
+    "title": "Rdf | ReverbNation",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1268",
+    "username": "rdf",
+    "platform": "Audiomack",
+    "url": "https://audiomack.com/rdf",
+    "title": "rdf - Listen Free on Audiomack",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1269",
+    "username": "rdf",
+    "platform": "Audius",
+    "url": "https://audius.co/rdf",
+    "title": "Audius \u2014 Free Music Streaming for Artists, Labels &amp; Fans",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1270",
+    "username": "rdf",
+    "platform": "YouTube Music",
+    "url": "https://music.youtube.com/rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1271",
+    "username": "rdf",
+    "platform": "CD Baby",
+    "url": "https://www.cdbaby.com/rdf",
+    "title": "CD Baby",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1272",
+    "username": "rdf",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1273",
+    "username": "rdf",
+    "platform": "Odysee",
+    "url": "https://odysee.com/@rdf",
+    "title": "@rdf",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1274",
+    "username": "rdf",
+    "platform": "PeerTube",
+    "url": "https://peertube.tv/rdf",
+    "title": "PeerTube.TV",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1275",
+    "username": "rdf",
+    "platform": "FurAffinity",
+    "url": "https://www.furaffinity.net/user/rdf",
+    "title": "Userpage of RDF -- Fur Affinity [dot] net",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1276",
+    "username": "rdf",
+    "platform": "Giphy",
+    "url": "https://giphy.com/rdf",
+    "title": "Rdf GIFs - Find &amp; Share on GIPHY",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1277",
+    "username": "rdf",
+    "platform": "Snapchat",
+    "url": "https://www.snapchat.com/add/rdf",
+    "title": "Friedman Rachel (@rdf) | Snapchat Stories, Spotlight &amp; Lenses",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1278",
+    "username": "rdf",
+    "platform": "Itch.io",
+    "url": "https://rdf.itch.io/",
+    "title": "Rdf - itch.io",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1279",
+    "username": "rdf",
+    "platform": "Mixer",
+    "url": "https://mixer.com/rdf",
+    "title": "Log in to Facebook | Facebook",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1280",
+    "username": "rdf",
+    "platform": "Streamlabs Design",
+    "url": "https://streamlabs.com/rdf",
+    "title": "rdf / Streamlabs",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1281",
+    "username": "rdf",
+    "platform": "The Noun Project",
+    "url": "https://thenounproject.com/rdf",
+    "title": "rdf",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1282",
+    "username": "rdf",
+    "platform": "MusicBrainz",
+    "url": "https://musicbrainz.org/user/rdf",
+    "title": "Editor \u201crdf\u201d - MusicBrainz",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1283",
+    "username": "rdf",
+    "platform": "Producer Hive",
+    "url": "https://producerhive.com/rdf",
+    "title": "One moment, please...",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1284",
+    "username": "rdf",
+    "platform": "Vimeo Showcase",
+    "url": "https://vimeo.com/showcase/rdf",
+    "title": "Showcase on Vimeo",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1285",
+    "username": "rdf",
+    "platform": "Cargo Collective",
+    "url": "https://cargocollective.com/rdf",
+    "title": "Ryan De Franco Director of Photography",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1286",
+    "username": "rdf",
+    "platform": "Working Not Working",
+    "url": "https://workingnotworking.com/rdf",
+    "title": "workingnotworking.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1287",
+    "username": "rdf",
+    "platform": "Contently",
+    "url": "https://www.contently.com/rdf",
+    "title": "Contently",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1288",
+    "username": "rdf",
+    "platform": "UnitedMasters",
+    "url": "https://unitedmasters.com/rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1289",
+    "username": "rdf",
+    "platform": "United Masters",
+    "url": "https://app.unitedmasters.com/rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1290",
+    "username": "rdf",
+    "platform": "MicrosoftLearn",
+    "url": "https://learn.microsoft.com/en-us/users/rdf",
+    "title": "Profile | Microsoft Learn",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1291",
+    "username": "rdf",
+    "platform": "WordPressOrg",
+    "url": "https://profiles.wordpress.org/rdf/",
+    "title": "rdf (@rdf) &#8211; WordPress user profile | WordPress.org",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1292",
+    "username": "rdf",
+    "platform": "ThemeForest",
+    "url": "https://themeforest.net/user/rdf",
+    "title": "rdf&#39;s profile on ThemeForest",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1293",
+    "username": "rdf",
+    "platform": "StackOverflow",
+    "url": "https://stackoverflow.com/users/filter?search=rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1294",
+    "username": "rdf",
+    "platform": "Disqus",
+    "url": "https://disqus.com/rdf",
+    "title": "Disqus Profile - RDF",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1295",
+    "username": "rdf",
+    "platform": "profile.hatena.ne.jp",
+    "url": "https://profile.hatena.ne.jp/rdf/",
+    "title": "rdf&#39;s Profile - Hatena",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1296",
+    "username": "rdf",
+    "platform": "DeviantART",
+    "url": "https://rdf.deviantart.com",
+    "title": "rdf on DeviantArt",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1297",
+    "username": "rdf",
+    "platform": "Smugmug",
+    "url": "https://rdf.smugmug.com/",
+    "title": "password - rdf",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1298",
+    "username": "rdf",
+    "platform": "Toster",
+    "url": "https://qna.habr.com/user/rdf",
+    "title": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c RDF &mdash; \u0425\u0430\u0431\u0440 Q&A",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1299",
+    "username": "rdf",
+    "platform": "Codecanyon",
+    "url": "https://codecanyon.net/user/rdf",
+    "title": "rdf&#39;s profile on CodeCanyon",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1300",
+    "username": "rdf",
+    "platform": "ChaturBate",
+    "url": "https://chaturbate.com/rdf/",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1301",
+    "username": "rdf",
+    "platform": "Imgflip",
+    "url": "https://imgflip.com/user/rdf",
+    "title": "rdf's Profile - Imgflip",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1302",
+    "username": "rdf",
+    "platform": "ItemFix",
+    "url": "https://www.itemfix.com/c/rdf",
+    "title": "ItemFix - Channel:",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1303",
+    "username": "rdf",
+    "platform": "Fur Affinity",
+    "url": "https://www.furaffinity.net/gallery/rdf",
+    "title": "Artwork Gallery for RDF -- Fur Affinity [dot] net",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1304",
+    "username": "rdf",
+    "platform": "Audiojungle",
+    "url": "https://audiojungle.net/user/rdf",
+    "title": "rdf&#39;s profile on AudioJungle",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1305",
+    "username": "rdf",
+    "platform": "Tweakers",
+    "url": "https://tweakers.net/gallery/rdf",
+    "title": "DPG Media Privacy Gate",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1306",
+    "username": "rdf",
+    "platform": "Paltalk",
+    "url": "https://www.paltalk.com/people/users/rdf",
+    "title": "Chat Room Member on Paltalk",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1307",
+    "username": "rdf",
+    "platform": "VideoHive",
+    "url": "https://videohive.net/user/rdf",
+    "title": "rdf&#39;s profile on VideoHive",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1308",
+    "username": "rdf",
+    "platform": "Niftygateway",
+    "url": "https://niftygateway.com/profile/rdf",
+    "title": "rdf does not exits on Nifty Gateway",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1309",
+    "username": "rdf",
+    "platform": "N4g",
+    "url": "https://n4g.com/user/home/rdf",
+    "title": "RDF, Author at N4G",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1310",
+    "username": "rdf",
+    "platform": "PromoDJ",
+    "url": "http://promodj.com/rdf",
+    "title": "NadejdaDima",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1311",
+    "username": "rdf",
+    "platform": "Wishlistr",
+    "url": "https://www.wishlistr.com/rdf/",
+    "title": "One moment, please...",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1312",
+    "username": "rdf",
+    "platform": "InterPals",
+    "url": "https://www.interpals.net/rdf",
+    "title": "InterPals",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1313",
+    "username": "rdf",
+    "platform": "Vgtimes",
+    "url": "https://vgtimes.ru/user/rdf",
+    "title": "rdf",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1314",
+    "username": "rdf",
+    "platform": "Erome",
+    "url": "https://www.erome.com/rdf",
+    "title": "rdf - Profile page - EroMe",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1315",
+    "username": "rdf",
+    "platform": "Pokemon Showdown",
+    "url": "https://pokemonshowdown.com/users/rdf",
+    "title": "rdf - Users - Pok&eacute;mon Showdown",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1316",
+    "username": "rdf",
+    "platform": "Old-games",
+    "url": "https://www.old-games.ru/forum/members/?username=rdf",
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | \u0424\u043e\u0440\u0443\u043c Old-Games.RU. \u0412\u0441\u0451 \u043e \u0441\u0442\u0430\u0440\u044b\u0445 \u0438\u0433\u0440\u0430\u0445",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1317",
+    "username": "rdf",
+    "platform": "YouNow",
+    "url": "https://www.younow.com/rdf/",
+    "title": "YouNow",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1318",
+    "username": "rdf",
+    "platform": "1001tracklists",
+    "url": "https://www.1001tracklists.com/user/rdf/index.html",
+    "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+    "status": 206,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1319",
+    "username": "rdf",
+    "platform": "ngl.link",
+    "url": "https://ngl.link/rdf",
+    "title": "@rdf",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1320",
+    "username": "rdf",
+    "platform": "CSSBattle",
+    "url": "https://cssbattle.dev/player/rdf",
+    "title": "CSSBattle",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1321",
+    "username": "rdf",
+    "platform": "Coders Rank",
+    "url": "https://profile.codersrank.io/user/rdf/",
+    "title": "rdf&#x27;s CodersRank profile",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1322",
+    "username": "rdf",
+    "platform": "Dumpor",
+    "url": "https://dumpor.com/v/rdf",
+    "title": "rdf  Watch instagram stories and profile anonymous",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1323",
+    "username": "rdf",
+    "platform": "Minecraft-statistic",
+    "url": "https://minecraft-statistic.net/ru/player/rdf.html",
+    "title": "rdf \u2014 \u043f\u0440\u043e\u0444\u0438\u043b\u044c \u0438\u0433\u0440\u043e\u043a\u0430 Minecraft, \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0438 \u0441\u043a\u0438\u043d",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1324",
+    "username": "rdf",
+    "platform": "Empretienda AR",
+    "url": "https://rdf.empretienda.com.ar",
+    "title": "Tienda online de RDF",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1325",
+    "username": "rdf",
+    "platform": "Arhrock",
+    "url": "https://arhrock.info/forum/members/?username=rdf",
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | ArhRock Forum",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1326",
+    "username": "rdf",
+    "platform": "Artpersona",
+    "url": "http://artpersona.org/cb/userprofile/rdf",
+    "title": "ArtPersona Preview",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1327",
+    "username": "rdf",
+    "platform": "CD-Action",
+    "url": "https://cdaction.pl/uzytkownicy/rdf",
+    "title": "CD-Action",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1328",
+    "username": "rdf",
+    "platform": "Cda.pl",
+    "url": "https://www.cda.pl/rdf",
+    "title": "rdf - cda.pl",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1329",
+    "username": "rdf",
+    "platform": "Castingcallclub",
+    "url": "https://www.castingcall.club/rdf",
+    "title": "RDF | Casting Call Club",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1330",
+    "username": "rdf",
+    "platform": "Cytoid.io",
+    "url": "https://cytoid.io/profile/rdf",
+    "title": "rdf - Cytoid",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1331",
+    "username": "rdf",
+    "platform": "Fotka",
+    "url": "https://api.fotka.com/v2/user/dataStatic?login=rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1332",
+    "username": "rdf",
+    "platform": "Mym.fans",
+    "url": "https://mym.fans/rdf",
+    "title": "Rdf \u2022 MYM \u2022 Exclusive social network for creators &amp; fans",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1333",
+    "username": "rdf",
+    "platform": "Tenor.com",
+    "url": "https://tenor.com/users/rdf",
+    "title": "Rdf&#039;s GIFs on Tenor",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1334",
+    "username": "rdf",
+    "platform": "musicinafrica.net",
+    "url": "https://musicinafrica.net/fr/users/rdf",
+    "title": "Users &#8211; Music In Africa",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1335",
+    "username": "rdf",
+    "platform": "renderosity.com",
+    "url": "https://renderosity.com/users/rdf",
+    "title": "Renderosity - 3D Models | 3D Software | 3D Art",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1336",
+    "username": "rdf",
+    "platform": "SchemeColor",
+    "url": "https://www.schemecolor.com/author/rdf",
+    "title": "One moment, please...",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1337",
+    "username": "rdf",
+    "platform": "Shelf",
+    "url": "https://www.shelf.im/rdf",
+    "title": "Alan on Shelf",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1338",
+    "username": "rdf",
+    "platform": "OP.GG LoL Brazil",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=br",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1339",
+    "username": "rdf",
+    "platform": "OP.GG LoL North America",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=na",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1340",
+    "username": "rdf",
+    "platform": "OP.GG LoL Middle East",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=me",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1341",
+    "username": "rdf",
+    "platform": "OP.GG LoL Europe Nordic & East",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=eune",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1342",
+    "username": "rdf",
+    "platform": "OP.GG LoL Europe West",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=euw",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1343",
+    "username": "rdf",
+    "platform": "OP.GG LoL Oceania",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=oce",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1344",
+    "username": "rdf",
+    "platform": "OP.GG LoL Korea",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=kr",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1345",
+    "username": "rdf",
+    "platform": "OP.GG LoL Japan",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=jp",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1346",
+    "username": "rdf",
+    "platform": "OP.GG LoL LAN",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=lan",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1347",
+    "username": "rdf",
+    "platform": "OP.GG LoL Russia",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=ru",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1348",
+    "username": "rdf",
+    "platform": "OP.GG LoL LAS",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=las",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1349",
+    "username": "rdf",
+    "platform": "OP.GG LoL Taiwan",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=tw",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1350",
+    "username": "rdf",
+    "platform": "OP.GG LoL Turkey",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=tr",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1351",
+    "username": "rdf",
+    "platform": "OP.GG LoL Singapore",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=sg",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1352",
+    "username": "rdf",
+    "platform": "OP.GG LoL Vietnam",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=vn",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1353",
+    "username": "rdf",
+    "platform": "OP.GG LoL Thailand",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=th",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1354",
+    "username": "rdf",
+    "platform": "OP.GG LoL Phillippines",
+    "url": "https://op.gg/lol/summoners/search?q=rdf&region=ph",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1355",
+    "username": "rdf",
+    "platform": "Cifra Club",
+    "url": "https://cifraclub.com.br/rdf",
+    "title": "RDF - Cifra Club",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1356",
+    "username": "rdf",
+    "platform": "Libraries",
+    "url": "https://libraries.io/github/rdf/",
+    "title": "Rdf \u00b7 GitHub",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1357",
+    "username": "rdf",
+    "platform": "Lolchess",
+    "url": "https://lolchess.gg/profile/na/rdf",
+    "title": "TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1358",
+    "username": "rdf",
+    "platform": "Mactalk",
+    "url": "http://www.mactalk.com.au/member.php?username=rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1359",
+    "username": "rdf",
+    "platform": "Plug.DJ",
+    "url": "https://plug.dj/@/rdf",
+    "title": "Sign in \u30fb Cloudflare Access",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1360",
+    "username": "rdf",
+    "platform": "Pornhub",
+    "url": "https://pornhub.com/users/rdf",
+    "title": "rdf&#039;s Profile - Pornhub.com",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1361",
+    "username": "rdf",
+    "platform": "Repl.it",
+    "url": "https://repl.it/@rdf",
+    "title": "Sign Up - Replit",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1362",
+    "username": "rdf",
+    "platform": "Vero",
+    "url": "https://vero.co/rdf",
+    "title": "Rdf on VERO\u2122",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1363",
+    "username": "rdf",
+    "platform": "Yelp (by id)",
+    "url": "https://www.yelp.com/user_details?userid=rdf",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-23T19:18:47Z",
+    "last_seen": "2026-11-23T19:18:47Z"
   }
 ]

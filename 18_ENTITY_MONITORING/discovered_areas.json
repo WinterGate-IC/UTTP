@@ -14308,5 +14308,1121 @@
     "confidence": "D/S",
     "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
     "first_seen": "2026-11-23T13:15:01Z"
+  },
+  {
+    "id": "A_D1591",
+    "platform": "GitHub",
+    "surface_url": "https://github.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1592",
+    "platform": "Mastodon",
+    "surface_url": "https://mastodon.social/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1593",
+    "platform": "Keybase",
+    "surface_url": "https://keybase.io/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1594",
+    "platform": "Bluesky",
+    "surface_url": "https://bsky.app/profile/rdf.bsky.social",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1595",
+    "platform": "SoundCloud",
+    "surface_url": "https://soundcloud.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1596",
+    "platform": "Replit",
+    "surface_url": "https://replit.com/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1597",
+    "platform": "Steam",
+    "surface_url": "https://steamcommunity.com/id/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1598",
+    "platform": "Steam (Group)",
+    "surface_url": "https://steamcommunity.com/groups/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1599",
+    "platform": "Steam (by id)",
+    "surface_url": "https://steamcommunity.com/profiles/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1600",
+    "platform": "Reddit",
+    "surface_url": "https://www.reddit.com/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1601",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1602",
+    "platform": "Codeberg",
+    "surface_url": "https://codeberg.org/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1603",
+    "platform": "Threads",
+    "surface_url": "https://www.threads.net/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1604",
+    "platform": "Rubygems",
+    "surface_url": "https://rubygems.org/profiles/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1605",
+    "platform": "Mixcloud",
+    "surface_url": "https://www.mixcloud.com/rdf/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1606",
+    "platform": "Linktree",
+    "surface_url": "https://linktr.ee/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1607",
+    "platform": "Bandcamp",
+    "surface_url": "https://bandcamp.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1608",
+    "platform": "DeviantArt",
+    "surface_url": "https://www.deviantart.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1609",
+    "platform": "RuneScape",
+    "surface_url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1610",
+    "platform": "Figma",
+    "surface_url": "https://www.figma.com/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1611",
+    "platform": "Tumblr",
+    "surface_url": "https://www.tumblr.com/blog/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1612",
+    "platform": "Gab",
+    "surface_url": "https://gab.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1613",
+    "platform": "Truth Social",
+    "surface_url": "https://truthsocial.com/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1614",
+    "platform": "GETTR",
+    "surface_url": "https://gettr.com/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1615",
+    "platform": "Foursquare",
+    "surface_url": "https://foursquare.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1616",
+    "platform": "Clubhouse",
+    "surface_url": "https://www.joinclubhouse.com/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1617",
+    "platform": "Fotolog",
+    "surface_url": "https://www.fotolog.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1618",
+    "platform": "Nextdoor",
+    "surface_url": "https://nextdoor.com/profile/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1619",
+    "platform": "Pixelfed",
+    "surface_url": "https://pixelfed.org/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1620",
+    "platform": "Friendica",
+    "surface_url": "https://friendi.ca/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1621",
+    "platform": "Douban",
+    "surface_url": "https://www.douban.com/people/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1622",
+    "platform": "Dice",
+    "surface_url": "https://www.dice.com/profile/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1623",
+    "platform": "GitHub Gist",
+    "surface_url": "https://gist.github.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1624",
+    "platform": "Codewars",
+    "surface_url": "https://www.codewars.com/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1625",
+    "platform": "StackBlitz",
+    "surface_url": "https://stackblitz.com/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1626",
+    "platform": "Xbox",
+    "surface_url": "https://www.xbox.com/en-US/play/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1627",
+    "platform": "GOG",
+    "surface_url": "https://www.gog.com/u/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1628",
+    "platform": "Rockstar Social Club",
+    "surface_url": "https://socialclub.rockstargames.com/member/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1629",
+    "platform": "Chess.com",
+    "surface_url": "https://www.chess.com/member/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1630",
+    "platform": "osu!",
+    "surface_url": "https://osu.ppy.sh/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1631",
+    "platform": "itch.io",
+    "surface_url": "https://rdf.itch.io",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1632",
+    "platform": "Hypixel",
+    "surface_url": "https://hypixel.net/player/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1633",
+    "platform": "Second Life",
+    "surface_url": "https://my.secondlife.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1634",
+    "platform": "Star Citizen",
+    "surface_url": "https://robertsspaceindustries.com/citizens/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1635",
+    "platform": "Pandora",
+    "surface_url": "https://www.pandora.com/profile/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1636",
+    "platform": "hearthis.at",
+    "surface_url": "https://hearthis.at/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1637",
+    "platform": "ReverbNation",
+    "surface_url": "https://www.reverbnation.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1638",
+    "platform": "Audiomack",
+    "surface_url": "https://audiomack.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1639",
+    "platform": "Audius",
+    "surface_url": "https://audius.co/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1640",
+    "platform": "YouTube Music",
+    "surface_url": "https://music.youtube.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1641",
+    "platform": "CD Baby",
+    "surface_url": "https://www.cdbaby.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1642",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1643",
+    "platform": "Odysee",
+    "surface_url": "https://odysee.com/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1644",
+    "platform": "PeerTube",
+    "surface_url": "https://peertube.tv/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1645",
+    "platform": "FurAffinity",
+    "surface_url": "https://www.furaffinity.net/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1646",
+    "platform": "Giphy",
+    "surface_url": "https://giphy.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1647",
+    "platform": "Snapchat",
+    "surface_url": "https://www.snapchat.com/add/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1648",
+    "platform": "Mixer",
+    "surface_url": "https://mixer.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1649",
+    "platform": "Streamlabs Design",
+    "surface_url": "https://streamlabs.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1650",
+    "platform": "The Noun Project",
+    "surface_url": "https://thenounproject.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1651",
+    "platform": "MusicBrainz",
+    "surface_url": "https://musicbrainz.org/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1652",
+    "platform": "Producer Hive",
+    "surface_url": "https://producerhive.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1653",
+    "platform": "Vimeo Showcase",
+    "surface_url": "https://vimeo.com/showcase/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1654",
+    "platform": "Cargo Collective",
+    "surface_url": "https://cargocollective.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1655",
+    "platform": "Working Not Working",
+    "surface_url": "https://workingnotworking.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1656",
+    "platform": "Contently",
+    "surface_url": "https://www.contently.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1657",
+    "platform": "UnitedMasters",
+    "surface_url": "https://unitedmasters.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1658",
+    "platform": "United Masters",
+    "surface_url": "https://app.unitedmasters.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1659",
+    "platform": "MicrosoftLearn",
+    "surface_url": "https://learn.microsoft.com/en-us/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1660",
+    "platform": "WordPressOrg",
+    "surface_url": "https://profiles.wordpress.org/rdf/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1661",
+    "platform": "ThemeForest",
+    "surface_url": "https://themeforest.net/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1662",
+    "platform": "Disqus",
+    "surface_url": "https://disqus.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1663",
+    "platform": "profile.hatena.ne.jp",
+    "surface_url": "https://profile.hatena.ne.jp/rdf/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1664",
+    "platform": "DeviantART",
+    "surface_url": "https://rdf.deviantart.com",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1665",
+    "platform": "Smugmug",
+    "surface_url": "https://rdf.smugmug.com/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1666",
+    "platform": "Toster",
+    "surface_url": "https://qna.habr.com/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1667",
+    "platform": "Codecanyon",
+    "surface_url": "https://codecanyon.net/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1668",
+    "platform": "ChaturBate",
+    "surface_url": "https://chaturbate.com/rdf/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1669",
+    "platform": "Imgflip",
+    "surface_url": "https://imgflip.com/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1670",
+    "platform": "ItemFix",
+    "surface_url": "https://www.itemfix.com/c/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1671",
+    "platform": "Fur Affinity",
+    "surface_url": "https://www.furaffinity.net/gallery/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1672",
+    "platform": "Audiojungle",
+    "surface_url": "https://audiojungle.net/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1673",
+    "platform": "Tweakers",
+    "surface_url": "https://tweakers.net/gallery/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1674",
+    "platform": "Paltalk",
+    "surface_url": "https://www.paltalk.com/people/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1675",
+    "platform": "VideoHive",
+    "surface_url": "https://videohive.net/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1676",
+    "platform": "Niftygateway",
+    "surface_url": "https://niftygateway.com/profile/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1677",
+    "platform": "N4g",
+    "surface_url": "https://n4g.com/user/home/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1678",
+    "platform": "PromoDJ",
+    "surface_url": "http://promodj.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1679",
+    "platform": "Wishlistr",
+    "surface_url": "https://www.wishlistr.com/rdf/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1680",
+    "platform": "InterPals",
+    "surface_url": "https://www.interpals.net/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1681",
+    "platform": "Vgtimes",
+    "surface_url": "https://vgtimes.ru/user/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1682",
+    "platform": "Erome",
+    "surface_url": "https://www.erome.com/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1683",
+    "platform": "Pokemon Showdown",
+    "surface_url": "https://pokemonshowdown.com/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1684",
+    "platform": "Old-games",
+    "surface_url": "https://www.old-games.ru/forum/members/?username=rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1685",
+    "platform": "YouNow",
+    "surface_url": "https://www.younow.com/rdf/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1686",
+    "platform": "1001tracklists",
+    "surface_url": "https://www.1001tracklists.com/user/rdf/index.html",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1687",
+    "platform": "ngl.link",
+    "surface_url": "https://ngl.link/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1688",
+    "platform": "CSSBattle",
+    "surface_url": "https://cssbattle.dev/player/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1689",
+    "platform": "Coders Rank",
+    "surface_url": "https://profile.codersrank.io/user/rdf/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1690",
+    "platform": "Dumpor",
+    "surface_url": "https://dumpor.com/v/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1691",
+    "platform": "Minecraft-statistic",
+    "surface_url": "https://minecraft-statistic.net/ru/player/rdf.html",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1692",
+    "platform": "Empretienda AR",
+    "surface_url": "https://rdf.empretienda.com.ar",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1693",
+    "platform": "Arhrock",
+    "surface_url": "https://arhrock.info/forum/members/?username=rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1694",
+    "platform": "Artpersona",
+    "surface_url": "http://artpersona.org/cb/userprofile/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1695",
+    "platform": "CD-Action",
+    "surface_url": "https://cdaction.pl/uzytkownicy/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1696",
+    "platform": "Cda.pl",
+    "surface_url": "https://www.cda.pl/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1697",
+    "platform": "Castingcallclub",
+    "surface_url": "https://www.castingcall.club/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1698",
+    "platform": "Cytoid.io",
+    "surface_url": "https://cytoid.io/profile/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1699",
+    "platform": "Fotka",
+    "surface_url": "https://api.fotka.com/v2/user/dataStatic?login=rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1700",
+    "platform": "Mym.fans",
+    "surface_url": "https://mym.fans/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1701",
+    "platform": "Tenor.com",
+    "surface_url": "https://tenor.com/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1702",
+    "platform": "musicinafrica.net",
+    "surface_url": "https://musicinafrica.net/fr/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1703",
+    "platform": "renderosity.com",
+    "surface_url": "https://renderosity.com/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1704",
+    "platform": "SchemeColor",
+    "surface_url": "https://www.schemecolor.com/author/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1705",
+    "platform": "Shelf",
+    "surface_url": "https://www.shelf.im/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1706",
+    "platform": "Cifra Club",
+    "surface_url": "https://cifraclub.com.br/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1707",
+    "platform": "Libraries",
+    "surface_url": "https://libraries.io/github/rdf/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1708",
+    "platform": "Lolchess",
+    "surface_url": "https://lolchess.gg/profile/na/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1709",
+    "platform": "Mactalk",
+    "surface_url": "http://www.mactalk.com.au/member.php?username=rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1710",
+    "platform": "Plug.DJ",
+    "surface_url": "https://plug.dj/@/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1711",
+    "platform": "Pornhub",
+    "surface_url": "https://pornhub.com/users/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1712",
+    "platform": "Repl.it",
+    "surface_url": "https://repl.it/@rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1713",
+    "platform": "Vero",
+    "surface_url": "https://vero.co/rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1714",
+    "platform": "Yelp (by id)",
+    "surface_url": "https://www.yelp.com/user_details?userid=rdf",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T19:30:01Z"
   }
 ]
