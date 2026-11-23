@@ -12139,5 +12139,401 @@
     "confidence": "D/S",
     "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
     "first_seen": "2026-11-22T18:29:02Z"
+  },
+  {
+    "id": "A_D1350",
+    "platform": "Steam",
+    "surface_url": "https://steamcommunity.com/id/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1351",
+    "platform": "Steam (Group)",
+    "surface_url": "https://steamcommunity.com/groups/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1352",
+    "platform": "Steam (by id)",
+    "surface_url": "https://steamcommunity.com/profiles/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1353",
+    "platform": "Instagram",
+    "surface_url": "https://www.instagram.com/circusfall/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1354",
+    "platform": "Reddit",
+    "surface_url": "https://www.reddit.com/user/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1355",
+    "platform": "Twitch",
+    "surface_url": "https://www.twitch.tv/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1356",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/@circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1357",
+    "platform": "Mixcloud",
+    "surface_url": "https://www.mixcloud.com/circusfall/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1358",
+    "platform": "Hashnode",
+    "surface_url": "https://hashnode.com/@circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1359",
+    "platform": "Tumblr",
+    "surface_url": "https://www.tumblr.com/blog/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1360",
+    "platform": "Truth Social",
+    "surface_url": "https://truthsocial.com/@circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1361",
+    "platform": "GETTR",
+    "surface_url": "https://gettr.com/user/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1362",
+    "platform": "Nextdoor",
+    "surface_url": "https://nextdoor.com/profile/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1363",
+    "platform": "Pixelfed",
+    "surface_url": "https://pixelfed.org/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1364",
+    "platform": "Sina Weibo (Mobile)",
+    "surface_url": "https://m.weibo.cn/u/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1365",
+    "platform": "Weibo",
+    "surface_url": "https://weibo.com/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1366",
+    "platform": "Dice",
+    "surface_url": "https://www.dice.com/profile/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1367",
+    "platform": "Xbox",
+    "surface_url": "https://www.xbox.com/en-US/play/user/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1368",
+    "platform": "OSRS Hiscores",
+    "surface_url": "https://secure.runescape.com/m=hiscore_oldschool/hiscorepersonal?user1=circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1369",
+    "platform": "Neopets",
+    "surface_url": "https://www.neopets.com/userlookup.phtml?user=circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1370",
+    "platform": "Bandcamp",
+    "surface_url": "https://circusfall.bandcamp.com",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1371",
+    "platform": "Pandora",
+    "surface_url": "https://www.pandora.com/profile/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1372",
+    "platform": "YouTube Music",
+    "surface_url": "https://music.youtube.com/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1373",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/user/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1374",
+    "platform": "PeerTube",
+    "surface_url": "https://peertube.tv/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1375",
+    "platform": "Giphy",
+    "surface_url": "https://giphy.com/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1376",
+    "platform": "Mixer",
+    "surface_url": "https://mixer.com/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1377",
+    "platform": "Twitch VODs",
+    "surface_url": "https://www.twitch.tv/circusfall/videos?all=true",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1378",
+    "platform": "Vimeo Showcase",
+    "surface_url": "https://vimeo.com/showcase/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1379",
+    "platform": "Bandcamp Labels",
+    "surface_url": "https://circusfall.bandcamp.com/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1380",
+    "platform": "ItemFix",
+    "surface_url": "https://www.itemfix.com/c/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1381",
+    "platform": "Fur Affinity",
+    "surface_url": "https://www.furaffinity.net/gallery/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1382",
+    "platform": "Tweakers",
+    "surface_url": "https://tweakers.net/gallery/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1383",
+    "platform": "Paltalk",
+    "surface_url": "https://www.paltalk.com/people/users/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1384",
+    "platform": "Niftygateway",
+    "surface_url": "https://niftygateway.com/profile/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1385",
+    "platform": "Wishlistr",
+    "surface_url": "https://www.wishlistr.com/circusfall/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1386",
+    "platform": "Old-games",
+    "surface_url": "https://www.old-games.ru/forum/members/?username=circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1387",
+    "platform": "YouNow",
+    "surface_url": "https://www.younow.com/circusfall/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1388",
+    "platform": "1001tracklists",
+    "surface_url": "https://www.1001tracklists.com/user/circusfall/index.html",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1389",
+    "platform": "CSSBattle",
+    "surface_url": "https://cssbattle.dev/player/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1390",
+    "platform": "Coders Rank",
+    "surface_url": "https://profile.codersrank.io/user/circusfall/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1391",
+    "platform": "Dumpor",
+    "surface_url": "https://dumpor.com/v/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1392",
+    "platform": "Arhrock",
+    "surface_url": "https://arhrock.info/forum/members/?username=circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "A_D1393",
+    "platform": "Maga-Chat",
+    "surface_url": "https://maga-chat.com/circusfall",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-23T00:45:01Z"
   }
 ]

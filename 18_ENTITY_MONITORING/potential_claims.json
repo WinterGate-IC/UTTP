@@ -2475,6 +2475,78 @@
     "first_seen": "2026-11-22T18:29:02Z"
   },
   {
+    "id": "P1652",
+    "claim": "Potential UTTP-linked handle observed: circusfall on YouTube (https://www.youtube.com/@circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/@circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1653",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Tumblr (https://www.tumblr.com/blog/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.tumblr.com/blog/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1654",
+    "claim": "Potential UTTP-linked handle observed: circusfall on GETTR (https://gettr.com/user/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gettr.com/user/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1655",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Nextdoor (https://nextdoor.com/profile/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://nextdoor.com/profile/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1656",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Sina Weibo (Mobile) (https://m.weibo.cn/u/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://m.weibo.cn/u/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1657",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Weibo (https://weibo.com/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://weibo.com/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1658",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Dice (https://www.dice.com/profile/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.dice.com/profile/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1659",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Xbox (https://www.xbox.com/en-US/play/user/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.xbox.com/en-US/play/user/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
     "id": "P166",
     "claim": "Potential UTTP-linked handle observed: uttp on ForumEvaveda (http://forum.evaveda.com/memberlist.php?username=uttp)",
     "type": "potential",
@@ -2484,6 +2556,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1660",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Neopets (https://www.neopets.com/userlookup.phtml?user=circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.neopets.com/userlookup.phtml?user=circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1661",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Bandcamp (https://circusfall.bandcamp.com)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://circusfall.bandcamp.com",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1662",
+    "claim": "Potential UTTP-linked handle observed: circusfall on YouTube Music (https://music.youtube.com/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://music.youtube.com/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1663",
+    "claim": "Potential UTTP-linked handle observed: circusfall on YouTube (https://www.youtube.com/user/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/user/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1664",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Giphy (https://giphy.com/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://giphy.com/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1665",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Mixer (https://mixer.com/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://mixer.com/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1666",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Bandcamp Labels (https://circusfall.bandcamp.com/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://circusfall.bandcamp.com/",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1667",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Tweakers (https://tweakers.net/gallery/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tweakers.net/gallery/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1668",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Niftygateway (https://niftygateway.com/profile/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://niftygateway.com/profile/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
+    "id": "P1669",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Coders Rank (https://profile.codersrank.io/user/circusfall/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profile.codersrank.io/user/circusfall/",
+    "first_seen": "2026-11-23T00:45:01Z"
+  },
+  {
     "id": "P167",
     "claim": "Potential UTTP-linked handle observed: uttp on diorama.ru (https://diorama.ru/forum/memberlist.php?mode=viewprofile&u=uttp)",
     "type": "potential",
@@ -2491,6 +2653,15 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://diorama.ru/forum/memberlist.php?mode=viewprofile&u=uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1670",
+    "claim": "Potential UTTP-linked handle observed: circusfall on Dumpor (https://dumpor.com/v/circusfall)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dumpor.com/v/circusfall",
+    "first_seen": "2026-11-23T00:45:01Z"
   },
   {
     "id": "P168",

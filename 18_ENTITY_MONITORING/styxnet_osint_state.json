@@ -15701,9 +15701,737 @@
       ],
       "first_seen": "2026-11-22T18:18:48Z",
       "last_seen": "2026-11-22T18:18:48Z"
+    },
+    "circusfall|https://steamcommunity.com/id/circusfall": {
+      "id": "OS0941",
+      "username": "circusfall",
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/circusfall",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://steamcommunity.com/groups/circusfall": {
+      "id": "OS0942",
+      "username": "circusfall",
+      "platform": "Steam (Group)",
+      "url": "https://steamcommunity.com/groups/circusfall",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://steamcommunity.com/profiles/circusfall": {
+      "id": "OS0943",
+      "username": "circusfall",
+      "platform": "Steam (by id)",
+      "url": "https://steamcommunity.com/profiles/circusfall",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.instagram.com/circusfall/": {
+      "id": "OS0944",
+      "username": "circusfall",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/circusfall/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.reddit.com/user/circusfall": {
+      "id": "OS0945",
+      "username": "circusfall",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/circusfall",
+      "title": "Reddit",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.twitch.tv/circusfall": {
+      "id": "OS0946",
+      "username": "circusfall",
+      "platform": "Twitch",
+      "url": "https://www.twitch.tv/circusfall",
+      "title": "Twitch",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.youtube.com/@circusfall": {
+      "id": "OS0947",
+      "username": "circusfall",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@circusfall",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.mixcloud.com/circusfall/": {
+      "id": "OS0948",
+      "username": "circusfall",
+      "platform": "Mixcloud",
+      "url": "https://www.mixcloud.com/circusfall/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://hashnode.com/@circusfall": {
+      "id": "OS0949",
+      "username": "circusfall",
+      "platform": "Hashnode",
+      "url": "https://hashnode.com/@circusfall",
+      "title": "User not found | Hashnode",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.tumblr.com/blog/circusfall": {
+      "id": "OS0950",
+      "username": "circusfall",
+      "platform": "Tumblr",
+      "url": "https://www.tumblr.com/blog/circusfall",
+      "title": "Register - Login",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://truthsocial.com/@circusfall": {
+      "id": "OS0951",
+      "username": "circusfall",
+      "platform": "Truth Social",
+      "url": "https://truthsocial.com/@circusfall",
+      "title": "Truth Social",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://gettr.com/user/circusfall": {
+      "id": "OS0952",
+      "username": "circusfall",
+      "platform": "GETTR",
+      "url": "https://gettr.com/user/circusfall",
+      "title": "circusfall on GETTR - Profile and Posts",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://nextdoor.com/profile/circusfall": {
+      "id": "OS0953",
+      "username": "circusfall",
+      "platform": "Nextdoor",
+      "url": "https://nextdoor.com/profile/circusfall",
+      "title": "Login - Nextdoor",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://pixelfed.org/circusfall": {
+      "id": "OS0954",
+      "username": "circusfall",
+      "platform": "Pixelfed",
+      "url": "https://pixelfed.org/circusfall",
+      "title": "Pixelfed - Decentralized social media",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://m.weibo.cn/u/circusfall": {
+      "id": "OS0955",
+      "username": "circusfall",
+      "platform": "Sina Weibo (Mobile)",
+      "url": "https://m.weibo.cn/u/circusfall",
+      "title": "Sina Visitor System",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://weibo.com/circusfall": {
+      "id": "OS0956",
+      "username": "circusfall",
+      "platform": "Weibo",
+      "url": "https://weibo.com/circusfall",
+      "title": "Sina Visitor System",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.dice.com/profile/circusfall": {
+      "id": "OS0957",
+      "username": "circusfall",
+      "platform": "Dice",
+      "url": "https://www.dice.com/profile/circusfall",
+      "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.xbox.com/en-us/play/user/circusfall": {
+      "id": "OS0958",
+      "username": "circusfall",
+      "platform": "Xbox",
+      "url": "https://www.xbox.com/en-US/play/user/circusfall",
+      "title": "View circusfall&#x27;s profile | Xbox Cloud Gaming on\u200a\u2009Xbox.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://secure.runescape.com/m=hiscore_oldschool/hiscorepersonal?user1=circusfall": {
+      "id": "OS0959",
+      "username": "circusfall",
+      "platform": "OSRS Hiscores",
+      "url": "https://secure.runescape.com/m=hiscore_oldschool/hiscorepersonal?user1=circusfall",
+      "title": "RuneScape 2007 Server - Play Old School RS",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.neopets.com/userlookup.phtml?user=circusfall": {
+      "id": "OS0960",
+      "username": "circusfall",
+      "platform": "Neopets",
+      "url": "https://www.neopets.com/userlookup.phtml?user=circusfall",
+      "title": "Neopets - Hi!",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://circusfall.bandcamp.com": {
+      "id": "OS0961",
+      "username": "circusfall",
+      "platform": "Bandcamp",
+      "url": "https://circusfall.bandcamp.com",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.pandora.com/profile/circusfall": {
+      "id": "OS0962",
+      "username": "circusfall",
+      "platform": "Pandora",
+      "url": "https://www.pandora.com/profile/circusfall",
+      "title": "Pandora Radio for Mobile",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://music.youtube.com/circusfall": {
+      "id": "OS0963",
+      "username": "circusfall",
+      "platform": "YouTube Music",
+      "url": "https://music.youtube.com/circusfall",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.youtube.com/user/circusfall": {
+      "id": "OS0964",
+      "username": "circusfall",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/circusfall",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://peertube.tv/circusfall": {
+      "id": "OS0965",
+      "username": "circusfall",
+      "platform": "PeerTube",
+      "url": "https://peertube.tv/circusfall",
+      "title": "PeerTube.TV",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://giphy.com/circusfall": {
+      "id": "OS0966",
+      "username": "circusfall",
+      "platform": "Giphy",
+      "url": "https://giphy.com/circusfall",
+      "title": "GIFs - Find &amp; Share on GIPHY",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://mixer.com/circusfall": {
+      "id": "OS0967",
+      "username": "circusfall",
+      "platform": "Mixer",
+      "url": "https://mixer.com/circusfall",
+      "title": "Log in to Facebook | Facebook",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.twitch.tv/circusfall/videos?all=true": {
+      "id": "OS0968",
+      "username": "circusfall",
+      "platform": "Twitch VODs",
+      "url": "https://www.twitch.tv/circusfall/videos?all=true",
+      "title": "Twitch",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://vimeo.com/showcase/circusfall": {
+      "id": "OS0969",
+      "username": "circusfall",
+      "platform": "Vimeo Showcase",
+      "url": "https://vimeo.com/showcase/circusfall",
+      "title": "Showcase on Vimeo",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://circusfall.bandcamp.com/": {
+      "id": "OS0970",
+      "username": "circusfall",
+      "platform": "Bandcamp Labels",
+      "url": "https://circusfall.bandcamp.com/",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.itemfix.com/c/circusfall": {
+      "id": "OS0971",
+      "username": "circusfall",
+      "platform": "ItemFix",
+      "url": "https://www.itemfix.com/c/circusfall",
+      "title": "ItemFix - Channel:",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.furaffinity.net/gallery/circusfall": {
+      "id": "OS0972",
+      "username": "circusfall",
+      "platform": "Fur Affinity",
+      "url": "https://www.furaffinity.net/gallery/circusfall",
+      "title": "Artwork Gallery -- Fur Affinity [dot] net",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://tweakers.net/gallery/circusfall": {
+      "id": "OS0973",
+      "username": "circusfall",
+      "platform": "Tweakers",
+      "url": "https://tweakers.net/gallery/circusfall",
+      "title": "DPG Media Privacy Gate",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.paltalk.com/people/users/circusfall": {
+      "id": "OS0974",
+      "username": "circusfall",
+      "platform": "Paltalk",
+      "url": "https://www.paltalk.com/people/users/circusfall",
+      "title": "Chat Room Member on Paltalk",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://niftygateway.com/profile/circusfall": {
+      "id": "OS0975",
+      "username": "circusfall",
+      "platform": "Niftygateway",
+      "url": "https://niftygateway.com/profile/circusfall",
+      "title": "circusfall does not exits on Nifty Gateway",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.wishlistr.com/circusfall/": {
+      "id": "OS0976",
+      "username": "circusfall",
+      "platform": "Wishlistr",
+      "url": "https://www.wishlistr.com/circusfall/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.old-games.ru/forum/members/?username=circusfall": {
+      "id": "OS0977",
+      "username": "circusfall",
+      "platform": "Old-games",
+      "url": "https://www.old-games.ru/forum/members/?username=circusfall",
+      "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | \u0424\u043e\u0440\u0443\u043c Old-Games.RU. \u0412\u0441\u0451 \u043e \u0441\u0442\u0430\u0440\u044b\u0445 \u0438\u0433\u0440\u0430\u0445",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.younow.com/circusfall/": {
+      "id": "OS0978",
+      "username": "circusfall",
+      "platform": "YouNow",
+      "url": "https://www.younow.com/circusfall/",
+      "title": "YouNow",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://www.1001tracklists.com/user/circusfall/index.html": {
+      "id": "OS0979",
+      "username": "circusfall",
+      "platform": "1001tracklists",
+      "url": "https://www.1001tracklists.com/user/circusfall/index.html",
+      "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+      "status": 206,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://cssbattle.dev/player/circusfall": {
+      "id": "OS0980",
+      "username": "circusfall",
+      "platform": "CSSBattle",
+      "url": "https://cssbattle.dev/player/circusfall",
+      "title": "CSSBattle",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://profile.codersrank.io/user/circusfall/": {
+      "id": "OS0981",
+      "username": "circusfall",
+      "platform": "Coders Rank",
+      "url": "https://profile.codersrank.io/user/circusfall/",
+      "title": "circusfall&#x27;s CodersRank profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://dumpor.com/v/circusfall": {
+      "id": "OS0982",
+      "username": "circusfall",
+      "platform": "Dumpor",
+      "url": "https://dumpor.com/v/circusfall",
+      "title": "circusfall  Watch instagram stories and profile anonymous",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://arhrock.info/forum/members/?username=circusfall": {
+      "id": "OS0983",
+      "username": "circusfall",
+      "platform": "Arhrock",
+      "url": "https://arhrock.info/forum/members/?username=circusfall",
+      "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | ArhRock Forum",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    "circusfall|https://maga-chat.com/circusfall": {
+      "id": "OS0984",
+      "username": "circusfall",
+      "platform": "Maga-Chat",
+      "url": "https://maga-chat.com/circusfall",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
     }
   },
-  "last_hunt": "2026-11-22T18:18:48Z",
+  "last_hunt": "2026-11-23T00:32:24Z",
   "last_target": null,
-  "last_target_index": 7
+  "last_target_index": 8
 }

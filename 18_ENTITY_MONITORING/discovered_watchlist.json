@@ -2600,6 +2600,66 @@
     "first_seen": "2026-11-22T18:29:02Z"
   },
   {
+    "id": "W1624",
+    "name": "YouTube handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1625",
+    "name": "Tumblr handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1626",
+    "name": "GETTR handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1627",
+    "name": "Nextdoor handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1628",
+    "name": "Sina Weibo (Mobile) handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1629",
+    "name": "Weibo handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
     "id": "W163",
     "name": "ForumEvaveda handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -2610,6 +2670,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1630",
+    "name": "Dice handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1631",
+    "name": "Xbox handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1632",
+    "name": "Neopets handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1633",
+    "name": "Bandcamp handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1634",
+    "name": "YouTube Music handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1635",
+    "name": "Giphy handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1636",
+    "name": "Mixer handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1637",
+    "name": "Bandcamp Labels handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1638",
+    "name": "Tweakers handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1639",
+    "name": "Niftygateway handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
     "id": "W164",
     "name": "diorama.ru handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -2618,6 +2778,26 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1640",
+    "name": "Coders Rank handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
+  },
+  {
+    "id": "W1641",
+    "name": "Dumpor handle cluster (circusfall)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-23T00:45:02Z"
   },
   {
     "id": "W165",

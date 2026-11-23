@@ -201,5 +201,47 @@
     "detail": "New source URLs discovered.",
     "count": 2167,
     "delta": 1
+  },
+  {
+    "date": "2026-11-23T00:45:01Z",
+    "type": "source discovery",
+    "detail": "New source URLs discovered.",
+    "count": 2210,
+    "delta": 43
+  },
+  {
+    "date": "2026-11-23T00:45:01Z",
+    "type": "OSINT collection",
+    "detail": "New StyxNet OSINT findings collected.",
+    "count": 984,
+    "delta": 44
+  },
+  {
+    "date": "2026-11-23T00:45:01Z",
+    "type": "area discovery",
+    "detail": "New platform surfaces mapped.",
+    "count": 1393,
+    "delta": 44
+  },
+  {
+    "date": "2026-11-23T00:45:01Z",
+    "type": "claim discovery",
+    "detail": "New potential claims identified.",
+    "count": 851,
+    "delta": 19
+  },
+  {
+    "date": "2026-11-23T00:45:01Z",
+    "type": "watchlist discovery",
+    "detail": "New watch leads identified.",
+    "count": 831,
+    "delta": 18
+  },
+  {
+    "date": "2026-11-23T00:45:01Z",
+    "type": "migration detection",
+    "detail": "New platform surface changes detected.",
+    "count": 809,
+    "delta": 1
   }
 ]

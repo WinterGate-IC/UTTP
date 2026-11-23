@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "WinterGateIC Entity Intelligence",
-    "updated": "2026-11-22 23:15 UTC",
+    "updated": "2026-11-23 05:15 UTC",
     "scope": "Group-level entity monitoring. No usernames, account IDs, invite links, victim data, or private identifiers.",
     "entity_count": 31,
     "area_rows": 200,
     "area_platforms": 20,
     "source_count": 91,
     "claim_count": 44,
-    "potential_claim_count": 832,
+    "potential_claim_count": 851,
     "watchlist_count": 12,
-    "discovered_area_count": 1349,
-    "discovered_watchlist_count": 813,
+    "discovered_area_count": 1393,
+    "discovered_watchlist_count": 831,
     "discovered_tactic_count": 294,
-    "discovery_event_count": 29,
+    "discovery_event_count": 35,
     "privacy": "No target list. Areas are platforms/surfaces, not people. Handles are leads, not identities.",
     "learning_model": "Rule-based adaptive scoring from confidence, source density, tactical indicators, area footprint, and evolution timeline. Not a predictive AI model and not a claim of future certainty."
   },
@@ -7579,6 +7579,78 @@
       "first_seen": "2026-11-22T18:29:02Z"
     },
     {
+      "id": "P1652",
+      "claim": "Potential UTTP-linked handle observed: circusfall on YouTube (https://www.youtube.com/@circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.youtube.com/@circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1653",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Tumblr (https://www.tumblr.com/blog/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.tumblr.com/blog/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1654",
+      "claim": "Potential UTTP-linked handle observed: circusfall on GETTR (https://gettr.com/user/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://gettr.com/user/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1655",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Nextdoor (https://nextdoor.com/profile/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://nextdoor.com/profile/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1656",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Sina Weibo (Mobile) (https://m.weibo.cn/u/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://m.weibo.cn/u/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1657",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Weibo (https://weibo.com/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://weibo.com/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1658",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Dice (https://www.dice.com/profile/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.dice.com/profile/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1659",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Xbox (https://www.xbox.com/en-US/play/user/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.xbox.com/en-US/play/user/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
       "id": "P166",
       "claim": "Potential UTTP-linked handle observed: uttp on ForumEvaveda (http://forum.evaveda.com/memberlist.php?username=uttp)",
       "type": "potential",
@@ -7588,6 +7660,96 @@
       "first_seen": "2026-11-22T17:21:25Z"
     },
     {
+      "id": "P1660",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Neopets (https://www.neopets.com/userlookup.phtml?user=circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.neopets.com/userlookup.phtml?user=circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1661",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Bandcamp (https://circusfall.bandcamp.com)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://circusfall.bandcamp.com",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1662",
+      "claim": "Potential UTTP-linked handle observed: circusfall on YouTube Music (https://music.youtube.com/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://music.youtube.com/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1663",
+      "claim": "Potential UTTP-linked handle observed: circusfall on YouTube (https://www.youtube.com/user/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://www.youtube.com/user/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1664",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Giphy (https://giphy.com/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://giphy.com/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1665",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Mixer (https://mixer.com/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://mixer.com/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1666",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Bandcamp Labels (https://circusfall.bandcamp.com/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://circusfall.bandcamp.com/",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1667",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Tweakers (https://tweakers.net/gallery/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://tweakers.net/gallery/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1668",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Niftygateway (https://niftygateway.com/profile/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://niftygateway.com/profile/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
+      "id": "P1669",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Coders Rank (https://profile.codersrank.io/user/circusfall/)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://profile.codersrank.io/user/circusfall/",
+      "first_seen": "2026-11-23T00:45:01Z"
+    },
+    {
       "id": "P167",
       "claim": "Potential UTTP-linked handle observed: uttp on diorama.ru (https://diorama.ru/forum/memberlist.php?mode=viewprofile&u=uttp)",
       "type": "potential",
@@ -7595,6 +7757,15 @@
       "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
       "source": "https://diorama.ru/forum/memberlist.php?mode=viewprofile&u=uttp",
       "first_seen": "2026-11-22T17:21:25Z"
+    },
+    {
+      "id": "P1670",
+      "claim": "Potential UTTP-linked handle observed: circusfall on Dumpor (https://dumpor.com/v/circusfall)",
+      "type": "potential",
+      "confidence": "D/S",
+      "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+      "source": "https://dumpor.com/v/circusfall",
+      "first_seen": "2026-11-23T00:45:01Z"
     },
     {
       "id": "P168",
@@ -12795,6 +12966,48 @@
       "detail": "New source URLs discovered.",
       "count": 2167,
       "delta": 1
+    },
+    {
+      "date": "2026-11-23T00:45:01Z",
+      "type": "source discovery",
+      "detail": "New source URLs discovered.",
+      "count": 2210,
+      "delta": 43
+    },
+    {
+      "date": "2026-11-23T00:45:01Z",
+      "type": "OSINT collection",
+      "detail": "New StyxNet OSINT findings collected.",
+      "count": 984,
+      "delta": 44
+    },
+    {
+      "date": "2026-11-23T00:45:01Z",
+      "type": "area discovery",
+      "detail": "New platform surfaces mapped.",
+      "count": 1393,
+      "delta": 44
+    },
+    {
+      "date": "2026-11-23T00:45:01Z",
+      "type": "claim discovery",
+      "detail": "New potential claims identified.",
+      "count": 851,
+      "delta": 19
+    },
+    {
+      "date": "2026-11-23T00:45:01Z",
+      "type": "watchlist discovery",
+      "detail": "New watch leads identified.",
+      "count": 831,
+      "delta": 18
+    },
+    {
+      "date": "2026-11-23T00:45:01Z",
+      "type": "migration detection",
+      "detail": "New platform surface changes detected.",
+      "count": 809,
+      "delta": 1
     }
   ],
   "discovered_tactics": [
@@ -13098,145 +13311,145 @@
       "name": "UTTP / UTube Troll Police",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "UTTP Empire / Nu-UTTP",
       "entity_id": "UTTP-EMPIRE",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "Circusfall faction",
       "entity_id": "CIRCUSFALL",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "OfficerSlappy faction / UTTP Forum",
       "entity_id": "OFFICERSLAPPY",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "DPOS / Degeneracy Police Order State",
       "entity_id": "DPOS",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "TYRANNY / RUTTP",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "Anti-Fandom Resistance (AFR)",
       "entity_id": "AFR",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "Bn0r Empire",
       "entity_id": "BN0R",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "Reddit Defence Force (RDF)",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "RDFPARTY",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "KKTK / KuKluxTrollKlan",
       "entity_id": "KKTK",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "YFGA",
       "entity_id": "YFGA",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "VGCP / VideoGameCartoonPolice",
       "entity_id": "VGCP",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "AFF / Anti Fandom Front",
       "entity_id": "AFF",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "AUTTP / Anti-UTTP",
       "entity_id": "AUTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "764",
       "entity_id": "764",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "Harm Nation",
       "entity_id": "HARMNATION",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "O9A / ONA",
       "entity_id": "O9A",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "Spawnism",
       "entity_id": "SPAWNISM",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "FPE-Police",
       "entity_id": "FPE-POLICE",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "FPE ecosystem",
       "entity_id": "FPE",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "TNM / The Militia",
       "entity_id": "TNM",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "148 / 1488",
       "entity_id": "148",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     },
     {
       "name": "Imperium of the Enclave / GRS",
       "entity_id": "ENCLAVE",
       "basis": "name_token",
-      "first_seen": "2026-11-22T23:15:02Z"
+      "first_seen": "2026-11-23T05:15:01Z"
     }
   ],
   "migration_events": [
@@ -18085,6 +18298,12 @@
     {
       "date": "2026-11-22T18:29:02Z",
       "platform": "pandora",
+      "change": "discovered_surface",
+      "detail": "Auto-discovered platform surface"
+    },
+    {
+      "date": "2026-11-23T00:45:01Z",
+      "platform": "hashnode",
       "change": "discovered_surface",
       "detail": "Auto-discovered platform surface"
     }
@@ -39162,6 +39381,734 @@
       ],
       "first_seen": "2026-11-22T18:18:48Z",
       "last_seen": "2026-11-22T18:18:48Z"
+    },
+    {
+      "id": "OS0941",
+      "username": "circusfall",
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/circusfall",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0942",
+      "username": "circusfall",
+      "platform": "Steam (Group)",
+      "url": "https://steamcommunity.com/groups/circusfall",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0943",
+      "username": "circusfall",
+      "platform": "Steam (by id)",
+      "url": "https://steamcommunity.com/profiles/circusfall",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0944",
+      "username": "circusfall",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/circusfall/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0945",
+      "username": "circusfall",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/circusfall",
+      "title": "Reddit",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0946",
+      "username": "circusfall",
+      "platform": "Twitch",
+      "url": "https://www.twitch.tv/circusfall",
+      "title": "Twitch",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0947",
+      "username": "circusfall",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@circusfall",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0948",
+      "username": "circusfall",
+      "platform": "Mixcloud",
+      "url": "https://www.mixcloud.com/circusfall/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0949",
+      "username": "circusfall",
+      "platform": "Hashnode",
+      "url": "https://hashnode.com/@circusfall",
+      "title": "User not found | Hashnode",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0950",
+      "username": "circusfall",
+      "platform": "Tumblr",
+      "url": "https://www.tumblr.com/blog/circusfall",
+      "title": "Register - Login",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0951",
+      "username": "circusfall",
+      "platform": "Truth Social",
+      "url": "https://truthsocial.com/@circusfall",
+      "title": "Truth Social",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0952",
+      "username": "circusfall",
+      "platform": "GETTR",
+      "url": "https://gettr.com/user/circusfall",
+      "title": "circusfall on GETTR - Profile and Posts",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0953",
+      "username": "circusfall",
+      "platform": "Nextdoor",
+      "url": "https://nextdoor.com/profile/circusfall",
+      "title": "Login - Nextdoor",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0954",
+      "username": "circusfall",
+      "platform": "Pixelfed",
+      "url": "https://pixelfed.org/circusfall",
+      "title": "Pixelfed - Decentralized social media",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0955",
+      "username": "circusfall",
+      "platform": "Sina Weibo (Mobile)",
+      "url": "https://m.weibo.cn/u/circusfall",
+      "title": "Sina Visitor System",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0956",
+      "username": "circusfall",
+      "platform": "Weibo",
+      "url": "https://weibo.com/circusfall",
+      "title": "Sina Visitor System",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0957",
+      "username": "circusfall",
+      "platform": "Dice",
+      "url": "https://www.dice.com/profile/circusfall",
+      "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0958",
+      "username": "circusfall",
+      "platform": "Xbox",
+      "url": "https://www.xbox.com/en-US/play/user/circusfall",
+      "title": "View circusfall&#x27;s profile | Xbox Cloud Gaming on  Xbox.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0959",
+      "username": "circusfall",
+      "platform": "OSRS Hiscores",
+      "url": "https://secure.runescape.com/m=hiscore_oldschool/hiscorepersonal?user1=circusfall",
+      "title": "RuneScape 2007 Server - Play Old School RS",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0960",
+      "username": "circusfall",
+      "platform": "Neopets",
+      "url": "https://www.neopets.com/userlookup.phtml?user=circusfall",
+      "title": "Neopets - Hi!",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0961",
+      "username": "circusfall",
+      "platform": "Bandcamp",
+      "url": "https://circusfall.bandcamp.com",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0962",
+      "username": "circusfall",
+      "platform": "Pandora",
+      "url": "https://www.pandora.com/profile/circusfall",
+      "title": "Pandora Radio for Mobile",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0963",
+      "username": "circusfall",
+      "platform": "YouTube Music",
+      "url": "https://music.youtube.com/circusfall",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0964",
+      "username": "circusfall",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/circusfall",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0965",
+      "username": "circusfall",
+      "platform": "PeerTube",
+      "url": "https://peertube.tv/circusfall",
+      "title": "PeerTube.TV",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0966",
+      "username": "circusfall",
+      "platform": "Giphy",
+      "url": "https://giphy.com/circusfall",
+      "title": "GIFs - Find &amp; Share on GIPHY",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0967",
+      "username": "circusfall",
+      "platform": "Mixer",
+      "url": "https://mixer.com/circusfall",
+      "title": "Log in to Facebook | Facebook",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0968",
+      "username": "circusfall",
+      "platform": "Twitch VODs",
+      "url": "https://www.twitch.tv/circusfall/videos?all=true",
+      "title": "Twitch",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0969",
+      "username": "circusfall",
+      "platform": "Vimeo Showcase",
+      "url": "https://vimeo.com/showcase/circusfall",
+      "title": "Showcase on Vimeo",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0970",
+      "username": "circusfall",
+      "platform": "Bandcamp Labels",
+      "url": "https://circusfall.bandcamp.com/",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0971",
+      "username": "circusfall",
+      "platform": "ItemFix",
+      "url": "https://www.itemfix.com/c/circusfall",
+      "title": "ItemFix - Channel:",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0972",
+      "username": "circusfall",
+      "platform": "Fur Affinity",
+      "url": "https://www.furaffinity.net/gallery/circusfall",
+      "title": "Artwork Gallery -- Fur Affinity [dot] net",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0973",
+      "username": "circusfall",
+      "platform": "Tweakers",
+      "url": "https://tweakers.net/gallery/circusfall",
+      "title": "DPG Media Privacy Gate",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0974",
+      "username": "circusfall",
+      "platform": "Paltalk",
+      "url": "https://www.paltalk.com/people/users/circusfall",
+      "title": "Chat Room Member on Paltalk",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0975",
+      "username": "circusfall",
+      "platform": "Niftygateway",
+      "url": "https://niftygateway.com/profile/circusfall",
+      "title": "circusfall does not exits on Nifty Gateway",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0976",
+      "username": "circusfall",
+      "platform": "Wishlistr",
+      "url": "https://www.wishlistr.com/circusfall/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0977",
+      "username": "circusfall",
+      "platform": "Old-games",
+      "url": "https://www.old-games.ru/forum/members/?username=circusfall",
+      "title": "Выдающиеся пользователи | Форум Old-Games.RU. Всё о старых играх",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0978",
+      "username": "circusfall",
+      "platform": "YouNow",
+      "url": "https://www.younow.com/circusfall/",
+      "title": "YouNow",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0979",
+      "username": "circusfall",
+      "platform": "1001tracklists",
+      "url": "https://www.1001tracklists.com/user/circusfall/index.html",
+      "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+      "status": 206,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0980",
+      "username": "circusfall",
+      "platform": "CSSBattle",
+      "url": "https://cssbattle.dev/player/circusfall",
+      "title": "CSSBattle",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0981",
+      "username": "circusfall",
+      "platform": "Coders Rank",
+      "url": "https://profile.codersrank.io/user/circusfall/",
+      "title": "circusfall&#x27;s CodersRank profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0982",
+      "username": "circusfall",
+      "platform": "Dumpor",
+      "url": "https://dumpor.com/v/circusfall",
+      "title": "circusfall  Watch instagram stories and profile anonymous",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0983",
+      "username": "circusfall",
+      "platform": "Arhrock",
+      "url": "https://arhrock.info/forum/members/?username=circusfall",
+      "title": "Выдающиеся пользователи | ArhRock Forum",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
+    },
+    {
+      "id": "OS0984",
+      "username": "circusfall",
+      "platform": "Maga-Chat",
+      "url": "https://maga-chat.com/circusfall",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-23T00:32:24Z",
+      "last_seen": "2026-11-23T00:32:24Z"
     }
   ],
   "strict_validation": {
@@ -39195,7 +40142,7 @@
     }
   },
   "monitor_feed": {
-    "updated": "2026-11-22T23:15:13Z",
+    "updated": "2026-11-23T05:15:12Z",
     "mode": "lightweight source watch",
     "urls_checked": 10,
     "results": [
@@ -39203,7 +40150,7 @@
         "status": 0,
         "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
         "content_type": "",
-        "elapsed_ms": 6183,
+        "elapsed_ms": 5111,
         "ok": false,
         "error": "The read operation timed out",
         "source_id": "S001",
@@ -39213,7 +40160,7 @@
         "status": 200,
         "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
         "content_type": "text/html",
-        "elapsed_ms": 87,
+        "elapsed_ms": 354,
         "ok": true,
         "source_id": "S003",
         "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -39222,7 +40169,7 @@
         "status": 200,
         "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
         "content_type": "application/pdf",
-        "elapsed_ms": 850,
+        "elapsed_ms": 822,
         "ok": true,
         "source_id": "S005",
         "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -39231,7 +40178,7 @@
         "status": 200,
         "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 153,
+        "elapsed_ms": 131,
         "ok": true,
         "source_id": "S013",
         "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -39240,7 +40187,7 @@
         "status": 200,
         "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 456,
+        "elapsed_ms": 455,
         "ok": true,
         "source_id": "S014",
         "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -39249,7 +40196,7 @@
         "status": 200,
         "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 499,
+        "elapsed_ms": 316,
         "ok": true,
         "source_id": "S021",
         "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -39267,7 +40214,7 @@
         "status": 200,
         "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
         "content_type": "application/pdf",
-        "elapsed_ms": 130,
+        "elapsed_ms": 114,
         "ok": true,
         "source_id": "S031",
         "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -39276,7 +40223,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 418,
+        "elapsed_ms": 595,
         "ok": true,
         "source_id": "S034",
         "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -39285,7 +40232,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 479,
+        "elapsed_ms": 452,
         "ok": true,
         "source_id": "S040",
         "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -39294,23 +40241,23 @@
     "tel_records": 34
   },
   "tel_intake": {
-    "updated": "2026-11-22T23:15:14Z",
+    "updated": "2026-11-23T05:15:12Z",
     "count": 0,
     "entries": []
   },
   "cold_storage": {
-    "updated": "2026-11-22T23:00:24.486909Z",
-    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261122T230024Z.json.gz",
+    "updated": "2026-11-23T05:00:25.962705Z",
+    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261123T050025Z.json.gz",
     "snapshot_bytes": 3337,
     "snapshots": 24,
-    "total_bytes": 80014,
+    "total_bytes": 80027,
     "github": "disabled",
     "tel_records": 34,
-    "raw_snapshot_bytes": 12027,
-    "bytes_saved": 8690,
+    "raw_snapshot_bytes": 12028,
+    "bytes_saved": 8691,
     "db": {
       "checked": true,
-      "page_count": 82,
+      "page_count": 90,
       "freelist_before": 0,
       "full_vacuum": false,
       "freelist_after": 0
@@ -39410,7 +40357,7 @@
   ],
   "tel_records": 34,
   "monitor": {
-    "updated": "2026-11-22 23:15 UTC",
+    "updated": "2026-11-23 05:15 UTC",
     "styxnet": {
       "raw_rows": 823,
       "exact_rows": 761,
@@ -39428,23 +40375,23 @@
     },
     "archive": {
       "manifest_files": 784,
-      "discovered_source_count": 2167,
+      "discovered_source_count": 2210,
       "rebrand_count": 24,
-      "migration_event_count": 808,
-      "discovered_area_count": 1349,
-      "potential_claim_count": 832,
-      "discovered_watchlist_count": 813,
+      "migration_event_count": 809,
+      "discovered_area_count": 1393,
+      "potential_claim_count": 851,
+      "discovered_watchlist_count": 831,
       "discovered_tactic_count": 294,
-      "discovery_event_count": 29,
+      "discovery_event_count": 35,
       "styxnet_profile_count": 767,
-      "osint_finding_count": 940,
-      "osint_exact_count": 882,
-      "osint_high_confidence_count": 446,
-      "osint_new_7d": 940,
-      "last_osint": "2026-11-22T18:18:48Z",
-      "new_sources_7d": 2167,
+      "osint_finding_count": 984,
+      "osint_exact_count": 926,
+      "osint_high_confidence_count": 465,
+      "osint_new_7d": 984,
+      "last_osint": "2026-11-23T00:32:24Z",
+      "new_sources_7d": 2210,
       "new_styxnet_profiles_7d": 767,
-      "last_discovery": "2026-11-22T23:15:02Z",
+      "last_discovery": "2026-11-23T05:15:01Z",
       "public_release_gb": 6,
       "entity_count": 31,
       "source_count": 91,
@@ -39452,11 +40399,11 @@
       "area_platforms": 20,
       "claim_count": 44,
       "watchlist_count": 12,
-      "evolution_events": 78,
+      "evolution_events": 84,
       "unique_tactics": 342
     },
     "monitor_feed": {
-      "updated": "2026-11-22T23:15:13Z",
+      "updated": "2026-11-23T05:15:12Z",
       "mode": "lightweight source watch",
       "urls_checked": 10,
       "results": [
@@ -39464,7 +40411,7 @@
           "status": 0,
           "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
           "content_type": "",
-          "elapsed_ms": 6183,
+          "elapsed_ms": 5111,
           "ok": false,
           "error": "The read operation timed out",
           "source_id": "S001",
@@ -39474,7 +40421,7 @@
           "status": 200,
           "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
           "content_type": "text/html",
-          "elapsed_ms": 87,
+          "elapsed_ms": 354,
           "ok": true,
           "source_id": "S003",
           "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -39483,7 +40430,7 @@
           "status": 200,
           "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
           "content_type": "application/pdf",
-          "elapsed_ms": 850,
+          "elapsed_ms": 822,
           "ok": true,
           "source_id": "S005",
           "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -39492,7 +40439,7 @@
           "status": 200,
           "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 153,
+          "elapsed_ms": 131,
           "ok": true,
           "source_id": "S013",
           "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -39501,7 +40448,7 @@
           "status": 200,
           "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 456,
+          "elapsed_ms": 455,
           "ok": true,
           "source_id": "S014",
           "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -39510,7 +40457,7 @@
           "status": 200,
           "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 499,
+          "elapsed_ms": 316,
           "ok": true,
           "source_id": "S021",
           "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -39528,7 +40475,7 @@
           "status": 200,
           "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
           "content_type": "application/pdf",
-          "elapsed_ms": 130,
+          "elapsed_ms": 114,
           "ok": true,
           "source_id": "S031",
           "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -39537,7 +40484,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 418,
+          "elapsed_ms": 595,
           "ok": true,
           "source_id": "S034",
           "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -39546,7 +40493,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 479,
+          "elapsed_ms": 452,
           "ok": true,
           "source_id": "S040",
           "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -39557,18 +40504,18 @@
     "tel_records": 34,
     "tel_intake": 0,
     "cold_storage": {
-      "updated": "2026-11-22T23:00:24.486909Z",
-      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261122T230024Z.json.gz",
+      "updated": "2026-11-23T05:00:25.962705Z",
+      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261123T050025Z.json.gz",
       "snapshot_bytes": 3337,
       "snapshots": 24,
-      "total_bytes": 80014,
+      "total_bytes": 80027,
       "github": "disabled",
       "tel_records": 34,
-      "raw_snapshot_bytes": 12027,
-      "bytes_saved": 8690,
+      "raw_snapshot_bytes": 12028,
+      "bytes_saved": 8691,
       "db": {
         "checked": true,
-        "page_count": 82,
+        "page_count": 90,
         "freelist_before": 0,
         "full_vacuum": false,
         "freelist_after": 0
@@ -39577,7 +40524,7 @@
     "overtime": {
       "mode": "rule-based scheduled refresh",
       "refresh_seconds": 30,
-      "last_refresh": "2026-11-22T23:15:24Z",
+      "last_refresh": "2026-11-23T05:15:23Z",
       "next_checks": [
         "offshoot survival",
         "platform removals",
