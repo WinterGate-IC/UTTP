@@ -8489,7 +8489,7 @@
   },
   "OFFICERSLAPPY|https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp": {
     "error": "Server disconnected without sending a response.",
-    "checked_at": "2026-11-24T05:15:13Z",
+    "checked_at": "2026-11-24T07:00:18Z",
     "url": "https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp"
   },
   "OFFICERSLAPPY|https://forum.gong.bg/memberlist.php?username=uttp": {
@@ -8893,7 +8893,7 @@
   },
   "UTTP|https://avtomarket.ru/u/uttp/": {
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)",
-    "checked_at": "2026-11-24T05:15:13Z",
+    "checked_at": "2026-11-24T07:00:18Z",
     "url": "https://avtomarket.ru/u/uttp/"
   },
   "UTTP|https://basescan.org/address/uttp": {
@@ -11310,7 +11310,7 @@
   },
   "UTTP|https://mirtesen.ru/people/UTTP/profile": {
     "error": "Server disconnected without sending a response.",
-    "checked_at": "2026-11-24T05:15:13Z",
+    "checked_at": "2026-11-24T07:00:18Z",
     "url": "https://mirtesen.ru/people/UTTP/profile"
   },
   "UTTP|https://www.paypal.com/paypalme/UTTP": {
@@ -13613,7 +13613,7 @@
   },
   "UTTP|https://trovo.live/s/UTTP": {
     "error": "[Errno -5] No address associated with hostname",
-    "checked_at": "2026-11-24T05:15:13Z",
+    "checked_at": "2026-11-24T07:00:18Z",
     "url": "https://trovo.live/s/UTTP"
   },
   "UTTP|https://truthsocial.com/@uttp": {
@@ -13654,7 +13654,7 @@
   },
   "UTTP|https://ultrasdiary.pl/u/uttp/": {
     "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ultrasdiary.pl'. (_ssl.c:992)",
-    "checked_at": "2026-11-24T05:15:13Z",
+    "checked_at": "2026-11-24T07:00:19Z",
     "url": "https://ultrasdiary.pl/u/uttp/"
   },
   "UTTP|https://tweakers.net/gallery/uttp": {
