@@ -22842,5 +22842,1436 @@
     ],
     "first_seen": "2026-11-23T19:18:47Z",
     "last_seen": "2026-11-23T19:18:47Z"
+  },
+  {
+    "id": "OS1364",
+    "username": "bn0r",
+    "platform": "Steam",
+    "url": "https://steamcommunity.com/id/bn0r",
+    "title": "Steam Community :: Bn0r",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1365",
+    "username": "bn0r",
+    "platform": "Steam (Group)",
+    "url": "https://steamcommunity.com/groups/bn0r",
+    "title": "Steam Community :: Error",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1366",
+    "username": "bn0r",
+    "platform": "Steam (by id)",
+    "url": "https://steamcommunity.com/profiles/bn0r",
+    "title": "Steam Community :: Error",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1367",
+    "username": "bn0r",
+    "platform": "Facebook",
+    "url": "https://www.facebook.com/bn0r",
+    "title": "Redirecting...",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1368",
+    "username": "bn0r",
+    "platform": "Reddit",
+    "url": "https://www.reddit.com/user/bn0r",
+    "title": "Reddit",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1369",
+    "username": "bn0r",
+    "platform": "Twitch",
+    "url": "https://www.twitch.tv/bn0r",
+    "title": "bn0r - Twitch",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1370",
+    "username": "bn0r",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@bn0r",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1371",
+    "username": "bn0r",
+    "platform": "Mixcloud",
+    "url": "https://www.mixcloud.com/bn0r/",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1372",
+    "username": "bn0r",
+    "platform": "DeviantArt",
+    "url": "https://www.deviantart.com/bn0r",
+    "title": "bn0r on DeviantArt",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1373",
+    "username": "bn0r",
+    "platform": "RuneScape",
+    "url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=bn0r",
+    "title": "Old School  Hiscores",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1374",
+    "username": "bn0r",
+    "platform": "Tumblr",
+    "url": "https://www.tumblr.com/blog/bn0r",
+    "title": "Register - Login",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1375",
+    "username": "bn0r",
+    "platform": "Truth Social",
+    "url": "https://truthsocial.com/@bn0r",
+    "title": "Truth Social",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1376",
+    "username": "bn0r",
+    "platform": "GETTR",
+    "url": "https://gettr.com/user/bn0r",
+    "title": "bn0r on GETTR - Profile and Posts",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1377",
+    "username": "bn0r",
+    "platform": "Pixelfed",
+    "url": "https://pixelfed.org/bn0r",
+    "title": "Pixelfed - Decentralized social media",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1378",
+    "username": "bn0r",
+    "platform": "Nextdoor",
+    "url": "https://nextdoor.com/profile/bn0r",
+    "title": "Login - Nextdoor",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1379",
+    "username": "bn0r",
+    "platform": "Weibo",
+    "url": "https://weibo.com/bn0r",
+    "title": "Sina Visitor System",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1380",
+    "username": "bn0r",
+    "platform": "Dice",
+    "url": "https://www.dice.com/profile/bn0r",
+    "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1381",
+    "username": "bn0r",
+    "platform": "Codewars",
+    "url": "https://www.codewars.com/users/bn0r",
+    "title": "bn0r | Codewars",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1382",
+    "username": "bn0r",
+    "platform": "Xbox",
+    "url": "https://www.xbox.com/en-US/play/user/bn0r",
+    "title": "Play\u200a\u2009XBOX",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1383",
+    "username": "bn0r",
+    "platform": "GOG",
+    "url": "https://www.gog.com/u/bn0r",
+    "title": "Bn0r&#039;s profile on GOG.com",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1384",
+    "username": "bn0r",
+    "platform": "Rockstar Social Club",
+    "url": "https://socialclub.rockstargames.com/member/bn0r",
+    "title": "Rockstar Games",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1385",
+    "username": "bn0r",
+    "platform": "Chess.com",
+    "url": "https://www.chess.com/member/bn0r",
+    "title": "bn0r - Chess Profile - Chess.com",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1386",
+    "username": "bn0r",
+    "platform": "osu!",
+    "url": "https://osu.ppy.sh/users/bn0r",
+    "title": "Bn0r\u202c \u00b7 player info\u202c | \u202dosu!\u202c",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1387",
+    "username": "bn0r",
+    "platform": "Hypixel",
+    "url": "https://hypixel.net/player/bn0r",
+    "title": "Bn0r | Hypixel Forums",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1388",
+    "username": "bn0r",
+    "platform": "Bandcamp",
+    "url": "https://bn0r.bandcamp.com",
+    "title": "Signup | Bandcamp",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1389",
+    "username": "bn0r",
+    "platform": "YouTube Music",
+    "url": "https://music.youtube.com/bn0r",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1390",
+    "username": "bn0r",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/bn0r",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1391",
+    "username": "bn0r",
+    "platform": "Kick",
+    "url": "https://kick.com/bn0r",
+    "title": "bn0r Live Stream - Watch Live on KICK",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1392",
+    "username": "bn0r",
+    "platform": "PeerTube",
+    "url": "https://peertube.tv/bn0r",
+    "title": "PeerTube.TV",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1393",
+    "username": "bn0r",
+    "platform": "Giphy",
+    "url": "https://giphy.com/bn0r",
+    "title": "Bn0r GIFs - Find &amp; Share on GIPHY",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1394",
+    "username": "bn0r",
+    "platform": "Snapchat",
+    "url": "https://www.snapchat.com/add/bn0r",
+    "title": "biancs (@biancaanortee) | Snapchat Stories, Spotlight &amp; Lenses",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1395",
+    "username": "bn0r",
+    "platform": "Vimeo Showcase",
+    "url": "https://vimeo.com/showcase/bn0r",
+    "title": "Showcase \u5728 Vimeo \u4e0a",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1396",
+    "username": "bn0r",
+    "platform": "Bandcamp Labels",
+    "url": "https://bn0r.bandcamp.com/",
+    "title": "Signup | Bandcamp",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1397",
+    "username": "bn0r",
+    "platform": "StackOverflow",
+    "url": "https://stackoverflow.com/users/filter?search=bn0r",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1398",
+    "username": "bn0r",
+    "platform": "DeviantART",
+    "url": "https://bn0r.deviantart.com",
+    "title": "bn0r on DeviantArt",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1399",
+    "username": "bn0r",
+    "platform": "ItemFix",
+    "url": "https://www.itemfix.com/c/bn0r",
+    "title": "ItemFix - Channel:",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1400",
+    "username": "bn0r",
+    "platform": "Fur Affinity",
+    "url": "https://www.furaffinity.net/gallery/bn0r",
+    "title": "Artwork Gallery -- Fur Affinity [dot] net",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1401",
+    "username": "bn0r",
+    "platform": "Tweakers",
+    "url": "https://tweakers.net/gallery/bn0r",
+    "title": "DPG Media Privacy Gate",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1402",
+    "username": "bn0r",
+    "platform": "Paltalk",
+    "url": "https://www.paltalk.com/people/users/bn0r",
+    "title": "Chat Room Member on Paltalk",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1403",
+    "username": "bn0r",
+    "platform": "Niftygateway",
+    "url": "https://niftygateway.com/profile/bn0r",
+    "title": "bn0r does not exits on Nifty Gateway",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1404",
+    "username": "bn0r",
+    "platform": "Wishlistr",
+    "url": "https://www.wishlistr.com/bn0r/",
+    "title": "One moment, please...",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1405",
+    "username": "bn0r",
+    "platform": "YouNow",
+    "url": "https://www.younow.com/bn0r/",
+    "title": "YouNow",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1406",
+    "username": "bn0r",
+    "platform": "Old-games",
+    "url": "https://www.old-games.ru/forum/members/?username=bn0r",
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | \u0424\u043e\u0440\u0443\u043c Old-Games.RU. \u0412\u0441\u0451 \u043e \u0441\u0442\u0430\u0440\u044b\u0445 \u0438\u0433\u0440\u0430\u0445",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1407",
+    "username": "bn0r",
+    "platform": "1001tracklists",
+    "url": "https://www.1001tracklists.com/user/bn0r/index.html",
+    "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+    "status": 206,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1408",
+    "username": "bn0r",
+    "platform": "CSSBattle",
+    "url": "https://cssbattle.dev/player/bn0r",
+    "title": "CSSBattle",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1409",
+    "username": "bn0r",
+    "platform": "Coders Rank",
+    "url": "https://profile.codersrank.io/user/bn0r/",
+    "title": "bn0r&#x27;s CodersRank profile",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "title",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1410",
+    "username": "bn0r",
+    "platform": "Dumpor",
+    "url": "https://dumpor.com/v/bn0r",
+    "title": "bn0r  Watch instagram stories and profile anonymous",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1411",
+    "username": "bn0r",
+    "platform": "Arhrock",
+    "url": "https://arhrock.info/forum/members/?username=bn0r",
+    "title": "\u0412\u044b\u0434\u0430\u044e\u0449\u0438\u0435\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 | ArhRock Forum",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1412",
+    "username": "bn0r",
+    "platform": "Bandlab",
+    "url": "https://www.bandlab.com/api/v1.3/users/bn0r",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1413",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Brazil",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=br",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1414",
+    "username": "bn0r",
+    "platform": "OP.GG LoL North America",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=na",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1415",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Middle East",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=me",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1416",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Europe Nordic & East",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=eune",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1417",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Europe West",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=euw",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1418",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Oceania",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=oce",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1419",
+    "username": "bn0r",
+    "platform": "OP.GG LoL LAN",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=lan",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1420",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Korea",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=kr",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1421",
+    "username": "bn0r",
+    "platform": "OP.GG LoL LAS",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=las",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1422",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Japan",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=jp",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1423",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Russia",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=ru",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1424",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Phillippines",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=ph",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1425",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Turkey",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=tr",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1426",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Taiwan",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=tw",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1427",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Vietnam",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=vn",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1428",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Singapore",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=sg",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1429",
+    "username": "bn0r",
+    "platform": "OP.GG LoL Thailand",
+    "url": "https://op.gg/lol/summoners/search?q=bn0r&region=th",
+    "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1430",
+    "username": "bn0r",
+    "platform": "Dota2",
+    "url": "https://dota2.ru/forum/search?type=user&keywords=bn0r&sort_by=username",
+    "title": "\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \"bn0r\"",
+    "status": 200,
+    "confidence": 100,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "title",
+      "meta",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1431",
+    "username": "bn0r",
+    "platform": "Lolchess",
+    "url": "https://lolchess.gg/profile/na/bn0r",
+    "title": "TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1432",
+    "username": "bn0r",
+    "platform": "Plug.DJ",
+    "url": "https://plug.dj/@/bn0r",
+    "title": "Sign in \u30fb Cloudflare Access",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1433",
+    "username": "bn0r",
+    "platform": "Radiokot",
+    "url": "https://www.radiokot.ru/forum/search.php?keywords=&terms=all&author=bn0r",
+    "title": "\u0424\u043e\u0440\u0443\u043c \u0420\u0430\u0434\u0438\u043e\u041a\u043e\u0442 - \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1434",
+    "username": "bn0r",
+    "platform": "Yelp (by id)",
+    "url": "https://www.yelp.com/user_details?userid=bn0r",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1435",
+    "username": "bn0r",
+    "platform": "phpbbguru.net",
+    "url": "https://www.phpbbguru.net/community/memberlist.php?mode=viewprofile&u=bn0r",
+    "title": "phpBB Guru - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0443\u0441\u0441\u043a\u0430\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0444\u043e\u0440\u0443\u043c\u0430 phpBB - \u0412\u0445\u043e\u0434",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1436",
+    "username": "bn0r",
+    "platform": "rec.poker",
+    "url": "https://rec.poker/author/bn0r/",
+    "title": "One moment, please...",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1437",
+    "username": "bn0r",
+    "platform": "WhatsApp",
+    "url": "https://wa.me/bn0r",
+    "title": "Share on WhatsApp",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1438",
+    "username": "bn0r",
+    "platform": "Viber",
+    "url": "https://viber.com/bn0r",
+    "title": "Viber Account Page",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1439",
+    "username": "bn0r",
+    "platform": "Something Awful",
+    "url": "https://forums.somethingawful.com/member.php?u=bn0r",
+    "title": "Something happened - The Something Awful Forums",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1440",
+    "username": "bn0r",
+    "platform": "Etherscan",
+    "url": "https://etherscan.io/address/bn0r",
+    "title": "Ethereum Account (Invalid Address)",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1441",
+    "username": "bn0r",
+    "platform": "OpenSea",
+    "url": "https://opensea.io/bn0r",
+    "title": "",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1442",
+    "username": "bn0r",
+    "platform": "MapMyRun",
+    "url": "https://www.mapmyrun.com/athlete/bn0r",
+    "title": "MapMyRun",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1443",
+    "username": "bn0r",
+    "platform": "MapMyRide",
+    "url": "https://www.mapmyride.com/athlete/bn0r",
+    "title": "MapMyRide",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1444",
+    "username": "bn0r",
+    "platform": "MapMyWalk",
+    "url": "https://www.mapmywalk.com/athlete/bn0r",
+    "title": "MapMyWalk",
+    "status": 200,
+    "confidence": 70,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1445",
+    "username": "bn0r",
+    "platform": "1x",
+    "url": "https://1x.com/member/bn0r",
+    "title": "1x.com \u2022 In Pursuit of the Sublime",
+    "status": 200,
+    "confidence": 45,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1446",
+    "username": "bn0r",
+    "platform": "Life of Pix",
+    "url": "https://www.lifeofpix.com/bn0r",
+    "title": "Life of Pix",
+    "status": 200,
+    "confidence": 55,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1447",
+    "username": "bn0r",
+    "platform": "Audible",
+    "url": "https://www.audible.com/member/bn0r",
+    "title": "Audible | Luister audioboeken, hoorspelen & podcasts",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1448",
+    "username": "bn0r",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/profile/bn0r",
+    "title": "| Profile",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
+  },
+  {
+    "id": "OS1449",
+    "username": "bn0r",
+    "platform": "Google Scholar",
+    "url": "https://scholar.google.com/citations?user=bn0r",
+    "title": "",
+    "status": 200,
+    "confidence": 80,
+    "search_type": "exact",
+    "similar_username": "",
+    "detection_in": [
+      "url",
+      "page"
+    ],
+    "first_seen": "2026-11-24T01:33:19Z",
+    "last_seen": "2026-11-24T01:33:19Z"
   }
 ]

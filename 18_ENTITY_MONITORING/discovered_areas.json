@@ -15424,5 +15424,599 @@
     "confidence": "D/S",
     "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
     "first_seen": "2026-11-23T19:30:01Z"
+  },
+  {
+    "id": "A_D1715",
+    "platform": "Steam",
+    "surface_url": "https://steamcommunity.com/id/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1716",
+    "platform": "Steam (Group)",
+    "surface_url": "https://steamcommunity.com/groups/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1717",
+    "platform": "Steam (by id)",
+    "surface_url": "https://steamcommunity.com/profiles/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1718",
+    "platform": "Facebook",
+    "surface_url": "https://www.facebook.com/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1719",
+    "platform": "Reddit",
+    "surface_url": "https://www.reddit.com/user/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1720",
+    "platform": "Twitch",
+    "surface_url": "https://www.twitch.tv/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1721",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/@bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1722",
+    "platform": "Mixcloud",
+    "surface_url": "https://www.mixcloud.com/bn0r/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1723",
+    "platform": "DeviantArt",
+    "surface_url": "https://www.deviantart.com/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1724",
+    "platform": "RuneScape",
+    "surface_url": "https://secure.runescape.com/m=hiscore_oldschool/overall?user1=bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1725",
+    "platform": "Tumblr",
+    "surface_url": "https://www.tumblr.com/blog/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1726",
+    "platform": "Truth Social",
+    "surface_url": "https://truthsocial.com/@bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1727",
+    "platform": "GETTR",
+    "surface_url": "https://gettr.com/user/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1728",
+    "platform": "Pixelfed",
+    "surface_url": "https://pixelfed.org/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1729",
+    "platform": "Nextdoor",
+    "surface_url": "https://nextdoor.com/profile/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1730",
+    "platform": "Weibo",
+    "surface_url": "https://weibo.com/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1731",
+    "platform": "Dice",
+    "surface_url": "https://www.dice.com/profile/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1732",
+    "platform": "Codewars",
+    "surface_url": "https://www.codewars.com/users/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1733",
+    "platform": "Xbox",
+    "surface_url": "https://www.xbox.com/en-US/play/user/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1734",
+    "platform": "GOG",
+    "surface_url": "https://www.gog.com/u/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1735",
+    "platform": "Rockstar Social Club",
+    "surface_url": "https://socialclub.rockstargames.com/member/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1736",
+    "platform": "Chess.com",
+    "surface_url": "https://www.chess.com/member/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1737",
+    "platform": "osu!",
+    "surface_url": "https://osu.ppy.sh/users/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1738",
+    "platform": "Hypixel",
+    "surface_url": "https://hypixel.net/player/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1739",
+    "platform": "Bandcamp",
+    "surface_url": "https://bn0r.bandcamp.com",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1740",
+    "platform": "YouTube Music",
+    "surface_url": "https://music.youtube.com/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1741",
+    "platform": "YouTube",
+    "surface_url": "https://www.youtube.com/user/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1742",
+    "platform": "Kick",
+    "surface_url": "https://kick.com/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1743",
+    "platform": "PeerTube",
+    "surface_url": "https://peertube.tv/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1744",
+    "platform": "Giphy",
+    "surface_url": "https://giphy.com/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1745",
+    "platform": "Snapchat",
+    "surface_url": "https://www.snapchat.com/add/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1746",
+    "platform": "Vimeo Showcase",
+    "surface_url": "https://vimeo.com/showcase/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1747",
+    "platform": "Bandcamp Labels",
+    "surface_url": "https://bn0r.bandcamp.com/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1748",
+    "platform": "DeviantART",
+    "surface_url": "https://bn0r.deviantart.com",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1749",
+    "platform": "ItemFix",
+    "surface_url": "https://www.itemfix.com/c/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1750",
+    "platform": "Fur Affinity",
+    "surface_url": "https://www.furaffinity.net/gallery/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1751",
+    "platform": "Tweakers",
+    "surface_url": "https://tweakers.net/gallery/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1752",
+    "platform": "Paltalk",
+    "surface_url": "https://www.paltalk.com/people/users/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1753",
+    "platform": "Niftygateway",
+    "surface_url": "https://niftygateway.com/profile/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1754",
+    "platform": "Wishlistr",
+    "surface_url": "https://www.wishlistr.com/bn0r/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1755",
+    "platform": "YouNow",
+    "surface_url": "https://www.younow.com/bn0r/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1756",
+    "platform": "Old-games",
+    "surface_url": "https://www.old-games.ru/forum/members/?username=bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1757",
+    "platform": "1001tracklists",
+    "surface_url": "https://www.1001tracklists.com/user/bn0r/index.html",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1758",
+    "platform": "CSSBattle",
+    "surface_url": "https://cssbattle.dev/player/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1759",
+    "platform": "Coders Rank",
+    "surface_url": "https://profile.codersrank.io/user/bn0r/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1760",
+    "platform": "Dumpor",
+    "surface_url": "https://dumpor.com/v/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1761",
+    "platform": "Arhrock",
+    "surface_url": "https://arhrock.info/forum/members/?username=bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1762",
+    "platform": "Bandlab",
+    "surface_url": "https://www.bandlab.com/api/v1.3/users/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1763",
+    "platform": "Lolchess",
+    "surface_url": "https://lolchess.gg/profile/na/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1764",
+    "platform": "Plug.DJ",
+    "surface_url": "https://plug.dj/@/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1765",
+    "platform": "Yelp (by id)",
+    "surface_url": "https://www.yelp.com/user_details?userid=bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1766",
+    "platform": "phpbbguru.net",
+    "surface_url": "https://www.phpbbguru.net/community/memberlist.php?mode=viewprofile&u=bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1767",
+    "platform": "rec.poker",
+    "surface_url": "https://rec.poker/author/bn0r/",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1768",
+    "platform": "WhatsApp",
+    "surface_url": "https://wa.me/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1769",
+    "platform": "Viber",
+    "surface_url": "https://viber.com/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1770",
+    "platform": "Something Awful",
+    "surface_url": "https://forums.somethingawful.com/member.php?u=bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1771",
+    "platform": "Etherscan",
+    "surface_url": "https://etherscan.io/address/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1772",
+    "platform": "OpenSea",
+    "surface_url": "https://opensea.io/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1773",
+    "platform": "MapMyRun",
+    "surface_url": "https://www.mapmyrun.com/athlete/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1774",
+    "platform": "MapMyRide",
+    "surface_url": "https://www.mapmyride.com/athlete/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1775",
+    "platform": "MapMyWalk",
+    "surface_url": "https://www.mapmywalk.com/athlete/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1776",
+    "platform": "1x",
+    "surface_url": "https://1x.com/member/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1777",
+    "platform": "Life of Pix",
+    "surface_url": "https://www.lifeofpix.com/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1778",
+    "platform": "Audible",
+    "surface_url": "https://www.audible.com/member/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1779",
+    "platform": "Pluralsight",
+    "surface_url": "https://www.pluralsight.com/profile/bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "A_D1780",
+    "platform": "Google Scholar",
+    "surface_url": "https://scholar.google.com/citations?user=bn0r",
+    "status": "discovered",
+    "confidence": "D/S",
+    "why": "Auto-discovered from StyxNet OSINT; verify before citation.",
+    "first_seen": "2026-11-24T01:45:02Z"
   }
 ]

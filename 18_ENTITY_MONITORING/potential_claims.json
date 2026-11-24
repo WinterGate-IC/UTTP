@@ -4977,6 +4977,51 @@
     "first_seen": "2026-11-23T19:30:01Z"
   },
   {
+    "id": "P1905",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Steam (https://steamcommunity.com/id/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://steamcommunity.com/id/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1906",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Twitch (https://www.twitch.tv/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.twitch.tv/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1907",
+    "claim": "Potential UTTP-linked handle observed: bn0r on YouTube (https://www.youtube.com/@bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/@bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1908",
+    "claim": "Potential UTTP-linked handle observed: bn0r on DeviantArt (https://www.deviantart.com/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.deviantart.com/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1909",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Tumblr (https://www.tumblr.com/blog/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.tumblr.com/blog/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
     "id": "P191",
     "claim": "Potential UTTP-linked handle observed: uttp on Poembook (https://poembook.ru/any?query=uttp)",
     "type": "potential",
@@ -4984,6 +5029,96 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://poembook.ru/any?query=uttp",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1910",
+    "claim": "Potential UTTP-linked handle observed: bn0r on GETTR (https://gettr.com/user/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://gettr.com/user/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1911",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Nextdoor (https://nextdoor.com/profile/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://nextdoor.com/profile/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1912",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Weibo (https://weibo.com/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://weibo.com/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1913",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Dice (https://www.dice.com/profile/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.dice.com/profile/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1914",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Codewars (https://www.codewars.com/users/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.codewars.com/users/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1915",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Xbox (https://www.xbox.com/en-US/play/user/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.xbox.com/en-US/play/user/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1916",
+    "claim": "Potential UTTP-linked handle observed: bn0r on GOG (https://www.gog.com/u/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.gog.com/u/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1917",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Chess.com (https://www.chess.com/member/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.chess.com/member/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1918",
+    "claim": "Potential UTTP-linked handle observed: bn0r on osu! (https://osu.ppy.sh/users/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://osu.ppy.sh/users/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1919",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Hypixel (https://hypixel.net/player/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://hypixel.net/player/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
   },
   {
     "id": "P192",
@@ -4995,6 +5130,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1920",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Bandcamp (https://bn0r.bandcamp.com)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://bn0r.bandcamp.com",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1921",
+    "claim": "Potential UTTP-linked handle observed: bn0r on YouTube Music (https://music.youtube.com/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://music.youtube.com/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1922",
+    "claim": "Potential UTTP-linked handle observed: bn0r on YouTube (https://www.youtube.com/user/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.youtube.com/user/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1923",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Kick (https://kick.com/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://kick.com/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1924",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Giphy (https://giphy.com/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://giphy.com/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1925",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Snapchat (https://www.snapchat.com/add/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.snapchat.com/add/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1926",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Bandcamp Labels (https://bn0r.bandcamp.com/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://bn0r.bandcamp.com/",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1927",
+    "claim": "Potential UTTP-linked handle observed: bn0r on DeviantART (https://bn0r.deviantart.com)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://bn0r.deviantart.com",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1928",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Tweakers (https://tweakers.net/gallery/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://tweakers.net/gallery/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1929",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Niftygateway (https://niftygateway.com/profile/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://niftygateway.com/profile/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
     "id": "P193",
     "claim": "Potential UTTP-linked handle observed: uttp on GotovimDoma (https://gotovim-doma.ru/forum/search.php?keywords=&terms=all&author=uttp)",
     "type": "potential",
@@ -5004,6 +5229,96 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "P1930",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Coders Rank (https://profile.codersrank.io/user/bn0r/)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://profile.codersrank.io/user/bn0r/",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1931",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Dumpor (https://dumpor.com/v/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dumpor.com/v/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1932",
+    "claim": "Potential UTTP-linked handle observed: bn0r on OP.GG LoL Phillippines (https://op.gg/lol/summoners/search?q=bn0r&region=ph)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=bn0r&region=ph",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1933",
+    "claim": "Potential UTTP-linked handle observed: bn0r on OP.GG LoL Singapore (https://op.gg/lol/summoners/search?q=bn0r&region=sg)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=bn0r&region=sg",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1934",
+    "claim": "Potential UTTP-linked handle observed: bn0r on OP.GG LoL Thailand (https://op.gg/lol/summoners/search?q=bn0r&region=th)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://op.gg/lol/summoners/search?q=bn0r&region=th",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1935",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Dota2 (https://dota2.ru/forum/search?type=user&keywords=bn0r&sort_by=username)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://dota2.ru/forum/search?type=user&keywords=bn0r&sort_by=username",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1936",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Lolchess (https://lolchess.gg/profile/na/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://lolchess.gg/profile/na/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1937",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Plug.DJ (https://plug.dj/@/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://plug.dj/@/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1938",
+    "claim": "Potential UTTP-linked handle observed: bn0r on WhatsApp (https://wa.me/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://wa.me/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1939",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Viber (https://viber.com/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://viber.com/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
     "id": "P194",
     "claim": "Potential UTTP-linked handle observed: uttp on 650f.bike (https://650f.bike/members/uttp/)",
     "type": "potential",
@@ -5011,6 +5326,60 @@
     "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
     "source": "https://650f.bike/members/uttp/",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "P1940",
+    "claim": "Potential UTTP-linked handle observed: bn0r on MapMyRun (https://www.mapmyrun.com/athlete/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.mapmyrun.com/athlete/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1941",
+    "claim": "Potential UTTP-linked handle observed: bn0r on MapMyRide (https://www.mapmyride.com/athlete/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.mapmyride.com/athlete/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1942",
+    "claim": "Potential UTTP-linked handle observed: bn0r on MapMyWalk (https://www.mapmywalk.com/athlete/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.mapmywalk.com/athlete/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1943",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Audible (https://www.audible.com/member/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.audible.com/member/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1944",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Pluralsight (https://www.pluralsight.com/profile/bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://www.pluralsight.com/profile/bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "P1945",
+    "claim": "Potential UTTP-linked handle observed: bn0r on Google Scholar (https://scholar.google.com/citations?user=bn0r)",
+    "type": "potential",
+    "confidence": "D/S",
+    "basis": "Auto-discovered from StyxNet OSINT; not ownership-confirmed.",
+    "source": "https://scholar.google.com/citations?user=bn0r",
+    "first_seen": "2026-11-24T01:45:02Z"
   },
   {
     "id": "P195",

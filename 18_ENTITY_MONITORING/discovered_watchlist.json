@@ -5260,6 +5260,46 @@
     "first_seen": "2026-11-23T19:30:01Z"
   },
   {
+    "id": "W1866",
+    "name": "Steam handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1867",
+    "name": "Twitch handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1868",
+    "name": "YouTube handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1869",
+    "name": "DeviantArt handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
     "id": "W187",
     "name": "lightstalking.com handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -5268,6 +5308,106 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1870",
+    "name": "Tumblr handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1871",
+    "name": "GETTR handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1872",
+    "name": "Nextdoor handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1873",
+    "name": "Weibo handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1874",
+    "name": "Dice handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1875",
+    "name": "Codewars handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1876",
+    "name": "Xbox handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1877",
+    "name": "GOG handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1878",
+    "name": "Chess.com handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1879",
+    "name": "osu! handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
   },
   {
     "id": "W188",
@@ -5280,6 +5420,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1880",
+    "name": "Hypixel handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1881",
+    "name": "Bandcamp handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1882",
+    "name": "YouTube Music handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1883",
+    "name": "Kick handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1884",
+    "name": "Giphy handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1885",
+    "name": "Snapchat handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1886",
+    "name": "Bandcamp Labels handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1887",
+    "name": "Tweakers handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1888",
+    "name": "Niftygateway handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1889",
+    "name": "Coders Rank handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
     "id": "W189",
     "name": "ultrasdiary.pl handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -5290,6 +5530,106 @@
     "first_seen": "2026-11-22T17:21:25Z"
   },
   {
+    "id": "W1890",
+    "name": "Dumpor handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1891",
+    "name": "OP.GG LoL Phillippines handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1892",
+    "name": "OP.GG LoL Singapore handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1893",
+    "name": "OP.GG LoL Thailand handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1894",
+    "name": "Dota2 handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1895",
+    "name": "Lolchess handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1896",
+    "name": "Plug.DJ handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1897",
+    "name": "WhatsApp handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1898",
+    "name": "Viber handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1899",
+    "name": "MapMyRun handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
     "id": "W190",
     "name": "GotovimDoma handle cluster (uttp)",
     "type": "discovered handle cluster",
@@ -5298,6 +5638,56 @@
     "watch_indicators": "Auto-discovered from StyxNet OSINT.",
     "limits": "Public handle lead; not ownership-confirmed.",
     "first_seen": "2026-11-22T17:21:25Z"
+  },
+  {
+    "id": "W1900",
+    "name": "MapMyRide handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1901",
+    "name": "MapMyWalk handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1902",
+    "name": "Audible handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1903",
+    "name": "Pluralsight handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
+  },
+  {
+    "id": "W1904",
+    "name": "Google Scholar handle cluster (bn0r)",
+    "type": "discovered handle cluster",
+    "status": "intake",
+    "confidence": "D/S",
+    "watch_indicators": "Auto-discovered from StyxNet OSINT.",
+    "limits": "Public handle lead; not ownership-confirmed.",
+    "first_seen": "2026-11-24T01:45:02Z"
   },
   {
     "id": "W191",
