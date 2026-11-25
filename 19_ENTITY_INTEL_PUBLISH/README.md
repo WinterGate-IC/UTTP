@@ -1,6 +1,6 @@
 # Per-Entity Intelligence Mirror
 
-Last generated: 2026-11-25T11:17:02Z
+Last generated: 2026-11-25T17:17:02Z
 
 | Entity | Type | Status | Confidence | Folder |
 | --- | --- | --- | --- | --- |
